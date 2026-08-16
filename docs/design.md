@@ -147,18 +147,6 @@ Exit non-zero on unknown domain for `record`/`reject`/`mark` — silent no-ops h
 
 ```yaml
 sources:
-  - id: yc:W26
-    label: YC Winter 2026 — AI/infra/devtools
-  - id: yc:F25
-    label: YC Fall 2025 — AI/infra/devtools
-  - id: yc:S25
-    label: YC Summer 2025 — AI/infra/devtools
-  - id: yc:W25
-    label: YC Winter 2025 — AI/infra/devtools
-  - id: yc:F24
-    label: YC Fall 2024 — AI/infra/devtools
-  - id: yc:S24
-    label: YC Summer 2024 — AI/infra/devtools
   - id: theme:agent-infra
     label: Agent infrastructure and orchestration
   - id: theme:llm-eval
@@ -196,6 +184,10 @@ sources:
 ```
 
 Add sources over time. Adding a row is all it takes for the rotation to pick it up.
+
+No YC-batch sources on purpose — the goal is breadth across sectors/investors/boards,
+not a directory crawl of one accelerator. If YC alumni surface through a generic search,
+that's fine; there's just no dedicated source pointed at the YC company list.
 
 ---
 
