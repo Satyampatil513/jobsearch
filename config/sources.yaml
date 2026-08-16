@@ -1,0 +1,47 @@
+sources:
+  - id: yc:W26
+    label: YC Winter 2026 — AI/infra/devtools
+  - id: yc:F25
+    label: YC Fall 2025 — AI/infra/devtools
+  - id: yc:S25
+    label: YC Summer 2025 — AI/infra/devtools
+  - id: yc:W25
+    label: YC Winter 2025 — AI/infra/devtools
+  - id: yc:F24
+    label: YC Fall 2024 — AI/infra/devtools
+  - id: yc:S24
+    label: YC Summer 2024 — AI/infra/devtools
+  - id: theme:agent-infra
+    label: Agent infrastructure and orchestration
+  - id: theme:llm-eval
+    label: LLM eval and observability
+  - id: theme:memory-context
+    label: Memory and context systems
+  - id: theme:voice-ai
+    label: Voice AI
+  - id: theme:rag-docs
+    label: Document and RAG products
+  - id: vertical:edtech-ai
+    label: Applied AI — edtech
+  - id: vertical:healthtech-ai
+    label: Applied AI — healthtech
+  - id: vertical:legal-ai
+    label: Applied AI — legal and compliance
+  - id: vertical:sales-support-ai
+    label: Applied AI — sales and support
+  - id: vertical:fintech-ai
+    label: AI-first fintech
+  - id: investor:accel-seed
+    label: Accel seed-stage AI cheques
+  - id: investor:peak-xv-surge
+    label: Peak XV Surge AI cohort
+  - id: investor:antler-elevation
+    label: Antler / Elevation recent AI cheques
+  - id: board:wellfound-remote-ai
+    label: Wellfound — remote AI startups
+  - id: board:remoteok-ai
+    label: Remote OK — AI startups
+  - id: theme:iit-founders-global
+    label: IIT-founder-led AI startups in US and Europe
+  - id: recency:seed-90d
+    label: Seed rounds announced in the last 90 days
