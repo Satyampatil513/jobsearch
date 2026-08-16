@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# gitignored by default (Desktop task mode). If switching to a cloud Routine,
+# see docs/design.md Phase 4 — jobsearch.db must be committed instead.
+jobsearch.db
