@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
-# gitignored by default (Desktop task mode). If switching to a cloud Routine,
-# see docs/design.md Phase 4 — jobsearch.db must be committed instead.
-jobsearch.db
+# jobsearch.db is committed (not gitignored) because this project runs as a
+# cloud Routine — each run starts from a fresh clone, so state must persist
+# in the repo. See docs/design.md Phase 4.

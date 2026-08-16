@@ -370,16 +370,18 @@ Do not automate until this run is clean. An unattended pipeline producing plausi
 garbage is worse than no pipeline, because you will trust it.
 
 ### Phase 4 — Schedule
-Claude Desktop → Schedule → New local task. Prompt: `/pipeline run`, working folder set
-to the repo. Pick an off-minute (e.g. 8:07am) — the scheduler adds deterministic jitter
-and `:00` / `:30` drift most.
+Running as a cloud Routine (chosen over a Desktop scheduled task so it runs unattended
+without the laptop on): `jobsearch.db` is committed to the repo instead of gitignored,
+since each Routine run starts from a fresh clone with no local state carried over. Repo
+pushed to a private GitHub remote with push access enabled beyond `claude/`-prefixed
+branches. Scheduled daily via CronCreate — an explicit deviation from the original
+three-runs-a-week recommendation; worth watching the first week or two of runs closely
+given the scoring bug caught in the first supervised run.
 
-Start at three runs a week, not daily.
-
-Desktop tasks need the machine awake with the app open. If you want it running with the
-laptop shut, use a cloud Routine instead — but Routines start from a fresh clone with no
-state carried between runs, so `jobsearch.db` must be committed to the repo, and you
-must enable pushes beyond `claude/`-prefixed branches for that repo.
+(If ever moved to a Desktop scheduled task instead: Claude Desktop → Schedule → New
+local task, prompt `/pipeline run`, working folder set to the repo, off-minute pick like
+8:07am so the scheduler's deterministic jitter doesn't collide with `:00`/`:30` drift.
+Desktop tasks need the machine awake with the app open, unlike a Routine.)
 
 ### Phase 5 — Close the loop
 Wire up `mark --status applied` and `followups-due` so the same table tracks applications,
