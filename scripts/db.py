@@ -367,7 +367,8 @@ def followups_due(conn: sqlite3.Connection) -> list[dict]:
 def export_csv(conn: sqlite3.Connection, tiers: list[str], out_path: Path) -> int:
     placeholders = ",".join("?" * len(tiers))
     rows = conn.execute(
-        f"SELECT * FROM companies WHERE tier IN ({placeholders}) ORDER BY score DESC",
+        f"SELECT * FROM companies WHERE tier IN ({placeholders}) "
+        f"AND status IN ('enriched', 'applied') ORDER BY score DESC",
         tiers,
     ).fetchall()
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -387,7 +388,8 @@ def get_stats(conn: sqlite3.Connection) -> dict:
     by_tier = {
         r["tier"]: r["n"]
         for r in conn.execute(
-            "SELECT tier, COUNT(*) AS n FROM companies WHERE tier IS NOT NULL GROUP BY tier"
+            "SELECT tier, COUNT(*) AS n FROM companies "
+            "WHERE tier IS NOT NULL AND status IN ('enriched', 'applied') GROUP BY tier"
         )
     }
     sources = [dict(r) for r in conn.execute("SELECT * FROM search_log ORDER BY source ASC")]

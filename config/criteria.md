@@ -73,7 +73,13 @@ Litmus, GoComet, Invariant AI, Vela, Deployment.inc, Bolna.ai, WarpBuild.
 +5  founder from another IIT, BITS Pilani, IIIT Hyderabad, NIT Trichy/Warangal
 +5  headcount 10-20
 +8  USD-denominated remote role open to India
--15 remote_evidence inferred rather than stated
+-15 remote_evidence inferred rather than stated — applies ONLY when a genuine
+    signal (a)-(d) is present but had to be pieced together from indirect
+    language rather than a clean quote. It is NOT a way to enrich a company
+    that satisfies none of (a)-(d): e.g. a careers page that lists specific
+    countries (UK, Poland, Brazil, ...) without naming India/APAC or saying
+    worldwide/global is not evidence at all — that is a hard reject with
+    reason "no remote evidence", same as having no remote policy stated.
 
 ## Tiers
 A = 80+   B = 65-79   C = below 65

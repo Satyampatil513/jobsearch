@@ -229,6 +229,23 @@ def test_export_csv_writes_expected_rows(conn, tmp_path):
     assert "tierc.com" not in content
 
 
+def test_export_and_stats_exclude_rejected_companies_even_with_stale_tier(conn, tmp_path):
+    # a company that was enriched and scored, then later demoted back to
+    # rejected, must not leak into tier exports/stats via its leftover
+    # tier/score columns
+    db.enqueue(conn, "flipflop.ai", name="FlipFlop")
+    db.record(conn, "flipflop.ai", {"score": 70, "tier": "B"})
+    db.reject(conn, "flipflop.ai", reason="no remote evidence", recheck_in="90d")
+
+    out = tmp_path / "out.csv"
+    n = db.export_csv(conn, ["A", "B"], out)
+    assert n == 0
+    assert "flipflop.ai" not in out.read_text(encoding="utf-8")
+
+    stats = db.get_stats(conn)
+    assert stats["by_tier"].get("B", 0) == 0
+
+
 def test_init_is_idempotent(tmp_path):
     p = tmp_path / "reinit.db"
     c = db.get_connection(p)
