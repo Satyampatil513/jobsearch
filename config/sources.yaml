@@ -1,16 +1,52 @@
+# Source rotation for discovery. `stale-source` picks the least-recently-scanned one
+# each run, so every source gets fair coverage over time — adding a row is all it takes
+# to put a new angle into the rotation.
+#
+# Deliberately NO YC-batch sources: YC alumni surface through generic theme/vertical/
+# investor searches anyway, and dedicated yc:* sources would skew the rotation toward one
+# accelerator's directory. YC-backed is a +5 scoring modifier instead (config/criteria.md).
+#
+# Geography note: India is a co-primary target (see criteria.md), and India-based
+# companies need no remote evidence — so geo:* sources below convert to enriched rows at a
+# far higher rate than US-centric board sources, where most candidates die at the remote
+# gate. Keep the India-weighted sources well represented.
+
 sources:
+  # --- India-first: highest conversion, no remote-evidence gate ---
+  - id: geo:bangalore-ai
+    label: Bangalore AI startups hiring engineers
+  - id: geo:india-ai-seed
+    label: India AI startups, pre-seed to Series A, funded in last 12 months
+  - id: geo:india-ai-devtools
+    label: India-based AI devtools and infrastructure startups
+  - id: recency:india-funding-90d
+    label: Indian AI startups that raised in the last 90 days
+
+  # --- Alma mater / warm-intro network ---
+  - id: network:iit-mandi-founders
+    label: IIT Mandi alumni-founded startups (warm intro — highest reply rate)
+  - id: theme:iit-founders-global
+    label: IIT-founder-led AI startups in US and Europe
+
+  # --- Themes matching his shipped work ---
   - id: theme:agent-infra
     label: Agent infrastructure and orchestration
   - id: theme:llm-eval
     label: LLM eval and observability
   - id: theme:memory-context
     label: Memory and context systems
-  - id: theme:voice-ai
-    label: Voice AI
+  - id: theme:devtools-cli
+    label: AI devtools, CLI and developer-workflow startups (maps to CLAI)
   - id: theme:rag-docs
     label: Document and RAG products
+  - id: theme:voice-ai
+    label: Voice AI
+
+  # --- Verticals, edtech first (Rankit gives a real story) ---
   - id: vertical:edtech-ai
-    label: Applied AI — edtech
+    label: Applied AI — edtech and exam prep (strongest domain overlap)
+  - id: vertical:space-deeptech
+    label: Space and deep tech with software/AI core (CanSat + ISRO hook)
   - id: vertical:healthtech-ai
     label: Applied AI — healthtech
   - id: vertical:legal-ai
@@ -19,17 +55,23 @@ sources:
     label: Applied AI — sales and support
   - id: vertical:fintech-ai
     label: AI-first fintech
-  - id: investor:accel-seed
-    label: Accel seed-stage AI cheques
+
+  # --- Investor portfolios ---
   - id: investor:peak-xv-surge
     label: Peak XV Surge AI cohort
+  - id: investor:accel-seed
+    label: Accel seed-stage AI cheques
   - id: investor:antler-elevation
     label: Antler / Elevation recent AI cheques
+  - id: investor:blume-india-quotient
+    label: Blume / India Quotient / Kae recent AI cheques
+
+  # --- Job boards (US-heavy; lower conversion, keep but don't over-weight) ---
   - id: board:wellfound-remote-ai
     label: Wellfound — remote AI startups
   - id: board:remoteok-ai
     label: Remote OK — AI startups
-  - id: theme:iit-founders-global
-    label: IIT-founder-led AI startups in US and Europe
+
+  # --- Recency ---
   - id: recency:seed-90d
     label: Seed rounds announced in the last 90 days

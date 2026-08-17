@@ -124,6 +124,7 @@ CREATE TABLE IF NOT EXISTS companies (
     eng_lead_li     TEXT,
     recent_news     TEXT,
     outreach_flag   INTEGER DEFAULT 0,
+    outreach_contact TEXT,
     outreach_angle  TEXT,
     source_urls     TEXT,
 
@@ -157,8 +158,14 @@ RECORD_FIELDS = {
     "headcount", "hq_location", "remote_policy", "remote_evidence",
     "product_desc", "is_hiring", "open_roles", "min_experience",
     "careers_url", "job_links", "founder_li", "eng_lead_li", "recent_news",
-    "outreach_flag", "outreach_angle", "source_urls",
+    "outreach_flag", "outreach_contact", "outreach_angle", "source_urls",
 }
+
+# Columns added after the initial schema shipped. `CREATE TABLE IF NOT EXISTS` will not
+# add them to an existing jobsearch.db, so init runs these as an idempotent migration.
+MIGRATIONS = [
+    ("companies", "outreach_contact", "TEXT"),
+]
 
 EXPORT_COLUMNS = [
     "domain", "name", "tier", "score", "score_rationale",
@@ -166,7 +173,7 @@ EXPORT_COLUMNS = [
     "headcount", "hq_location", "remote_policy", "remote_evidence",
     "product_desc", "is_hiring", "open_roles", "min_experience",
     "careers_url", "job_links", "founder_li", "eng_lead_li", "recent_news",
-    "outreach_flag", "outreach_angle", "source_urls",
+    "outreach_flag", "outreach_contact", "outreach_angle", "source_urls",
     "discovered_via", "last_verified",
 ]
 
@@ -201,9 +208,23 @@ def parse_ttl(spec: Optional[str], default_permanent: bool = True) -> str:
 # Library functions — one per CLI command, testable without argparse/subprocess.
 # ---------------------------------------------------------------------------
 
+def apply_migrations(conn: sqlite3.Connection) -> list[str]:
+    """Add columns introduced after the initial schema. Idempotent."""
+    applied = []
+    for table, column, coltype in MIGRATIONS:
+        existing = {r["name"] for r in conn.execute(f"PRAGMA table_info({table})")}
+        if column not in existing:
+            conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {coltype}")
+            applied.append(f"{table}.{column}")
+    if applied:
+        conn.commit()
+    return applied
+
+
 def init_db(conn: sqlite3.Connection, sources_path: Optional[Path] = None) -> dict:
     conn.executescript(SCHEMA)
     conn.commit()
+    migrated = apply_migrations(conn)
 
     sources_path = sources_path or DEFAULT_SOURCES_PATH
     seeded = 0
@@ -220,7 +241,8 @@ def init_db(conn: sqlite3.Connection, sources_path: Optional[Path] = None) -> di
                 seeded += 1
         conn.commit()
 
-    return {"schema": "created", "sources_seeded": seeded, "sources_file_found": sources_path.exists()}
+    return {"schema": "created", "migrations_applied": migrated,
+            "sources_seeded": seeded, "sources_file_found": sources_path.exists()}
 
 
 def get_stale_sources(conn: sqlite3.Connection, n: int = 1, touch: bool = True) -> list[dict]:
@@ -352,6 +374,26 @@ def mark(conn: sqlite3.Connection, domain: str, status: Optional[str] = None,
     conn.commit()
 
 
+def requeue(conn: sqlite3.Connection, domains: Iterable[str]) -> list[str]:
+    """
+    Put rows back to 'candidate' so a later run re-evaluates them. For when the
+    criteria change underneath already-processed companies — a rejection reason
+    that is no longer valid, or an enrichment scored under an older rubric.
+    Research fields are left in place; the next run overwrites them.
+    """
+    done = []
+    for raw in domains:
+        d = _require_exists(conn, raw)
+        conn.execute(
+            "UPDATE companies SET status = 'candidate', reject_reason = NULL, "
+            "recheck_after = NULL WHERE domain = ?",
+            (d,),
+        )
+        done.append(d)
+    conn.commit()
+    return done
+
+
 def followups_due(conn: sqlite3.Connection) -> list[dict]:
     rows = conn.execute(
         """
@@ -423,19 +465,40 @@ def generate_report(conn: sqlite3.Connection) -> str:
         f"**{stats['by_status'].get('rejected', 0)}** rejected, "
         f"**{stats['by_status'].get('candidate', 0)}** still queued.",
         "",
+        "## Outreach queue — email these",
+        "",
+    ]
+    outreach = [r for r in ranked if r["outreach_flag"]]
+    if outreach:
+        lines.append("| Score | Company | Who to contact | Angle |")
+        lines.append("|---|---|---|---|")
+        for r in outreach:
+            lines.append(
+                f"| {_md_escape(r['score'])} | {_md_escape(r['name'] or r['domain'])} "
+                f"({_md_escape(r['domain'])}) | {_md_escape(r['outreach_contact'])} | "
+                f"{_md_escape(r['outreach_angle'])} |"
+            )
+    else:
+        lines.append("_No outreach targets flagged yet._")
+    lines += [
+        "",
         "## Ranked candidates",
         "",
     ]
     if ranked:
-        lines.append("| Tier | Score | Company | Domain | Sector | Remote evidence | Careers |")
-        lines.append("|---|---|---|---|---|---|---|")
+        lines.append("| Tier | Score | Company | Domain | Location | Headcount | Sector | Hiring | Careers |")
+        lines.append("|---|---|---|---|---|---|---|---|---|")
         for r in ranked:
-            careers = r["careers_url"] or ""
-            careers_cell = f"[link]({careers})" if careers and careers != "unknown" else "unknown"
+            careers = (r["careers_url"] or "").strip()
+            careers_cell = (
+                f"[link]({careers})"
+                if careers.startswith("http") else _md_escape(careers) or "unknown"
+            )
             lines.append(
                 f"| {_md_escape(r['tier'])} | {_md_escape(r['score'])} | "
                 f"{_md_escape(r['name'] or r['domain'])} | {_md_escape(r['domain'])} | "
-                f"{_md_escape(r['sector'])} | {_md_escape(r['remote_evidence'])} | {careers_cell} |"
+                f"{_md_escape(r['hq_location'])} | {_md_escape(r['headcount'])} | "
+                f"{_md_escape(r['sector'])} | {_md_escape(r['is_hiring'])} | {careers_cell} |"
             )
     else:
         lines.append("_No companies enriched yet._")
@@ -507,6 +570,9 @@ def build_parser() -> argparse.ArgumentParser:
     sp.add_argument("--contact")
     sp.add_argument("--followup-in")
 
+    sp = sub.add_parser("requeue")
+    sp.add_argument("domains", nargs="*")
+
     sub.add_parser("followups-due")
 
     sp = sub.add_parser("export")
@@ -557,6 +623,10 @@ def main(argv: Optional[list[str]] = None) -> int:
             mark(conn, args.domain, status=args.status, contact=args.contact,
                  followup_in=args.followup_in)
             print(json.dumps({"domain": normalize_domain(args.domain), "status": "marked"}))
+
+        elif args.command == "requeue":
+            done = requeue(conn, _read_domains_arg(args.domains))
+            print(json.dumps({"requeued": done, "count": len(done)}))
 
         elif args.command == "followups-due":
             print(json.dumps(followups_due(conn)))

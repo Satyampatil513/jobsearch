@@ -259,6 +259,63 @@ def test_report_includes_ranked_and_rejected(conn):
     assert "1 |" in md  # rejection count
 
 
+def test_migration_adds_missing_column_to_existing_db(tmp_path):
+    # simulate a db created before outreach_contact existed
+    p = tmp_path / "old.db"
+    c = db.get_connection(p)
+    legacy_schema = db.SCHEMA.replace("    outreach_contact TEXT,\n", "")
+    c.executescript(legacy_schema)
+    c.commit()
+    assert "outreach_contact" not in {
+        r["name"] for r in c.execute("PRAGMA table_info(companies)")
+    }
+
+    applied = db.apply_migrations(c)
+    assert "companies.outreach_contact" in applied
+    assert "outreach_contact" in {
+        r["name"] for r in c.execute("PRAGMA table_info(companies)")
+    }
+    assert db.apply_migrations(c) == []  # idempotent
+    c.close()
+
+
+def test_report_surfaces_outreach_queue(conn):
+    db.enqueue(conn, "reachme.ai", name="ReachMe")
+    db.record(conn, "reachme.ai", {
+        "score": 84, "tier": "A", "outreach_flag": 1,
+        "outreach_contact": "Asha R, cofounder — asha@reachme.ai",
+        "outreach_angle": "Just raised seed; lead with Rankit.",
+    })
+    db.enqueue(conn, "skipme.ai", name="SkipMe")
+    db.record(conn, "skipme.ai", {"score": 40, "tier": "C", "outreach_flag": 0})
+
+    md = db.generate_report(conn)
+    assert "Outreach queue" in md
+    assert "asha@reachme.ai" in md
+    outreach_section = md.split("## Ranked candidates")[0]
+    assert "SkipMe" not in outreach_section  # unflagged rows stay out of the queue
+
+
+def test_requeue_returns_rows_to_the_batch(conn):
+    db.enqueue(conn, "wrongly-rejected.ai", name="WronglyRejected")
+    db.reject(conn, "wrongly-rejected.ai", reason="no remote evidence", recheck_in="90d")
+    assert "wrongly-rejected.ai" not in [r["domain"] for r in db.next_batch(conn, 50)]
+
+    db.requeue(conn, ["wrongly-rejected.ai"])
+
+    row = conn.execute(
+        "SELECT * FROM companies WHERE domain = 'wrongly-rejected.ai'"
+    ).fetchone()
+    assert row["status"] == "candidate"
+    assert row["reject_reason"] is None
+    assert "wrongly-rejected.ai" in [r["domain"] for r in db.next_batch(conn, 50)]
+
+
+def test_requeue_unknown_domain_raises(conn):
+    with pytest.raises(db.UnknownDomainError):
+        db.requeue(conn, ["never-seen.com"])
+
+
 def test_init_is_idempotent(tmp_path):
     p = tmp_path / "reinit.db"
     c = db.get_connection(p)

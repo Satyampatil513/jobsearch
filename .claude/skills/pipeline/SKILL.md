@@ -39,8 +39,16 @@ exclusions and scoring.
 5. `python scripts/db.py next-batch --limit 15`.
 6. For each company in the batch:
    - Apply hard exclusions first — cheapest check, do it before any research.
-   - Check remote evidence next. No evidence → reject, do not research further.
+   - Establish geography next. **India-based → skip the remote gate entirely**, it does not
+     apply (he will relocate to Bangalore). Only for companies with no India presence,
+     check remote evidence; no evidence → reject, do not research further.
+   - **"No open roles right now" is NOT a rejection.** Cold outreach is the primary
+     channel — a promising 5-25 person company with no posting is a normal target. Enrich
+     it and flag it for outreach.
    - Research the remaining fields. Score using the rubric. Set tier.
+   - Identify the best human to email and fill `outreach_contact` and `outreach_angle`.
+     Set `outreach_flag=1` for anything worth writing to (most enriched rows). Never
+     invent an email address — if none is findable, give the LinkedIn and say so.
    - Write a JSON file per company and call `record`, or call `reject` with a reason
      and TTL.
 7. `python scripts/db.py export --tier A,B --out exports/tier-ab.csv`
@@ -61,6 +69,6 @@ exclusions and scoring.
     this session ends and every subsequent run re-researches it from scratch.
 
 ## Report format
-Keep the summary under 15 lines. Name new Tier A companies and outreach flags
-explicitly — those are the only things needing attention today. If the push failed,
-that goes first, before anything else.
+Keep the summary under 15 lines. Lead with the **new outreach targets** — name, who to
+contact, and the one-line angle — since those are what he acts on. Then new Tier A
+companies. If the push failed, that goes first, before anything else.
