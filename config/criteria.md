@@ -92,9 +92,14 @@ inbox, which is what makes cold email work.
 
 ## Already contacted — reject permanently, reason "already in pipeline"
 Emergent, GetCrux, LiteLLM, Synth, Infisical, ProhostAI, WarpBuild, Alaan, Wifi Dabba,
-Coulomb AI, Pixxel, Cyble, Manufact, AgentCollect, Synthio Labs, Berry, Evam Labs,
-WisdomAI, Sarvam, Cardboard, Litmus, GoComet, Invariant AI, Vela, Deployment.inc,
-Bolna.ai.
+Coulomb AI, Pixxel, Cyble, Manufact (YC S25), AgentCollect, Synthio Labs, Berry,
+Evam Labs, WisdomAI, Sarvam, Cardboard, Litmus, GoComet, Invariant AI, Vela,
+Deployment.inc, Bolna.ai.
+
+Match on the actual company, not a fuzzy name resemblance. Specifically: **Manufex
+(manufex.co) is a DIFFERENT company from Manufact (YC S25)** and is a live candidate —
+do not reject it as already-contacted. When a name is merely similar, check the domain
+before excluding; a wrongly excluded company is invisible forever.
 
 ## Scoring — base 100
 Weighted for cold outreach: "can I reach a decision-maker who might say yes to a 1-YOE
