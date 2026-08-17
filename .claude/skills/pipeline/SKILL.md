@@ -49,8 +49,15 @@ exclusions and scoring.
    (including you, next run) sees results without querying the db directly.
 9. `python scripts/db.py stats` and report: sources scanned, new discovered, enriched,
    rejected with reason breakdown, new Tier A companies by name, outreach flags raised.
-10. `git add -A && git commit -m "pipeline run <date>"`
+10. `git add -A && git commit -m "pipeline run <date>"`, then `git push`. If the push
+    fails, do not retry in a loop and do not fall back to pushing a different branch —
+    that just hides work nobody will see. Stop, and say so explicitly and first thing in
+    your report: the commit exists locally, the push failed, and why (paste the actual
+    git error). This matters more than anything else in the report, because unpushed
+    work vanishes when this session ends and every subsequent run re-researches it from
+    scratch.
 
 ## Report format
 Keep the summary under 15 lines. Name new Tier A companies and outreach flags
-explicitly — those are the only things needing attention today.
+explicitly — those are the only things needing attention today. If the push failed,
+that goes first, before anything else.
