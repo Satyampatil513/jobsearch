@@ -2,14 +2,23 @@
 
 _Last updated 2026-08-17._
 
-**19** companies seen total — **2** enriched, **13** rejected, **4** still queued.
+**51** companies seen total — **11** enriched, **19** rejected, **21** still queued.
 
 ## Ranked candidates
 
 | Tier | Score | Company | Domain | Sector | Remote evidence | Careers |
 |---|---|---|---|---|---|---|
+| B | 73.0 | Lamatic.ai | lamatic.ai | AI-native infrastructure and devtools | 'Applied AI Engineer at Lamatic.ai • India • Miami • United States • Remote (Work from Home)' (Wellfound) — fully remote setup stated in job… | [link](https://wellfound.com/company/lamatic/jobs) |
+| B | 67.0 | Collinear.ai | collinear.ai | AI-native infrastructure and devtools | 'MTS - Product (India) at Collinear.ai • India • Remote (Work from Home)' (Wellfound), salary $150k-$300k — direct India + Remote quote | [link](https://wellfound.com/company/collinear-ai/jobs) |
 | B | 66.0 | Careerflow.ai | careerflow.ai | Applied AI in a vertical | "The company has a remote first working arrangement, though positions may require working from an office up to 3 days a week in Delhi, India… | [link](https://jobs.techstars.com/companies/careerflow/jobs/61909475-ai-engineer-llm-agents-delhi-in-person) |
+| B | 66.0 | Hexo | hexolabs.com | AI-native infrastructure and devtools | 'AI/ML Engineer (Forward Deployed Engineer) at Hexo • San Francisco • Bengaluru • Remote (Work from Home)' (Wellfound); ynos.in lists Hexo a… | [link](https://wellfound.com/company/hexo-4) |
+| C | 60.0 | Glacis | glacis.ai | Applied AI in a vertical | Company listed with locations in Singapore, San Francisco, and Ho Chi Minh City (BuiltIn/Crunchbase); Founding Software Engineer - Agentic A… | [link](https://wellfound.com/company/glacis) |
+| C | 59.0 | EaseOps | easeops.ai | Applied AI in a vertical | HQ Bengaluru, India (Tracxn); job posting 'Backend Engineer (Gen AI) at EaseOps • Bengaluru • Remote (Work from Home)' (Wellfound) — India-b… | [link](https://easeops.io) |
+| C | 58.0 | Manufex | manufex.co | Applied AI in a vertical | 'Founding Engineer - AI/ML at Manufex • San Francisco • Bengaluru • Remote (Work from Home)' (Wellfound posting) — Bengaluru explicitly list… | [link](https://wellfound.com/company/manufex/jobs) |
 | C | 52.0 | Salesforge | salesforge.ai | AI-first SaaS / B2B | "Work from anywhere in the world" - stated as a benefit on salesforge.ai/careers | [link](https://www.salesforge.ai/careers) |
+| C | 52.0 | TAZMIC | tazmic.com | Applied AI in a vertical | Job title 'Founding Full-Stack AI Engineer (Remote / Bengaluru)' with locations Bengaluru, Chennai, Remote (Work from Home) (Wellfound) — In… | unknown |
+| C | 47.0 | Steps AI | stepsai.co | AI-native infrastructure and devtools | HQ Hyderabad, India (Tracxn) — India-based startup, secondary target satisfied directly | [link](https://wellfound.com/company/steps-ai) |
+| C | 45.0 | Thatch | thatch.ai | AI-first SaaS/B2B | 'With employees in more than one country... Gusto EOR, powered by Remote, enables Thatch to easily hire, pay, and manage the best talent — r… | [link](https://thatch.com/jobs) |
 
 ## Rejections by reason
 
@@ -17,9 +26,15 @@ _Last updated 2026-08-17._
 |---|---|
 | no remote evidence | 7 |
 | web3-only | 1 |
+| stage/size exceeds criteria: Series C, 232 employees, no APAC/India remote signal (LA/NYC/Toronto only) | 1 |
+| requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | no remote evidence - careers page lists only UK/Canada/Poland/Brazil/Argentina as remote locations, no India/APAC or worldwide/global langua… | 1 |
+| no remote evidence (stealth-mode startup, remote scope unconfirmed, no APAC/India signal found) | 1 |
 | no remote evidence (official careers page: all roles on-site NYC/SF, contradicts secondary-source claim) | 1 |
+| no remote evidence (US-remote role only, no worldwide/APAC/India signal found) | 1 |
 | no remote evidence (US-only: 'anywhere in the US') | 1 |
+| no remote evidence (Mumbai in-office preferred per company hiring page, not Bangalore or remote-India) | 1 |
+| no remote evidence (Europe-scoped hiring, no worldwide/APAC/India signal found) | 1 |
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
 
@@ -28,7 +43,7 @@ _Last updated 2026-08-17._
 | Source | Label | Last scanned | Runs | New found |
 |---|---|---|---|---|
 | board:remoteok-ai | Remote OK — AI startups | 2026-08-17 | 1 | 19 |
-| board:wellfound-remote-ai | Wellfound — remote AI startups | never | 0 | 0 |
+| board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-08-17 | 1 | 32 |
 | investor:accel-seed | Accel seed-stage AI cheques | never | 0 | 0 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | never | 0 | 0 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | never | 0 | 0 |
