@@ -396,6 +396,68 @@ def get_stats(conn: sqlite3.Connection) -> dict:
     return {"by_status": by_status, "by_tier": by_tier, "sources": sources}
 
 
+def _md_escape(val: Any) -> str:
+    s = "" if val is None else str(val)
+    s = s.replace("|", "\\|").replace("\n", " ")
+    return s[:140] + "…" if len(s) > 140 else s
+
+
+def generate_report(conn: sqlite3.Connection) -> str:
+    ranked = conn.execute(
+        "SELECT * FROM companies WHERE status IN ('enriched', 'applied') "
+        "ORDER BY score DESC"
+    ).fetchall()
+    reasons = conn.execute(
+        "SELECT reject_reason, COUNT(*) AS n FROM companies WHERE status = 'rejected' "
+        "GROUP BY reject_reason ORDER BY n DESC"
+    ).fetchall()
+    stats = get_stats(conn)
+
+    lines = [
+        "# Job search pipeline — results",
+        "",
+        f"_Last updated {today()}._",
+        "",
+        f"**{sum(stats['by_status'].values())}** companies seen total — "
+        f"**{stats['by_status'].get('enriched', 0) + stats['by_status'].get('applied', 0)}** enriched, "
+        f"**{stats['by_status'].get('rejected', 0)}** rejected, "
+        f"**{stats['by_status'].get('candidate', 0)}** still queued.",
+        "",
+        "## Ranked candidates",
+        "",
+    ]
+    if ranked:
+        lines.append("| Tier | Score | Company | Domain | Sector | Remote evidence | Careers |")
+        lines.append("|---|---|---|---|---|---|---|")
+        for r in ranked:
+            careers = r["careers_url"] or ""
+            careers_cell = f"[link]({careers})" if careers and careers != "unknown" else "unknown"
+            lines.append(
+                f"| {_md_escape(r['tier'])} | {_md_escape(r['score'])} | "
+                f"{_md_escape(r['name'] or r['domain'])} | {_md_escape(r['domain'])} | "
+                f"{_md_escape(r['sector'])} | {_md_escape(r['remote_evidence'])} | {careers_cell} |"
+            )
+    else:
+        lines.append("_No companies enriched yet._")
+    lines += ["", "## Rejections by reason", ""]
+    if reasons:
+        lines.append("| Reason | Count |")
+        lines.append("|---|---|")
+        for r in reasons:
+            lines.append(f"| {_md_escape(r['reject_reason'])} | {r['n']} |")
+    else:
+        lines.append("_No rejections yet._")
+    lines += ["", "## Sources scanned", ""]
+    lines.append("| Source | Label | Last scanned | Runs | New found |")
+    lines.append("|---|---|---|---|---|")
+    for s in stats["sources"]:
+        lines.append(
+            f"| {_md_escape(s['source'])} | {_md_escape(s['label'])} | "
+            f"{_md_escape(s['last_run_at']) or 'never'} | {s['runs']} | {s['found_new']} |"
+        )
+    return "\n".join(lines) + "\n"
+
+
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
@@ -453,6 +515,9 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("stats")
 
+    sp = sub.add_parser("report")
+    sp.add_argument("--out", type=Path, help="write Markdown here instead of stdout")
+
     return p
 
 
@@ -503,6 +568,14 @@ def main(argv: Optional[list[str]] = None) -> int:
 
         elif args.command == "stats":
             print(json.dumps(get_stats(conn)))
+
+        elif args.command == "report":
+            md = generate_report(conn)
+            if args.out:
+                args.out.write_text(md, encoding="utf-8")
+                print(f"Wrote report to {args.out}")
+            else:
+                print(md)
 
         return 0
 

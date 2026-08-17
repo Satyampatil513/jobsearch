@@ -246,6 +246,19 @@ def test_export_and_stats_exclude_rejected_companies_even_with_stale_tier(conn, 
     assert stats["by_tier"].get("B", 0) == 0
 
 
+def test_report_includes_ranked_and_rejected(conn):
+    db.enqueue(conn, "goodco.ai", name="GoodCo")
+    db.record(conn, "goodco.ai", {"score": 91, "tier": "A", "sector": "agent infra"})
+    db.enqueue(conn, "noco.com", name="NoCo")
+    db.reject(conn, "noco.com", reason="no remote evidence", recheck_in="90d")
+
+    md = db.generate_report(conn)
+    assert "goodco.ai" in md
+    assert "GoodCo" in md
+    assert "no remote evidence" in md
+    assert "1 |" in md  # rejection count
+
+
 def test_init_is_idempotent(tmp_path):
     p = tmp_path / "reinit.db"
     c = db.get_connection(p)
