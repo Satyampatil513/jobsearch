@@ -1,20 +1,23 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-22._
+_Last updated 2026-08-21._
 
-**98** companies seen total — **40** enriched, **54** rejected, **4** still queued.
+**109** companies seen total — **45** enriched, **64** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
 | Score | Company | Who to contact | Angle |
 |---|---|---|---|
+| 88.0 | Composio (composio.dev) | Palash Kala <palash@composio.dev> (high confidence — public commit author in github.com/ComposioHQ/composio, core team member per his Linked… | 1) Open with the $25M Series A (Lightspeed, closed March 2025) and their active Bengaluru hiring for the Integrations Engineer / MTS roles, … |
 | 86.0 | Vecton AI (vecton.ai) | Himanshu Goyal, co-founder - LinkedIn: https://www.linkedin.com/in/himanshu-goyal-106381134/ (no email found) | Open with the Aug 2026 pre-seed raise (Zeropearl VC) and that they're building a 'Forward Deployed Engineer' delivery model for BFSI AI syst… |
 | 84.0 | Lytmus AI (lytmus.ai) | Ajit Kumar, Co-Founder & CEO — LinkedIn: https://in.linkedin.com/in/ajit-kumar-0216454 (no public email found) | 1) Signal: Rs 5 Cr pre-seed round (June 2026) with explosive early traction - 17,000+ NEET students in 45 days - and 60% of funds earmarked … |
 | 82.0 | Vorflux (vorflux.com) | Prasanna Sankar, Founder/CEO — LinkedIn: https://www.linkedin.com/in/myprasanna/ (no public email found) | 1) Signal: Vorflux just emerged from stealth (July 15, 2026) with a $15M YC/Peak XV-led seed to build an AI 'autopilot' for software enginee… |
 | 81.0 | Uncharted AI (uncharted-ai.com) | Pradyumna Vyshnav, CEO - LinkedIn: https://www.linkedin.com/in/pradyumna-vyshnav-88461b62/ (no email found, do not invent one) | Open with their DARPA/USGS competition win and Antler India backing. Ask about founding backend/AI engineer roles given the very early stage… |
 | 79.0 | Dodge AI (getdodge.ai) | Rebhav Bharadwaj, Co-Founder & CEO — LinkedIn: https://www.linkedin.com/in/rebhavbharadwaj/ (no public email found) | 1) Signal: selection for the Accel Atoms x Google AI Futures Fund 2026 AI Cohort (one of only 5 from 4,000+ applicants), announced March 202… |
+| 79.0 | Athina AI (athina.ai) | Vivek Aditya <vivek@athina.ai> or Cody Christ <cody@athina.ai> (both high confidence — public commit authors in github.com/athina-ai/athina-… | 1) Open with athina-evals' open-source traction and their Bangalore office / YC W23 backing. 2) Ask whether they have any open engineering r… |
 | 75.0 | Presentations.AI (presentations.ai) | Ravi Kasthuri, Co-founder & CTO - LinkedIn https://www.linkedin.com/in/ravi-kasthuri-7654b114/. (Sumanth Raghavendra, CEO, is the alternate … | Open with their move to build the 'world's first AI presentation agent' (stated goal since the Jan 2025 Accel-led $3M seed) and the fact the… |
 | 75.0 | Redacto (redacto.ai) | Amit Kumar, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/sainiamit (no email found, do not invent one) | Open with their PeerCapital/Antler India seed and the DPDP Act tailwind driving urgent demand. Ask about backend/AI engineering roles since … |
+| 74.0 | OrbitShift (orbitshift.ai) | Swapnil Saykar (CTO/Co-founder) via LinkedIn https://www.linkedin.com/in/swapnilsaykar/ — no verified email found in this pass; do not have … | 1) Open with the IIT Madras connection (Saurabh Mishra) as a warm-ish opener, plus the $7M Surge/Stellaris seed. 2) Ask about any backend/AI… |
 | 73.0 | Lamatic.ai (lamatic.ai) | Aman Sharma, Co-Founder & CTO - LinkedIn headline literally reads 'Hiring!'. LinkedIn: https://www.linkedin.com/in/amanintech/. Email patter… | 1. Open with: Aman Sharma's LinkedIn headline says 'Hiring!' for Lamatic.ai, a pre-seed GenAI orchestration/middleware platform (12-15 peopl… |
 | 73.0 | Sandgarden (sandgarden.com) | Elizabeth Zalman, Co-Founder & CEO — email: liz@sandgarden.com (sourced via RocketReach profile tied to her Sandgarden role; LinkedIn not co… | 1) Open with the Layer acquisition (April 2026) expanding the Doc Holiday engineering team, or the Sr AI Engineer opening — seen via their c… |
 | 72.0 | Alchemic (thealchemic.com) | Sreenadh Narayanan, co-founder - LinkedIn: https://www.linkedin.com/in/sreenadhn/ (no email found) | Open with the AJVC pre-seed round and the 5x revenue growth signal - explicit engineering-team expansion. Ask about backend/full-stack AI en… |
@@ -35,9 +38,11 @@ _Last updated 2026-08-22._
 | 66.0 | Edysor.ai (edysor.ai) | Atishaya Jain, Co-Founder & CEO — LinkedIn: https://in.linkedin.com/in/atishayaj (no public email found) | 1) Signal: their fresh pre-seed round (2026) earmarked partly for scaling the engineering team. 2) Ask about: Backend/AI Engineer role build… |
 | 65.0 | ZuAI (zuai.co) | Anubhav Mishra, co-founder - LinkedIn: https://in.linkedin.com/in/anubhavmishra-lm (no email found) | Open with the AP/IB + Indian-board study platform and its 4,500+ daily active students - ask about backend/AI engineering roles given the op… |
 | 65.0 | FinSpring (finspring.ai) | Ankit Tayal, Co-Founder & CEO — LinkedIn: https://www.linkedin.com/in/tayalankit/ (no public email found) | 1) Signal: their 2026 seed round to accelerate embedded-investment infra with major NBFC partners (Mahindra Finance, Bajaj Finserv). 2) Ask … |
+| 64.0 | CoRover.ai (corover.ai) | Ankush Sabharwal (Founder/CEO) via LinkedIn https://in.linkedin.com/in/ankushsabharwal — no verified email found; a ZoomInfo listing shows a… | 1) Open with the recent Series A close (June 2025) and the reported Rs 100 Cr revenue pipeline / hiring push. 2) Ask about backend/AI engine… |
 | 63.0 | ShikshakAI (shikshakai.com) | Not confirmed - possible team member Sumit Kumar, LinkedIn: https://in.linkedin.com/in/sumitkr-sai (role/title unverified, confirm before ou… | No funding announcement to open with, so lead directly with product fit: Rankit (AI-powered exam/assessment platform with real users at a co… |
 | 63.0 | Zoppler Systems (zopplersystems.com) | unknown - founders named (Om Rana, Ganesh Kashyap, Prakash Ramachandra, Shridhar YB) but no verified LinkedIn/email found; recommend checkin… | 1) Signal: Rs 6.5 Cr seed round in 2026 to expand engineering capabilities and field testing. 2) Ask about: Backend/software engineer role o… |
 | 63.0 | Persistence Labs (Persistence AI / persistence.dev) (persistence.dev) | Utkarsh Marwaha, Founder & CEO. No email was verifiable — reach via LinkedIn (https://www.linkedin.com/in/utkarsh-marwaha/) or X (https://x.… | Open with their Accel Atoms x Google AI Futures Fund selection (March 2026, 4,000+ applicants) as the specific signal, and if a Bengaluru pr… |
+| 63.0 | Maxim AI (getmaxim.ai) | Madhu Shantan <madhu.shantan@getmaxim.ai> (high confidence — public commit author in github.com/maximhq/maxim-py, company domain). Co-founde… | 1) Open with Maxim's Bifrost AI gateway launch and their India/Bangalore hiring presence — ask directly whether they're still actively funde… |
 | 60.0 | Glacis (glacis.ai) | Joe Braidwood, Co-Founder & CEO (repeat founder, writes publicly about his previous startup's shutdown and engages on LinkedIn). LinkedIn: h… | 1. Open with: Glacis is building a 'flight recorder for enterprise AI' - tamper-proof audit records of agent behavior - backed by investors … |
 | 58.0 | TAZMIC (tazmic.com) | Founder name not publicly listed in any source checked (LinkedIn, Crunchbase, CB Insights, company site). Company LinkedIn: https://in.linke… | 1. Open with: TAZMIC is a Bengaluru AI startup building generative pattern-design tools for the textile/fashion industry, with an open 'Foun… |
 | 58.0 | Manufex (manufex.co) | Anush Sridhar, Founder. LinkedIn search returned an ambiguous/unconfirmed profile - do not treat any single result as verified. Best route: … | 1. Open with: Manufex is a 1-10 person, SF+Bengaluru on-demand manufacturing marketplace with four open founding roles including 'Founding E… |
@@ -49,13 +54,16 @@ _Last updated 2026-08-22._
 
 | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|
+| A | 88.0 | Composio | composio.dev | San Francisco, US + Bengaluru, India | $29M total ($4M seed + $25M Series A) | $25M Series A led by Lightspeed Venture Partners, closed March 25, 2025; existing investors Elevation Capital and Together Fund participated | 71 (as of May 31, 2026 per one tracker; another source lists 11-50) — above the 5-25 sweet spot | AI-native infrastructure and devtools | None found. Actively searched for layoffs/down-round/founder-exit signals; found none. Funding is recent (17 months old), not stale. | [link](https://jobs.ashbyhq.com/composio) |
 | A | 86.0 | Vecton AI | vecton.ai | Bengaluru, India | $715K (Rs 6 crore) | Pre-seed, led by Zeropearl VC, Aug 2026 | unknown - very small, pre-seed stage | AI-first fintech |  | unknown |
 | A | 84.0 | Lytmus AI | lytmus.ai | Bengaluru, India | $530K (Rs 5 Crore) | Pre-seed, Rs 5 Cr, led by Boundless Ventures, June 2026 | 15 (as of May 2026) | Applied AI in a vertical - edtech |  | unknown |
 | A | 82.0 | Vorflux | vorflux.com | Bengaluru, India | $15M | Seed, $15M, announced July 2026, led by Y Combinator and Peak XV Partners with Powerset and Alliance; angels Parker Conrad, Immad Akhund, Ba… | unknown (small, post-launch hiring — Prasanna can introduce 10+ people on LinkedIn as of Aug 2026) | AI-native infrastructure and devtools |  | [link](https://vorflux.com/) |
 | A | 81.0 | Uncharted AI | uncharted-ai.com | Bengaluru, India | unknown | unknown | unknown (small early team) | Space / deep tech with AI core |  | unknown |
 | B | 79.0 | Dodge AI | getdodge.ai | Bengaluru, India (team relocated to Bangalore in 2024 to build; some coverage lists SF, but current building/hiring is India-based) | up to $2M (Accel Atoms AI Cohort co-investment with Google AI Futures Fund, split equally) | Accel Atoms AI Cohort 2026 co-investment, up to $2M total, plus up to $350K in Google Cloud/Gemini/DeepMind compute credits, announced March… | unknown, small (recent pivot/founding, cohort-stage) | Applied AI / AI-first SaaS-B2B |  | [link](https://www.getdodge.ai/) |
+| B | 79.0 | Athina AI | athina.ai | San Francisco, US + Bangalore, India office | $4.1M total over 3 rounds | $3M seed, announced November 2024 (~21 months old as of this review); participants included Alex Ratner (CEO, Snorkel AI) and Denis Yarats (… | unknown — not verified with a reliable source in this pass | AI-native infrastructure and devtools | Funding round is ~21 months old as of this review with no newer round confirmed — approaching but not past the 24-month stale threshold; wor… | [link](https://www.athina.ai/ (no specific careers page confirmed)) |
 | B | 75.0 | Presentations.AI | presentations.ai | Bengaluru (Bangalore), India | $3M (per Tracxn, across the disclosed seed round) | Seed, $3M, led by Accel Partners, announced Jan 30 2025; notable angels included Vijay Shekhar Sharma (Paytm), Kunal Shah (CRED), Phanindra … | 26-42 (source discrepancy: PitchBook reports 26 as of Feb 2026, Tracxn reports 42 as of Jun 2026 - likely reflects real growth over that per… | AI-first SaaS / B2B |  | [link](https://jobs.presentations.ai) |
 | B | 75.0 | Redacto | redacto.ai | Bengaluru, India | $1.4M / Rs 12 crore | Seed, led by PeerCapital and Antler India (2025/2026) | 40 (as of mid-2026) | AI-first SaaS/B2B |  | unknown |
+| B | 74.0 | OrbitShift | orbitshift.ai | Legally OrbitShift AI, Inc. (Delaware, US) per some registries, but operates out of Bengaluru, India — Indian investor base (Peak XV, Stella… | $8.5M total over 3 rounds ($1.5M pre-seed 2023 + $7M seed June 2024) | $7M seed co-led by Peak XV's Surge and Stellaris Venture Partners, closed June 2024 (~26 months old as of this review — flagged as an aging … | 38-66 depending on source (Tracxn: 66 as of June 26 2026; PitchBook: 38) — above the 5-25 sweet spot | AI-first SaaS / B2B | Last funding round is ~26 months old with no newer round confirmed in this pass — worth asking about directly, though the round size ($7M) a… | [link](https://www.orbitshift.ai/) |
 | B | 73.0 | Lamatic.ai | lamatic.ai | India (per job posting); also Miami/US presence | $955K over 2 rounds (search-sourced, single-source) | Pre-seed, Jan 2024, undisclosed amount | 12-15 (Getlatka / Tracxn, differing sources) | AI-native infrastructure and devtools |  | [link](https://wellfound.com/company/lamatic/jobs) |
 | B | 73.0 | Sandgarden | sandgarden.com | New York, NY, USA | unknown (conflicting reports of $4.5M and $9M across sources; only the $4.5M inception round is independently corroborated) | $4.5M seed led by Resolute Ventures and Crane Venture Partners, with Panache Ventures, RMS, HearstLab, Locke Mountain Ventures, Jerry Neuman… | 10 (PitchBook, 2026), expanded further via the April 2026 acquisition of Layer | AI-native infrastructure and devtools |  | [link](https://www.sandgarden.com/careers) |
 | B | 72.0 | Alchemic | thealchemic.com | Bengaluru, India | Rs 2.5 crore (~$300K) | Pre-seed led by AJVC, 2026 | small - early pre-seed team, exact number unknown | AI-first SaaS / B2B |  | [link](https://www.thealchemic.com/) |
@@ -76,9 +84,11 @@ _Last updated 2026-08-22._
 | B | 66.0 | Edysor.ai | edysor.ai | Udaipur, India | ~$144K (Rs 1.2 Cr) | Pre-seed, ~$144K, led by angel Jasmine Sarupria, 2026 | unknown, small (pre-seed, tiny check size) | Applied AI in a vertical |  | unknown |
 | B | 65.0 | ZuAI | zuai.co | Bengaluru, India | $1.72M | Seed, Rs 4 crore led by Prime Venture Partners, Feb 2025 | 33 | Applied AI in a vertical |  | [link](https://wellfound.com/company/zuai-hq/jobs) |
 | B | 65.0 | FinSpring | finspring.ai | Bengaluru, India | $69K (reported figure; likely a partial/undersized figure per Tracxn) | Seed, from VideoCX.io and strategic investors, 2026 | unknown, small/early stage | AI-first fintech |  | [link](https://finspring.ai/about-us/) |
+| B | 64.0 | CoRover.ai | corover.ai | Bengaluru, India (registered address: AKR Tech Park, Bommanahalli, Bangalore South, Karnataka 560068) | $5.72M total over 8 rounds | $4M Series A, announced June 28, 2025 (~14 months old, not stale) led by Venture Catalysts, with CanBank Venture Capital Fund, IIM Calcutta … | 60-111 depending on source (Tracxn: 111 as of April 30 2026; another source: 60 as of Feb 1 2026); well above the 5-25 sweet spot | AI-first SaaS / B2B | None found. Actively searched for layoffs, down-round or founder-departure signals; found none — company narrative is expansion (revenue foc… | [link](https://in.linkedin.com/company/corover) |
 | C | 63.0 | ShikshakAI | shikshakai.com | Bengaluru, India (per Wellfound Bangalore edtech listing) | unknown | unknown | 1-10 (per Wellfound listing) | Applied AI in a vertical |  | [link](https://www.shikshakai.com/) |
 | C | 63.0 | Zoppler Systems | zopplersystems.com | Bengaluru, India | Rs 6.5 Crore (~$780K) | Seed, Rs 6.5 Cr, led by Finvolve and India Accelerator, 2026 | unknown, likely small (revenue under Rs 10 Cr for FY ending Mar 2025) | Space / deep tech with a software or AI core |  | unknown |
 | C | 63.0 | Persistence Labs (Persistence AI / persistence.dev) | persistence.dev | unknown exact HQ city; secondary sources report an office presence in HSR Layout, Bengaluru, India, alongside a US (SF Bay Area) presence | unknown (Accel Atoms cohort provides up to $2M co-investment shared structure across Accel + Google AI Futures Fund, plus up to $350K comput… | Accel Atoms AI Cohort 2026, announced March 2026 | ~8 (per GetLatka article on Persistence AI's revenue/team, unverified beyond that single source) | AI-native infrastructure and devtools (agent/voice AI) / Applied AI vertical (BPO & customer care) |  | [link](https://persistence.dev/) |
+| B | 63.0 | Maxim AI | getmaxim.ai | Mountain View, US + India (Bangalore-area office, per job postings) | $3M (only round found) | $3M seed led by Elevation Capital, announced June 18, 2024 — ~26 months old as of this review, stale-funding risk | 24-33 depending on source (Tracxn: 33 as of June 30 2026; another source: ~24); near but just above the 5-25 sweet spot | AI-native infrastructure and devtools | Stale-funding risk: last confirmed round is ~26 months old (June 2024) with no follow-on raise found despite active hiring and product expan… | [link](https://www.getmaxim.ai/jobs/founders-office-business-operations) |
 | C | 60.0 | Glacis | glacis.ai | San Francisco, CA, US; also Singapore and Ho Chi Minh City locations | unknown exact amount | unknown | 1-10 | Applied AI in a vertical |  | [link](https://wellfound.com/company/glacis) |
 | C | 60.0 | Green Aero Propulsion | greenaero.in | New Delhi, India | $2.08M over 3 rounds | Seed, led by pi Ventures with Antler participation | 28-29 | Space / deep tech |  | unknown |
 | C | 58.0 | TAZMIC | tazmic.com | Bengaluru, India | unknown | unknown | unknown | Applied AI in a vertical |  | unknown |
@@ -101,6 +111,8 @@ _Last updated 2026-08-22._
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
+| not an AI-native software company (physical pharmacy retail/delivery operator; AI is an inventory feature, not the product customers pay for… | 1 |
+| not an AI-native software company (bedside hardware sleep device) | 1 |
 | no remote evidence: solo-founder US email client, no funding; the AI Engineer role on Wellfound is explicitly on-site in New York, NY | 1 |
 | no remote evidence: US-based (Arlington VA) product/govtech company, 17 employees, job posts say 'Remote' but none name India/APAC/worldwide… | 1 |
 | no remote evidence: SF-based, 2 employees, YC-backed RCS messaging API, no India/APAC/worldwide remote hiring signal found | 1 |
@@ -113,6 +125,7 @@ _Last updated 2026-08-22._
 | no remote evidence (official careers page: all roles on-site NYC/SF, contradicts secondary-source claim) | 1 |
 | no remote evidence (US-remote role only, no worldwide/APAC/India signal found) | 1 |
 | no remote evidence (US-only: 'anywhere in the US') | 1 |
+| no remote evidence (Singapore HQ, no India presence or remote-India/global hiring signal found); also sub-M total funding (.5M) | 1 |
 | no remote evidence (Europe-scoped hiring, no worldwide/APAC/India signal found) | 1 |
 | hard exclusion: recruiting/consulting agency, not a product company | 1 |
 | hard exclusion: digital production consultancy/agency, not a product company (distinct from FutureSight Ventures) | 1 |
@@ -128,8 +141,15 @@ _Last updated 2026-08-22._
 | duplicate of aina.com (same company, formerly stealth-named Project Mirage) | 1 |
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
+| dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
+| cannot support target comp (pre-seed ~M combined with GPU credits/perks, not verifiable cash funding near M; Mumbai/SF, not Bangalore) | 1 |
+| cannot support target comp (funding amount unverifiable — named backers AICONIC Ventures and Pruven Capital but no confirmed dollar figure; … | 1 |
+| cannot support target comp (funding amount undisclosed/unverifiable — only known investor is Upsparks Capital, no dollar figure found; ~5-pe… | 1 |
+| cannot support target comp (M seed, May 2026 — below the ~M threshold, no revenue evidence found) | 1 |
+| cannot support target comp (00K total funding, ~5 employees — tiny pre-seed with nothing else going for it per Gate 3; also US-based, no con… | 1 |
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
+| acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
 | Series C, 75M raised, 634 employees — far past Series B / 200-person cap, large slow-growing devtools company at this stage | 1 |
 | Gate 4 negative signals: round is ~2yrs old not 2026, reportedly failed to raise Series A, recent layoffs (user feedback - pipeline data was… | 1 |
 | Gate 3 comp: unfunded 13-person team, cannot plausibly pay 25-30 LPA; founder quality concerns (user feedback) | 1 |
@@ -143,7 +163,7 @@ _Last updated 2026-08-22._
 | board:remoteok-ai | Remote OK — AI startups | 2026-08-17 | 1 | 19 |
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-08-17 | 1 | 32 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-08-17 | 1 | 9 |
-| geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | never | 0 | 0 |
+| geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-08-21 | 1 | 11 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | never | 0 | 0 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-08-18 | 1 | 10 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-08-19 | 1 | 7 |
