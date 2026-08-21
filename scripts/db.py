@@ -123,6 +123,7 @@ CREATE TABLE IF NOT EXISTS companies (
     founder_li      TEXT,
     eng_lead_li     TEXT,
     recent_news     TEXT,
+    risk_flags      TEXT,
     outreach_flag   INTEGER DEFAULT 0,
     outreach_contact TEXT,
     outreach_angle  TEXT,
@@ -158,13 +159,14 @@ RECORD_FIELDS = {
     "headcount", "hq_location", "remote_policy", "remote_evidence",
     "product_desc", "is_hiring", "open_roles", "min_experience",
     "careers_url", "job_links", "founder_li", "eng_lead_li", "recent_news",
-    "outreach_flag", "outreach_contact", "outreach_angle", "source_urls",
+    "risk_flags", "outreach_flag", "outreach_contact", "outreach_angle", "source_urls",
 }
 
 # Columns added after the initial schema shipped. `CREATE TABLE IF NOT EXISTS` will not
 # add them to an existing jobsearch.db, so init runs these as an idempotent migration.
 MIGRATIONS = [
     ("companies", "outreach_contact", "TEXT"),
+    ("companies", "risk_flags", "TEXT"),
 ]
 
 EXPORT_COLUMNS = [
@@ -173,7 +175,7 @@ EXPORT_COLUMNS = [
     "headcount", "hq_location", "remote_policy", "remote_evidence",
     "product_desc", "is_hiring", "open_roles", "min_experience",
     "careers_url", "job_links", "founder_li", "eng_lead_li", "recent_news",
-    "outreach_flag", "outreach_contact", "outreach_angle", "source_urls",
+    "risk_flags", "outreach_flag", "outreach_contact", "outreach_angle", "source_urls",
     "discovered_via", "last_verified",
 ]
 
@@ -486,8 +488,11 @@ def generate_report(conn: sqlite3.Connection) -> str:
         "",
     ]
     if ranked:
-        lines.append("| Tier | Score | Company | Domain | Location | Headcount | Sector | Hiring | Careers |")
-        lines.append("|---|---|---|---|---|---|---|---|---|")
+        lines.append(
+            "| Tier | Score | Company | Domain | Location | Funding | Last round | "
+            "Headcount | Sector | Risk flags | Careers |"
+        )
+        lines.append("|---|---|---|---|---|---|---|---|---|---|---|")
         for r in ranked:
             careers = (r["careers_url"] or "").strip()
             careers_cell = (
@@ -497,8 +502,9 @@ def generate_report(conn: sqlite3.Connection) -> str:
             lines.append(
                 f"| {_md_escape(r['tier'])} | {_md_escape(r['score'])} | "
                 f"{_md_escape(r['name'] or r['domain'])} | {_md_escape(r['domain'])} | "
-                f"{_md_escape(r['hq_location'])} | {_md_escape(r['headcount'])} | "
-                f"{_md_escape(r['sector'])} | {_md_escape(r['is_hiring'])} | {careers_cell} |"
+                f"{_md_escape(r['hq_location'])} | {_md_escape(r['total_funding'])} | "
+                f"{_md_escape(r['last_round'])} | {_md_escape(r['headcount'])} | "
+                f"{_md_escape(r['sector'])} | {_md_escape(r['risk_flags'])} | {careers_cell} |"
             )
     else:
         lines.append("_No companies enriched yet._")

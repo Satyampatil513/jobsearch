@@ -37,18 +37,29 @@ exclusions and scoring.
 3. `python scripts/db.py filter-new <domains>` — keep only what comes back.
 4. `python scripts/db.py enqueue` each new one with `--via <source id>`.
 5. `python scripts/db.py next-batch --limit 15`.
-6. For each company in the batch:
-   - Apply hard exclusions first — cheapest check, do it before any research.
-   - Establish geography next. **India-based → skip the remote gate entirely**, it does not
-     apply (he will relocate to Bangalore). Only for companies with no India presence,
-     check remote evidence; no evidence → reject, do not research further.
+6. For each company in the batch, run `config/criteria.md`'s **four gates in order** and
+   stop at the first failure — each gate is cheaper than the research that follows it:
+   - **Gate 1 — AI-native software product?** Hardware, devices, manufacturing, launch
+     vehicles, satellites, and non-AI software are permanent rejections no matter how good
+     the team or funding look. Litmus test: *would they hire a Python/FastAPI/LLM backend
+     engineer to build the core product?* If no, reject and move on.
+   - **Gate 2 — Location.** Bangalore, remote-within-India, or remote-international with
+     India eligibility. Onsite anywhere else in India (Delhi-NCR, Mumbai, Hyderabad, Pune)
+     → reject, recheck 180d.
+   - **Gate 3 — Can they pay 25-30+ LPA?** Needs ~$2M+ raised or verifiable revenue.
+     Unfunded or bootstrapped with no revenue evidence → reject, recheck 180d.
+   - **Gate 4 — Health and data freshness.** Actively search for layoffs, down rounds,
+     failed raises, founder departures — do not just confirm the good news. Verify the
+     funding round's **date**, not only that it happened. Put anything found in
+     `risk_flags` with a source. Negative signals → reject, recheck 180d.
    - **"No open roles right now" is NOT a rejection.** Cold outreach is the primary
-     channel — a promising 5-25 person company with no posting is a normal target. Enrich
-     it and flag it for outreach.
-   - Research the remaining fields. Score using the rubric. Set tier.
+     channel — a promising 5-25 person company with no posting is a normal target.
+   - Only now research the remaining fields. Score using the rubric. Set tier.
    - Identify the best human to email and fill `outreach_contact` and `outreach_angle`.
-     Set `outreach_flag=1` for anything worth writing to (most enriched rows). Never
-     invent an email address — if none is findable, give the LinkedIn and say so.
+     Set `outreach_flag=1` for anything worth writing to. Never invent an email address —
+     if none is findable, give the LinkedIn and say so.
+   - Always set `name`. A row with a null name renders blank in the report and gets
+     overlooked even when it scores well.
    - Write a JSON file per company and call `record`, or call `reject` with a reason
      and TTL.
 7. `python scripts/db.py export --tier A,B --out exports/tier-ab.csv`

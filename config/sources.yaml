@@ -6,21 +6,26 @@
 # investor searches anyway, and dedicated yc:* sources would skew the rotation toward one
 # accelerator's directory. YC-backed is a +5 scoring modifier instead (config/criteria.md).
 #
-# Geography note: India is a co-primary target (see criteria.md), and India-based
-# companies need no remote evidence — so geo:* sources below convert to enriched rows at a
-# far higher rate than US-centric board sources, where most candidates die at the remote
-# gate. Keep the India-weighted sources well represented.
+# Geography: Bangalore or remote-within-India only (criteria.md Gate 2). Onsite roles
+# elsewhere in India — Delhi-NCR, Mumbai, Hyderabad, Pune — are rejections, so scope
+# geo searches to Bangalore or explicitly remote rather than "India" generally.
+#
+# There is deliberately NO space/deep-tech source. Gate 1 requires an AI-native software
+# product, and space hardware (launch vehicles, satellites, components) fails it. Space
+# *software* — geospatial/satellite-data AI — should surface via the AI sources on merit.
 
 sources:
-  # --- India-first: highest conversion, no remote-evidence gate ---
+  # --- Bangalore and remote-India first: highest conversion, no remote-evidence gate ---
   - id: geo:bangalore-ai
     label: Bangalore AI startups hiring engineers
-  - id: geo:india-ai-seed
-    label: India AI startups, pre-seed to Series A, funded in last 12 months
-  - id: geo:india-ai-devtools
-    label: India-based AI devtools and infrastructure startups
+  - id: geo:bangalore-ai-seed
+    label: Bangalore AI startups, seed to Series A, funded in last 12 months
+  - id: geo:remote-india-ai
+    label: AI startups hiring remote-within-India engineers
+  - id: geo:bangalore-ai-devtools
+    label: Bangalore AI devtools and infrastructure startups
   - id: recency:india-funding-90d
-    label: Indian AI startups that raised in the last 90 days
+    label: Indian AI startups that raised in the last 90 days (Bangalore/remote only)
 
   # --- Alma mater / warm-intro network ---
   - id: network:iit-mandi-founders
@@ -45,8 +50,6 @@ sources:
   # --- Verticals, edtech first (Rankit gives a real story) ---
   - id: vertical:edtech-ai
     label: Applied AI — edtech and exam prep (strongest domain overlap)
-  - id: vertical:space-deeptech
-    label: Space and deep tech with software/AI core (CanSat + ISRO hook)
   - id: vertical:healthtech-ai
     label: Applied AI — healthtech
   - id: vertical:legal-ai
