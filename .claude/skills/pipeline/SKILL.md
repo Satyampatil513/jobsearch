@@ -56,8 +56,18 @@ exclusions and scoring.
      channel — a promising 5-25 person company with no posting is a normal target.
    - Only now research the remaining fields. Score using the rubric. Set tier.
    - Identify the best human to email and fill `outreach_contact` and `outreach_angle`.
-     Set `outreach_flag=1` for anything worth writing to. Never invent an email address —
-     if none is findable, give the LinkedIn and say so.
+     Set `outreach_flag=1` for anything worth writing to.
+   - **Try for a real email**: run `python scripts/find_contacts.py --domain <domain>`.
+     It mines public GitHub commit metadata for addresses and returns each with a
+     confidence rating. Only use ones rated **high** (address domain matches the company)
+     without further checks; treat medium/low as leads to verify, and heed the `warning`
+     field — a guessed org slug can belong to an unrelated project (searching `redacto`
+     for redacto.ai returns a different company's @redact.dev addresses).
+     Record the address AND where it came from, e.g.
+     `shubham@collinear.ai (public commit in collinear-ai/<repo>)`.
+   - **Never invent an email address.** No `firstname@company.com` guesses. If nothing is
+     findable, give the LinkedIn and say so explicitly — a bounced cold email is worse
+     than a DM.
    - Always set `name`. A row with a null name renders blank in the report and gets
      overlooked even when it scores well.
    - Write a JSON file per company and call `record`, or call `reject` with a reason
