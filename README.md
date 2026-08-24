@@ -2,7 +2,7 @@
 
 _Last updated 2026-08-24._
 
-**158** companies seen total — **67** enriched, **91** rejected, **0** still queued.
+**169** companies seen total — **69** enriched, **100** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -15,6 +15,8 @@ _Last updated 2026-08-24._
 | 87.0 | SuperKalam (superkalam.com) | Vimal Singh Rathore, Founder & CEO - LinkedIn https://in.linkedin.com/in/vimalsinghrathore (no public commit email found via GitHub search; … | 1. Open with SuperKalam crossing 60,000+ students and their YC W23 backing. 2. Ask about engineering roles generally, since specific listing… |
 | 86.0 | Vecton AI (vecton.ai) | Himanshu Goyal, co-founder - LinkedIn: https://www.linkedin.com/in/himanshu-goyal-106381134/ (no email found) | Open with the Aug 2026 pre-seed raise (Zeropearl VC) and that they're building a 'Forward Deployed Engineer' delivery model for BFSI AI syst… |
 | 86.0 | SixSense (sixsense.ai) | Akanksha Jagwani, Co-founder & CEO — LinkedIn https://www.linkedin.com/in/akanksha-jagwani-a7489041/. No public email found (GitHub commit-e… | 1. Open with: SixSense's $8.5M Series A (July 2025, Peak XV Surge-led) and its no-code AI platform for chip fabs — genuinely novel applied-A… |
+| 86.0 | Superleap (superleap.com) | Subham Kumar Boundia, Co-Founder & CEO. Email lead: subham@superleap.com (referenced in a LinkedIn recruiting post as the contact for hiring… | 1. Open with the Aug 4 2026 Peak XV Surge pre-Series A raise (Rs 36 crore) and the 10x growth story — genuine enthusiasm for what they're bu… |
+| 86.0 | Kily (kily.ai) | Sankalp Mehrotra, Co-Founder & CEO. No verifiable email found — LinkedIn: https://www.linkedin.com/in/sankalpmehrotra/ (do not guess an emai… | 1. Open with the Rs 30 crore Sorin Investments seed round and the new WPP Media partnership (both early Aug 2026) — shows real commercial tr… |
 | 85.0 | AiPrise (aiprise.com) | Rushabh M. Shah, Co-CEO - LinkedIn https://www.linkedin.com/in/rushabh-shah7/ (no public commit email found via GitHub search; no company Gi… | 1. Open with the $12.5M Series A (Oct 2025) and 150+ Fortune 500 customer base. 2. Ask specifically about the Bangalore "Software Engineer I… |
 | 84.0 | Lytmus AI (lytmus.ai) | Ajit Kumar, Co-Founder & CEO — LinkedIn: https://in.linkedin.com/in/ajit-kumar-0216454 (no public email found) | 1) Signal: Rs 5 Cr pre-seed round (June 2026) with explosive early traction - 17,000+ NEET students in 45 days - and 60% of funds earmarked … |
 | 83.0 | Gnani.ai (gnani.ai) | Ganesh Gopalan, CEO & co-founder -- LinkedIn https://in.linkedin.com/in/ganesh-gopalan. A third-party contact database (ZoomInfo) lists gane… | 1) Open with Gnani's Jul 2026 Series B close (Aavishkaar Capital, Info Edge Ventures) and their 18 open roles including an explicit 0-2+ yea… |
@@ -81,6 +83,8 @@ _Last updated 2026-08-24._
 | A | 87.0 | SuperKalam | superkalam.com | Bengaluru, India | $2M (₹16.3 Cr) | $2M seed, announced May 22 2024 (EdTechReview: https://www.edtechreview.in/news/ai-driven-mentorship-platform-superkalam-raises-2m-in-seed-r… | ~20 (Bengaluru); separately reported 60,000+ students using the platform | Applied AI - edtech / exam prep | None found in search. The seed round (May 2024) is approaching the 24-month stale-funding window - worth re-confirming no down round or slow… | [link](https://www.ycombinator.com/companies/superkalam) |
 | A | 86.0 | Vecton AI | vecton.ai | Bengaluru, India | $715K (Rs 6 crore) | Pre-seed, led by Zeropearl VC, Aug 2026 | unknown - very small, pre-seed stage | AI-first fintech |  | unknown |
 | A | 86.0 | SixSense | sixsense.ai | Dual HQ: Singapore (SixSense Pte Ltd) and Bangalore, India (SixSense AI Private Limited, incorporated 2024-10-14, registered at WeWork Prest… | ~$12M total | $8.5M Series A, led by Peak XV's Surge, late July 2025 (~13 months old — recent) | 71 (as of 2026-06-30) | Applied AI — vertical (semiconductor manufacturing intelligence) | none found — recent funding, growing headcount, positive press coverage, no layoffs or founder-departure signal | sixsense.ai (roles listed via Instahyre) |
+| A | 86.0 | Superleap | superleap.com | Bengaluru, India | ~$3.78M (Rs 36 crore raised to date, per Tracxn/Crunchbase Aug 2026) | Rs 36 crore (~$3.7M) pre-Series A led by Peak XV's Surge programme, announced Aug 4 2026 | ~29 employees (Tracxn, as of Jul 2026) | AI-first SaaS / B2B | none found — actively searched for layoffs/down-round/founder-exit signals (Aug 2026); round is 3 weeks old at time of research, well within… | [link](https://www.superleap.com/careers) |
+| A | 86.0 | Kily | kily.ai | Bengaluru, India | ~$3.1M (Rs 30 crore) | Rs 30 crore (~$3.1M) seed round led by Sorin Investments, with Razorpay and Wyser Capital participating, announced early Aug 2026 | unknown — could not verify a headcount figure from public sources | AI-first SaaS / B2B | none found — actively searched for layoffs/down-round/founder-exit signals (Aug 2026); round and WPP Media partnership both landed within th… | [link](https://www.instahyre.com/jobs-at-kily/) |
 | A | 85.0 | AiPrise | aiprise.com | Santa Clara, CA, US - with an India office in Bengaluru (HSR Layout) | $14.5M total | $12.5M Series A led by Headline, closed Oct 8 2025 (PRNewswire: https://www.prnewswire.com/news-releases/aiprise-a-y-combinator-backed-start… | ~40-49 (YC/PRNewswire, 2026) | AI-first SaaS / B2B | None found. Recently funded, growing customer base (150+, including Fortune 500), no layoffs/down-round/founder-exit signals located. | [link](https://www.ycombinator.com/companies/aiprise/jobs) |
 | A | 84.0 | Lytmus AI | lytmus.ai | Bengaluru, India | $530K (Rs 5 Crore) | Pre-seed, Rs 5 Cr, led by Boundless Ventures, June 2026 | 15 (as of May 2026) | Applied AI in a vertical - edtech |  | unknown |
 | A | 83.0 | Gnani.ai | gnani.ai | Bengaluru, India | $10M+ (2026 Series B rounds); earlier lifetime total not confirmed in this search | $10M Series B led by Aavishkaar Capital with Info Edge Ventures participating; reported closing/tranches in Mar and Jul 2026 | ~169-199 employees (sources vary: Tracxn ~169 as of Aug 2025, other trackers cite up to 199; treat as approximate) | Applied AI in a vertical | none found -- searched for layoffs/down-round/founder-exit; company is actively hiring (18 open roles) and just closed a funding round in Ju… | [link](https://careers.gnani.ai/ (also https://www.gnani.ai/careers)) |
@@ -153,7 +157,10 @@ _Last updated 2026-08-24._
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
+| not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
+| not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
+| not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
@@ -173,6 +180,8 @@ _Last updated 2026-08-24._
 | no remote evidence: SF-based AI healthcare-logistics startup, 1-10 employees, only 1 open role and no location/remote-scope info found beyon… | 1 |
 | no remote evidence: SF Bay Area industrial/engineering AI (Archie), Series A, remote roles explicitly limited to 'nationwide (US and Canada)… | 1 |
 | no remote evidence: SF Bay Area healthtech conversational-AI company (getpythagoras.ai), 1-10 employees, no careers info naming India/APAC/w… | 1 |
+| no remote evidence: HQ New York, US, no India presence or remote-international signal found | 1 |
+| no remote evidence: HQ Jersey City, US, no India presence or remote-international signal found despite Indian-origin founder | 1 |
 | no remote evidence — HQ San Francisco, co-founder based Singapore, no India presence, remote policy, or hiring signal found | 1 |
 | no remote evidence — HQ New York/London, 8 open engineering roles found but none mention remote-India or global-remote eligibility; no India… | 1 |
 | no remote evidence for India/APAC (their open remote roles name Sri Lanka specifically, not India or 'APAC' as a category — same as the UK/P… | 1 |
@@ -184,7 +193,11 @@ _Last updated 2026-08-24._
 | no remote evidence (Singapore HQ, no India presence or remote-India/global hiring signal found); also sub-M total funding (.5M) | 1 |
 | no remote evidence (Europe-scoped hiring, no worldwide/APAC/India signal found) | 1 |
 | location: hiring is Mumbai-onsite (Backend/Frontend/SDE roles all listed Mumbai), no remote-within-India or remote-international evidence fo… | 1 |
+| location: corporate office in Noida per Gate 2 exclusion list | 1 |
 | location: HQ is Hyderabad (not Bangalore/remote-India); engineering roles (ML Engineer, QA Automation, Fullstack/Backend/Frontend) are liste… | 1 |
+| location: HQ Pune, onsite per Gate 2 exclusion list | 1 |
+| location: HQ New Delhi, onsite Delhi-NCR per Gate 2 exclusion list | 1 |
+| location: HQ Gurugram, operates onsite in Delhi/Gurugram/Noida per Gate 2 exclusion list | 1 |
 | location — onsite Ahmedabad (not Bangalore), no remote-work evidence found in careers page or job listings | 1 |
 | location (HQ Noida, onsite, no remote evidence) | 1 |
 | location (HQ Mandi, Himachal Pradesh, onsite, no remote evidence) | 1 |
@@ -242,7 +255,7 @@ _Last updated 2026-08-24._
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-08-23 | 1 | 9 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-08-23 | 1 | 11 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-08-24 | 1 | 7 |
-| recency:india-funding-90d | Indian AI startups that raised in the last 90 days | never | 0 | 0 |
+| recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-08-24 | 1 | 11 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | never | 0 | 0 |
 | theme:agent-infra | Agent infrastructure and orchestration | never | 0 | 0 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | never | 0 | 0 |
