@@ -1,8 +1,8 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-23._
+_Last updated 2026-08-24._
 
-**151** companies seen total — **67** enriched, **84** rejected, **0** still queued.
+**158** companies seen total — **67** enriched, **91** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -157,8 +157,11 @@ _Last updated 2026-08-23._
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
+| not an AI-native software company (solar design/CAD SaaS, not AI-core product) | 1 |
 | not an AI-native software company (physical pharmacy retail/delivery operator; AI is an inventory feature, not the product customers pay for… | 1 |
 | not an AI-native software company (physical hardware product — screen-free AI companion device/toy for kids, manufacturing-based, not a soft… | 1 |
+| not an AI-native software company (non-invasive blood glucose monitoring device, hardware) | 1 |
+| not an AI-native software company (landslide monitoring hardware/IoT sensors) | 1 |
 | not an AI-native software company (fabless semiconductor / AI chip hardware, HrdWyr builds AISoC edge chips — engineering hires are chip/sem… | 1 |
 | not an AI-native software company (core product is bank-native asset-backed credit/card infrastructure for banks; agentic AI is an internal … | 1 |
 | not an AI-native software company (core product is a SEBI-registered stock broking/trading platform -- Series B, ex-Swiggy-CTO-founded; AI i… | 1 |
@@ -183,6 +186,10 @@ _Last updated 2026-08-23._
 | location: hiring is Mumbai-onsite (Backend/Frontend/SDE roles all listed Mumbai), no remote-within-India or remote-international evidence fo… | 1 |
 | location: HQ is Hyderabad (not Bangalore/remote-India); engineering roles (ML Engineer, QA Automation, Fullstack/Backend/Frontend) are liste… | 1 |
 | location — onsite Ahmedabad (not Bangalore), no remote-work evidence found in careers page or job listings | 1 |
+| location (HQ Noida, onsite, no remote evidence) | 1 |
+| location (HQ Mandi, Himachal Pradesh, onsite, no remote evidence) | 1 |
+| location (HQ Lucknow, onsite, no remote evidence) | 1 |
+| location (HQ Gurugram, onsite, no remote evidence) | 1 |
 | hard exclusion: recruiting/consulting agency, not a product company | 1 |
 | hard exclusion: digital production consultancy/agency, not a product company (distinct from FutureSight Ventures) | 1 |
 | hard exclusion: dead - domain unreachable (ENOTFOUND), no product, likely miscategorized board listing | 1 |
@@ -234,7 +241,7 @@ _Last updated 2026-08-23._
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-08-21 | 1 | 10 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-08-23 | 1 | 9 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-08-23 | 1 | 11 |
-| network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | never | 0 | 0 |
+| network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-08-24 | 1 | 7 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | never | 0 | 0 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | never | 0 | 0 |
 | theme:agent-infra | Agent infrastructure and orchestration | never | 0 | 0 |
