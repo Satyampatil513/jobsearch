@@ -1,8 +1,8 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-24._
+_Last updated 2026-08-25._
 
-**169** companies seen total — **69** enriched, **100** rejected, **0** still queued.
+**174** companies seen total — **69** enriched, **105** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -157,12 +157,14 @@ _Last updated 2026-08-24._
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
+| not an AI-native software company: quick-commerce/dark-store delivery platform for building materials (plywood, paint, electricals) to contr… | 1 |
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
+| not an AI-native software company: AI-native venture studio that builds and operates its own D2C consumer nutrition/wellness brands (physica… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
 | not an AI-native software company (solar design/CAD SaaS, not AI-core product) | 1 |
 | not an AI-native software company (physical pharmacy retail/delivery operator; AI is an inventory feature, not the product customers pay for… | 1 |
@@ -194,6 +196,7 @@ _Last updated 2026-08-24._
 | no remote evidence (Europe-scoped hiring, no worldwide/APAC/India signal found) | 1 |
 | location: hiring is Mumbai-onsite (Backend/Frontend/SDE roles all listed Mumbai), no remote-within-India or remote-international evidence fo… | 1 |
 | location: corporate office in Noida per Gate 2 exclusion list | 1 |
+| location: HQ is Mumbai/Thane, Maharashtra (registered as ZKAP Edtech Services Pvt Ltd, Kalyan, Thane per Tracxn), not Bangalore or remote-wi… | 1 |
 | location: HQ is Hyderabad (not Bangalore/remote-India); engineering roles (ML Engineer, QA Automation, Fullstack/Backend/Frontend) are liste… | 1 |
 | location: HQ Pune, onsite per Gate 2 exclusion list | 1 |
 | location: HQ New Delhi, onsite Delhi-NCR per Gate 2 exclusion list | 1 |
@@ -219,6 +222,8 @@ _Last updated 2026-08-24._
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
+| cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
+| cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
@@ -256,7 +261,7 @@ _Last updated 2026-08-24._
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-08-23 | 1 | 11 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-08-24 | 1 | 7 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-08-24 | 1 | 11 |
-| recency:seed-90d | Seed rounds announced in the last 90 days | never | 0 | 0 |
+| recency:seed-90d | Seed rounds announced in the last 90 days | 2026-08-25 | 1 | 5 |
 | theme:agent-infra | Agent infrastructure and orchestration | never | 0 | 0 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | never | 0 | 0 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | never | 0 | 0 |
