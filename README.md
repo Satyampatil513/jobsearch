@@ -2,7 +2,7 @@
 
 _Last updated 2026-08-26._
 
-**201** companies seen total — **74** enriched, **127** rejected, **0** still queued.
+**206** companies seen total — **77** enriched, **129** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,6 +11,9 @@ _Last updated 2026-08-26._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-08-26 | 84.0 | Simplismart (simplismart.ai) | Amritanshu Jain, Co-founder & CEO -- no public email found via find_contacts.py (tool unavailable in this environment, `gh` CLI missing); us… | 1) Open with the Nvidia-led $20M round in talks (reported May 2026) and the Accel Series A (Oct 2024) -- signals real momentum and ability t… |
+| 2026-08-26 | 84.0 | Pramaana Labs (pramaanalabs.ai) | Ranjan Rajagopalan, Co-Founder & CEO - LinkedIn: linkedin.com/in/ranjan-rajagopalan/. No email found via any verifiable source. | 1) Open with the $27M Khosla-led seed (June 2026) and the ex-DeepMind/Glean/Google Maps founding team - a rare-caliber team to cold-email ea… |
+| 2026-08-26 | 76.0 | GigaML (Giga) (gigaml.com) | Varun Vummadi, Co-Founder & CEO - LinkedIn: linkedin.com/in/varunvummadi/ (primary, verified). Unverified lead: varun@gigaml.com (from third… | 1) Open with the $61M Series A (Nov 2025, Redpoint-led) and the DoorDash deployment - shows real enterprise traction for voice AI agents. 2)… |
+| 2026-08-26 | 73.0 | Blurgs AI (blurgs.ai) | Roshan Raj Mohanty, Co-Founder & CEO - LinkedIn: linkedin.com/in/rushnrise/ (unverified against a second source). No email found via any ver… | 1) Open with the $2.2M funding news (July 2026) and international expansion into Dubai Maritime City - shows they're scaling past the India … |
 
 ### Session: 2026-08-25
 
@@ -130,6 +133,9 @@ _Last updated 2026-08-26._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-08-26 | A | 84.0 | Simplismart | simplismart.ai | Bengaluru (in-office hiring confirmed via multiple job listings) | $7.65M total across seed + Series A (per Tracxn); a further ~$20M round reportedly in talks with Nvidia leading as of May 2026, not confirme… | Series A, $7M, led by Accel with Shastra VC and Titan Capital, announced Oct 2024 | 39 employees as of Aug 2026 (per Crustdata); ~23 in May 2026 -- growing fast | AI-native infrastructure and devtools | None found -- searched explicitly for layoffs/down-round/founder-departure news on Simplismart and found none; all recent signals (Series A,… | [link](https://www.simplismart.ai (careers page not directly fetched -- egress blocked)) |
+| 2026-08-26 | A | 84.0 | Pramaana Labs | pramaanalabs.ai | Palo Alto / San Francisco, California, USA | $27M seed (per TechCrunch, YourStory, Inc42) | $27M seed, announced 2026-06-17/18 - about 2 months old, very fresh | unknown exact count; at least one confirmed India-based team member (Bengaluru, IIT Madras alum) per LinkedIn | AI-native infrastructure and devtools | None found - searched specifically for criticism/risk since the funding announcement, found only positive coverage. Only caveat noted in pre… | [link](https://pramaanalabs.ai/) |
+| 2026-08-26 | B | 76.0 | GigaML (Giga) | gigaml.com | San Francisco, USA | $61M total (per TechCrunch/Fortune, Nov 2025 Series A led by Redpoint Ventures w/ YC, Nexus Venture Partners; earlier ~$3.7M seed) | $61M Series A, announced 2025-11-05 (Fortune/TechCrunch) - about 9-10 months old, not stale | ~66 open roles listed per Built In/Wellfound aggregator as of Aug 2026; exact headcount unknown, grew fast post Series A | AI-first SaaS / B2B | None found. Searched specifically for layoffs/controversy/founder departure - no negative signals surfaced. Company is well-funded and scali… | [link](https://giga.ai/careers (also gigaml.com)) |
+| 2026-08-26 | B | 73.0 | Blurgs AI | blurgs.ai | Bengaluru (Electronic City Phase 1), India | $2.2M (first institutional round, per Business Standard/The Week, July 2026) | $2.2M seed led by Pravega Ventures and Shastra VC, announced 2026-07-07 - fresh, ~1.5 months old | unknown exact count | Applied AI in a vertical | Searched explicitly for layoffs/down-round/founder-departure news - none found. One flagged item: a search result indicated their DRDO proje… | [link](https://blurgs.ai/ ; job listings aggregator: https://cutshort.io/company/jobs-at-blurgs-ai-99-eossPeRh) |
 | 2026-08-26 | C | 48.0 | ToolJet | tooljet.com | San Francisco + Bengaluru | $6.2M total (per Tracxn/Wellfound) | Seed extension, Microsoft M12 + GitHub Fund, announced Jul 2023 (~37 months old as of Aug 2026 -- stale) | 68 employees as of Jun 30 2026 (per Tracxn); team spans US and India | AI-native devtools / internal-tools platform | Stale funding: last confirmed round Jul 2023 (~37 months old), no newer round found as of Aug 2026 -- source: https://blog.tooljet.com/toolj… | [link](https://tooljet.com/careers (not directly verified, inferred from company site structure)) |
 
 ### Session: 2026-08-25
@@ -344,8 +350,10 @@ _Last updated 2026-08-26._
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
+| cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
+| cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
@@ -390,7 +398,7 @@ _Last updated 2026-08-26._
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-08-25 | 1 | 5 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-08-25 | 1 | 22 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-08-26 | 1 | 5 |
-| theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | never | 0 | 0 |
+| theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-08-26 | 1 | 5 |
 | theme:llm-eval | LLM eval and observability | never | 0 | 0 |
 | theme:memory-context | Memory and context systems | never | 0 | 0 |
 | theme:rag-docs | Document and RAG products | never | 0 | 0 |
