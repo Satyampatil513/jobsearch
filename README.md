@@ -1,8 +1,8 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-25._
+_Last updated 2026-08-26._
 
-**196** companies seen total — **72** enriched, **117** rejected, **7** still queued.
+**201** companies seen total — **74** enriched, **127** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -20,6 +20,7 @@ _Last updated 2026-08-25._
 | 86.0 | Kily (kily.ai) | Sankalp Mehrotra, Co-Founder & CEO. No verifiable email found — LinkedIn: https://www.linkedin.com/in/sankalpmehrotra/ (do not guess an emai… | 1. Open with the Rs 30 crore Sorin Investments seed round and the new WPP Media partnership (both early Aug 2026) — shows real commercial tr… |
 | 85.0 | AiPrise (aiprise.com) | Rushabh M. Shah, Co-CEO - LinkedIn https://www.linkedin.com/in/rushabh-shah7/ (no public commit email found via GitHub search; no company Gi… | 1. Open with the $12.5M Series A (Oct 2025) and 150+ Fortune 500 customer base. 2. Ask specifically about the Bangalore "Software Engineer I… |
 | 84.0 | Lytmus AI (lytmus.ai) | Ajit Kumar, Co-Founder & CEO — LinkedIn: https://in.linkedin.com/in/ajit-kumar-0216454 (no public email found) | 1) Signal: Rs 5 Cr pre-seed round (June 2026) with explosive early traction - 17,000+ NEET students in 45 days - and 60% of funds earmarked … |
+| 84.0 | Simplismart (simplismart.ai) | Amritanshu Jain, Co-founder & CEO -- no public email found via find_contacts.py (tool unavailable in this environment, `gh` CLI missing); us… | 1) Open with the Nvidia-led $20M round in talks (reported May 2026) and the Accel Series A (Oct 2024) -- signals real momentum and ability t… |
 | 83.0 | Gnani.ai (gnani.ai) | Ganesh Gopalan, CEO & co-founder -- LinkedIn https://in.linkedin.com/in/ganesh-gopalan. A third-party contact database (ZoomInfo) lists gane… | 1) Open with Gnani's Jul 2026 Series B close (Aavishkaar Capital, Info Edge Ventures) and their 18 open roles including an explicit 0-2+ yea… |
 | 82.0 | Vorflux (vorflux.com) | Prasanna Sankar, Founder/CEO — LinkedIn: https://www.linkedin.com/in/myprasanna/ (no public email found) | 1) Signal: Vorflux just emerged from stealth (July 15, 2026) with a $15M YC/Peak XV-led seed to build an AI 'autopilot' for software enginee… |
 | 82.0 | FurtherAI (furtherai.com) | Aman Gour, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/amangour/ (no public commit email found via GitHub search; no company Git… | 1. Open with the $25M a16z round (Oct 2025) and their insurance-AI-agent traction. 2. Ask about backend/full-stack engineering, since they a… |
@@ -91,6 +92,7 @@ _Last updated 2026-08-25._
 | A | 86.0 | Kily | kily.ai | Bengaluru, India | ~$3.1M (Rs 30 crore) | Rs 30 crore (~$3.1M) seed round led by Sorin Investments, with Razorpay and Wyser Capital participating, announced early Aug 2026 | unknown — could not verify a headcount figure from public sources | AI-first SaaS / B2B | none found — actively searched for layoffs/down-round/founder-exit signals (Aug 2026); round and WPP Media partnership both landed within th… | [link](https://www.instahyre.com/jobs-at-kily/) |
 | A | 85.0 | AiPrise | aiprise.com | Santa Clara, CA, US - with an India office in Bengaluru (HSR Layout) | $14.5M total | $12.5M Series A led by Headline, closed Oct 8 2025 (PRNewswire: https://www.prnewswire.com/news-releases/aiprise-a-y-combinator-backed-start… | ~40-49 (YC/PRNewswire, 2026) | AI-first SaaS / B2B | None found. Recently funded, growing customer base (150+, including Fortune 500), no layoffs/down-round/founder-exit signals located. | [link](https://www.ycombinator.com/companies/aiprise/jobs) |
 | A | 84.0 | Lytmus AI | lytmus.ai | Bengaluru, India | $530K (Rs 5 Crore) | Pre-seed, Rs 5 Cr, led by Boundless Ventures, June 2026 | 15 (as of May 2026) | Applied AI in a vertical - edtech |  | unknown |
+| A | 84.0 | Simplismart | simplismart.ai | Bengaluru (in-office hiring confirmed via multiple job listings) | $7.65M total across seed + Series A (per Tracxn); a further ~$20M round reportedly in talks with Nvidia leading as of May 2026, not confirme… | Series A, $7M, led by Accel with Shastra VC and Titan Capital, announced Oct 2024 | 39 employees as of Aug 2026 (per Crustdata); ~23 in May 2026 -- growing fast | AI-native infrastructure and devtools | None found -- searched explicitly for layoffs/down-round/founder-departure news on Simplismart and found none; all recent signals (Series A,… | [link](https://www.simplismart.ai (careers page not directly fetched -- egress blocked)) |
 | A | 83.0 | Gnani.ai | gnani.ai | Bengaluru, India | $10M+ (2026 Series B rounds); earlier lifetime total not confirmed in this search | $10M Series B led by Aavishkaar Capital with Info Edge Ventures participating; reported closing/tranches in Mar and Jul 2026 | ~169-199 employees (sources vary: Tracxn ~169 as of Aug 2025, other trackers cite up to 199; treat as approximate) | Applied AI in a vertical | none found -- searched for layoffs/down-round/founder-exit; company is actively hiring (18 open roles) and just closed a funding round in Ju… | [link](https://careers.gnani.ai/ (also https://www.gnani.ai/careers)) |
 | A | 82.0 | Vorflux | vorflux.com | Bengaluru, India | $15M | Seed, $15M, announced July 2026, led by Y Combinator and Peak XV Partners with Powerset and Alliance; angels Parker Conrad, Immad Akhund, Ba… | unknown (small, post-launch hiring — Prasanna can introduce 10+ people on LinkedIn as of Aug 2026) | AI-native infrastructure and devtools |  | [link](https://vorflux.com/) |
 | A | 82.0 | FurtherAI | furtherai.com | San Francisco, CA, US | $35.6M total over 4 rounds (Crunchbase/PitchBook aggregate) | $25M led by Andreessen Horowitz (a16z), announced Oct 7 2025 (Forbes: https://www.forbes.com/sites/charliefink/2025/10/07/furtherai-raises-2… | ~52 (Tracxn, Jun 2026) | Applied AI - vertical (insurance) | None found. Actively growing (recent large round, revenue in seven figures), no layoffs/down-round/founder-exit signals located. | [link](https://www.ycombinator.com/companies/furtherai/jobs) |
@@ -147,6 +149,7 @@ _Last updated 2026-08-25._
 | C | 57.0 | Wobot AI (Wobot Intelligence) | wobot.ai | Registered New Delhi/Gurugram, but company is 100% remote | $5.4M total over 6 rounds, 34 investors | $2.24M seed, 2025-03-28 | unknown exact count; 9 open positions listed as of Aug 2026 | AI-first SaaS/B2B | none found — active hiring across 9 roles, funding round is recent (17 months old), no layoffs, shutdown or founder-departure signal found | wobot.ai/careers |
 | C | 54.0 | Clientell | getclientell.com | HSR Layout, Bangalore | $3.1M-$3.99M (sources vary) | Seed, April 15 2024 (Blume Ventures led; Chiratae, Artha, Z5 Capital, Anthropic AWS Agentic AI Accelerator) | unknown | AI-native SaaS / B2B | Stale funding: last raise was April 2024 (~28 months old as of Aug 2026) with no follow-on round found in search -- treat runway as question… | [link](https://www.getclientell.com/careers) |
 | C | 52.0 | Salesforge | salesforge.ai | Tallinn, Estonia | $501K (pre-seed, April 2024) | Pre-seed, ~$501K (€467K), April 2024 | unknown - conflicting report (Tracxn shows 129, which is implausible for a company that has only raised $501K total; treated as unverified) | AI-first SaaS / B2B |  | [link](https://www.salesforge.ai/careers) |
+| C | 48.0 | ToolJet | tooljet.com | San Francisco + Bengaluru | $6.2M total (per Tracxn/Wellfound) | Seed extension, Microsoft M12 + GitHub Fund, announced Jul 2023 (~37 months old as of Aug 2026 -- stale) | 68 employees as of Jun 30 2026 (per Tracxn); team spans US and India | AI-native devtools / internal-tools platform | Stale funding: last confirmed round Jul 2023 (~37 months old), no newer round found as of Aug 2026 -- source: https://blog.tooljet.com/toolj… | [link](https://tooljet.com/careers (not directly verified, inferred from company site structure)) |
 | C | 47.0 | Steps AI | stepsai.co | Hyderabad, India per Tracxn; co-founder Reshmanth Jonnalagadda's personal LinkedIn/Crunchbase location lists Toronto, Canada - noting both s… | $0 disclosed (Tracxn) | unknown | 29 (Tracxn, Apr 2026) | AI-native infrastructure and devtools |  | [link](https://wellfound.com/company/steps-ai) |
 | C | 45.0 | Thatch | thatch.ai | San Francisco, CA, US | $38M reported (Fierce Healthcare, single-sourced, not cross-verified) | unknown exact round size/date | 70 (Built In SF profile) | AI-first SaaS/B2B |  | [link](https://thatch.com/jobs) |
 | C | 45.0 | Lorikeet | lorikeet.ai | Sydney, Australia (no India presence found) | $49M across 3 rounds (Tracxn) | $35M Series A led by QED Investors, with Blackbird Ventures, Square Peg Capital, AirTree and Canva/Airwallex founders participating (Aug 202… | 51-200 per Wellfound; Tracxn cites 97 employees as of mid-2026 (sources disagree on exact count but agree it is well past the 5-40 target ra… | AI-first SaaS / B2B |  | [link](https://www.lorikeetcx.ai/careers) |
@@ -163,6 +166,7 @@ _Last updated 2026-08-25._
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
+| pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
 | not an AI-native software company: quick-commerce/dark-store delivery platform for building materials (plywood, paint, electricals) to contr… | 1 |
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
@@ -203,6 +207,11 @@ _Last updated 2026-08-25._
 | no remote evidence — HQ Berlin, only remote role found is US-restricted (Forward Deployed Engineer, USA-remote), no India evidence | 1 |
 | no remote evidence for India/APAC (their open remote roles name Sri Lanka specifically, not India or 'APAC' as a category — same as the UK/P… | 1 |
 | no remote evidence - careers page lists only UK/Canada/Poland/Brazil/Argentina as remote locations, no India/APAC or worldwide/global langua… | 1 |
+| no remote evidence - Tel Aviv HQ, no India/APAC signal found | 1 |
+| no remote evidence - SF HQ, remote roles explicitly limited to Remote (US) | 1 |
+| no remote evidence - SF HQ, no India/APAC signal found | 1 |
+| no remote evidence - SF HQ, explicitly requires NA timezone overlap at this stage | 1 |
+| no remote evidence - NYC HQ, no India/APAC signal found | 1 |
 | no remote evidence (stealth-mode startup, remote scope unconfirmed, no APAC/India signal found) | 1 |
 | no remote evidence (official careers page: all roles on-site NYC/SF, contradicts secondary-source claim) | 1 |
 | no remote evidence (US-remote role only, no worldwide/APAC/India signal found) | 1 |
@@ -219,6 +228,7 @@ _Last updated 2026-08-25._
 | location: HQ New Delhi, onsite Delhi-NCR per Gate 2 exclusion list | 1 |
 | location: HQ Gurugram, operates onsite in Delhi/Gurugram/Noida per Gate 2 exclusion list | 1 |
 | location — onsite Ahmedabad (not Bangalore), no remote-work evidence found in careers page or job listings | 1 |
+| location - Noida onsite, no remote evidence found | 1 |
 | location (HQ Noida, onsite, no remote evidence) | 1 |
 | location (HQ Mandi, Himachal Pradesh, onsite, no remote evidence) | 1 |
 | location (HQ Lucknow, onsite, no remote evidence) | 1 |
@@ -245,6 +255,9 @@ _Last updated 2026-08-25._
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
+| cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
+| cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
+| cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |
 | cannot support target comp (pre-seed ~M combined with GPU credits/perks, not verifiable cash funding near M; Mumbai/SF, not Bangalore) | 1 |
 | cannot support target comp (funding amount unverifiable — named backers AICONIC Ventures and Pruven Capital but no confirmed dollar figure; … | 1 |
 | cannot support target comp (funding amount undisclosed/unverifiable — only known investor is Upsparks Capital, no dollar figure found; ~5-pe… | 1 |
@@ -281,7 +294,7 @@ _Last updated 2026-08-25._
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-08-24 | 1 | 11 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-08-25 | 1 | 5 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-08-25 | 1 | 22 |
-| theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | never | 0 | 0 |
+| theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-08-26 | 1 | 5 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | never | 0 | 0 |
 | theme:llm-eval | LLM eval and observability | never | 0 | 0 |
 | theme:memory-context | Memory and context systems | never | 0 | 0 |
