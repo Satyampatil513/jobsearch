@@ -446,10 +446,26 @@ def _md_escape(val: Any) -> str:
     return s[:140] + "…" if len(s) > 140 else s
 
 
+def _session_of(row: Any) -> str:
+    return row["last_verified"] or "unknown"
+
+
+def _group_by_session(rows: list) -> list[tuple[str, list]]:
+    """Group already session-sorted rows into (session, rows) buckets, most-recent first."""
+    groups: list[tuple[str, list]] = []
+    for r in rows:
+        session = _session_of(r)
+        if groups and groups[-1][0] == session:
+            groups[-1][1].append(r)
+        else:
+            groups.append((session, [r]))
+    return groups
+
+
 def generate_report(conn: sqlite3.Connection) -> str:
     ranked = conn.execute(
         "SELECT * FROM companies WHERE status IN ('enriched', 'applied') "
-        "ORDER BY score DESC"
+        "ORDER BY last_verified DESC, score DESC"
     ).fetchall()
     reasons = conn.execute(
         "SELECT reject_reason, COUNT(*) AS n FROM companies WHERE status = 'rejected' "
@@ -472,40 +488,48 @@ def generate_report(conn: sqlite3.Connection) -> str:
     ]
     outreach = [r for r in ranked if r["outreach_flag"]]
     if outreach:
-        lines.append("| Score | Company | Who to contact | Angle |")
-        lines.append("|---|---|---|---|")
-        for r in outreach:
-            lines.append(
-                f"| {_md_escape(r['score'])} | {_md_escape(r['name'] or r['domain'])} "
-                f"({_md_escape(r['domain'])}) | {_md_escape(r['outreach_contact'])} | "
-                f"{_md_escape(r['outreach_angle'])} |"
-            )
+        for session, rows in _group_by_session(outreach):
+            lines.append(f"### Session: {session}")
+            lines.append("")
+            lines.append("| Session | Score | Company | Who to contact | Angle |")
+            lines.append("|---|---|---|---|---|")
+            for r in rows:
+                lines.append(
+                    f"| {_md_escape(session)} | {_md_escape(r['score'])} | "
+                    f"{_md_escape(r['name'] or r['domain'])} "
+                    f"({_md_escape(r['domain'])}) | {_md_escape(r['outreach_contact'])} | "
+                    f"{_md_escape(r['outreach_angle'])} |"
+                )
+            lines.append("")
     else:
         lines.append("_No outreach targets flagged yet._")
     lines += [
-        "",
         "## Ranked candidates",
         "",
     ]
     if ranked:
-        lines.append(
-            "| Tier | Score | Company | Domain | Location | Funding | Last round | "
-            "Headcount | Sector | Risk flags | Careers |"
-        )
-        lines.append("|---|---|---|---|---|---|---|---|---|---|---|")
-        for r in ranked:
-            careers = (r["careers_url"] or "").strip()
-            careers_cell = (
-                f"[link]({careers})"
-                if careers.startswith("http") else _md_escape(careers) or "unknown"
-            )
+        for session, rows in _group_by_session(ranked):
+            lines.append(f"### Session: {session}")
+            lines.append("")
             lines.append(
-                f"| {_md_escape(r['tier'])} | {_md_escape(r['score'])} | "
-                f"{_md_escape(r['name'] or r['domain'])} | {_md_escape(r['domain'])} | "
-                f"{_md_escape(r['hq_location'])} | {_md_escape(r['total_funding'])} | "
-                f"{_md_escape(r['last_round'])} | {_md_escape(r['headcount'])} | "
-                f"{_md_escape(r['sector'])} | {_md_escape(r['risk_flags'])} | {careers_cell} |"
+                "| Session | Tier | Score | Company | Domain | Location | Funding | Last round | "
+                "Headcount | Sector | Risk flags | Careers |"
             )
+            lines.append("|---|---|---|---|---|---|---|---|---|---|---|---|")
+            for r in rows:
+                careers = (r["careers_url"] or "").strip()
+                careers_cell = (
+                    f"[link]({careers})"
+                    if careers.startswith("http") else _md_escape(careers) or "unknown"
+                )
+                lines.append(
+                    f"| {_md_escape(session)} | {_md_escape(r['tier'])} | {_md_escape(r['score'])} | "
+                    f"{_md_escape(r['name'] or r['domain'])} | {_md_escape(r['domain'])} | "
+                    f"{_md_escape(r['hq_location'])} | {_md_escape(r['total_funding'])} | "
+                    f"{_md_escape(r['last_round'])} | {_md_escape(r['headcount'])} | "
+                    f"{_md_escape(r['sector'])} | {_md_escape(r['risk_flags'])} | {careers_cell} |"
+                )
+            lines.append("")
     else:
         lines.append("_No companies enriched yet._")
     lines += ["", "## Rejections by reason", ""]
