@@ -2,7 +2,7 @@
 
 _Last updated 2026-08-27._
 
-**230** companies seen total — **87** enriched, **143** rejected, **0** still queued.
+**241** companies seen total — **95** enriched, **146** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -15,6 +15,13 @@ _Last updated 2026-08-27._
 | 2026-08-27 | 75.0 | Future AGI (futureagi.com) | Nikhil Pareek, Founder & CEO -- LinkedIn: https://www.linkedin.com/in/nikhil-pareek/ (no verified email found; find_contacts.py could not ru… | 1) Open with Future AGI's Feb 2025 multimodal AI evaluation launch and their real R&D presence in Bangalore. 2) Ask about backend/AI enginee… |
 | 2026-08-27 | 74.0 | Cognee (cognee.ai) | Vasilije Markovic (CEO/co-founder) — LinkedIn: linkedin.com/in/vasilije-markovic-13302471 (no public email found; find_contacts.py could not… | 1) Open with Cognee's $7.5M seed (Feb 2026, led by Pebblebed) and the cognee 1.0 open-source memory-platform launch. 2) Ask about backend/AI… |
 | 2026-08-27 | 71.0 | Openlayer (openlayer.com) | Rishab Ramanathan, Co-founder & CTO -- LinkedIn: https://www.linkedin.com/in/rishramanathan (no verified email found; find_contacts.py could… | 1) Open with Openlayer's May 2025 Series A and their 'work from anywhere' policy as the opening for a remote-from-India pitch, since there's… |
+| 2026-08-27 | 59.0 | Naive (naive.com) | Sean Dorje, Co-Founder - LinkedIn: https://www.linkedin.com/in/seandorje/ (no public email found; not guessed) | 1) Open with the Aug 2026 $28.5M Series A (Nexus-led) - very fresh news. 2) Ask about one of the 6 open engineering roles building the agent… |
+| 2026-08-27 | 54.0 | Plastic Labs (plasticlabs.ai) | Vineeth Voruganti, Co-Founder & CTO - LinkedIn: https://www.linkedin.com/in/vineethvoruganti/ (no public email found; not guessed) | 1) Open with the recent Honcho 3.0.0 release and their $5.35M pre-seed (Variant/Betaworks-led). 2) Ask about an engineering role on the memo… |
+| 2026-08-27 | 47.0 | Potpie AI (potpie.ai) | Aditi Kothari, Co-Founder & CEO - LinkedIn: https://www.linkedin.com/in/aditi-kothari (no public email found; not guessed) | 1) Open with the Feb 2026 $2.2M pre-seed and their Fortune 500/regulated-industry traction (Forbes, GlobeNewswire coverage). 2) Ask about a … |
+| 2026-08-27 | 45.0 | Interloom (interloom.com) | Fabian Maximilian Jakobi, Founder & CEO - LinkedIn: https://de.linkedin.com/in/fabian-maximilian-jakobi-68301437 (no public email found; not… | 1) Open with the March 2026 $16.5M seed (DN Capital) and the Zurich Insurance / Fiege enterprise traction. 2) Ask about a backend/AI enginee… |
+| 2026-08-27 | 45.0 | Graphon AI (graphon.ai) | Arbaaz Khan, Founder & CEO - LinkedIn: https://www.linkedin.com/in/arbaazkhan2 (no public email found; not guessed) | 1) Open with the May 2026 stealth exit and $8.3M seed led by Novera Ventures. 2) Ask about the open ML Infrastructure Engineer or Full Stack… |
+| 2026-08-27 | 44.0 | Arga Labs (argalabs.com) | Phillip Li, Co-Founder & CEO - LinkedIn: https://www.linkedin.com/in/phillip-li-a28a84217/ (no public email found; not guessed) | 1) Open with the Aug 26, 2026 TechCrunch coverage of the $10M General Catalyst-led seed - literally days old. 2) Ask directly about joining … |
+| 2026-08-27 | 41.0 | Reload (withreload.com) | Newton Asare, Co-Founder & CEO - LinkedIn: https://www.linkedin.com/in/newtonasare/ (no public email found; not guessed) | 1) Open with the Feb 2026 $2.275M seed and Epic launch (TechCrunch, techcrunch.com/2026/02/19). 2) Ask about a founding/early backend engine… |
 
 ### Session: 2026-08-26
 
@@ -147,11 +154,19 @@ _Last updated 2026-08-27._
 | 2026-08-27 | B | 75.0 | Future AGI | futureagi.com | Mountain View, CA (HQ) with an R&D center in Bangalore, India | $1.6M pre-seed (Feb 2025); also reports $4.1M revenue in 2025 per Latka aggregator (not independently verified with a primary source) | $1.6M pre-seed, Feb 11 2025, co-led by Powerhouse Ventures and Snow Leopard Ventures (https://www.globenewswire.com/news-release/2025/02/11/… | ~37 (Latka estimate, 2026, secondary source) | AI-native infrastructure and devtools | Total disclosed funding is small (~$1.6M, below the typical $2M+ bar) - Gate 3 pass here rests mainly on a third-party-reported $4.1M 2025 r… | [link](https://futureagi.com/) |
 | 2026-08-27 | B | 74.0 | Cognee | cognee.ai | Berlin, Germany (second base in San Francisco) | $7.5M seed | $7.5M seed, announced 2026-02, led by Pebblebed, with 42CAP as follow-on investor | unknown | AI infrastructure / devtools | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://www.cognee.ai/careers) |
 | 2026-08-27 | B | 71.0 | Openlayer | openlayer.com | San Francisco, CA | $19.3M total (per CBInsights) | $14.5M raised May 14 2025 (Series A, YC + Race Capital backed) | 19 employees | AI-native infrastructure and devtools | Remote policy is a general 'work from anywhere' company statement rather than an India-specific job post or a confirmed India-based employee… | [link](https://www.openlayer.com/careers) |
+| 2026-08-27 | C | 59.0 | Naive | naive.com | San Francisco, CA | $28.5M+ (Series A; earlier seed amount not confirmed) | $28.5M Series A, announced Aug 6, 2026 (source: SiliconANGLE, Pulse2) | 8 employees (per SiliconANGLE), hiring for 6 more roles in marketing and engineering | AI-native infrastructure and devtools | None found - fresh $28.5M round just closed (this month), no negative signals in search. | [link](https://www.ycombinator.com/companies/naive) |
 | 2026-08-27 | C | 56.0 | Memories.ai | memories.ai | San Francisco, US | $16M total seed (incl. $8M seed extension) | $8M seed extension, announced 2026-06-22, led by Susa Ventures w/ Samsung Next, Seedcamp, Fusion Fund, Crane Venture Partners, Creator Ventu… | unknown | AI infrastructure | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://memories.ai/careers) |
+| 2026-08-27 | C | 54.0 | Plastic Labs | plasticlabs.ai | New York, NY | $5.35M | $5.35M pre-seed, April 2025 (source: Dealroom, Seedtable) | unknown - actively hiring across DevRel/growth/engineering roles, exact count not found | AI-native infrastructure and devtools | None found for the core AI product - searched for layoffs/down-round signals, found none. Note: some investors (Variant, Seed Club Ventures)… | [link](https://plasticlabs.ai/blog/careers/Growth-Hacker) |
+| 2026-08-27 | C | 47.0 | Potpie AI | potpie.ai | San Francisco, CA | $2.2M pre-seed, plus reported ~$1.1M est. ARR (bootstrapped revenue per Latka) | $2.2M pre-seed, announced Feb 23, 2026 (source: GlobeNewswire, Forbes) | ~12, growing toward ~18 by end of 2026 (per earlier funding coverage) | AI-native infrastructure and devtools | None found - searched specifically for layoffs/negative news around the Feb 2026 funding window and found none; company was actively hiring … | [link](https://wellfound.com/company/potpie-ai/jobs) |
+| 2026-08-27 | C | 45.0 | Interloom | interloom.com | Munich, Germany (also presence in Berlin and London) | $16.5M (~€14.2M) | $16.5M seed, announced March 2026 (source: EU-Startups, Yahoo Finance/Exclusive) | 14-19 (Tracxn: 19 as of Jan 31 2026; PitchBook: 14) | AI-native infrastructure and devtools | None found - searched for layoffs/down-round/founder-exit signals, found none. Funding is recent (5 months old as of Aug 2026), not stale. | [link](https://interloom.com/en/company/) |
+| 2026-08-27 | C | 45.0 | Graphon AI | graphon.ai | San Francisco, CA | $8.3M (one source cites $12M cumulative) | $8.3M seed, announced ~May 14, 2026 (source: Businesswire) | 8 (as of May 31, 2026, per StartupHub.ai) | AI-native infrastructure and devtools | None found - very early/fresh company (stealth exit ~3 months ago), no negative signals found. | [link](https://job-boards.greenhouse.io/graphonai) |
+| 2026-08-27 | C | 44.0 | Arga Labs | argalabs.com | San Francisco, CA | $10M | $10M seed, announced Aug 26, 2026 (source: TechCrunch) | ~4-5 employees | AI-native infrastructure and devtools | None found - funding announced this week (Aug 26, 2026), company is brand new, no negative signals in search. | [link](https://www.argalabs.com/) |
+| 2026-08-27 | C | 41.0 | Reload | withreload.com | Toronto, Canada | $2.275M | $2.275M seed, announced Feb 19, 2026 (source: TechCrunch) | 2-10 (LinkedIn company size band) | AI-native infrastructure and devtools | None found - searched for layoffs/down-round/founder-exit signals, found none. Company is pre-revenue-disclosure early seed stage, normal fo… | [link](https://www.withreload.com/) |
 | 2026-08-27 | C | 40.0 | Dust | dust.tt | Paris, France (also SF/NY offices) | $60M+ total (seed €5M + Series A $16M + Series B $40M) | $40M Series B, 2026, co-led by Sequoia and Abstract, with Datadog and Snowflake participating | 143-163 (2026), under the 200-person Series-B cap and clearly growing fast post-raise | AI-native infrastructure | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://dust.tt) |
 | 2026-08-27 | C | 33.0 | Interloom | interloom.io | Munich, Germany | €14.2M seed | €14.2M seed, announced 2026-03, led by DN Capital, with Bek Ventures and existing investor Air Street Capital | unknown | AI infrastructure | none found — searched for layoffs/shutdown/negative signals, nothing surfaced | unknown |
 | 2026-08-27 | C | 32.0 | Build | build.inc | New York, US (also London office) | $8.5M seed | $8.5M seed, 2026, led by Index Ventures, with Pebblebed, Puzzle Ventures, Tiny.vc | unknown (8 open roles found) | AI-native infrastructure | none found — searched for layoffs/shutdown/negative signals, nothing surfaced | [link](https://build.inc/careers) |
 | 2026-08-27 | C | 17.0 | Arthur AI | arthur.ai | New York, US (also Washington DC) | $65.7M total over 4 rounds | $2.67M, 2026-07-21 (tagged Series B — small relative to the $42M Series B raised historically; read as a bridge/extension, not a fresh headl… | 38 (as of 2026-06-30) — flat/stagnant relative to $65.7M raised since 2018 | AI infrastructure | headcount flat at 38 despite $65.7M raised since 2018 and 8 years of operation; most recent funding tranche ($2.67M, Jul 2026) is unusually … | [link](https://www.arthur.ai/careers) |
+| 2026-08-27 | C | 11.0 | Contextual AI | contextual.ai | Mountain View, CA | $100M+ (per PitchBook) | $80M Series B, Aug 1, 2024 (source: PitchBook) | ~93-95 (Revelio Labs / Craft.co, 2026) | AI-native infrastructure and devtools | Latest confirmed round (Series B, $80M) dated Aug 1 2024 - now ~24-25 months old as of Aug 2026, bordering on stale-funding risk with no new… | [link](https://contextual.ai/careers) |
 
 ### Session: 2026-08-26
 
@@ -385,6 +400,7 @@ _Last updated 2026-08-27._
 | declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
+| dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
@@ -396,8 +412,10 @@ _Last updated 2026-08-27._
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
+| cannot support target comp - only standard YC W26 investment (~00K) confirmed, no additional seed/revenue evidence found | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
 | cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |
+| cannot support target comp - 00K total raised (YC + angels), below M threshold, no revenue evidence | 1 |
 | cannot support target comp (pre-seed ~M combined with GPU credits/perks, not verifiable cash funding near M; Mumbai/SF, not Bangalore) | 1 |
 | cannot support target comp (funding amount unverifiable — named backers AICONIC Ventures and Pruven Capital but no confirmed dollar figure; … | 1 |
 | cannot support target comp (funding amount undisclosed/unverifiable — only known investor is Upsparks Capital, no dollar figure found; ~5-pe… | 1 |
@@ -441,7 +459,7 @@ _Last updated 2026-08-27._
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-08-26 | 1 | 5 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-08-26 | 1 | 5 |
 | theme:llm-eval | LLM eval and observability | 2026-08-27 | 1 | 18 |
-| theme:memory-context | Memory and context systems | never | 0 | 0 |
+| theme:memory-context | Memory and context systems | 2026-08-27 | 1 | 11 |
 | theme:rag-docs | Document and RAG products | never | 0 | 0 |
 | theme:voice-ai | Voice AI | never | 0 | 0 |
 | vertical:edtech-ai | Applied AI — edtech | never | 0 | 0 |
