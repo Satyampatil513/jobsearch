@@ -1,10 +1,18 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-26._
+_Last updated 2026-08-27._
 
-**206** companies seen total — **77** enriched, **129** rejected, **0** still queued.
+**224** companies seen total — **80** enriched, **141** rejected, **3** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-08-27
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-08-27 | 78.0 | TrueFoundry (truefoundry.com) | Nikunj Bajaj, Co-founder & CEO -- LinkedIn: https://www.linkedin.com/in/nikunj-bajaj-10476824/. Unverified lead: nikunj@truefoundry.com (app… | 1) Open with the Feb 2025 $19M Series A (Intel Capital-led) and the active Bengaluru hiring push across engineering. 2) Ask specifically abo… |
+| 2026-08-27 | 75.0 | Future AGI (futureagi.com) | Nikhil Pareek, Founder & CEO -- LinkedIn: https://www.linkedin.com/in/nikhil-pareek/ (no verified email found; find_contacts.py could not ru… | 1) Open with Future AGI's Feb 2025 multimodal AI evaluation launch and their real R&D presence in Bangalore. 2) Ask about backend/AI enginee… |
+| 2026-08-27 | 71.0 | Openlayer (openlayer.com) | Rishab Ramanathan, Co-founder & CTO -- LinkedIn: https://www.linkedin.com/in/rishramanathan (no verified email found; find_contacts.py could… | 1) Open with Openlayer's May 2025 Series A and their 'work from anywhere' policy as the opening for a remote-from-India pitch, since there's… |
 
 ### Session: 2026-08-26
 
@@ -127,6 +135,14 @@ _Last updated 2026-08-26._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-08-27
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-27 | B | 78.0 | TrueFoundry | truefoundry.com | Dual base: San Francisco Bay Area (CEO) with a substantial Bengaluru, India engineering office | $21.3M total over 2 rounds | $19M Series A, Feb 6 2025, led by Intel Capital with Peak XV and Eniac Ventures (https://www.unite.ai/truefoundry-secures-19-million-series-… | Reported inconsistently across sources: 45 (PitchBook), 123 (Tracxn, mid-2026), 51-200 (Wellfound) - treat as 'growing, roughly 50-120' | AI-native infrastructure and devtools | Headcount figures vary widely by source (45 to 123) - could not pin down an exact number. No layoffs, down-round or founder-departure signal… | [link](https://www.truefoundry.com/careers) |
+| 2026-08-27 | B | 75.0 | Future AGI | futureagi.com | Mountain View, CA (HQ) with an R&D center in Bangalore, India | $1.6M pre-seed (Feb 2025); also reports $4.1M revenue in 2025 per Latka aggregator (not independently verified with a primary source) | $1.6M pre-seed, Feb 11 2025, co-led by Powerhouse Ventures and Snow Leopard Ventures (https://www.globenewswire.com/news-release/2025/02/11/… | ~37 (Latka estimate, 2026, secondary source) | AI-native infrastructure and devtools | Total disclosed funding is small (~$1.6M, below the typical $2M+ bar) - Gate 3 pass here rests mainly on a third-party-reported $4.1M 2025 r… | [link](https://futureagi.com/) |
+| 2026-08-27 | B | 71.0 | Openlayer | openlayer.com | San Francisco, CA | $19.3M total (per CBInsights) | $14.5M raised May 14 2025 (Series A, YC + Race Capital backed) | 19 employees | AI-native infrastructure and devtools | Remote policy is a general 'work from anywhere' company statement rather than an India-specific job post or a confirmed India-based employee… | [link](https://www.openlayer.com/careers) |
 
 ### Session: 2026-08-26
 
@@ -287,14 +303,23 @@ _Last updated 2026-08-26._
 | not an AI-native software company (core product is a SEBI-registered stock broking/trading platform -- Series B, ex-Swiggy-CTO-founded; AI i… | 1 |
 | not an AI-native software company (bedside hardware sleep device) | 1 |
 | no remote evidence: solo-founder US email client, no funding; the AI Engineer role on Wellfound is explicitly on-site in New York, NY | 1 |
+| no remote evidence: YC/SF-based, careers page suggests general remote flexibility but no worldwide/global/India-specific statement found | 1 |
 | no remote evidence: US-based (Arlington VA) product/govtech company, 17 employees, job posts say 'Remote' but none name India/APAC/worldwide… | 1 |
+| no remote evidence: SF-based, no India presence, remote policy, or India-eligible job posting found | 1 |
 | no remote evidence: SF-based, 2 employees, YC-backed RCS messaging API, no India/APAC/worldwide remote hiring signal found | 1 |
+| no remote evidence: SF-based YC company, hybrid remote/onsite for existing team but no India or remote-worldwide statement found | 1 |
 | no remote evidence: SF-based YC W26, all posted roles (Founding AI/ML Research Engineer, Founding GTM Engineer) explicitly require San Franc… | 1 |
 | no remote evidence: SF-based AI healthcare-logistics startup, 1-10 employees, only 1 open role and no location/remote-scope info found beyon… | 1 |
 | no remote evidence: SF Bay Area industrial/engineering AI (Archie), Series A, remote roles explicitly limited to 'nationwide (US and Canada)… | 1 |
 | no remote evidence: SF Bay Area healthtech conversational-AI company (getpythagoras.ai), 1-10 employees, no careers info naming India/APAC/w… | 1 |
+| no remote evidence: Paris-based (Alex Combessie), no India presence or remote-worldwide statement found | 1 |
+| no remote evidence: NYC/Tel Aviv based (Opik/Comet ML), no India presence or remote-worldwide statement found | 1 |
+| no remote evidence: NYC-based, no India presence or remote-worldwide statement found | 1 |
+| no remote evidence: NYC in-person office culture explicitly described, no India or remote-worldwide evidence found | 1 |
+| no remote evidence: Menlo Park-based; only signal found was a generic multi-location web3.career job listing template naming Bengaluru among… | 1 |
 | no remote evidence: HQ New York, US, no India presence or remote-international signal found | 1 |
 | no remote evidence: HQ Jersey City, US, no India presence or remote-international signal found despite Indian-origin founder | 1 |
+| no remote evidence: Boulder CO-based, explicitly prefers on-site with periodic Boulder visits required even for remote exceptions, no India … | 1 |
 | no remote evidence — HQ San Francisco, co-founder based Singapore, no India presence, remote policy, or hiring signal found | 1 |
 | no remote evidence — HQ SF, team described as distributed/remote-friendly but no concrete India/APAC job post, employee, or EOR evidence fou… | 1 |
 | no remote evidence — HQ SF, roles are hybrid 4-days-onsite/1-day-remote SF only, no India evidence | 1 |
@@ -321,6 +346,7 @@ _Last updated 2026-08-26._
 | no remote evidence (HQ San Jose, Bay-Area-only team) plus stale-funding risk (cited rounds ~4yrs old, tied to prior entity Switchboard, no n… | 1 |
 | no remote evidence (HQ Prague, 4 employees, no India/EOR signal) and cannot support target comp (total funding only ~.07M pre-seed, below M … | 1 |
 | no remote evidence (Europe-scoped hiring, no worldwide/APAC/India signal found) | 1 |
+| no funding/hiring/product/news signal in 12+ months: last funding 2022 seed under original web3 identity (Scale3 Labs), no 2025-2026 news, f… | 1 |
 | location: hiring is Mumbai-onsite (Backend/Frontend/SDE roles all listed Mumbai), no remote-within-India or remote-international evidence fo… | 1 |
 | location: corporate office in Noida per Gate 2 exclusion list | 1 |
 | location: HQ is Mumbai/Thane, Maharashtra (registered as ZKAP Edtech Services Pvt Ltd, Kalyan, Thane per Tracxn), not Bangalore or remote-wi… | 1 |
@@ -347,6 +373,7 @@ _Last updated 2026-08-26._
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
 | duplicate of aina.com (same company, formerly stealth-named Project Mirage) | 1 |
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
+| declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
@@ -370,6 +397,7 @@ _Last updated 2026-08-26._
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
 | acquired and absorbed — acquired by Foundry (VFX/creative software), deal completed Feb 18, 2026; no longer an independent hiring startup | 1 |
+| acquired and absorbed by Coralogix, Dec 2024 - no longer an independent company | 1 |
 | acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
 | Series C, 75M raised, 634 employees — far past Series B / 200-person cap, large slow-growing devtools company at this stage | 1 |
 | Gate 4 negative signals: round is ~2yrs old not 2026, reportedly failed to raise Series A, recent layoffs (user feedback - pipeline data was… | 1 |
@@ -399,7 +427,7 @@ _Last updated 2026-08-26._
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-08-25 | 1 | 22 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-08-26 | 1 | 5 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-08-26 | 1 | 5 |
-| theme:llm-eval | LLM eval and observability | never | 0 | 0 |
+| theme:llm-eval | LLM eval and observability | 2026-08-27 | 1 | 18 |
 | theme:memory-context | Memory and context systems | never | 0 | 0 |
 | theme:rag-docs | Document and RAG products | never | 0 | 0 |
 | theme:voice-ai | Voice AI | never | 0 | 0 |
