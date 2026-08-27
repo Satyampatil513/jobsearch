@@ -2,7 +2,7 @@
 
 _Last updated 2026-08-27._
 
-**230** companies seen total — **83** enriched, **147** rejected, **0** still queued.
+**230** companies seen total — **87** enriched, **143** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -148,6 +148,10 @@ _Last updated 2026-08-27._
 | 2026-08-27 | B | 74.0 | Cognee | cognee.ai | Berlin, Germany (second base in San Francisco) | $7.5M seed | $7.5M seed, announced 2026-02, led by Pebblebed, with 42CAP as follow-on investor | unknown | AI infrastructure / devtools | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://www.cognee.ai/careers) |
 | 2026-08-27 | B | 71.0 | Openlayer | openlayer.com | San Francisco, CA | $19.3M total (per CBInsights) | $14.5M raised May 14 2025 (Series A, YC + Race Capital backed) | 19 employees | AI-native infrastructure and devtools | Remote policy is a general 'work from anywhere' company statement rather than an India-specific job post or a confirmed India-based employee… | [link](https://www.openlayer.com/careers) |
 | 2026-08-27 | C | 56.0 | Memories.ai | memories.ai | San Francisco, US | $16M total seed (incl. $8M seed extension) | $8M seed extension, announced 2026-06-22, led by Susa Ventures w/ Samsung Next, Seedcamp, Fusion Fund, Crane Venture Partners, Creator Ventu… | unknown | AI infrastructure | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://memories.ai/careers) |
+| 2026-08-27 | C | 40.0 | Dust | dust.tt | Paris, France (also SF/NY offices) | $60M+ total (seed €5M + Series A $16M + Series B $40M) | $40M Series B, 2026, co-led by Sequoia and Abstract, with Datadog and Snowflake participating | 143-163 (2026), under the 200-person Series-B cap and clearly growing fast post-raise | AI-native infrastructure | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://dust.tt) |
+| 2026-08-27 | C | 33.0 | Interloom | interloom.io | Munich, Germany | €14.2M seed | €14.2M seed, announced 2026-03, led by DN Capital, with Bek Ventures and existing investor Air Street Capital | unknown | AI infrastructure | none found — searched for layoffs/shutdown/negative signals, nothing surfaced | unknown |
+| 2026-08-27 | C | 32.0 | Build | build.inc | New York, US (also London office) | $8.5M seed | $8.5M seed, 2026, led by Index Ventures, with Pebblebed, Puzzle Ventures, Tiny.vc | unknown (8 open roles found) | AI-native infrastructure | none found — searched for layoffs/shutdown/negative signals, nothing surfaced | [link](https://build.inc/careers) |
+| 2026-08-27 | C | 17.0 | Arthur AI | arthur.ai | New York, US (also Washington DC) | $65.7M total over 4 rounds | $2.67M, 2026-07-21 (tagged Series B — small relative to the $42M Series B raised historically; read as a bridge/extension, not a fresh headl… | 38 (as of 2026-06-30) — flat/stagnant relative to $65.7M raised since 2018 | AI infrastructure | headcount flat at 38 despite $65.7M raised since 2018 and 8 years of operation; most recent funding tranche ($2.67M, Jul 2026) is unusually … | [link](https://www.arthur.ai/careers) |
 
 ### Session: 2026-08-26
 
@@ -325,9 +329,6 @@ _Last updated 2026-08-27._
 | no remote evidence: HQ New York, US, no India presence or remote-international signal found | 1 |
 | no remote evidence: HQ Jersey City, US, no India presence or remote-international signal found despite Indian-origin founder | 1 |
 | no remote evidence: Boulder CO-based, explicitly prefers on-site with periodic Boulder visits required even for remote exceptions, no India … | 1 |
-| no remote evidence — hybrid NYC/DC roles only; also headcount stuck at 38 despite $65.7M raised since 2018 and a tiny $2.67M follow-on in Ju… | 1 |
-| no remote evidence — Munich HQ, no remote-worldwide statement or India signal found despite strong €14.2M DN Capital seed | 1 |
-| no remote evidence — Luxembourg HQ, no remote/global hiring signal found (also thin funding ~€1M, would separately fail Gate 3) | 1 |
 | no remote evidence — HQ San Francisco, co-founder based Singapore, no India presence, remote policy, or hiring signal found | 1 |
 | no remote evidence — HQ SF, team described as distributed/remote-friendly but no concrete India/APAC job post, employee, or EOR evidence fou… | 1 |
 | no remote evidence — HQ SF, roles are hybrid 4-days-onsite/1-day-remote SF only, no India evidence | 1 |
@@ -335,11 +336,9 @@ _Last updated 2026-08-27._
 | no remote evidence — HQ SF, engineering roles explicitly SF in-person culture, no India/APAC/EOR evidence found | 1 |
 | no remote evidence — HQ SF, careers page explicitly in-office SF culture (25%+ relocated for the job), no India/remote-worldwide evidence fo… | 1 |
 | no remote evidence — HQ SF (YC W25), no India/APAC job posts, no India employee, no EOR mention found | 1 |
-| no remote evidence — HQ Paris with SF/NY offices, office-first culture, no India office/employee/EOR evidence found | 1 |
 | no remote evidence — HQ Oakland CA, no India/global-remote job posts, no India employees or EOR evidence found | 1 |
 | no remote evidence — HQ New York/London, 8 open engineering roles found but none mention remote-India or global-remote eligibility; no India… | 1 |
 | no remote evidence — HQ Berlin, only remote role found is US-restricted (Forward Deployed Engineer, USA-remote), no India evidence | 1 |
-| no remote evidence — 6 of 8 open roles in-person NYC/London office, no India/global remote statement or employee found | 1 |
 | no remote evidence for India/APAC (their open remote roles name Sri Lanka specifically, not India or 'APAC' as a category — same as the UK/P… | 1 |
 | no remote evidence - careers page lists only UK/Canada/Poland/Brazil/Argentina as remote locations, no India/APAC or worldwide/global langua… | 1 |
 | no remote evidence - Tel Aviv HQ, no India/APAC signal found | 1 |
@@ -395,6 +394,7 @@ _Last updated 2026-08-27._
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
+| cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
 | cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |

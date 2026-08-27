@@ -41,31 +41,37 @@ product?"* If the honest answer is no, reject.
 
 ---
 
-# GATE 2 — Location
+# GATE 2 — Location (soft — scores, does not reject)
 
-**Reject anything that fails this.** Satyam is in Noida now and the whole point of the
-move is to leave.
+**This gate no longer rejects anything.** It used to be a hard cut when the pipeline was
+India-only; now that sourcing has expanded to Europe/US, location is a scoring factor, not
+a gatekeeper. Every company that passes Gates 1, 3 and 4 gets scored and recorded,
+regardless of where it's based or what its remote policy is. Satyam is in Noida now and
+would relocate for the right role, but a great non-India company is worth an outreach
+email even with no India-specific hiring motion — it just scores lower than one that has
+it.
 
-**Passes:**
-- **Bangalore / Bengaluru** — the bullseye, he will relocate
-- **Remote-within-India** — genuinely remote for India-based employees
-- **Remote-international** with India eligibility, per the evidence rules below
+**Location bands, for `hq_location` / `remote_policy` / `remote_evidence` and the scoring
+modifier below:**
+- **Bangalore / Bengaluru** — the bullseye, he will relocate. No penalty.
+- **Remote-within-India** — genuinely remote for India-based employees. No penalty.
+- **Remote-international with India eligibility** — per the evidence rules below. No
+  penalty (the existing -15 "inferred rather than stated" modifier still applies).
+- **Remote-international/global with no India-specific evidence** — e.g. "fully remote"
+  or "remote worldwide" language but nothing naming India or APAC. See -20 modifier below.
+- **Onsite only, anywhere outside Bangalore** — India (Noida, Gurugram, Delhi-NCR,
+  Mumbai, Hyderabad, Pune, Chennai) or abroad (Munich, Berlin, Paris, NYC, etc.) with no
+  stated remote policy at all. See -35 modifier below. (YoLearn.ai is the canonical
+  example — Noida-onsite, still worth scoring, just heavily penalized.)
 
-**Rejects (reason "location"):** onsite anywhere else in India — Noida, Gurugram, Delhi,
-NCR generally, Mumbai, Hyderabad, Pune, Chennai. A great company that requires onsite
-presence in Delhi-NCR is a rejection, not a compromise. (YoLearn.ai was correctly
-identified as a good product and wrongly surfaced — it is Noida-onsite.)
-
-Recheck 180d rather than permanent when a company is otherwise excellent and might open a
-Bangalore office or go remote.
-
-**Remote-international evidence** (only needed for companies with no India presence):
+**Remote-international evidence** (needed to avoid the -20/-35 penalties below):
   (a) a job post saying remote worldwide / global / APAC / India
   (b) an existing employee based in India or APAC on LinkedIn
   (c) a stated EOR or contractor setup (Deel, Remote.com, Rippling, Oyster)
   (d) a public founder statement about hiring globally
-Record which signal, quoted, in `remote_evidence`. No evidence → reject "no remote
-evidence", recheck 90d.
+Record which signal, quoted, in `remote_evidence`. No evidence found → still record and
+score, just note "no remote evidence found" in `remote_evidence` and apply the
+appropriate penalty below rather than rejecting.
 
 ---
 
@@ -166,10 +172,11 @@ Dead: shut down, acquired and absorbed, no product, unreachable domain.
 
 ## Soft exclusions (reject with TTL)
 - No funding, hiring, product or news signal in 12+ months → recheck 90d
-- No remote evidence, non-India companies only → recheck 90d
-- Fails Gate 2 (location) → recheck 180d
 - Fails Gate 3 (comp) → recheck 180d
 - Fails Gate 4 (negative signals) → recheck 180d
+
+Gate 2 (location) no longer rejects — see above. It only feeds the -20/-35 scoring
+modifiers.
 
 ## Already contacted — reject permanently, reason "already in pipeline"
 Emergent, GetCrux, LiteLLM, Synth, Infisical, ProhostAI, WarpBuild, Alaan, Wifi Dabba,
@@ -222,6 +229,10 @@ there a posting today."
 - -15 `remote_evidence` inferred rather than stated. Applies ONLY when a genuine signal
   (a)-(d) exists but had to be pieced together. Not a way to enrich a company satisfying
   none of them, and not applicable to India-based companies.
+- -20 remote-international/global with no India-specific evidence (Gate 2 soft penalty,
+  "remote worldwide" language but nothing naming India/APAC)
+- -35 onsite only, anywhere outside Bangalore — India or abroad — with no stated remote
+  policy at all (Gate 2 soft penalty, replaces the old hard rejection)
 - -20 stale funding (round older than ~24 months with no newer raise)
 
 **A score of 100 should be nearly unreachable.** If a company hits the cap, re-check that

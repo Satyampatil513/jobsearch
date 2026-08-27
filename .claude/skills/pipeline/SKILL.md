@@ -43,9 +43,10 @@ exclusions and scoring.
      vehicles, satellites, and non-AI software are permanent rejections no matter how good
      the team or funding look. Litmus test: *would they hire a Python/FastAPI/LLM backend
      engineer to build the core product?* If no, reject and move on.
-   - **Gate 2 — Location.** Bangalore, remote-within-India, or remote-international with
-     India eligibility. Onsite anywhere else in India (Delhi-NCR, Mumbai, Hyderabad, Pune)
-     → reject, recheck 180d.
+   - **Gate 2 — Location (soft).** Does not reject. Bangalore, remote-within-India, or
+     remote-international with India eligibility score best; anything else (onsite
+     elsewhere in India, onsite abroad, or remote with no India-specific evidence) still
+     gets scored, just with a -20 or -35 modifier per `config/criteria.md`.
    - **Gate 3 — Can they pay 25-30+ LPA?** Needs ~$2M+ raised or verifiable revenue.
      Unfunded or bootstrapped with no revenue evidence → reject, recheck 180d.
    - **Gate 4 — Health and data freshness.** Actively search for layoffs, down rounds,
