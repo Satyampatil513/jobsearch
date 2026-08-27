@@ -2,7 +2,7 @@
 
 _Last updated 2026-08-27._
 
-**224** companies seen total — **80** enriched, **141** rejected, **3** still queued.
+**230** companies seen total — **83** enriched, **147** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,7 +11,9 @@ _Last updated 2026-08-27._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-08-27 | 78.0 | TrueFoundry (truefoundry.com) | Nikunj Bajaj, Co-founder & CEO -- LinkedIn: https://www.linkedin.com/in/nikunj-bajaj-10476824/. Unverified lead: nikunj@truefoundry.com (app… | 1) Open with the Feb 2025 $19M Series A (Intel Capital-led) and the active Bengaluru hiring push across engineering. 2) Ask specifically abo… |
+| 2026-08-27 | 76.0 | Maisa (maisa.ai) | David Villalón (CEO/co-founder) — LinkedIn: linkedin.com/in/davidvillalonpardo (no public email found; email not invented) | 1) Open with the $25M Creandum-led Series A (Aug 2025) and Maisa Studio's push into auditable, hallucination-resistant enterprise agents. 2)… |
 | 2026-08-27 | 75.0 | Future AGI (futureagi.com) | Nikhil Pareek, Founder & CEO -- LinkedIn: https://www.linkedin.com/in/nikhil-pareek/ (no verified email found; find_contacts.py could not ru… | 1) Open with Future AGI's Feb 2025 multimodal AI evaluation launch and their real R&D presence in Bangalore. 2) Ask about backend/AI enginee… |
+| 2026-08-27 | 74.0 | Cognee (cognee.ai) | Vasilije Markovic (CEO/co-founder) — LinkedIn: linkedin.com/in/vasilije-markovic-13302471 (no public email found; find_contacts.py could not… | 1) Open with Cognee's $7.5M seed (Feb 2026, led by Pebblebed) and the cognee 1.0 open-source memory-platform launch. 2) Ask about backend/AI… |
 | 2026-08-27 | 71.0 | Openlayer (openlayer.com) | Rishab Ramanathan, Co-founder & CTO -- LinkedIn: https://www.linkedin.com/in/rishramanathan (no verified email found; find_contacts.py could… | 1) Open with Openlayer's May 2025 Series A and their 'work from anywhere' policy as the opening for a remote-from-India pitch, since there's… |
 
 ### Session: 2026-08-26
@@ -141,8 +143,11 @@ _Last updated 2026-08-27._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-08-27 | B | 78.0 | TrueFoundry | truefoundry.com | Dual base: San Francisco Bay Area (CEO) with a substantial Bengaluru, India engineering office | $21.3M total over 2 rounds | $19M Series A, Feb 6 2025, led by Intel Capital with Peak XV and Eniac Ventures (https://www.unite.ai/truefoundry-secures-19-million-series-… | Reported inconsistently across sources: 45 (PitchBook), 123 (Tracxn, mid-2026), 51-200 (Wellfound) - treat as 'growing, roughly 50-120' | AI-native infrastructure and devtools | Headcount figures vary widely by source (45 to 123) - could not pin down an exact number. No layoffs, down-round or founder-departure signal… | [link](https://www.truefoundry.com/careers) |
+| 2026-08-27 | B | 76.0 | Maisa | maisa.ai | Valencia, Spain / San Francisco, US | ~$30M total ($25M Series A + $5M pre-seed) | $25M Series A, announced 2025-08-27, led by Creandum, with Forgepoint Capital (via Banco Santander JV), NFX, Village Global | unknown | AI-first SaaS / enterprise agentic automation | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://maisa.ai/careers) |
 | 2026-08-27 | B | 75.0 | Future AGI | futureagi.com | Mountain View, CA (HQ) with an R&D center in Bangalore, India | $1.6M pre-seed (Feb 2025); also reports $4.1M revenue in 2025 per Latka aggregator (not independently verified with a primary source) | $1.6M pre-seed, Feb 11 2025, co-led by Powerhouse Ventures and Snow Leopard Ventures (https://www.globenewswire.com/news-release/2025/02/11/… | ~37 (Latka estimate, 2026, secondary source) | AI-native infrastructure and devtools | Total disclosed funding is small (~$1.6M, below the typical $2M+ bar) - Gate 3 pass here rests mainly on a third-party-reported $4.1M 2025 r… | [link](https://futureagi.com/) |
+| 2026-08-27 | B | 74.0 | Cognee | cognee.ai | Berlin, Germany (second base in San Francisco) | $7.5M seed | $7.5M seed, announced 2026-02, led by Pebblebed, with 42CAP as follow-on investor | unknown | AI infrastructure / devtools | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://www.cognee.ai/careers) |
 | 2026-08-27 | B | 71.0 | Openlayer | openlayer.com | San Francisco, CA | $19.3M total (per CBInsights) | $14.5M raised May 14 2025 (Series A, YC + Race Capital backed) | 19 employees | AI-native infrastructure and devtools | Remote policy is a general 'work from anywhere' company statement rather than an India-specific job post or a confirmed India-based employee… | [link](https://www.openlayer.com/careers) |
+| 2026-08-27 | C | 56.0 | Memories.ai | memories.ai | San Francisco, US | $16M total seed (incl. $8M seed extension) | $8M seed extension, announced 2026-06-22, led by Susa Ventures w/ Samsung Next, Seedcamp, Fusion Fund, Crane Venture Partners, Creator Ventu… | unknown | AI infrastructure | none found — searched for layoffs/down-round/negative signals, nothing surfaced | [link](https://memories.ai/careers) |
 
 ### Session: 2026-08-26
 
@@ -320,6 +325,9 @@ _Last updated 2026-08-27._
 | no remote evidence: HQ New York, US, no India presence or remote-international signal found | 1 |
 | no remote evidence: HQ Jersey City, US, no India presence or remote-international signal found despite Indian-origin founder | 1 |
 | no remote evidence: Boulder CO-based, explicitly prefers on-site with periodic Boulder visits required even for remote exceptions, no India … | 1 |
+| no remote evidence — hybrid NYC/DC roles only; also headcount stuck at 38 despite $65.7M raised since 2018 and a tiny $2.67M follow-on in Ju… | 1 |
+| no remote evidence — Munich HQ, no remote-worldwide statement or India signal found despite strong €14.2M DN Capital seed | 1 |
+| no remote evidence — Luxembourg HQ, no remote/global hiring signal found (also thin funding ~€1M, would separately fail Gate 3) | 1 |
 | no remote evidence — HQ San Francisco, co-founder based Singapore, no India presence, remote policy, or hiring signal found | 1 |
 | no remote evidence — HQ SF, team described as distributed/remote-friendly but no concrete India/APAC job post, employee, or EOR evidence fou… | 1 |
 | no remote evidence — HQ SF, roles are hybrid 4-days-onsite/1-day-remote SF only, no India evidence | 1 |
@@ -331,6 +339,7 @@ _Last updated 2026-08-27._
 | no remote evidence — HQ Oakland CA, no India/global-remote job posts, no India employees or EOR evidence found | 1 |
 | no remote evidence — HQ New York/London, 8 open engineering roles found but none mention remote-India or global-remote eligibility; no India… | 1 |
 | no remote evidence — HQ Berlin, only remote role found is US-restricted (Forward Deployed Engineer, USA-remote), no India evidence | 1 |
+| no remote evidence — 6 of 8 open roles in-person NYC/London office, no India/global remote statement or employee found | 1 |
 | no remote evidence for India/APAC (their open remote roles name Sri Lanka specifically, not India or 'APAC' as a category — same as the UK/P… | 1 |
 | no remote evidence - careers page lists only UK/Canada/Poland/Brazil/Argentina as remote locations, no India/APAC or worldwide/global langua… | 1 |
 | no remote evidence - Tel Aviv HQ, no India/APAC signal found | 1 |
@@ -371,6 +380,7 @@ _Last updated 2026-08-27._
 | hard exclusion Gate 1: canine diagnostics device/biotech hardware (user feedback) | 1 |
 | hard exclusion Gate 1: avionics/aerospace component manufacturing, not an AI-native software company (user feedback) | 1 |
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
+| excluded sector: pure security/infosec (LLM security tooling) — hard exclusion regardless of funding/team quality | 1 |
 | duplicate of aina.com (same company, formerly stealth-named Project Mirage) | 1 |
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
 | declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
@@ -396,6 +406,7 @@ _Last updated 2026-08-27._
 | cannot support target comp (00K total funding, ~5 employees — tiny pre-seed with nothing else going for it per Gate 3; also US-based, no con… | 1 |
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
+| acquired by Apple Jan 2025, company discontinuing operations | 1 |
 | acquired and absorbed — acquired by Foundry (VFX/creative software), deal completed Feb 18, 2026; no longer an independent hiring startup | 1 |
 | acquired and absorbed by Coralogix, Dec 2024 - no longer an independent company | 1 |
 | acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
@@ -414,9 +425,11 @@ _Last updated 2026-08-27._
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-08-17 | 1 | 9 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-08-21 | 1 | 11 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-08-22 | 1 | 10 |
+| geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-08-18 | 1 | 10 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-08-19 | 1 | 7 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-08-22 | 1 | 12 |
+| geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-08-20 | 1 | 11 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-08-21 | 1 | 10 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-08-23 | 1 | 9 |

@@ -78,3 +78,9 @@ sources:
   # --- Recency ---
   - id: recency:seed-90d
     label: Seed rounds announced in the last 90 days
+
+  # --- Europe/US expansion: non-YC-backed, remote-open-to-India only (Gate 2 still applies) ---
+  - id: geo:europe-non-yc-early
+    label: Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage
+  - id: geo:us-non-yc-early
+    label: US AI startups, non-YC-backed, funded by other reputable VCs, early stage
