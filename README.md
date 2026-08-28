@@ -1,10 +1,21 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-27._
+_Last updated 2026-08-28._
 
-**241** companies seen total — **95** enriched, **146** rejected, **0** still queued.
+**253** companies seen total — **102** enriched, **151** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-08-28
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-08-28 | 85.0 | Unsiloed AI (unsiloed.ai) | Aman Mishra, co-founder/CEO -- LinkedIn https://www.linkedin.com/in/aman005/ (no public email found; find_contacts.py could not run this ses… | 1. Open with their #1 olmOCR-Bench rank and the YC F25 launch traction (200+ demo requests). 2. Ask about backend/AI engineering roles -- th… |
+| 2026-08-28 | 64.0 | Vectorize (vectorize.io) | Chris Latimer, co-founder/CEO -- LinkedIn https://www.linkedin.com/in/chrislatimer/ (RocketReach lists contact info behind a paywall, not in… | 1. Open with the RAG pipeline automation angle and their recent move into agentic RAG (Nov 2025) -- a builder-to-builder note. 2. Ask direct… |
+| 2026-08-28 | 58.0 | Datalab (datalab.to) | Vik Paruchuri, founder -- vik@datalab.to (posted publicly by Vik himself on X/Twitter, not a guess: 'feel free to DM me, or email vik@datala… | 1. Open with Marker 2's Hacker News launch and the 7-figure ARR / Anthropic-as-customer milestone (per forkable.io, mid-2025) -- a builder-t… |
+| 2026-08-28 | 58.0 | Blockbrain (blockbrain.ai) | Antonius Gress, co-founder/CEO -- LinkedIn https://de.linkedin.com/in/antoniusgress/en (no public email found; find_contacts.py could not ru… | 1. Open with the EUR17.5M Series A (Feb 2026) and the 70+ enterprise customer roster (Bosch, Kaercher, Roland Berger) as the hook. 2. Ask sp… |
+| 2026-08-28 | 46.0 | Pulse AI (runpulse.com) | Sid Manchkanti, co-founder/CEO -- LinkedIn https://www.linkedin.com/in/sidmanchkanti/ (no public email found; find_contacts.py could not run… | 1. Open with the NFDG-led seed (Nat Friedman/Daniel Gross backing is a strong signal) and the olmOCR-adjacent document-extraction accuracy p… |
+| 2026-08-28 | 42.0 | Ellis (ellis.ai) | Ryan Williams, founder/CEO -- LinkedIn https://www.linkedin.com/in/ryanawilliams1/ (no public email found; find_contacts.py could not run th… | 1. Open with the stealth emergence and $10M seed (Jul 30 2026) -- fresh news, good timing for a cold note. 2. Ask about any earlier-career b… |
 
 ### Session: 2026-08-27
 
@@ -144,6 +155,18 @@ _Last updated 2026-08-27._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-08-28
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-28 | A | 85.0 | Unsiloed AI | unsiloed.ai | Bangalore, India (also SF Bay Area presence) | $500K | Seed, Sep 8 2025 -- Entrepreneurs First, Orange Collective, Spot VC, Transpose Platform Management, Y Combinator (per Tracxn) | 4-5 people (getlatka: 5-person team hit $550K revenue in 2025; another source lists 4 employees as of mid-2026) | AI-native infrastructure and devtools | none found -- actively searched for layoffs/shutdown/down-round signals specific to Unsiloed AI and found none; company reads as actively gr… | [link](https://wellfound.com/company/unsiloed-ai) |
+| 2026-08-28 | C | 64.0 | Vectorize | vectorize.io | distributed/remote (Chris Bartholomew based in Ottawa; no single HQ city found) | $3.6M | Seed, announced Oct 8 2024, led by True Ventures | ~7 people (mid-2026) | AI-native infrastructure and devtools | none found -- actively searched for layoffs/down-round/negative signals and found none; funding round is ~22 months old as of Aug 2026, appr… | [link](https://vectorize.io/careers) |
+| 2026-08-28 | C | 58.0 | Datalab | datalab.to | Brooklyn, NY (Industrious coworking space, Prospect Heights) | $3.5M | Seed, ~mid-2025 (reported publicly by Jun 17 2025 per forkable.io profile) led by Pebblebed, with Peak XV and angels (Balaji Srinivasan, Hug… | 7-8 people | AI-native infrastructure and devtools | none found -- actively searched for layoffs/down-round/founder-exit signals and found none; company appears healthy and growing (revenue-pos… | [link](https://www.builtinnyc.com/company/datalab) |
+| 2026-08-28 | C | 58.0 | Blockbrain | blockbrain.ai | Stuttgart, Germany (also offices/roles in Hamburg and Munich) | $27.9M total (per PitchBook); this round EUR17.5M | Series A, EUR17.5M, announced Feb 12 2026, led by Alstin Capital and 13books Capital, with the HARTING Family Foundation participating | 46 (per PitchBook) | AI-native infrastructure and devtools | none found -- actively searched for layoffs/founder departure/negative signals; one search returned unrelated results about a different comp… | [link](https://blockbrain.ai/en/careers) |
+| 2026-08-28 | C | 46.0 | Pulse AI | runpulse.com | San Francisco, CA | $3.9M | Seed, closed Feb 19 2025, led by Nat Friedman and Daniel Gross (NFDG), with Y Combinator, Sequoia Capital Scout, Soma Capital, Liquid 2 Vent… | 26-33 people (33 per Tracxn as of Apr 30 2026) | AI-native infrastructure and devtools | none found -- actively searched for layoffs/down-round/founder-exit signals specific to runpulse.com and found none | [link](https://www.runpulse.com/careers) |
+| 2026-08-28 | C | 45.0 | Unstructured | unstructured.io | United States (SF Bay Area presence per Built In SF postings) | $65-68M total (Tracxn/PitchBook vary slightly) | Series C, $40M, led by Menlo Ventures and Bain Capital Ventures at a $200M valuation (date not precisely confirmed beyond 'recent' per sales… | 124 (as of Jun 2026 per Tracxn) | AI-native infrastructure and devtools | none found -- actively searched for layoffs/down-round signals and found none; company reads as healthy and growing | [link](https://builtin.com/company/unstructuredio) |
+| 2026-08-28 | C | 42.0 | Ellis | ellis.ai | Brooklyn, New York (per LinkedIn job posting 'Software Engineer \| Backend in Brooklyn, New York') | $10M+ | Seed, announced Jul 30 2026 (emergence from stealth) -- First Round Capital, 645 Ventures, Harlem Capital, Khosla Ventures, Thrive Capital, … | unknown -- just emerged from stealth, exact count not found this session | AI-first fintech | none found -- actively searched for layoffs/down-round/founder-exit signals and found none; company is brand-new out of stealth so there is … | [link](https://www.ellis.ai/careers/senior-backend-engineer-data-infrastructure) |
 
 ### Session: 2026-08-27
 
@@ -311,6 +334,7 @@ _Last updated 2026-08-27._
 | not an AI-native software company: quick-commerce/dark-store delivery platform for building materials (plywood, paint, electricals) to contr… | 1 |
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
+| not an AI-native software company: it is a licensed, practicing law firm selling attorney-delivered legal services (flat-fee contract review… | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
@@ -400,12 +424,16 @@ _Last updated 2026-08-27._
 | declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
+| dead: confirmed company shutdown -- Ragie's RAG-as-a-service platform ended July 19 2026, customers directed to export data by Jul 3 deadlin… | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
 | cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
+| cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
+| cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
+| cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
@@ -460,7 +488,7 @@ _Last updated 2026-08-27._
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-08-26 | 1 | 5 |
 | theme:llm-eval | LLM eval and observability | 2026-08-27 | 1 | 18 |
 | theme:memory-context | Memory and context systems | 2026-08-27 | 1 | 11 |
-| theme:rag-docs | Document and RAG products | never | 0 | 0 |
+| theme:rag-docs | Document and RAG products | 2026-08-28 | 1 | 12 |
 | theme:voice-ai | Voice AI | never | 0 | 0 |
 | vertical:edtech-ai | Applied AI — edtech | never | 0 | 0 |
 | vertical:fintech-ai | AI-first fintech | never | 0 | 0 |
