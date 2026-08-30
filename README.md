@@ -1,10 +1,16 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-28._
+_Last updated 2026-08-30._
 
-**267** companies seen total — **112** enriched, **155** rejected, **0** still queued.
+**285** companies seen total — **121** enriched, **161** rejected, **3** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-08-30
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-08-30 | 85.0 | ProLearn (prolearn.ai) | Ravneet Singh, Founder & CEO -- LinkedIn: https://in.linkedin.com/in/ravneetsk (no verified email found; do not guess firstname@prolearn.ai) | 1. Open with the ₹30cr BEENEXT-led pre-seed (~June 2026) and that ProLearn is building pre-launch, hiring across AI/product ahead of its pub… |
 
 ### Session: 2026-08-28
 
@@ -164,6 +170,20 @@ _Last updated 2026-08-28._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-08-30
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-30 | A | 85.0 | ProLearn | prolearn.ai | Bengaluru, India (near Vedantu's HSR Layout office) | ₹30 crore (~$3.5-3.6M USD) | pre-seed, ~June 2026, led by BEENEXT with Eximius Ventures, Antler, angels | unknown (company founded Apr 2026, too new for a reliable public headcount; team being hired with the funds) | Applied AI - edtech | None found. Product not yet publicly launched as of the funding announcement -- normal for a 2-3 month old pre-seed, not a health concern. D… | unknown |
+| 2026-08-30 | C | 51.0 | Chalkie | chalkie.ai | UK (exact city unconfirmed; possible Sheffield connection per Sheffield Tech Parks coverage, unverified as HQ) | ~£4M total (~$5.2-5.3M USD): £1M pre-seed (Oct 2025) + £3M seed (Mar 2026) | seed, £3M, announced Mar 19 2026, led by TriplePoint Ventures | ~10 (PitchBook, post-raise; grew from 3 people over the first 16 months) | AI-first SaaS / B2B | None found -- searched explicitly for layoffs/shutdown/down-round. A secondary source claims '£6m ARR in under 12 months' -- single-source, … | unknown -- likely chalkie.ai/careers, primary site fetch blocked |
+| 2026-08-30 | C | 51.0 | Lucida AI | lucida.ai | London, UK (company describes itself as 'headquartered in London but rooted in Istanbul'); significant operations/team in Istanbul, Turkey | ~$8.25M USD ($1.25M pre-seed + £5.3M/$7M seed) | seed, £5.3M (~$7M), closed ~June 30 2026, led by Velocity Capital with Next Tier Ventures, Look AI Ventures, Bogazici Ventures, Yapi Kredi F… | ~11-50 (Built In/LinkedIn-derived estimate) | AI-first SaaS / B2B | None found for Lucida AI itself -- searched explicitly for layoffs/shutdown/founder departure. Caution: 'Lucida' searches repeatedly collide… | [link](https://apply.workable.com/lucida-ai/ (site fetch blocked, role list from search snippets only)) |
+| 2026-08-30 | C | 41.0 | Gizmo | gizmo.ai | London, UK | $25.5M USD (Crunchbase-sourced total across 2 rounds) | Series A, $22M, April 15 2026, led by Shine Capital with Ada Ventures, Seek Investments, GSV, NFX | unknown/unreliable -- LinkedIn shows a stale '2-10 employees' band inconsistent with $25.5M raised and 13M users; treat as unverified | AI-first SaaS / B2B | None found on company health -- searched explicitly for layoffs/shutdown/down-round. Glassdoor 3.4/5 (19 reviews, 81% recommend) and Trustpi… | [link](https://builtinlondon.uk/company/gizmo/jobs (third-party listing; primary site fetch blocked)) |
+| 2026-08-30 | C | 35.0 | Alice | alice.tech | Copenhagen, Denmark | ~$4.8-5.6M USD (€4.2M seed reported; some sources cite a higher cumulative figure with an earlier YC W25 investment, not itemized separately… | seed, €4.2M, May 2025, led by Cherry Ventures with Y Combinator, PSV Tech, US/EU angels | unverified, wide range -- estimates from 5 to ~19-21 employees across sources; best estimate ~15-20 | Applied AI - edtech | None found -- searched explicitly for layoffs/down-round/founder-departure. Last round is ~15-16 months old as of Aug 2026, approaching but … | [link](https://aliceapp.ai/careers (verify correct domain before outreach -- multiple similarly-named 'Alice' companies exist)) |
+| 2026-08-30 | C | 28.0 | Pensive | pensive.ai | San Francisco, CA, USA | $6.8M seed | seed, $6.8M, ~Feb 24-27 2026, led by Mayfield with Reach Capital, Anti Fund, a Sequoia scout fund, an a16z scout fund, Bass Ventures, Vela P… | unknown -- no reliable public number found | Applied AI - edtech | None found -- searched explicitly for layoffs/controversy/shutdown. Note: domain listed as pensive.ai but press coverage may point to pensiv… | unknown |
+| 2026-08-30 | C | 26.0 | AILA | aila.sa | Riyadh, Saudi Arabia | ~$4.15M USD ($1.15M pre-seed Oct 2024 + $3M pre-Series A Aug 2026) | pre-Series A, $3M, Aug 19 2026, led by Rua Growth Fund with Jo Academy, 500 Global, Bunat VC, Fikr Ventures | ~28 employees (PitchBook estimate, not independently verified) | Applied AI - edtech | None found -- searched explicitly for layoffs/shutdown/down-round/founder departure and found nothing negative; only routine partnership new… | unknown |
+| 2026-08-30 | C | 25.0 | imagi | imagilabs.com | Stockholm, Sweden | ~$5.5M USD cumulative (per TechFundingNews, includes this round plus an earlier ~$1M/€250K raise plus grants) | seed, $4.5M, ~July 23 2026, led by Brighteye Ventures and Day One Capital | unverified, wide range -- estimates from 2-10 to 14; best estimate ~10-15 | Applied AI - edtech | None found -- searched explicitly for layoffs/shutdown/down-round. Company has operated since 2017 on modest capital and recently reposition… | [link](https://careers.imagilabs.com/jobs) |
+| 2026-08-30 | C | 7.0 | Kyron Learning | kyronlearning.com | Los Altos, CA, USA | $14.6M Series A + $850K Gates Foundation grant (a separately-cited '$20.1M total over 3 rounds' figure is unverified, treat with caution) | Series A, $14.6M, Dec 4-5 2023, led by GSV Ventures with Owl Ventures, ECMC Group Education Impact Fund, Common Sense Growth Fund, Charter S… | ~30 (PitchBook estimate; consistent with Wellfound's '11-50' band) | Applied AI - edtech | Last funding round Dec 2023 (~32 months old as of Aug 2026) -- stale-funding risk under Gate 4, no confirmed follow-on round; treat runway a… | [link](https://wellfound.com/company/kyron-learning/jobs) |
 
 ### Session: 2026-08-28
 
@@ -459,8 +479,14 @@ _Last updated 2026-08-28._
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
 | cannot support target comp — unfunded per Tracxn, Bengaluru-based, no revenue evidence found | 1 |
+| cannot support target comp — only ~$500-600K seed (YC W25, Dec 2024) confirmed via Crunchbase/Tracxn/PitchBook; a $6.5M figure from EduGrowt… | 1 |
+| cannot support target comp — only $500K pre-seed (May 2024, YC), no follow-on round despite 27 months elapsed (also a stale-funding risk und… | 1 |
 | cannot support target comp — only $500K YC seed confirmed (Jan 2026), below the $2M bar, no revenue evidence found | 1 |
+| cannot support target comp — only $500K YC W25 standard check found, no follow-on round; no revenue evidence (pricing found, no ARR). | 1 |
 | cannot support target comp — no funding, founders, or headcount info verifiable anywhere; funding unknown and no revenue evidence | 1 |
+| cannot support target comp — disclosed funding only $1.5M seed (Mar 2026, Lumikai) plus an undisclosed earlier pre-seed amount that cannot b… | 1 |
+| cannot support target comp — Lytmus AI raised only ₹5cr (~$550K) pre-seed (Jun 2026, Boundless Ventures), no revenue evidence (17K users, mo… | 1 |
+| cannot support target comp — Bloomy is YC S26 batch, founded 2026, only the standard YC check (~$125-500K) found, no other disclosed round; … | 1 |
 | cannot support target comp — 17+ named angel/fund investors but no disclosed funding amount found anywhere, and no revenue evidence; undiscl… | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
 | cannot support target comp - only standard YC W26 investment (~00K) confirmed, no additional seed/revenue evidence found | 1 |
@@ -513,7 +539,7 @@ _Last updated 2026-08-28._
 | theme:memory-context | Memory and context systems | 2026-08-27 | 1 | 11 |
 | theme:rag-docs | Document and RAG products | 2026-08-28 | 1 | 12 |
 | theme:voice-ai | Voice AI | 2026-08-28 | 1 | 14 |
-| vertical:edtech-ai | Applied AI — edtech | never | 0 | 0 |
+| vertical:edtech-ai | Applied AI — edtech | 2026-08-30 | 1 | 18 |
 | vertical:fintech-ai | AI-first fintech | never | 0 | 0 |
 | vertical:healthtech-ai | Applied AI — healthtech | never | 0 | 0 |
 | vertical:legal-ai | Applied AI — legal and compliance | never | 0 | 0 |
