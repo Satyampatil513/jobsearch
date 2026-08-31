@@ -1,10 +1,19 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-30._
+_Last updated 2026-08-31._
 
-**285** companies seen total — **121** enriched, **161** rejected, **3** still queued.
+**295** companies seen total — **127** enriched, **168** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-08-31
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-08-31 | 37.0 | Variance (variance.com) | Karine Mellata, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/karinemellata/ (no email found, use LinkedIn DM) | 1) Open with Variance's $21.5M Series A (announced early April 2026) and YC/Ten Eleven Ventures backing - a fast-growing 12-person agentic-A… |
+| 2026-08-31 | 37.0 | Seapoint (seapoint.co) | Sean Mullaney, Founder & CEO - LinkedIn: https://www.linkedin.com/in/seanmullaney/ (no email found, use LinkedIn DM) | 1) Open with the €7.5M seed round (April 2026) and the elite ex-Stripe/Algolia founding team - a fast-growing 16-person company just over a … |
+| 2026-08-31 | 34.0 | Rezolv (rezolv.com) | Karan Mehta, Co-founder - LinkedIn: https://www.linkedin.com/in/karanmmehta/ ; or Sonali Jindal, Co-founder - LinkedIn: https://www.linkedin… | 1) Open with Rezolv's $12.5M Series A led by Norwest, announced 18 Aug 2026 (this month) - strong, very fresh signal. 2) Ask about a Foundin… |
+| 2026-08-31 | 33.0 | Bretton AI (bretton.com) | Will Lawrence, CEO & Co-founder - LinkedIn: https://www.linkedin.com/in/lawrencewill/ (no email found; also apply directly via careers page) | 1) Open with the $75M Series B and Greenlite-to-Bretton AI rebrand (Feb 2026) plus the new AI-native managed services launch (Jul 2026) - sh… |
 
 ### Session: 2026-08-30
 
@@ -170,6 +179,17 @@ _Last updated 2026-08-30._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-08-31
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-08-31 | C | 37.0 | Variance | variance.com | San Francisco, California, USA | $26M total | $21.5M Series A led by Ten Eleven Ventures, with 645 Ventures, Y Combinator, Urban Innovation Fund, Okta Ventures, announced ~31 March/7 Apr… | 12 employees, based in San Francisco | AI-first fintech | None found via active search for layoffs/down-round/shutdown/founder-departure. Funding is fresh (~5 months old at time of this run), well w… | [link](https://www.variance.com/careers) |
+| 2026-08-31 | C | 37.0 | Seapoint | seapoint.co | Dublin, Ireland | €10M total (~$10.8M) | €7.5M seed led by 13books (London-based fintech VC), with 40+ angel investors, announced ~21 April 2026 - ~4.3 months old as of this run (so… | 16 employees | AI-first fintech | None found via active search for layoffs/down-round/shutdown/founder-departure. Funding is fresh (~4.3 months old). Note: product and hiring… | [link](https://www.seapoint.co/about-us) |
+| 2026-08-31 | C | 34.0 | Rezolv | rezolv.com | Mumbai, Maharashtra, India (registered address: Kankia Zillion, LBS Marg, Off BKC, Bandra E, Kurla, Mumbai) | $12.5M (Series A) | $12.5M Series A led by Norwest, with Vertex Ventures SEA & India and existing investor 3one4 Capital, announced 18 August 2026 - 13 days bef… | 78 employees as of May 2026, 189% YoY headcount growth (source: Tracxn legal-entity profile) | AI-first fintech | None found via active search for layoffs/down-round/shutdown/founder-departure. Company is young (founded Oct 2024) and growing fast (189% Y… | [link](https://www.rezolv.com/about-us) |
+| 2026-08-31 | C | 33.0 | Bretton AI | bretton.com | San Francisco, California, USA | ~$100M+ across rounds (incl. $75M Series B) | $75M Series B led by Sapphire Ventures, with Greylock, Thomson Reuters Ventures, Canvas Ventures, Y Combinator, announced 9 February 2026 - … | 34 employees (as of early 2025, likely grown since the Feb 2026 Series B) | AI-first fintech | None found via active search for layoffs/down-round/shutdown/founder-departure. Funding is fresh (~6.5 months old at time of this run), with… | [link](https://www.bretton.com/careers) |
+| 2026-08-31 | C | 25.0 | Uncia | uncia.ai | Chennai, Tamil Nadu, India | $3.12M (seed) | $3M seed led by Pavestone, announced 27 March 2026 (source: entrackr.com/snippets/pavestone-leads-3-mn-seed-round-in-lending-solutions-platf… | 163 employees (source: inc42.com/company/uncia) | AI-first fintech | None found via active search for layoffs/down-round/shutdown/founder-departure. Note (not a red flag, informational): 163 employees against … | [link](https://uncia.ai/careers/) |
+| 2026-08-31 | C | 0.0 | Vitraya Technologies | vitraya.com | Mohali, Punjab, India | $12.8M total across 6 rounds | Series A, 29 March 2023 (source: Tracxn/CBInsights) - approximately 41 months old as of this run, well past the 24-month stale-funding thres… | 93-103 employees (sources conflict slightly: ZoomInfo ~93-103, Tracxn range 11-50 elsewhere - treating 93-103 as more current) | AI-first fintech | Stale-funding risk: last confirmed round was Series A on 29 March 2023 (~41 months ago), no newer round found despite continued hiring/opera… | [link](https://www.vitraya.com/career) |
 
 ### Session: 2026-08-30
 
@@ -380,6 +400,9 @@ _Last updated 2026-08-30._
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
 | not an AI-native software company: AI-native venture studio that builds and operates its own D2C consumer nutrition/wellness brands (physica… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
+| not an AI-native software company - core product is GST/invoicing/bookkeeping SaaS; the 'AI Intelligence Layer' is explicitly a future roadm… | 1 |
+| not an AI-native software company - core business is wealth management / multi-family-office advisory services for UHNIs; 'Nex AI' is a bolt… | 1 |
+| not an AI-native software company - AI (question-generation, AI Engine) is a bolted-on feature added to an established 2009 assessment/e-lea… | 1 |
 | not an AI-native software company (solar design/CAD SaaS, not AI-core product) | 1 |
 | not an AI-native software company (physical pharmacy retail/delivery operator; AI is an inventory feature, not the product customers pay for… | 1 |
 | not an AI-native software company (physical hardware product — screen-free AI companion device/toy for kids, manufacturing-based, not a soft… | 1 |
@@ -460,6 +483,7 @@ _Last updated 2026-08-30._
 | excluded sector: pure security/infosec (LLM security tooling) — hard exclusion regardless of funding/team quality | 1 |
 | duplicate of aina.com (same company, formerly stealth-named Project Mirage) | 1 |
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
+| declining/negative signals - last funding round was in 2019 (7 years stale), headcount has fallen to ~2 employees, no recent traction signal… | 1 |
 | declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
@@ -490,6 +514,9 @@ _Last updated 2026-08-30._
 | cannot support target comp — 17+ named angel/fund investors but no disclosed funding amount found anywhere, and no revenue evidence; undiscl… | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
 | cannot support target comp - only standard YC W26 investment (~00K) confirmed, no additional seed/revenue evidence found | 1 |
+| cannot support target comp - only funding on record is a non-equity NUMA assistance program, no VC funding or verifiable revenue evidence fo… | 1 |
+| cannot support target comp - only 0K total raised (InsurTech NY, BrokerTech Ventures), far below the ~M bar and no revenue evidence found (G… | 1 |
+| cannot support target comp - only .1M raised across 6 small rounds since 2018, no confirmed recent round found despite 8 years of operation,… | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
 | cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |
 | cannot support target comp - 00K total raised (YC + angels), below M threshold, no revenue evidence | 1 |
@@ -540,7 +567,7 @@ _Last updated 2026-08-30._
 | theme:rag-docs | Document and RAG products | 2026-08-28 | 1 | 12 |
 | theme:voice-ai | Voice AI | 2026-08-28 | 1 | 14 |
 | vertical:edtech-ai | Applied AI — edtech | 2026-08-30 | 1 | 18 |
-| vertical:fintech-ai | AI-first fintech | never | 0 | 0 |
+| vertical:fintech-ai | AI-first fintech | 2026-08-31 | 1 | 10 |
 | vertical:healthtech-ai | Applied AI — healthtech | never | 0 | 0 |
 | vertical:legal-ai | Applied AI — legal and compliance | never | 0 | 0 |
 | vertical:sales-support-ai | Applied AI — sales and support | never | 0 | 0 |
