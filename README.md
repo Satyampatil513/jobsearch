@@ -1,10 +1,19 @@
 # Job search pipeline — results
 
-_Last updated 2026-08-31._
+_Last updated 2026-09-01._
 
-**295** companies seen total — **127** enriched, **168** rejected, **0** still queued.
+**313** companies seen total — **132** enriched, **178** rejected, **3** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-01
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-01 | 87.0 | Peptris Technologies (peptris.com) | Narayanan Venkatasubramanian, CEO — LinkedIn: https://www.linkedin.com/in/narayanan-venkatasubramanian-075b2b1 (no public email found; do no… | 1) Open with the Dec 2025 Series A close (Rs 70cr, IAN Alpha Fund + Speciale Invest) and their National AI Award 2024 win — seen on their ca… |
+| 2026-09-01 | 79.0 | RapidClaims (rapidclaims.ai) | Dushyant Mishra, Founder & CEO — LinkedIn: https://www.linkedin.com/in/idushyantmishra-f8 (no public email found; do not guess). Alternative… | 1) Open with the Apr 2025 Accel-led Series A and the live SDE I/II Bangalore hiring push — a rare case of a US-HQ'd AI startup building a re… |
+| 2026-09-01 | 69.0 | Wysa (wysa.io) | Ramakant Vempati, Co-Founder — LinkedIn: https://in.linkedin.com/in/ramakantvempati1 (no public email found; do not guess) | 1) Open with the Sept 2025 Kins acquisition and the live India-remote Junior Backend Developer posting on Wellfound. 2) Ask specifically abo… |
+| 2026-09-01 | 64.0 | DeepTek (deeptek.ai) | Dr. Amit Kharat, Co-Founder & CEO — LinkedIn: https://in.linkedin.com/in/teleradiology (no public email found; do not guess) | 1) Open with the Apr 2025 CE certification and the 2025 Blackford/AiOne partnerships — recent proof the product is still expanding internati… |
 
 ### Session: 2026-08-31
 
@@ -179,6 +188,16 @@ _Last updated 2026-08-31._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-01
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-01 | A | 87.0 | Peptris Technologies | peptris.com | Bengaluru, India | $7.7M (Rs 70 crore) reported total as of Series A | Series A, Rs 70 crore (~$7.7M), announced 2025-12-24, co-led by IAN Alpha Fund and Speciale Invest, with Tenacity Ventures and BYT Ventures … | 10 (ZoomInfo, as of 2026) | Applied AI vertical | None found. Searched specifically for layoffs, founder departure, down round — no negative signals surfaced (search: 'Peptris Technologies n… | [link](https://www.peptris.com/careers.html) |
+| 2026-09-01 | B | 79.0 | RapidClaims | rapidclaims.ai | Legal HQ: Manhattan, New York, US. Real engineering hub: Bangalore/Koramangala, India (confirmed via multiple live SDE job postings on Indee… | $11.1M across 3 rounds (Crunchbase/Tracxn) | Series A, $8M, 2025-04-02, led by Accel with Together Fund participating (source: Crunchbase, india.entrepreneur.com) | 89-96 (Tracxn/ZoomInfo, 2026) | Applied AI vertical | None found. Searched specifically for layoffs, down round, founder departure — no negative signals surfaced (search: 'RapidClaims layoffs 20… | [link](https://www.rapidclaims.ai/careers (not independently fetched — inferred from company site structure; job boards used instead)) |
+| 2026-09-01 | B | 69.0 | Wysa | wysa.io | Bengaluru, India | $37M total (Crunchbase, as of 2026) | Series B, $20M, 2022-07-14, led by HealthQuad with British International Investment, W Health Ventures, Kae Capital, Google Assistant Invest… | 170-177 (Tracxn/company statement, as of Jul 2026) | Applied AI vertical | None found. Searched specifically for layoffs and negative signals — no evidence surfaced. Note (not a risk, a size caveat): last priced VC … | [link](https://wellfound.com/company/touchkin-1/jobs) |
+| 2026-09-01 | C | 64.0 | DeepTek | deeptek.ai | Pune, India (incorporated in the US in 2017 per company materials, but operational base and most hiring is Pune) | $10M (Crunchbase/Tracxn) | Series A, $10M, 2022-03-07, from Tata Capital Healthcare Fund II with Pentathlon Ventures and GHV participating (source: inc42.com, devdisco… | 138 (Tracxn, as of Jun 30 2026) | Applied AI vertical | Stale funding: last round closed 2022-03-07, ~54 months old with no newer raise found despite active searching — treat runway/independence a… | [link](https://www.deeptek.ai/careers) |
+| 2026-09-01 | C | 58.0 | Daffodil Health | daffodilhealth.com | San Francisco, California, US | $20.9M total (per hlth.com/Axios reporting) | Series A, $16.3M, announced 2026-02-17/18, led by Flare Capital Partners with LRVHealth and existing investor Maverick Ventures participatin… | unknown — not found in available sources | Applied AI vertical | None found. Searched specifically for negative signals in the course of funding research — no layoffs, down round, or founder-departure sign… | unknown |
 
 ### Session: 2026-08-31
 
@@ -392,11 +411,17 @@ _Last updated 2026-08-31._
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
 | not an AI-native software company: quick-commerce/dark-store delivery platform for building materials (plywood, paint, electricals) to contr… | 1 |
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
+| not an AI-native software company: product is a physical thermal-sensing screening device (Thermalytix), not software — Gate 1 hardware/devi… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
 | not an AI-native software company: it is a licensed, practicing law firm selling attorney-delivered legal services (flat-fee contract review… | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
+| not an AI-native software company: core product is physical dermatologist-formulated skincare (via SkinQ acquisition), a beauty/personal-car… | 1 |
+| not an AI-native software company: core product is human-led chronic-care service (doctors, nutritionists, coaches) with an app as enablemen… | 1 |
+| not an AI-native software company: core paid product is human geriatric-care-manager service; AI caregiving monitoring is a Jan 2026 pilot f… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
+| not an AI-native software company: core business is a skincare/derma e-pharmacy marketplace + teleconsultation; AI treatment-plan feature is… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
+| not an AI-native software company: AI100 is an integrated hardware+robotics slide-scanner medical device (FDA 510(k) cleared), robotics-firs… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
 | not an AI-native software company: AI-native venture studio that builds and operates its own D2C consumer nutrition/wellness brands (physica… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
@@ -456,6 +481,8 @@ _Last updated 2026-08-31._
 | no remote evidence (HQ Prague, 4 employees, no India/EOR signal) and cannot support target comp (total funding only ~.07M pre-seed, below M … | 1 |
 | no remote evidence (Europe-scoped hiring, no worldwide/APAC/India signal found) | 1 |
 | no funding/hiring/product/news signal in 12+ months: last funding 2022 seed under original web3 identity (Scale3 Labs), no 2025-2026 news, f… | 1 |
+| no funding, hiring or news signal in 12+ months: last funding ~April 2023 (~3.5 years old), 353 employees, no 2025/2026 news, product launch… | 1 |
+| no funding, hiring or news signal in 12+ months: last announced round is Series A $5M on 2023-03-29 (~3.5 years old, stale), 0 open roles on… | 1 |
 | location: hiring is Mumbai-onsite (Backend/Frontend/SDE roles all listed Mumbai), no remote-within-India or remote-international evidence fo… | 1 |
 | location: corporate office in Noida per Gate 2 exclusion list | 1 |
 | location: HQ is Mumbai/Thane, Maharashtra (registered as ZKAP Edtech Services Pvt Ltd, Kalyan, Thane per Tracxn), not Bangalore or remote-wi… | 1 |
@@ -490,6 +517,7 @@ _Last updated 2026-08-31._
 | dead: confirmed company shutdown -- Ragie's RAG-as-a-service platform ended July 19 2026, customers directed to export data by Jul 3 deadlin… | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
+| cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
@@ -529,6 +557,7 @@ _Last updated 2026-08-31._
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
 | acquired by Apple Jan 2025, company discontinuing operations | 1 |
+| acquired and absorbed: Aurionpro Solutions acquired 67% of Arya.ai in April 2024, no longer an independent company with a founder to cold-em… | 1 |
 | acquired and absorbed — acquired by Foundry (VFX/creative software), deal completed Feb 18, 2026; no longer an independent hiring startup | 1 |
 | acquired and absorbed by Coralogix, Dec 2024 - no longer an independent company | 1 |
 | acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
@@ -568,7 +597,7 @@ _Last updated 2026-08-31._
 | theme:voice-ai | Voice AI | 2026-08-28 | 1 | 14 |
 | vertical:edtech-ai | Applied AI — edtech | 2026-08-30 | 1 | 18 |
 | vertical:fintech-ai | AI-first fintech | 2026-08-31 | 1 | 10 |
-| vertical:healthtech-ai | Applied AI — healthtech | never | 0 | 0 |
+| vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
 | vertical:legal-ai | Applied AI — legal and compliance | never | 0 | 0 |
 | vertical:sales-support-ai | Applied AI — sales and support | never | 0 | 0 |
 | vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | never | 0 | 0 |
