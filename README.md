@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-01._
 
-**313** companies seen total — **132** enriched, **178** rejected, **3** still queued.
+**334** companies seen total — **137** enriched, **188** rejected, **9** still queued.
 
 ## Outreach queue — email these
 
@@ -14,6 +14,10 @@ _Last updated 2026-09-01._
 | 2026-09-01 | 79.0 | RapidClaims (rapidclaims.ai) | Dushyant Mishra, Founder & CEO — LinkedIn: https://www.linkedin.com/in/idushyantmishra-f8 (no public email found; do not guess). Alternative… | 1) Open with the Apr 2025 Accel-led Series A and the live SDE I/II Bangalore hiring push — a rare case of a US-HQ'd AI startup building a re… |
 | 2026-09-01 | 69.0 | Wysa (wysa.io) | Ramakant Vempati, Co-Founder — LinkedIn: https://in.linkedin.com/in/ramakantvempati1 (no public email found; do not guess) | 1) Open with the Sept 2025 Kins acquisition and the live India-remote Junior Backend Developer posting on Wellfound. 2) Ask specifically abo… |
 | 2026-09-01 | 64.0 | DeepTek (deeptek.ai) | Dr. Amit Kharat, Co-Founder & CEO — LinkedIn: https://in.linkedin.com/in/teleradiology (no public email found; do not guess) | 1) Open with the Apr 2025 CE certification and the 2025 Blackford/AiOne partnerships — recent proof the product is still expanding internati… |
+| 2026-09-01 | 48.0 | Sandstone (sandstone.com) | Nick Fleisher, CEO/Co-founder — LinkedIn: https://www.linkedin.com/in/nicholas-fleisher/ (no verified email found via public GitHub commits) | Open with the $30M Series A (announced Jun 9 2026, per TechCrunch) closing fast on the heels of the $10M Sequoia seed. Ask about the AI & ML… |
+| 2026-09-01 | 46.0 | SimpliContract (simplicontract.com) | Guru Venkatesan, Co-founder/CEO — LinkedIn: https://www.linkedin.com/in/guruvenkatesan/; generic company inbox hello@simplicontract.com foun… | Open with the March 2026 mNemoAI launch — their AI engine for real-time contract intelligence and obligation tracking. Ask about backend/AI … |
+| 2026-09-01 | 44.0 | Iridius (iridius.ai) | Mike Kropp, Founder & CEO — LinkedIn: https://www.linkedin.com/in/michael-k-kropp/ (no verified email found via public GitHub commits; 10-pe… | Open with the $8.6M seed announced April 24 2026 (GeekWire) and the strong Microsoft/AWS pedigree of the founding team. No open roles are li… |
+| 2026-09-01 | 31.0 | LexLegis.AI (lexlegis.ai) | Saakar Yadav, Founder & CMD — LinkedIn: https://in.linkedin.com/in/saakarsyadav (no verified email found via public GitHub commits) | Open with LexLegis.ai's MIRA assistant and its scale (20B tokens, 10M Indian legal documents) as the kind of grounded, citation-backed LLM s… |
 
 ### Session: 2026-08-31
 
@@ -198,6 +202,11 @@ _Last updated 2026-09-01._
 | 2026-09-01 | B | 69.0 | Wysa | wysa.io | Bengaluru, India | $37M total (Crunchbase, as of 2026) | Series B, $20M, 2022-07-14, led by HealthQuad with British International Investment, W Health Ventures, Kae Capital, Google Assistant Invest… | 170-177 (Tracxn/company statement, as of Jul 2026) | Applied AI vertical | None found. Searched specifically for layoffs and negative signals — no evidence surfaced. Note (not a risk, a size caveat): last priced VC … | [link](https://wellfound.com/company/touchkin-1/jobs) |
 | 2026-09-01 | C | 64.0 | DeepTek | deeptek.ai | Pune, India (incorporated in the US in 2017 per company materials, but operational base and most hiring is Pune) | $10M (Crunchbase/Tracxn) | Series A, $10M, 2022-03-07, from Tata Capital Healthcare Fund II with Pentathlon Ventures and GHV participating (source: inc42.com, devdisco… | 138 (Tracxn, as of Jun 30 2026) | Applied AI vertical | Stale funding: last round closed 2022-03-07, ~54 months old with no newer raise found despite active searching — treat runway/independence a… | [link](https://www.deeptek.ai/careers) |
 | 2026-09-01 | C | 58.0 | Daffodil Health | daffodilhealth.com | San Francisco, California, US | $20.9M total (per hlth.com/Axios reporting) | Series A, $16.3M, announced 2026-02-17/18, led by Flare Capital Partners with LRVHealth and existing investor Maverick Ventures participatin… | unknown — not found in available sources | Applied AI vertical | None found. Searched specifically for negative signals in the course of funding research — no layoffs, down round, or founder-departure sign… | unknown |
+| 2026-09-01 | C | 48.0 | Sandstone | sandstone.com | New York, NY (Brooklyn office) | $30M total ($10M seed Jan 2026 + $30M Series A Jun 2026, per TechCrunch) | $30M Series A, announced June 9 2026 (TechCrunch) | unknown (not publicly disclosed; hiring across engineering, product, design, legal, GTM as of Jun 2026) | legal-ai | none found — actively raising and hiring, no layoffs/departures/negative signals surfaced | [link](https://sandstone.com/careers) |
+| 2026-09-01 | C | 46.0 | SimpliContract | simplicontract.com | Bangalore, India (registered entity, HSR Layout); commercial/marketing HQ listed as Pleasanton, CA for US/EU expansion | $6.2M total across 3 rounds, 8 investors | $3.5M pre-Series A, April 2023, led by Emergent Ventures (~3.5 years old as of Sep 2026) | 11-50 employees (exact figure not disclosed) | legal-ai | stale funding — last round Apr 2023 (~3.5 years old), no newer round found. No layoffs or founder departures found; Glassdoor rating stable … | [link](https://www.simplicontract.com/) |
+| 2026-09-01 | C | 44.0 | Iridius | iridius.ai | Seattle, WA, USA | $8.6M seed | $8.6M seed, closed ~March 2026, publicly announced April 24 2026 — led by Chalfen Ventures with Osage Venture Partners, Accenture Ventures, … | 10 employees | legal-ai | none found — fresh funding, no layoffs/departures/negative signals surfaced | [link](https://iridius.ai/careers/) |
+| 2026-09-01 | C | 31.0 | LexLegis.AI | lexlegis.ai | Mumbai, India | $7.16M total across 3 rounds, 29-30 investors | $7.16M round, September 5 2024 (~24 months old as of Sep 2026 — borderline stale, worth re-verifying runway) | 10-31 employees (sources disagree: Tracxn says 10, PitchBook says 31) | legal-ai | funding is ~24 months old (Sep 5 2024) — right at the stale-funding threshold, runway should be verified before relying on it. No layoffs or… | [link](https://lexlegis.ai/careers/) |
+| 2026-09-01 | C | 13.0 | Legistify | legistify.com | Noida, Uttar Pradesh, India | $4.5M-$8.25M total across 6 rounds, 41 investors (sources disagree on exact figure) | Sep 25 2023, led by IndiaMART and Titan Capital (~3 years old as of Sep 2026) | 96 employees | legal-ai | stale funding — last round Sep 25 2023 (~3 years old), no newer round found despite active 2026 growth press. No layoffs or founder departur… | [link](https://legistify.com/careers) |
 
 ### Session: 2026-08-31
 
@@ -404,7 +413,9 @@ _Last updated 2026-09-01._
 | no remote evidence | 13 |
 | no verifiable company or product found for this domain | 2 |
 | web3-only | 1 |
+| too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
 | stage/size exceeds criteria: Series C, 232 employees, no APAC/India remote signal (LA/NYC/Toronto only) | 1 |
+| stage too late — Series B+ (~$88.5-113M raised), ~350 employees, exceeds the 200-headcount cap for Series B-stage companies | 1 |
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
@@ -424,6 +435,10 @@ _Last updated 2026-09-01._
 | not an AI-native software company: AI100 is an integrated hardware+robotics slide-scanner medical device (FDA 510(k) cleared), robotics-firs… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
 | not an AI-native software company: AI-native venture studio that builds and operates its own D2C consumer nutrition/wellness brands (physica… | 1 |
+| not an AI-native software company — physical neurotech wearable headphone device (hardware), AI is a feature not the product | 1 |
+| not an AI-native software company — e-signature/eStamp/document infrastructure platform, no meaningful AI/ML core | 1 |
+| not an AI-native software company — core product is an online dispute resolution (mediation/arbitration/negotiation) workflow platform; AI-n… | 1 |
+| not an AI-native software company — core product is a debt collection/recovery SaaS platform (predictive dialing, litigation workflows); AI/… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
 | not an AI-native software company - core product is GST/invoicing/bookkeeping SaaS; the 'AI Intelligence Layer' is explicitly a future roadm… | 1 |
 | not an AI-native software company - core business is wealth management / multi-family-office advisory services for UHNIs; 'Nex AI' is a bolt… | 1 |
@@ -512,6 +527,7 @@ _Last updated 2026-09-01._
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
 | declining/negative signals - last funding round was in 2019 (7 years stale), headcount has fallen to ~2 employees, no recent traction signal… | 1 |
 | declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
+| declining / negative signals — co-founder Ahmed Khan departed the company (reported by GeekWire, left 'last year' to start a new stealth sta… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead: confirmed company shutdown -- Ragie's RAG-as-a-service platform ended July 19 2026, customers directed to export data by Jul 3 deadlin… | 1 |
@@ -531,9 +547,12 @@ _Last updated 2026-09-01._
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
 | cannot support target comp — unfunded per Tracxn, Bengaluru-based, no revenue evidence found | 1 |
+| cannot support target comp — total funding $583K across 3 rounds since 2016, no revenue evidence found | 1 |
+| cannot support target comp — total funding $292K across 3 rounds (last round Nov 2020), 29 employees, no revenue evidence | 1 |
 | cannot support target comp — only ~$500-600K seed (YC W25, Dec 2024) confirmed via Crunchbase/Tracxn/PitchBook; a $6.5M figure from EduGrowt… | 1 |
 | cannot support target comp — only $500K pre-seed (May 2024, YC), no follow-on round despite 27 months elapsed (also a stale-funding risk und… | 1 |
 | cannot support target comp — only $500K YC seed confirmed (Jan 2026), below the $2M bar, no revenue evidence found | 1 |
+| cannot support target comp — only $500K YC W26 seed round (standard YC deal), no additional funding or revenue evidence found | 1 |
 | cannot support target comp — only $500K YC W25 standard check found, no follow-on round; no revenue evidence (pricing found, no ARR). | 1 |
 | cannot support target comp — no funding, founders, or headcount info verifiable anywhere; funding unknown and no revenue evidence | 1 |
 | cannot support target comp — disclosed funding only $1.5M seed (Mar 2026, Lumikai) plus an undisclosed earlier pre-seed amount that cannot b… | 1 |
@@ -598,6 +617,6 @@ _Last updated 2026-09-01._
 | vertical:edtech-ai | Applied AI — edtech | 2026-08-30 | 1 | 18 |
 | vertical:fintech-ai | AI-first fintech | 2026-08-31 | 1 | 10 |
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
-| vertical:legal-ai | Applied AI — legal and compliance | never | 0 | 0 |
+| vertical:legal-ai | Applied AI — legal and compliance | 2026-09-01 | 1 | 21 |
 | vertical:sales-support-ai | Applied AI — sales and support | never | 0 | 0 |
 | vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | never | 0 | 0 |
