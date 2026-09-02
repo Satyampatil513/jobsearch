@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-02._
 
-**344** companies seen total — **143** enriched, **197** rejected, **4** still queued.
+**367** companies seen total — **150** enriched, **205** rejected, **12** still queued.
 
 ## Outreach queue — email these
 
@@ -12,9 +12,15 @@ _Last updated 2026-09-02._
 |---|---|---|---|---|
 | 2026-09-02 | 84.0 | Flagright (flagright.com) | Baran Ozkan, Co-founder & CEO -- LinkedIn: https://www.linkedin.com/in/baranozkan/ (no verified email found via public GitHub commit data; d… | 1. Open with Flagright's fresh $12.5M Series A (closed June 17 2026, led by Infinity Ventures) and the fact that they're directly hiring eng… |
 | 2026-09-02 | 72.0 | Floworks AI (floworks.ai) | Sarthak Shrivastava, Co-founder -- LinkedIn: https://in.linkedin.com/in/sarthak-shrivastava (ZoomInfo shows only a redacted/paywalled email … | 1. Open with Floworks being a YC-backed, Bangalore-headquartered AI sales-agent company building named AI SDRs (Jesse, Alisha, etc.) on thei… |
+| 2026-09-02 | 66.0 | SatSure (satsure.co) | Prateep Basu, Co-Founder & CEO - LinkedIn https://in.linkedin.com/in/prateepbasu (no public email found; find_contacts.py found no public Gi… | 1. Open with the IN-SPACe Technology Adoption Fund selection (2026) and SatSure's Dhaarini AI Earth-observation model. 2. Ask about a backen… |
+| 2026-09-02 | 47.0 | Neuraspace (neuraspace.com) | Chiara Manfletti, CEO - reachable via company LinkedIn https://www.linkedin.com/company/neuraspace/ (personal profile URL not directly confi… | 1. Open with the Aug 2026 ~$18M raise scaling AI-driven Space Traffic Management and defence-grade SDA. 2. Ask about a backend/applied-AI en… |
+| 2026-09-02 | 44.0 | SkyFi (skyfi.com) | Luke Fischer, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/lukemfischer/ (no public email found; find_contacts.py found no public… | 1. Open with the 2026 $12.7M Series A expanding their Earth Intelligence Platform's AI analytics. 2. Ask about a backend/full-stack engineer… |
+| 2026-09-02 | 43.0 | Floodbase (formerly Cloud to Street) (cloudtostreet.ai) | Bessie Schwarz, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/bessie-schwarz-56397229/ (no public email found; find_contacts.py fo… | 1. Open with the Feb 2025 $5M raise and Floodbase's real-time satellite+AI flood platform. 2. Ask about a backend/applied-AI engineering rol… |
+| 2026-09-02 | 43.0 | Spaceflux (spaceflux.io) | Marco Rocchetto, Co-Founder & CEO - LinkedIn https://uk.linkedin.com/in/marco-rocchetto-50633a92 (no public email found; find_contacts.py fo… | 1. Open with the 2025 seed extension scaling Spaceflux's Cortex AI analytics platform for space domain awareness. 2. Ask about a backend/app… |
 | 2026-09-02 | 39.0 | Stilta (stilta.com) | Oskar Block, Co-founder & CEO -- LinkedIn: https://www.linkedin.com/in/oskarblock/ (no verified email found via public GitHub commit data; d… | 1. Open with Stilta's fresh $10.5M a16z-led seed (May 2026) and that they're a 4-person team hiring their first engineers. 2. Ask about the … |
 | 2026-09-02 | 36.0 | Theo AI (theoai.ai) | Tiago Luchini, Co-founder & CTO -- LinkedIn: https://www.linkedin.com/in/tiagoluchini/ (no verified email found via public GitHub commit dat… | 1. Open with Theo AI's string of raises through 2025 (most recently $3.4M in Nov 2025) and Tiago Luchini's unusually strong background (Work… |
 | 2026-09-02 | 34.0 | Caseflood.ai (caseflood.ai) | Ayushman Srivastava, Co-Founder / Head of AI -- LinkedIn: https://www.linkedin.com/in/ayushman-srivastava-38ba80137/ (no verified email foun… | 1. Open with Caseflood.ai being a small YC W25 team explicitly hiring a Founding Engineer, and their voice-agent product (Luna) already hitt… |
+| 2026-09-02 | 28.0 | Intellectible (intellectible.com) | Jesse Lozano, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/lozanojesse/ (no public email found; find_contacts.py found no public … | 1. Open with their recent $3M seed close scaling an AI-native workflow engine for enterprise service providers. 2. Ask about a Founding/Back… |
 
 ### Session: 2026-09-01
 
@@ -209,10 +215,17 @@ _Last updated 2026-09-02._
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-02 | A | 84.0 | Flagright | flagright.com | San Jose / San Francisco, USA -- with an active Bengaluru, India engineering office | $20.1M-$22.7M total (sources vary slightly: Crunchbase says $20.1M across 4 rounds, Sifted says ~$22.7M known total) | $12.5M Series A, announced June 17 2026, led by Infinity Ventures with Sella Direct Ventures; prior $4.3M seed led by Frontline Ventures, Ap… | 31 in San Francisco per one source, plus a separate active Bengaluru, India engineering office (headcount for Bengaluru office not separatel… | AI-first fintech | none found -- actively searched for layoffs/down-round/shutdown/founder departure news (site:flagright.com, general web search) and found on… | [link](https://www.flagright.com/post/inside-flagright-our-approach-to-hiring-team-growth ; https://jobs.ashbyhq.com/flagright.com) |
 | 2026-09-02 | B | 72.0 | Floworks AI | floworks.ai | Bengaluru, Karnataka, India (also has a San Francisco presence) | ~$2.3M-$2.9M total (sources vary: Crunchbase/Extruct AI aggregate $2.3M-$2.86M across disclosed rounds) | $1.5M seed reported Aug 31 2023 (SiliconANGLE); Crunchbase lists further funding activity as recently as Oct 2025 but without a disclosed am… | reported figures vary: ~20 (ynos.in) to 53 (Tracxn, June 2026) | Applied AI -- sales and support | ARR/funding reporting is stale (most recent hard figures are from Dec 2024/Aug 2023) and the stated Series A goal does not appear to have cl… | [link](https://www.ycombinator.com/companies/floworks) |
+| 2026-09-02 | B | 66.0 | SatSure | satsure.co | Bengaluru, India | $27.2M-$28.9M total across sources (Crunchbase/Tracxn), plus non-dilutive IN-SPACe Technology Adoption Fund grant (2026) | Series B tranche, $1.76M, Sep 3 2025 (Crunchbase); also selected for IN-SPACe TAF funding alongside Astrobase and TM2SPACE (2026, BW Disrupt… | conflicting reports: 134 (Jun 2025), 153 (Aug 2026, -10.5% YoY), 162 (PitchBook) - treat as ~150 | Space software / geospatial AI | Headcount reported down ~10.5% YoY as of Aug 2026 (Crustdata) - noted but not corroborated by any layoffs/down-round news; actively searched… | [link](https://satsure.co/team.html) |
+| 2026-09-02 | C | 47.0 | Neuraspace | neuraspace.com | Coimbra, Portugal | $32.18M Series A (Sep 2025) plus ~$18M / EUR15.6M further round (EUR6M Series B VC + EUR9.6M Portugal Recovery and Resilience Plan grant, Au… | ~EUR15.6M (~$18M): EUR6M Series B from VCs + EUR9.6M from Portugal's Recovery and Resilience Plan, announced Aug 5 2026 (SpaceNews, Payload,… | 36 total employees (Apr 2026, across Europe and North America) | Space software / geospatial AI | none found - actively searched for layoffs/down-round/shutdown/founder departures, found none; funding is very recent (Aug 2026) so no stale… | [link](https://neuraspace.com/) |
+| 2026-09-02 | C | 44.0 | SkyFi | skyfi.com | Austin, Texas, USA | $12.7M+ (Series A) | $12.7M Series A, 2026 (SkyFi press release) | unknown - not found in available sources | Space software / geospatial AI | none found - actively searched for layoffs/down-round/shutdown/founder departures, found none; funding is recent so no staleness risk | [link](https://skyfi.com/en/careers) |
+| 2026-09-02 | C | 43.0 | Floodbase (formerly Cloud to Street) | cloudtostreet.ai | New York City, USA | $24.7M total (Crunchbase/PitchBook aggregate) | $5M, Feb 6 2025, led by Ecosystem Integrity Fund with participation from Pulse Fund (fintech.global, Artemis.bm) | unknown - not found in available sources; described as 'a small team of dedicated professionals' | Applied AI in a vertical | none found - actively searched for layoffs/down-round/shutdown/founder departures, found none; company rebranded from Cloud to Street to Flo… | [link](https://www.floodbase.com/about) |
+| 2026-09-02 | C | 43.0 | Spaceflux | spaceflux.io | London, United Kingdom | $19.5M total (per CBInsights-aggregated figure); GBP9M (~$11.4M) per an earlier Foresight Group release, figures likely reflect different cu… | GBP3.5M seed extension, closed on top of a GBP5.4M (EUR6.2M) seed round from Jul 2025 - both within the last ~14 months | 34 total employees (CBInsights) | Space software / geospatial AI | none found - actively searched for layoffs/down-round/shutdown/founder departures, found none; funding is recent (2025 extension) so no stal… | [link](https://spaceflux.io/) |
 | 2026-09-02 | C | 39.0 | Stilta | stilta.com | Stockholm, Sweden | $10.5M | $10.5M seed, announced May 19 2026, led by Andreessen Horowitz, with Y Combinator and individual employees of Legora and OpenAI participatin… | 4 employees, hiring for 3 more roles (product, engineering, sales); founders stated plan to reach ~10 employees within 3-6 months of the May… | Applied AI -- legal / IP tech | none found -- actively searched for layoffs/founder departure/negative news and found only positive coverage of the raise and early customer… | [link](https://stilta.com/careers) |
 | 2026-09-02 | C | 36.0 | Theo AI | theoai.ai | California, San Francisco Bay Area, USA | Reported inconsistently across sources: disclosed rounds sum to ~$9.8M ($2.2M pre-seed + $4.2M seed May 2025 + $3.4M Nov 2025); one source s… | $3.4M, announced ~Nov 12 2025, led by Run Ventures (source: siliconangle.com/2025/11/12/legal-ai-startup-theo-ai-lands-3m-grow-predictive-li… | unknown -- not found | Applied AI -- legal tech | Funding totals reported inconsistently across sources ($7M vs ~$9.8M) -- flagging for cross-check, though this looks like reporting variance… | [link](https://consider.com/boards/co/theo-ai) |
 | 2026-09-02 | C | 34.0 | Caseflood.ai | caseflood.ai | San Francisco, CA (1065 Folsom St) | $3.7M total | $3.2M strategic investment announced July 30 2025 (source: law.com/legaltechnews/2025/07/30/legal-intake-startup-casefloodai-announces-32-mi… | reported figures vary: 4 (Tracxn, Jun 2026) vs 12 (PitchBook) | Applied AI -- legal tech | none found -- actively searched for layoffs/shutdown/negative news and found none | [link](https://www.workatastartup.com/companies/30227) |
 | 2026-09-02 | C | 29.0 | Siena AI | siena.cx | New York, USA | $11.1M across 3 disclosed rounds | $6M seed, September 2024, led by Aglaé Ventures (prior: $4.7M seed Nov 2023 led by Sierra Ventures; $350K pre-seed Sept 2020 led by GapMinde… | ~54-70, growing ~27% YoY as of Aug 2026 (Crustdata) | Applied AI -- sales and support | Stale funding: last disclosed round was Sept 2024 (~24 months ago); no newer raise found despite active headcount growth, which could mean t… | [link](https://www.siena.cx/about-us) |
+| 2026-09-02 | C | 28.0 | Intellectible | intellectible.com | Austin, Texas, USA | $4.72M total (incl. $3M seed round) | $3M seed led by Bread & Butter Ventures, participation from Victorum Capital, Gray Ventures, Circadian Ventures, Allied VC, High Street Equi… | 29 (as of Jul 2026, per Tracxn) | AI-native infrastructure and devtools | none found - actively searched for layoffs/down-round/shutdown/founder departures, found none | [link](https://www.intellectible.com/) |
+| 2026-09-02 | C | 17.0 | Rezo.ai | rezo.ai | Noida, India | unknown precisely - Crunchbase/CBInsights show only a $282K seed round (Dec 2020), which looks stale/incomplete against reported $4M ARR and… | $282K seed, Dec 15 2020 (per Crunchbase - likely incomplete, no later round found) | conflicting reports: 51 (2024, getlatka), 120 (Aug 2025), 175 (another source) - treat as ~120-175 | Applied AI in a vertical | Glassdoor shows a slight YoY dip in culture (-4%) and work-life-balance (-8%) ratings and a ~1% YoY headcount decline as of Aug 2025 - minor… | [link](https://www.rezo.ai/about-us) |
 
 ### Session: 2026-09-01
 
@@ -435,6 +448,7 @@ _Last updated 2026-09-02._
 | no verifiable company or product found for this domain | 2 |
 | web3-only | 1 |
 | too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
+| stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
 | stage/size exceeds criteria: Series C, 232 employees, no APAC/India remote signal (LA/NYC/Toronto only) | 1 |
 | stage too late — Series B+ (~$88.5-113M raised), ~350 employees, exceeds the 200-headcount cap for Series B-stage companies | 1 |
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
@@ -452,6 +466,8 @@ _Last updated 2026-09-02._
 | not an AI-native software company: core paid product is human geriatric-care-manager service; AI caregiving monitoring is a Jan 2026 pilot f… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: core business is a skincare/derma e-pharmacy marketplace + teleconsultation; AI treatment-plan feature is… | 1 |
+| not an AI-native software company: builds spacecraft/satellites and in-orbit servicing hardware, core engineering is aerospace/hardware not … | 1 |
+| not an AI-native software company: builds and launches its own satellites (data centers in space), core product is hardware infrastructure n… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
 | not an AI-native software company: AI100 is an integrated hardware+robotics slide-scanner medical device (FDA 510(k) cleared), robotics-firs… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
@@ -547,6 +563,8 @@ _Last updated 2026-09-02._
 | hard exclusion Gate 1: avionics/aerospace component manufacturing, not an AI-native software company (user feedback) | 1 |
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
 | excluded sector: pure security/infosec (LLM security tooling) — hard exclusion regardless of funding/team quality | 1 |
+| exceeds target stage/size for cold-outreach fit: ~176-210 employees, $74-120M total raised - large scale-up, not a founder-reads-own-inbox t… | 1 |
+| exceeds target stage/size for cold-outreach fit: Series F, $425M total raised, $1B valuation, 229 employees - large scale-up, not a founder-… | 1 |
 | duplicate of aina.com (same company, formerly stealth-named Project Mirage) | 1 |
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
 | declining/negative signals - last funding round was in 2019 (7 years stale), headcount has fallen to ~2 employees, no recent traction signal… | 1 |
@@ -566,6 +584,7 @@ _Last updated 2026-09-02._
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
 | cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
+| cannot support target comp: no funding found (Tracxn/Invstt confirm unfunded), no verifiable revenue evidence despite '1025+ Shopify brands'… | 1 |
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
@@ -608,6 +627,8 @@ _Last updated 2026-09-02._
 | acquired by Apple Jan 2025, company discontinuing operations | 1 |
 | acquired and absorbed: Aurionpro Solutions acquired 67% of Arya.ai in April 2024, no longer an independent company with a founder to cold-em… | 1 |
 | acquired and absorbed — acquired by Foundry (VFX/creative software), deal completed Feb 18, 2026; no longer an independent hiring startup | 1 |
+| acquired and absorbed by Nurix AI (announced July 2026) - dead as independent company | 1 |
+| acquired and absorbed by Energy Aspects (May 2026) - dead as independent company | 1 |
 | acquired and absorbed by Coralogix, Dec 2024 - no longer an independent company | 1 |
 | acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
 | Series C, 75M raised, 634 employees — far past Series B / 200-person cap, large slow-growing devtools company at this stage | 1 |
@@ -649,4 +670,4 @@ _Last updated 2026-09-02._
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
 | vertical:legal-ai | Applied AI — legal and compliance | 2026-09-01 | 1 | 21 |
 | vertical:sales-support-ai | Applied AI — sales and support | 2026-09-02 | 1 | 10 |
-| vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | never | 0 | 0 |
+| vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | 2026-09-02 | 1 | 23 |
