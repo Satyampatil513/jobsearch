@@ -1,10 +1,20 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-01._
+_Last updated 2026-09-02._
 
-**334** companies seen total — **137** enriched, **188** rejected, **9** still queued.
+**344** companies seen total — **143** enriched, **197** rejected, **4** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-02
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-02 | 84.0 | Flagright (flagright.com) | Baran Ozkan, Co-founder & CEO -- LinkedIn: https://www.linkedin.com/in/baranozkan/ (no verified email found via public GitHub commit data; d… | 1. Open with Flagright's fresh $12.5M Series A (closed June 17 2026, led by Infinity Ventures) and the fact that they're directly hiring eng… |
+| 2026-09-02 | 72.0 | Floworks AI (floworks.ai) | Sarthak Shrivastava, Co-founder -- LinkedIn: https://in.linkedin.com/in/sarthak-shrivastava (ZoomInfo shows only a redacted/paywalled email … | 1. Open with Floworks being a YC-backed, Bangalore-headquartered AI sales-agent company building named AI SDRs (Jesse, Alisha, etc.) on thei… |
+| 2026-09-02 | 39.0 | Stilta (stilta.com) | Oskar Block, Co-founder & CEO -- LinkedIn: https://www.linkedin.com/in/oskarblock/ (no verified email found via public GitHub commit data; d… | 1. Open with Stilta's fresh $10.5M a16z-led seed (May 2026) and that they're a 4-person team hiring their first engineers. 2. Ask about the … |
+| 2026-09-02 | 36.0 | Theo AI (theoai.ai) | Tiago Luchini, Co-founder & CTO -- LinkedIn: https://www.linkedin.com/in/tiagoluchini/ (no verified email found via public GitHub commit dat… | 1. Open with Theo AI's string of raises through 2025 (most recently $3.4M in Nov 2025) and Tiago Luchini's unusually strong background (Work… |
+| 2026-09-02 | 34.0 | Caseflood.ai (caseflood.ai) | Ayushman Srivastava, Co-Founder / Head of AI -- LinkedIn: https://www.linkedin.com/in/ayushman-srivastava-38ba80137/ (no verified email foun… | 1. Open with Caseflood.ai being a small YC W25 team explicitly hiring a Founding Engineer, and their voice-agent product (Luna) already hitt… |
 
 ### Session: 2026-09-01
 
@@ -192,6 +202,17 @@ _Last updated 2026-09-01._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-02
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-02 | A | 84.0 | Flagright | flagright.com | San Jose / San Francisco, USA -- with an active Bengaluru, India engineering office | $20.1M-$22.7M total (sources vary slightly: Crunchbase says $20.1M across 4 rounds, Sifted says ~$22.7M known total) | $12.5M Series A, announced June 17 2026, led by Infinity Ventures with Sella Direct Ventures; prior $4.3M seed led by Frontline Ventures, Ap… | 31 in San Francisco per one source, plus a separate active Bengaluru, India engineering office (headcount for Bengaluru office not separatel… | AI-first fintech | none found -- actively searched for layoffs/down-round/shutdown/founder departure news (site:flagright.com, general web search) and found on… | [link](https://www.flagright.com/post/inside-flagright-our-approach-to-hiring-team-growth ; https://jobs.ashbyhq.com/flagright.com) |
+| 2026-09-02 | B | 72.0 | Floworks AI | floworks.ai | Bengaluru, Karnataka, India (also has a San Francisco presence) | ~$2.3M-$2.9M total (sources vary: Crunchbase/Extruct AI aggregate $2.3M-$2.86M across disclosed rounds) | $1.5M seed reported Aug 31 2023 (SiliconANGLE); Crunchbase lists further funding activity as recently as Oct 2025 but without a disclosed am… | reported figures vary: ~20 (ynos.in) to 53 (Tracxn, June 2026) | Applied AI -- sales and support | ARR/funding reporting is stale (most recent hard figures are from Dec 2024/Aug 2023) and the stated Series A goal does not appear to have cl… | [link](https://www.ycombinator.com/companies/floworks) |
+| 2026-09-02 | C | 39.0 | Stilta | stilta.com | Stockholm, Sweden | $10.5M | $10.5M seed, announced May 19 2026, led by Andreessen Horowitz, with Y Combinator and individual employees of Legora and OpenAI participatin… | 4 employees, hiring for 3 more roles (product, engineering, sales); founders stated plan to reach ~10 employees within 3-6 months of the May… | Applied AI -- legal / IP tech | none found -- actively searched for layoffs/founder departure/negative news and found only positive coverage of the raise and early customer… | [link](https://stilta.com/careers) |
+| 2026-09-02 | C | 36.0 | Theo AI | theoai.ai | California, San Francisco Bay Area, USA | Reported inconsistently across sources: disclosed rounds sum to ~$9.8M ($2.2M pre-seed + $4.2M seed May 2025 + $3.4M Nov 2025); one source s… | $3.4M, announced ~Nov 12 2025, led by Run Ventures (source: siliconangle.com/2025/11/12/legal-ai-startup-theo-ai-lands-3m-grow-predictive-li… | unknown -- not found | Applied AI -- legal tech | Funding totals reported inconsistently across sources ($7M vs ~$9.8M) -- flagging for cross-check, though this looks like reporting variance… | [link](https://consider.com/boards/co/theo-ai) |
+| 2026-09-02 | C | 34.0 | Caseflood.ai | caseflood.ai | San Francisco, CA (1065 Folsom St) | $3.7M total | $3.2M strategic investment announced July 30 2025 (source: law.com/legaltechnews/2025/07/30/legal-intake-startup-casefloodai-announces-32-mi… | reported figures vary: 4 (Tracxn, Jun 2026) vs 12 (PitchBook) | Applied AI -- legal tech | none found -- actively searched for layoffs/shutdown/negative news and found none | [link](https://www.workatastartup.com/companies/30227) |
+| 2026-09-02 | C | 29.0 | Siena AI | siena.cx | New York, USA | $11.1M across 3 disclosed rounds | $6M seed, September 2024, led by Aglaé Ventures (prior: $4.7M seed Nov 2023 led by Sierra Ventures; $350K pre-seed Sept 2020 led by GapMinde… | ~54-70, growing ~27% YoY as of Aug 2026 (Crustdata) | Applied AI -- sales and support | Stale funding: last disclosed round was Sept 2024 (~24 months ago); no newer raise found despite active headcount growth, which could mean t… | [link](https://www.siena.cx/about-us) |
 
 ### Session: 2026-09-01
 
@@ -440,6 +461,9 @@ _Last updated 2026-09-01._
 | not an AI-native software company — core product is an online dispute resolution (mediation/arbitration/negotiation) workflow platform; AI-n… | 1 |
 | not an AI-native software company — core product is a debt collection/recovery SaaS platform (predictive dialing, litigation workflows); AI/… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
+| not an AI-native software company -- builds/operates AI-native law firms; product is legal services (replacing the billable hour), not softw… | 1 |
+| not an AI-native software company -- IP enforcement legal services business (per-campaign pricing, NDA audits, counsel-supervised filings), … | 1 |
+| not an AI-native software company -- AI-native immigration law firm; product sold is legal services, not software (Gate 1) | 1 |
 | not an AI-native software company - core product is GST/invoicing/bookkeeping SaaS; the 'AI Intelligence Layer' is explicitly a future roadm… | 1 |
 | not an AI-native software company - core business is wealth management / multi-family-office advisory services for UHNIs; 'Nex AI' is a bolt… | 1 |
 | not an AI-native software company - AI (question-generation, AI Engine) is a bolted-on feature added to an established 2009 assessment/e-lea… | 1 |
@@ -559,6 +583,12 @@ _Last updated 2026-09-01._
 | cannot support target comp — Lytmus AI raised only ₹5cr (~$550K) pre-seed (Jun 2026, Boundless Ventures), no revenue evidence (17K users, mo… | 1 |
 | cannot support target comp — Bloomy is YC S26 batch, founded 2026, only the standard YC check (~$125-500K) found, no other disclosed round; … | 1 |
 | cannot support target comp — 17+ named angel/fund investors but no disclosed funding amount found anywhere, and no revenue evidence; undiscl… | 1 |
+| cannot support target comp -- only 00K YC funding (Sep 2025), no revenue evidence | 1 |
+| cannot support target comp -- only 00K YC accelerator funding disclosed (Jan 2026), no revenue evidence | 1 |
+| cannot support target comp -- no funding beyond standard YC F25 deal found; revenue figure (~684K) only from an unverified third-party estim… | 1 |
+| cannot support target comp -- no funding amount disclosed beyond YC backing, no revenue evidence | 1 |
+| cannot support target comp -- YC F26 batch, 2 employees, no funding beyond standard YC deal found, no revenue evidence | 1 |
+| cannot support target comp -- .3M pre-seed (most consistent figure across sources), below the M threshold, no revenue evidence | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
 | cannot support target comp - only standard YC W26 investment (~00K) confirmed, no additional seed/revenue evidence found | 1 |
 | cannot support target comp - only funding on record is a non-equity NUMA assistance program, no VC funding or verifiable revenue evidence fo… | 1 |
@@ -618,5 +648,5 @@ _Last updated 2026-09-01._
 | vertical:fintech-ai | AI-first fintech | 2026-08-31 | 1 | 10 |
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
 | vertical:legal-ai | Applied AI — legal and compliance | 2026-09-01 | 1 | 21 |
-| vertical:sales-support-ai | Applied AI — sales and support | never | 0 | 0 |
+| vertical:sales-support-ai | Applied AI — sales and support | 2026-09-02 | 1 | 10 |
 | vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | never | 0 | 0 |
