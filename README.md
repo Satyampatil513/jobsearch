@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-03._
 
-**384** companies seen total — **159** enriched, **212** rejected, **13** still queued.
+**398** companies seen total — **162** enriched, **224** rejected, **12** still queued.
 
 ## Outreach queue — email these
 
@@ -11,6 +11,8 @@ _Last updated 2026-09-03._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-03 | 81.0 | Digantara (digantara.co.in) | Anirudh Sharma, Founder & CEO - LinkedIn: https://www.linkedin.com/in/anirudh-sharma-digantara/ | 1. Open with the Dec 2025 $50M Series B and the MOSAIC AI-platform launch (Aug 2026) - both signal active platform/software hiring. 2. Ask a… |
+| 2026-09-03 | 78.0 | Weaviate (weaviate.io) | Bob van Luijt (CEO/co-founder) — LinkedIn: https://nl.linkedin.com/in/bobvanluijt. Etienne Dilocker (CTO/co-founder) — LinkedIn: https://www… | 1. Open with the Oct 2025 $50M Series C ($200M valuation) — recent, well-capitalized, and squarely in the vector-DB/RAG-infra space he alrea… |
+| 2026-09-03 | 59.0 | Bevyl AI (bevyl.ai) | Noah Lindner (CTO/co-founder) — LinkedIn: https://www.linkedin.com/in/noahlindner/. No email found — scripts/find_contacts.py could not run … | 1. Open with the fact that Bevyl is only 6 people and the CTO personally posted on LinkedIn looking for their first engineer — genuinely fou… |
 | 2026-09-03 | 47.0 | Overstory (overstory.ai) | unknown - no verified individual found; apply via https://www.overstory.com/careers | 1. Open with the Nov 2025 $43M Series B and stated global-expansion hiring push. 2. Ask about backend/ML engineering roles supporting the AI… |
 | 2026-09-03 | 40.0 | Edra (edra.ai) | unknown - no verified individual found; apply via https://edra.ai/careers | 1. Open with the Sequoia-backed $30M Series A and stealth emergence (March 2026), plus the ex-Palantir FDE pedigree of the founders. 2. Ask … |
 | 2026-09-03 | 37.0 | Prime Intellect (primeintellect.ai) | unknown - no verified individual found; careers page at primeintellect.ai (site unreachable from this environment) | 1. Open with the July 2026 $130M Series A / $1B valuation and the fact they're hiring ~26 roles. 2. Ask about backend/infra engineering role… |
@@ -226,6 +228,9 @@ _Last updated 2026-09-03._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-03 | A | 81.0 | Digantara | digantara.co.in | Bengaluru (Bangalore), India | $64.51M total (11 rounds) | $50M Series B, announced 2025-12-16 (led by new investors 360 ONE Asset and SBI Investment, with Peak XV Partners and Kalaari Capital) | 97 (as of 2025-08-31), 50% YoY growth | Space software / geospatial AI | None found. Actively searched for layoffs/down-round/founder-exit signals; found none. Funding round is 9 months old (not stale). | [link](https://www.digantara.co.in/) |
+| 2026-09-03 | B | 78.0 | Weaviate | weaviate.io | Amsterdam, Netherlands (remote-first, distributed team) | $118M total ($50M Series B Apr 2023 + $50M Series C Oct 2025 at $200M valuation, led by Battery Ventures and Zetta Venture Partners) | $50M Series C, October 10, 2025 (source: SalesTools AI / PR coverage of the round) | 74-99 (sources disagree: PitchBook ~74 as of Apr 2026, another source ~99; Wellfound company size band 11-50 is stale) | AI-native infrastructure and devtools | None found. Actively searched for layoffs/down-round/founder-departure news specific to Weaviate — found none. Funding round (Oct 2025) is r… | [link](https://careers.weaviate.io) |
+| 2026-09-03 | C | 59.0 | Bevyl AI | bevyl.ai | Katonah, NY, United States | $2.3M total (as of June 11, 2026, per Caplight/PitchBook profile; an earlier $1.3M figure from Dealroom appears to be a prior, smaller snaps… | Seed, led by Launchpad Venture Group with HearstLab (Hearst's early-stage fund for women-led startups) participating; exact date not found b… | 6 total employees (per Crunchbase/Wellfound-sourced profile) | AI-first SaaS / B2B | None found. Actively searched for layoffs, down-round, and founder-departure news — found none; company reads as pre-/early-revenue and stil… | unknown (no dedicated careers page found; hiring surfaced via Wellfound and LinkedIn) |
+| 2026-09-03 | C | 48.0 | AssemblyAI | assemblyai.com | San Francisco / distributed | $158.2M total | $50M Series C, December 2023 (led by Accel; participants: Insight Partners, Daniel Gross, Nat Friedman, Y Combinator) — source: Built In SF … | ~100-120 (sources range 100-121; PitchBook ~100, Unify ~105 as of July 2026) | AI-native infrastructure and devtools | Stale-funding risk: last raise (Series C, $50M) was December 2023, ~33 months ago with no newer round found despite searching specifically f… | [link](https://www.assemblyai.com/careers) |
 | 2026-09-03 | C | 47.0 | Overstory | overstory.ai | Amsterdam, Netherlands | ~$57M+ ($14M Series A + $43M Series B, plus earlier seed) | $43M Series B, announced 2025-11-25 (PR Newswire), led by Blume Equity with Energy Impact Partners LP | ~85-100 (sources vary: 'team of more than 100' vs. '85 people from fifteen nationalities') | Applied AI in a vertical | Leadership transition: original co-founder/CEO Indra den Bakker passed away in 2024; company has since operated under new CEO Fiona Spruill … | [link](https://www.overstory.com/careers) |
 | 2026-09-03 | C | 40.0 | Edra | edra.ai | New York, NY and London, UK | $30M+ (Series A; pre-seed/seed amount not separately verified) | $30M Series A, announced ~2026-03-19 (Tech.eu), led by Sequoia Capital with 8VC and A* (Kevin Hartz's fund) | unknown - described only as a 'deeply technical team of engineers, AI researchers, and strategists' with 'a high bar for talent'; specific c… | AI-native infrastructure and devtools | Ambiguity flag (not a rejection): one informal source describes a consultant-augmented delivery model alongside the AI agents, which could i… | [link](https://edra.ai/careers) |
 | 2026-09-03 | C | 37.0 | Prime Intellect | primeintellect.ai | San Francisco, CA | ~$150M+ (pre-seed/seed + $130M Series A) | $130M Series A at $1B valuation, announced 2026-07-08 (TechCrunch), led by Radical Ventures with Nvidia Ventures, Intel Capital, Dell Techno… | ~32-56 (estimates vary by source; ~40 is the mid-estimate as of mid-2026) | AI-native infrastructure and devtools | None found - actively searched for layoffs/negative signals, found none. Funding is 2 months old (very fresh, not stale). | [link](https://primeintellect.ai/careers (unreachable from this environment - egress blocked)) |
@@ -473,12 +478,15 @@ _Last updated 2026-09-03._
 | no remote evidence | 13 |
 | no verifiable company or product found for this domain | 2 |
 | wrong domain: this candidate's real site is marble-imaging.de (Bremen Earth-observation startup); re-enqueuing under the correct domain | 1 |
+| web3/crypto-only (DeFi lending protocol on Ethereum), not an AI-native software company — hard exclusion | 1 |
+| web3/crypto — European crypto neobank/debit card, hard exclusion | 1 |
 | web3-only | 1 |
 | too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
 | stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
 | stage/size exceeds criteria: Series C, 232 employees, no APAC/India remote signal (LA/NYC/Toronto only) | 1 |
 | stage too late — Series B+ (~$88.5-113M raised), ~350 employees, exceeds the 200-headcount cap for Series B-stage companies | 1 |
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
+| services/agency — digital product design and development studio, hard exclusion | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
@@ -506,6 +514,7 @@ _Last updated 2026-09-03._
 | not an AI-native software company — e-signature/eStamp/document infrastructure platform, no meaningful AI/ML core | 1 |
 | not an AI-native software company — core product is an online dispute resolution (mediation/arbitration/negotiation) workflow platform; AI-n… | 1 |
 | not an AI-native software company — core product is a debt collection/recovery SaaS platform (predictive dialing, litigation workflows); AI/… | 1 |
+| not an AI-native software company — core product is AI-powered security camera hardware + NVR appliances (Intelligent Video Recorder w/ NVID… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
 | not an AI-native software company -- builds/operates AI-native law firms; product is legal services (replacing the billable hour), not softw… | 1 |
 | not an AI-native software company -- IP enforcement legal services business (per-campaign pricing, NDA audits, counsel-supervised filings), … | 1 |
@@ -522,6 +531,10 @@ _Last updated 2026-09-03._
 | not an AI-native software company (core product is bank-native asset-backed credit/card infrastructure for banks; agentic AI is an internal … | 1 |
 | not an AI-native software company (core product is a SEBI-registered stock broking/trading platform -- Series B, ex-Swiggy-CTO-founded; AI i… | 1 |
 | not an AI-native software company (bedside hardware sleep device) | 1 |
+| not AI-native — reference/citation management SaaS tool for researchers, no meaningful AI/ML core | 1 |
+| not AI-native — grab-bag of small SaaS utilities (AI calculators, SEO tools, email deliverability tools, business calculators) using LLM API… | 1 |
+| not AI-native — content/audience-engagement analytics platform (behavioral data, publishing tech); AI/GPU-inference mentioned only as a mino… | 1 |
+| not AI-native — Southeast Asian insurance comparison marketplace/insurtech; AI agent is a bolted-on feature on a non-AI insurance platform | 1 |
 | no remote evidence: solo-founder US email client, no funding; the AI Engineer role on Wellfound is explicitly on-site in New York, NY | 1 |
 | no remote evidence: YC/SF-based, careers page suggests general remote flexibility but no worldwide/global/India-specific statement found | 1 |
 | no remote evidence: US-based (Arlington VA) product/govtech company, 17 employees, job posts say 'Remote' but none name India/APAC/worldwide… | 1 |
@@ -607,6 +620,10 @@ _Last updated 2026-09-03._
 | dead: acquired and absorbed by Privateer (May 2024) after near-bankruptcy and layoffs | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
+| dead — acquired by Pinewood Technologies Group (March 1, 2025); no longer an independent company | 1 |
+| dead — acquired and absorbed by Automattic (Dec 2024); CodeWP/AgentWP discontinued in current form, founding team joined Automattic | 1 |
+| dead — acquired and absorbed by Automattic (Dec 2024), same company as codewp.ai (WPAI Inc) | 1 |
+| cannot verify company identity or product — no discoverable company website, product description, or funding info despite multiple searches;… | 1 |
 | cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
@@ -675,7 +692,7 @@ _Last updated 2026-09-03._
 | Source | Label | Last scanned | Runs | New found |
 |---|---|---|---|---|
 | board:remoteok-ai | Remote OK — AI startups | 2026-09-03 | 2 | 36 |
-| board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-08-17 | 1 | 32 |
+| board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-03 | 2 | 46 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-08-17 | 1 | 9 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-08-21 | 1 | 11 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-08-22 | 1 | 10 |
