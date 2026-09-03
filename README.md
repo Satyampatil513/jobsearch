@@ -1,10 +1,22 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-02._
+_Last updated 2026-09-03._
 
-**367** companies seen total — **150** enriched, **205** rejected, **12** still queued.
+**384** companies seen total — **159** enriched, **212** rejected, **13** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-03
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-03 | 81.0 | Digantara (digantara.co.in) | Anirudh Sharma, Founder & CEO - LinkedIn: https://www.linkedin.com/in/anirudh-sharma-digantara/ | 1. Open with the Dec 2025 $50M Series B and the MOSAIC AI-platform launch (Aug 2026) - both signal active platform/software hiring. 2. Ask a… |
+| 2026-09-03 | 47.0 | Overstory (overstory.ai) | unknown - no verified individual found; apply via https://www.overstory.com/careers | 1. Open with the Nov 2025 $43M Series B and stated global-expansion hiring push. 2. Ask about backend/ML engineering roles supporting the AI… |
+| 2026-09-03 | 40.0 | Edra (edra.ai) | unknown - no verified individual found; apply via https://edra.ai/careers | 1. Open with the Sequoia-backed $30M Series A and stealth emergence (March 2026), plus the ex-Palantir FDE pedigree of the founders. 2. Ask … |
+| 2026-09-03 | 37.0 | Prime Intellect (primeintellect.ai) | unknown - no verified individual found; careers page at primeintellect.ai (site unreachable from this environment) | 1. Open with the July 2026 $130M Series A / $1B valuation and the fact they're hiring ~26 roles. 2. Ask about backend/infra engineering role… |
+| 2026-09-03 | 35.0 | Marble Imaging (marble-imaging.de) | unknown - no verified individual found; LinkedIn company page https://de.linkedin.com/company/marble-imaging has active hiring posts | 1. Open with the Dec 2025 EUR 5.3M seed round and the 2026 first-satellite launch as the hiring trigger. 2. Ask about backend/software roles… |
+| 2026-09-03 | 31.0 | Basalt (Basalt Tech) (basalt.space) | unknown - no verified individual found; apply via YC company page | 1. Open referencing their software-defined spacecraft fleet thesis and YC W24 background. 2. Ask about backend/software engineering roles bu… |
+| 2026-09-03 | 30.0 | LeoLabs (leolabs.space) | Daniel Ceperley, Co-founder & COO - LinkedIn: https://www.linkedin.com/in/daniel-ceperley-aa27903/ | 1. Open with the 2026 SpaceWERX STRATFI award and the Delta AI platform launch as hiring triggers. 2. Ask about backend/AI engineering roles… |
 
 ### Session: 2026-09-02
 
@@ -208,6 +220,20 @@ _Last updated 2026-09-02._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-03
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-03 | A | 81.0 | Digantara | digantara.co.in | Bengaluru (Bangalore), India | $64.51M total (11 rounds) | $50M Series B, announced 2025-12-16 (led by new investors 360 ONE Asset and SBI Investment, with Peak XV Partners and Kalaari Capital) | 97 (as of 2025-08-31), 50% YoY growth | Space software / geospatial AI | None found. Actively searched for layoffs/down-round/founder-exit signals; found none. Funding round is 9 months old (not stale). | [link](https://www.digantara.co.in/) |
+| 2026-09-03 | C | 47.0 | Overstory | overstory.ai | Amsterdam, Netherlands | ~$57M+ ($14M Series A + $43M Series B, plus earlier seed) | $43M Series B, announced 2025-11-25 (PR Newswire), led by Blume Equity with Energy Impact Partners LP | ~85-100 (sources vary: 'team of more than 100' vs. '85 people from fifteen nationalities') | Applied AI in a vertical | Leadership transition: original co-founder/CEO Indra den Bakker passed away in 2024; company has since operated under new CEO Fiona Spruill … | [link](https://www.overstory.com/careers) |
+| 2026-09-03 | C | 40.0 | Edra | edra.ai | New York, NY and London, UK | $30M+ (Series A; pre-seed/seed amount not separately verified) | $30M Series A, announced ~2026-03-19 (Tech.eu), led by Sequoia Capital with 8VC and A* (Kevin Hartz's fund) | unknown - described only as a 'deeply technical team of engineers, AI researchers, and strategists' with 'a high bar for talent'; specific c… | AI-native infrastructure and devtools | Ambiguity flag (not a rejection): one informal source describes a consultant-augmented delivery model alongside the AI agents, which could i… | [link](https://edra.ai/careers) |
+| 2026-09-03 | C | 37.0 | Prime Intellect | primeintellect.ai | San Francisco, CA | ~$150M+ (pre-seed/seed + $130M Series A) | $130M Series A at $1B valuation, announced 2026-07-08 (TechCrunch), led by Radical Ventures with Nvidia Ventures, Intel Capital, Dell Techno… | ~32-56 (estimates vary by source; ~40 is the mid-estimate as of mid-2026) | AI-native infrastructure and devtools | None found - actively searched for layoffs/negative signals, found none. Funding is 2 months old (very fresh, not stale). | [link](https://primeintellect.ai/careers (unreachable from this environment - egress blocked)) |
+| 2026-09-03 | C | 35.0 | Marble Imaging | marble-imaging.de | Bremen, Germany | unknown exact total - at least EUR 5.3M (~$6.1M) as of latest round | EUR 5.3M seed, announced 2025-12-01 (Tech.eu / EU-Startups), led by High-Tech Gruenderfonds (HTGF) | unknown - not directly confirmed; company is pre-launch (first satellite scheduled 2026), team is early-stage/small | Space software / geospatial AI | None found beyond pre-revenue/pre-launch execution risk (first satellite has not launched yet as of this run). Actively searched for negativ… | [link](https://marble-imaging.de/) |
+| 2026-09-03 | C | 32.0 | AiDASH | aidash.com | Palo Alto, CA | $91.5M total | $58.5M Series C (oversubscribed), led by Lightrock | 390 | Space software / geospatial AI | None found. Actively searched for layoffs/negative signals; found none. | [link](https://www.aidash.com/careers) |
+| 2026-09-03 | C | 31.0 | Basalt (Basalt Tech) | basalt.space | San Francisco, CA | ~$4M total (pre-seed + seed) | $3.5M seed, announced 2024-05-30 (TechCrunch) | 6 (PitchBook / Y Combinator) | Space software | Stale-funding risk: last known raise was 2024-05-30, ~28 months ago, no newer round found - runway should be treated as questionable. No lay… | [link](https://www.ycombinator.com/companies/basalt) |
+| 2026-09-03 | C | 30.0 | LeoLabs | leolabs.space | Menlo Park, CA | $129M total (5 rounds) | $29M, announced 2024-02 (PR Newswire); note also a $60M SpaceWERX STRATFI award (non-equity, defense contract) in 2026 | 126 | Space software | None found - actively searched for layoffs/down-round/negative signals; found none. Last equity round (Feb 2024, ~31mo old) would normally b… | unknown - not verified this pass |
+| 2026-09-03 | C | 25.0 | ZestyAI | zesty.ai | San Francisco Bay Area, CA | $46M total over 5 rounds | Debt financing round, 2025-06-25 (most recent financing activity found; exact date of last priced equity round not verified) | 81 (as of 2026-04-30) | Space software / geospatial AI | Funding-recency uncertainty: last confirmed financing event is a June 2025 debt round rather than a priced equity round, and no clear Series… | [link](https://zesty.ai/about-us) |
 
 ### Session: 2026-09-02
 
@@ -446,6 +472,7 @@ _Last updated 2026-09-02._
 |---|---|
 | no remote evidence | 13 |
 | no verifiable company or product found for this domain | 2 |
+| wrong domain: this candidate's real site is marble-imaging.de (Bremen Earth-observation startup); re-enqueuing under the correct domain | 1 |
 | web3-only | 1 |
 | too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
 | stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
@@ -455,18 +482,21 @@ _Last updated 2026-09-02._
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
+| not an AI-native software company: reusable launch vehicle / rocket engine manufacturer | 1 |
 | not an AI-native software company: quick-commerce/dark-store delivery platform for building materials (plywood, paint, electricals) to contr… | 1 |
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
 | not an AI-native software company: product is a physical thermal-sensing screening device (Thermalytix), not software — Gate 1 hardware/devi… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
 | not an AI-native software company: it is a licensed, practicing law firm selling attorney-delivered legal services (flat-fee contract review… | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
+| not an AI-native software company: custom satellite manufacturer (hardware, LEO satellites for SAR/EO/SATCOM) | 1 |
 | not an AI-native software company: core product is physical dermatologist-formulated skincare (via SkinQ acquisition), a beauty/personal-car… | 1 |
 | not an AI-native software company: core product is human-led chronic-care service (doctors, nutritionists, coaches) with an app as enablemen… | 1 |
 | not an AI-native software company: core paid product is human geriatric-care-manager service; AI caregiving monitoring is a Jan 2026 pilot f… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: core business is a skincare/derma e-pharmacy marketplace + teleconsultation; AI treatment-plan feature is… | 1 |
 | not an AI-native software company: builds spacecraft/satellites and in-orbit servicing hardware, core engineering is aerospace/hardware not … | 1 |
+| not an AI-native software company: builds and sells satellite hardware/orbital data-center infrastructure | 1 |
 | not an AI-native software company: builds and launches its own satellites (data centers in space), core product is hardware infrastructure n… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
 | not an AI-native software company: AI100 is an integrated hardware+robotics slide-scanner medical device (FDA 510(k) cleared), robotics-firs… | 1 |
@@ -568,11 +598,13 @@ _Last updated 2026-09-02._
 | duplicate of aina.com (same company, formerly stealth-named Project Mirage) | 1 |
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
 | declining/negative signals - last funding round was in 2019 (7 years stale), headcount has fallen to ~2 employees, no recent traction signal… | 1 |
+| declining / negative signals: funding stale (Series B $50M was March 2022, ~4.5yr old, no round since), confirmed layoffs per co-founder blo… | 1 |
 | declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
 | declining / negative signals — co-founder Ahmed Khan departed the company (reported by GeekWire, left 'last year' to start a new stealth sta… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead: confirmed company shutdown -- Ragie's RAG-as-a-service platform ended July 19 2026, customers directed to export data by Jul 3 deadlin… | 1 |
+| dead: acquired and absorbed by Privateer (May 2024) after near-bankruptcy and layoffs | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
 | cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
@@ -580,6 +612,7 @@ _Last updated 2026-09-02._
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
 | cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
+| cannot support target comp: only ~$380K (EUR 350K) seed raised (Jan 2025), no revenue evidence found | 1 |
 | cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
 | cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
@@ -641,7 +674,7 @@ _Last updated 2026-09-02._
 
 | Source | Label | Last scanned | Runs | New found |
 |---|---|---|---|---|
-| board:remoteok-ai | Remote OK — AI startups | 2026-08-17 | 1 | 19 |
+| board:remoteok-ai | Remote OK — AI startups | 2026-09-03 | 2 | 36 |
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-08-17 | 1 | 32 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-08-17 | 1 | 9 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-08-21 | 1 | 11 |
