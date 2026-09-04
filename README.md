@@ -1,10 +1,18 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-03._
+_Last updated 2026-09-04._
 
-**398** companies seen total — **162** enriched, **224** rejected, **12** still queued.
+**409** companies seen total — **166** enriched, **235** rejected, **8** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-04
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-04 | 93.0 | ProLearn (prolearnindia.com) | Ravneet Singh, Founder & CEO — LinkedIn https://in.linkedin.com/in/ravneetsk (no email found; GitHub commit scan via find_contacts.py return… | 1. Open with the ₹30cr pre-seed (BEENEXT-led) and ProLearn's mission to build an AI tutor for JEE/NEET/UPSC/CAT students, seen via the fundi… |
+| 2026-09-04 | 77.0 | Neysa (neysa.ai) | Sharad Sanghi (Founder & CEO) or Anindya Das (Co-founder & CTO) — no verified LinkedIn URL or email found (GitHub commit scan via find_conta… | 1. Open with the Feb 2026 $600M Series B and the 10x GPU-fleet scale-up as the growth signal. 2. Ask about backend/platform engineering role… |
+| 2026-09-04 | 51.0 | Vitra.ai (vitra.ai) | Satvik Jagannath, Co-founder & CEO — LinkedIn https://in.linkedin.com/in/satvik-k-j (ZoomInfo shows a masked s***@vitra.ai entry but does no… | 1. Open with Vitra's Microsoft Azure customer-story feature and its multimodal GenAI stack (speech-to-text, dubbing, lip-sync) as the hook, … |
 
 ### Session: 2026-09-03
 
@@ -222,6 +230,15 @@ _Last updated 2026-09-03._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-04
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-04 | A | 93.0 | ProLearn | prolearnindia.com | Bengaluru, India | ₹30 crore (~$3.5M) | Pre-seed, ~April-May 2026 (fresh, a few months old as of Sept 2026), led by BEENEXT (Singapore) with Eximius Ventures, Antler, and angel inv… | unknown (very early stage; likely under 10 given pre-seed and April 2026 founding) | Applied AI in a vertical — edtech and exam prep | None found — company is only months old with a very fresh raise, so no funding-staleness or negative-signal risk applies. Pre-launch/executi… | [link](https://prolearnindia.com/) |
+| 2026-09-04 | B | 77.0 | Neysa | neysa.ai | Bangalore, India (with a Hyderabad data center) | at least $600M (Series B); some secondary sources cite a cumulative ~$1.2B figure that likely blends equity with GPU/infrastructure debt fin… | $600M Series B, Feb 16 2026 (source: SiliconANGLE) — fresh, ~7 months old as of Sept 2026 | 97-110 employees (Aug 2025-2026 estimates, 137% YoY growth) | AI-native infrastructure and devtools | None found. Funding is fresh (~7 months old) and headcount is growing rapidly; no layoffs, down-round, or founder-departure signals found in… | [link](https://neysa.ai/careers/) |
+| 2026-09-04 | C | 51.0 | Vitra.ai | vitra.ai | Bangalore, India | $5.42M over 6 rounds | Seed, July 2024 (~26 months old as of Sept 2026) — investors Inflexor Ventures, Mumbai Angels, 100X.VC, IIFL Fintech Fund | unknown | Applied AI in a vertical | Stale-funding risk: last round (seed) was July 2024, ~26 months old as of Sept 2026, with no subsequent raise found despite searching. No la… | [link](https://www.vitra.ai/) |
+| 2026-09-04 | C | 49.0 | Pythagora | pythagora.ai | Zagreb, Croatia | $4M | $4M seed, May 1 2024 (source: therecursive.com, tech.eu, ain.ua) — ~28 months old as of Sept 2026 | 5 (per CBInsights/LinkedIn, Zagreb team) | AI-native infrastructure and devtools | Stale-funding risk: last raise (seed) was May 2024, ~28 months ago as of Sept 2026, with no subsequent round found despite searching. No lay… | [link](https://www.pythagora.ai/team) |
 
 ### Session: 2026-09-03
 
@@ -483,13 +500,16 @@ _Last updated 2026-09-03._
 | web3-only | 1 |
 | too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
 | stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
+| stage/size — Series C (25M total, 00M valuation), 190-235 employees; exceeds target stage/size criteria (Series B only if under 200, sweet s… | 1 |
 | stage/size exceeds criteria: Series C, 232 employees, no APAC/India remote signal (LA/NYC/Toronto only) | 1 |
 | stage too late — Series B+ (~$88.5-113M raised), ~350 employees, exceeds the 200-headcount cap for Series B-stage companies | 1 |
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
 | services/agency — digital product design and development studio, hard exclusion | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
+| pure security/infosec product (autonomous AI pentesting agents) — hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
+| not an AI-native software product (kids audio storytelling/podcasting platform); funding is grant/impact-fund backed (Allia Impact Fund, Inn… | 1 |
 | not an AI-native software company: reusable launch vehicle / rocket engine manufacturer | 1 |
 | not an AI-native software company: quick-commerce/dark-store delivery platform for building materials (plywood, paint, electricals) to contr… | 1 |
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
@@ -581,6 +601,7 @@ _Last updated 2026-09-03._
 | no funding/hiring/product/news signal in 12+ months: last funding 2022 seed under original web3 identity (Scale3 Labs), no 2025-2026 news, f… | 1 |
 | no funding, hiring or news signal in 12+ months: last funding ~April 2023 (~3.5 years old), 353 employees, no 2025/2026 news, product launch… | 1 |
 | no funding, hiring or news signal in 12+ months: last announced round is Series A $5M on 2023-03-29 (~3.5 years old, stale), 0 open roles on… | 1 |
+| marketing/consulting agency (AI-powered digital marketing agency for fintech/AI companies), not an AI-native software product — services har… | 1 |
 | location: hiring is Mumbai-onsite (Backend/Frontend/SDE roles all listed Mumbai), no remote-within-India or remote-international evidence fo… | 1 |
 | location: corporate office in Noida per Gate 2 exclusion list | 1 |
 | location: HQ is Mumbai/Thane, Maharashtra (registered as ZKAP Edtech Services Pvt Ltd, Kalyan, Thane per Tracxn), not Bangalore or remote-wi… | 1 |
@@ -594,6 +615,7 @@ _Last updated 2026-09-03._
 | location (HQ Mandi, Himachal Pradesh, onsite, no remote evidence) | 1 |
 | location (HQ Lucknow, onsite, no remote evidence) | 1 |
 | location (HQ Gurugram, onsite, no remote evidence) | 1 |
+| insufficient verifiable public information to confirm product (conflated with unrelated 'Ventura' YC W26 and 'Ventura AI' entities in search… | 1 |
 | hard exclusion: recruiting/consulting agency, not a product company | 1 |
 | hard exclusion: digital production consultancy/agency, not a product company (distinct from FutureSight Ventures) | 1 |
 | hard exclusion: dead - domain unreachable (ENOTFOUND), no product, likely miscategorized board listing | 1 |
@@ -608,6 +630,7 @@ _Last updated 2026-09-03._
 | excluded sector: pure security/infosec (LLM security tooling) — hard exclusion regardless of funding/team quality | 1 |
 | exceeds target stage/size for cold-outreach fit: ~176-210 employees, $74-120M total raised - large scale-up, not a founder-reads-own-inbox t… | 1 |
 | exceeds target stage/size for cold-outreach fit: Series F, $425M total raised, $1B valuation, 229 employees - large scale-up, not a founder-… | 1 |
+| education/training service (cohort-based AI skills course for professionals), not an AI-native software product — fails Gate 1 litmus test | 1 |
 | duplicate of aina.com (same company, formerly stealth-named Project Mirage) | 1 |
 | dormant and off-sector: beverage-alcohol retail location-analytics company founded 2012-2015, last funding signal 2013 (12+ years dormant), … | 1 |
 | declining/negative signals - last funding round was in 2019 (7 years stale), headcount has fallen to ~2 employees, no recent traction signal… | 1 |
@@ -672,8 +695,10 @@ _Last updated 2026-09-03._
 | cannot support target comp (YC P26 batch, founded 2026, 3-person team; only funding found is the standard YC batch investment (~$500K) -- no… | 1 |
 | cannot support target comp (M seed, May 2026 — below the ~M threshold, no revenue evidence found) | 1 |
 | cannot support target comp (00K total funding, ~5 employees — tiny pre-seed with nothing else going for it per Gate 3; also US-based, no con… | 1 |
+| biotech diagnostics — product is a physical/molecular diagnostic test (Ataraxis Breast cancer prognostic assay), fails Gate 1 hardware/devic… | 1 |
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
+| acquired by Invoca (May 28, 2025) — acquisition-and-absorbed | 1 |
 | acquired by Apple Jan 2025, company discontinuing operations | 1 |
 | acquired and absorbed: Aurionpro Solutions acquired 67% of Arya.ai in April 2024, no longer an independent company with a founder to cold-em… | 1 |
 | acquired and absorbed — acquired by Foundry (VFX/creative software), deal completed Feb 18, 2026; no longer an independent hiring startup | 1 |
@@ -683,6 +708,9 @@ _Last updated 2026-09-03._
 | acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
 | Series C, 75M raised, 634 employees — far past Series B / 200-person cap, large slow-growing devtools company at this stage | 1 |
 | Gate 4 negative signals: round is ~2yrs old not 2026, reportedly failed to raise Series A, recent layoffs (user feedback - pipeline data was… | 1 |
+| Gate 3 — no verifiable funding found despite multiple searches (very early team, 1-10 people, founding-engineer roles being posted); funding… | 1 |
+| Gate 3 — no verifiable funding amount found; only backing mentioned is University of Chicago (incubator-level), not a confirmed M+ VC raise;… | 1 |
+| Gate 3 — funding amount undisclosed despite strong team pedigree (Stanford/Harvard/IIT Delhi/Penn) and named angel backers; no confirmed dol… | 1 |
 | Gate 3 comp: unfunded 13-person team, cannot plausibly pay 25-30 LPA; founder quality concerns (user feedback) | 1 |
 | Gate 3 comp: bootstrapped with no revenue evidence; team quality concerns (user feedback) | 1 |
 | Gate 2 location: Noida-onsite, the city he is leaving (user feedback); also comp doubts | 1 |
@@ -693,7 +721,7 @@ _Last updated 2026-09-03._
 |---|---|---|---|---|
 | board:remoteok-ai | Remote OK — AI startups | 2026-09-03 | 2 | 36 |
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-03 | 2 | 46 |
-| geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-08-17 | 1 | 9 |
+| geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-04 | 2 | 20 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-08-21 | 1 | 11 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-08-22 | 1 | 10 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
