@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-04._
 
-**409** companies seen total — **166** enriched, **235** rejected, **8** still queued.
+**419** companies seen total — **174** enriched, **242** rejected, **3** still queued.
 
 ## Outreach queue — email these
 
@@ -11,8 +11,16 @@ _Last updated 2026-09-04._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-04 | 93.0 | ProLearn (prolearnindia.com) | Ravneet Singh, Founder & CEO — LinkedIn https://in.linkedin.com/in/ravneetsk (no email found; GitHub commit scan via find_contacts.py return… | 1. Open with the ₹30cr pre-seed (BEENEXT-led) and ProLearn's mission to build an AI tutor for JEE/NEET/UPSC/CAT students, seen via the fundi… |
+| 2026-09-04 | 82.0 | Coreworks AI (coreworks.ai) | Pavan Sondur, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/pavansondur/ (no verified email found; do not guess one) | 1. Open with the March 2026 $5M seed (Together Fund) - only a few months old - and Coreworks' pitch as an 'AI business analyst' for enterpri… |
 | 2026-09-04 | 77.0 | Neysa (neysa.ai) | Sharad Sanghi (Founder & CEO) or Anindya Das (Co-founder & CTO) — no verified LinkedIn URL or email found (GitHub commit scan via find_conta… | 1. Open with the Feb 2026 $600M Series B and the 10x GPU-fleet scale-up as the growth signal. 2. Ask about backend/platform engineering role… |
+| 2026-09-04 | 76.0 | GreyLabs AI (greylabs.ai) | Aman Goel, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/goel-aman (no verified email found; do not guess one) | 1. Open with the ~Oct 2025 Elevation Capital round and GreyLabs' growth in agentic Voice AI for BFSI. 2. Ask about backend/AI engineering ro… |
+| 2026-09-04 | 68.0 | Prosperr.io (prosperr.io) | Manas Gond, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/manas-gond (no verified email found; do not guess one) | 1. Open with the Dec 2025 $4M seed (Jungle Ventures) and the move into wealth management as a new product surface. 2. Ask about backend/AI e… |
+| 2026-09-04 | 66.0 | BrainSightAI (brainsightai.com) | Laina Emmanuel, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/laina-emmanuel-8a873b33 (no verified email found; do not guess one) | 1. Open with the Jan 2025 $5M Pre-Series A (IAN Alpha Fund) and BrainSightAI's expansion into more hospital markets. 2. Ask about backend/ap… |
+| 2026-09-04 | 65.0 | Nyayanidhi (nyayanidhi.com) | Adithya LHS, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/adithya-lhs (no verified email found; do not guess one) | 1. Open with the ~Nov 2025 $2M seed (3one4 Capital) and the litigation-OS build-out. 2. Ask about backend/AI engineering roles for the case-… |
+| 2026-09-04 | 62.0 | Synapsica (synapsica.com) | Gandharv Goyal, Co-founder - LinkedIn: https://in.linkedin.com/in/dr-gandharv (no verified email found; do not guess one) | 1. Open with Synapsica's real revenue traction ($3.9-4.5M reported) and YC pedigree rather than the funding round, since the Series A itself… |
 | 2026-09-04 | 51.0 | Vitra.ai (vitra.ai) | Satvik Jagannath, Co-founder & CEO — LinkedIn https://in.linkedin.com/in/satvik-k-j (ZoomInfo shows a masked s***@vitra.ai entry but does no… | 1. Open with Vitra's Microsoft Azure customer-story feature and its multimodal GenAI stack (speech-to-text, dubbing, lip-sync) as the hook, … |
+| 2026-09-04 | 43.0 | Constems-AI (constems.ai) | Amit Singh, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/amit-singh-062858a/ (no verified email found; do not guess one) | 1. Open with the $2M Pre-Series A (Finvolve) and Constems-AI's push into Southeast Asia/Japan/Middle East. 2. Ask about backend/AI engineeri… |
+| 2026-09-04 | 42.0 | HireBound (hirebound.io) | Sharad Vij, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/sharadvij/ (no verified email found; do not guess one) | 1. Open with the Feb 2026 $2M seed (Kalaari Capital) and the international-expansion push. 2. Ask about backend/agent-engineering roles buil… |
 
 ### Session: 2026-09-03
 
@@ -236,9 +244,17 @@ _Last updated 2026-09-04._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-04 | A | 93.0 | ProLearn | prolearnindia.com | Bengaluru, India | ₹30 crore (~$3.5M) | Pre-seed, ~April-May 2026 (fresh, a few months old as of Sept 2026), led by BEENEXT (Singapore) with Eximius Ventures, Antler, and angel inv… | unknown (very early stage; likely under 10 given pre-seed and April 2026 founding) | Applied AI in a vertical — edtech and exam prep | None found — company is only months old with a very fresh raise, so no funding-staleness or negative-signal risk applies. Pre-launch/executi… | [link](https://prolearnindia.com/) |
+| 2026-09-04 | A | 82.0 | Coreworks AI | coreworks.ai | Bangalore | $5M | $5M Seed led by Together Fund, closed 2026-03-11 (source: app.fundz.net/fundings/coreworks-funding-round-seed-b37ab4; yourstory.com/2026/03/… | unknown, likely very small (seed-stage, founded 2025) | AI-first SaaS / B2B | None found - searched explicitly for layoffs/down-round/departures, nothing surfaced. Company is very young (founded 2025) so track record b… | [link](https://www.coreworks.ai/) |
 | 2026-09-04 | B | 77.0 | Neysa | neysa.ai | Bangalore, India (with a Hyderabad data center) | at least $600M (Series B); some secondary sources cite a cumulative ~$1.2B figure that likely blends equity with GPU/infrastructure debt fin… | $600M Series B, Feb 16 2026 (source: SiliconANGLE) — fresh, ~7 months old as of Sept 2026 | 97-110 employees (Aug 2025-2026 estimates, 137% YoY growth) | AI-native infrastructure and devtools | None found. Funding is fresh (~7 months old) and headcount is growing rapidly; no layoffs, down-round, or founder-departure signals found in… | [link](https://neysa.ai/careers/) |
+| 2026-09-04 | B | 76.0 | GreyLabs AI | greylabs.ai | Mumbai (HQ), with open roles also listed in Bangalore | $11.5M across 2 rounds | ~Rs 85 crore (~$10.2M) led by Elevation Capital, announced ~Oct 2025 (source: inc42.com/company/greylabs-ai) | unknown | AI-native infrastructure and devtools | None found - searched explicitly for layoffs/down-round/departures, nothing surfaced in this pass. | [link](https://greylabs.ai/careers) |
+| 2026-09-04 | B | 68.0 | Prosperr.io | prosperr.io | Bangalore | $5.55M cumulative | $4M Seed led by Jungle Ventures, announced Dec 23 2025 (source: fintech.global/2026/01/02/prosperr-io-secures-4m-seed-round-to-expand-ai-tax… | unknown | AI-first fintech | None found - searched explicitly for layoffs/down-round/departures, nothing surfaced in this pass. | [link](https://www.prosperr.io/about-us) |
+| 2026-09-04 | B | 66.0 | BrainSightAI | brainsightai.com | Bangalore | $5M+ (Pre-Series A round; exact cumulative total across earlier rounds unknown) | $5M Pre-Series A led by IAN Alpha Fund, announced Jan 8 2025 (source: yourstory.com/2025/01/deep-tech-neuroscience-startup-brainsightai-bags… | unknown | Applied AI vertical | None found - searched explicitly for layoffs/down-round/departures, nothing surfaced in this pass. | [link](https://www.brainsightai.com/our-team) |
+| 2026-09-04 | B | 65.0 | Nyayanidhi | nyayanidhi.com | Bangalore | $2M | $2M Seed led by 3one4 Capital, reported mid-November 2025 (source: india.entrepreneur.com/news-and-trends/nyayanidhi-raises-2-mn-in-seed-fun… | unknown, likely small (seed-stage, founded 2024) | Applied AI vertical | None found - searched explicitly for layoffs/down-round/departures, nothing surfaced in this pass. Company is young (founded 2024), so track… | unknown |
+| 2026-09-04 | C | 62.0 | Synapsica | synapsica.com | Bangalore | $4.81M across 4 rounds | $4.2M Series A led by IvyCap Ventures and Endiya Partners, with YC participation, closed 2021 (source: crunchbase.com/organization/synapsica… | ~26-44 (sources vary: getlatka.com cites 26, another source cites 44) | Applied AI vertical | Funding is stale: last priced round (Series A) closed in 2021, ~5 years old, no newer round found despite active operations - treat runway a… | [link](https://synapsica.com/teams-and-careers/) |
 | 2026-09-04 | C | 51.0 | Vitra.ai | vitra.ai | Bangalore, India | $5.42M over 6 rounds | Seed, July 2024 (~26 months old as of Sept 2026) — investors Inflexor Ventures, Mumbai Angels, 100X.VC, IIFL Fintech Fund | unknown | Applied AI in a vertical | Stale-funding risk: last round (seed) was July 2024, ~26 months old as of Sept 2026, with no subsequent raise found despite searching. No la… | [link](https://www.vitra.ai/) |
 | 2026-09-04 | C | 49.0 | Pythagora | pythagora.ai | Zagreb, Croatia | $4M | $4M seed, May 1 2024 (source: therecursive.com, tech.eu, ain.ua) — ~28 months old as of Sept 2026 | 5 (per CBInsights/LinkedIn, Zagreb team) | AI-native infrastructure and devtools | Stale-funding risk: last raise (seed) was May 2024, ~28 months ago as of Sept 2026, with no subsequent round found despite searching. No lay… | [link](https://www.pythagora.ai/team) |
+| 2026-09-04 | C | 43.0 | Constems-AI | constems.ai | Noida (onsite; not Bangalore) | $2M (this round; earlier round sizes not verified) | $2M Pre-Series A led by Finvolve (JV of India Accelerator and Finolutions), 2026 (source: angelone.in/news/unlisted-companies/vision-ai-star… | unknown | AI-first SaaS / B2B | None found - searched explicitly for layoffs/down-round/departures, nothing surfaced in this pass. Note: company was founded 2017 and is onl… | unknown |
+| 2026-09-04 | C | 42.0 | HireBound | hirebound.io | Gurugram, Haryana (NOT Bangalore) | $2.35M across 2 rounds | $2M Seed led by Kalaari Capital, announced Feb 2026 (source: startupnews.fyi/2026/02/25/hirebound-raises-2-million) | unknown, likely small (seed-stage, founded 2024) | AI-native infrastructure and devtools | None found beyond the location penalty - searched explicitly for layoffs/down-round/departures, nothing surfaced in this pass. | unknown |
 
 ### Session: 2026-09-03
 
@@ -500,6 +516,7 @@ _Last updated 2026-09-04._
 | web3-only | 1 |
 | too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
 | stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
+| stale funding / questionable runway - total $2.84M raised, last round only $1.1M and closed Sep 2023 (~3yr old), no newer round found despit… | 1 |
 | stage/size — Series C (25M total, 00M valuation), 190-235 employees; exceeds target stage/size criteria (Series B only if under 200, sweet s… | 1 |
 | stage/size exceeds criteria: Series C, 232 employees, no APAC/India remote signal (LA/NYC/Toronto only) | 1 |
 | stage too late — Series B+ (~$88.5-113M raised), ~350 employees, exceeds the 200-headcount cap for Series B-stage companies | 1 |
@@ -555,6 +572,8 @@ _Last updated 2026-09-04._
 | not AI-native — grab-bag of small SaaS utilities (AI calculators, SEO tools, email deliverability tools, business calculators) using LLM API… | 1 |
 | not AI-native — content/audience-engagement analytics platform (behavioral data, publishing tech); AI/GPU-inference mentioned only as a mino… | 1 |
 | not AI-native — Southeast Asian insurance comparison marketplace/insurtech; AI agent is a bolted-on feature on a non-AI insurance platform | 1 |
+| not AI-native software product per Gate 1 - core business is human-curated RLHF/SFT data labeling via a 1M+ contributor workforce (a service… | 1 |
+| not AI-native per Gate 1 - core product is asset-backed credit/banking infrastructure (secured credit cards, lending rails); AI is an automa… | 1 |
 | no remote evidence: solo-founder US email client, no funding; the AI Engineer role on Wellfound is explicitly on-site in New York, NY | 1 |
 | no remote evidence: YC/SF-based, careers page suggests general remote flexibility but no worldwide/global/India-specific statement found | 1 |
 | no remote evidence: US-based (Arlington VA) product/govtech company, 17 employees, job posts say 'Remote' but none name India/APAC/worldwide… | 1 |
@@ -627,6 +646,8 @@ _Last updated 2026-09-04._
 | hard exclusion Gate 1: canine diagnostics device/biotech hardware (user feedback) | 1 |
 | hard exclusion Gate 1: avionics/aerospace component manufacturing, not an AI-native software company (user feedback) | 1 |
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
+| fails Gate 1 permanently - this is The Guild (formerly EtherealX), a Bengaluru spacetech company building a fully reusable launch vehicle (R… | 1 |
+| fails Gate 1 permanently - AI-native HARDWARE company (physical keypad/interface devices like Dune); engineering hiring is hardware-focused,… | 1 |
 | excluded sector: pure security/infosec (LLM security tooling) — hard exclusion regardless of funding/team quality | 1 |
 | exceeds target stage/size for cold-outreach fit: ~176-210 employees, $74-120M total raised - large scale-up, not a founder-reads-own-inbox t… | 1 |
 | exceeds target stage/size for cold-outreach fit: Series F, $425M total raised, $1B valuation, 229 employees - large scale-up, not a founder-… | 1 |
@@ -686,6 +707,7 @@ _Last updated 2026-09-04._
 | cannot support target comp - only funding on record is a non-equity NUMA assistance program, no VC funding or verifiable revenue evidence fo… | 1 |
 | cannot support target comp - only 0K total raised (InsurTech NY, BrokerTech Ventures), far below the ~M bar and no revenue evidence found (G… | 1 |
 | cannot support target comp - only .1M raised across 6 small rounds since 2018, no confirmed recent round found despite 8 years of operation,… | 1 |
+| cannot support target comp - only $1.25M raised (Feb 2024, ~2.5yr old); Series A reportedly in talks since mid-2025 but no confirmed close f… | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
 | cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |
 | cannot support target comp - 00K total raised (YC + angels), below M threshold, no revenue evidence | 1 |
@@ -708,6 +730,7 @@ _Last updated 2026-09-04._
 | acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
 | Series C, 75M raised, 634 employees — far past Series B / 200-person cap, large slow-growing devtools company at this stage | 1 |
 | Gate 4 negative signals: round is ~2yrs old not 2026, reportedly failed to raise Series A, recent layoffs (user feedback - pipeline data was… | 1 |
+| Gate 4 negative signals - co-founder Venkat Mani has departed (now listed as 'Former Co-Founder'); combined with stale funding (last Series … | 1 |
 | Gate 3 — no verifiable funding found despite multiple searches (very early team, 1-10 people, founding-engineer roles being posted); funding… | 1 |
 | Gate 3 — no verifiable funding amount found; only backing mentioned is University of Chicago (incubator-level), not a confirmed M+ VC raise;… | 1 |
 | Gate 3 — funding amount undisclosed despite strong team pedigree (Stanford/Harvard/IIT Delhi/Penn) and named angel backers; no confirmed dol… | 1 |
@@ -725,7 +748,7 @@ _Last updated 2026-09-04._
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-08-21 | 1 | 11 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-08-22 | 1 | 10 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
-| geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-08-18 | 1 | 10 |
+| geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-08-19 | 1 | 7 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-08-22 | 1 | 12 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
