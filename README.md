@@ -2,9 +2,18 @@
 
 _Last updated 2026-09-05._
 
-**425** companies seen total — **174** enriched, **251** rejected, **0** still queued.
+**431** companies seen total — **179** enriched, **252** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-05
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-05 | 58.0 | Keenable (keenable.ai) | Andrey Styskin, CEO & co-founder. LinkedIn: https://www.linkedin.com/in/andrey-styskin — no verified email found (gh CLI unavailable in this… | 1. Open with Keenable's $26M seed exiting stealth Aug 25 2026 (TechCrunch) and their bet that AI agents need retrieval infra built for machi… |
+| 2026-09-05 | 58.0 | RadixArk (radixark.com) | Ying Sheng, CEO & co-founder — LinkedIn: https://www.linkedin.com/in/yingsheng1123 — no verified email found | 1. Open with the $100M seed at a $400M valuation (May 2026), backed by Nvidia and AMD, and SGLang's status as one of the most widely deploye… |
+| 2026-09-05 | 46.0 | Ciridae (ciridae.com) | Jack Weissenberger, CTO & co-founder (technical, ex-Salesforce eng leader) — LinkedIn: https://www.linkedin.com/in/jack-weissenberger-9b8549… | 1. Open with the $20M Accel-led seed (May 2026) and the fact they're already cash-flow positive with high-seven-figure ARR within 6 months —… |
+| 2026-09-05 | 40.0 | Atira (atira.ai) | Florian Diegruber, CEO & co-founder — no verified email or LinkedIn URL found via search; best route is the company's own LinkedIn page or a… | 1. Open with the Sept 3 2026 $17.5M raise (Fortune/Tech.eu) and Atira's 80% ask-to-bid time reduction for industrial clients like ABB E-Mobi… |
 
 ### Session: 2026-09-04
 
@@ -238,6 +247,16 @@ _Last updated 2026-09-05._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-05
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-05 | C | 58.0 | Keenable | keenable.ai | Los Angeles, CA | $26M | $26M seed led by Accel with Conviction Partners and angels, announced 2026-08-25 | ~15 at raise, doubling with new funding (TechCrunch 2026-08-25) | AI-native infrastructure and devtools | None found. Actively searched for layoffs / down-round / shutdown / founder departures — found none. Round is brand new (2026-08-25), no sta… | [link](https://app.keenable.ai/careers/) |
+| 2026-09-05 | C | 58.0 | RadixArk | radixark.com | Palo Alto, CA | $100M | $100M seed at a $400M post-money valuation, led by Accel and co-led by Spark Capital, announced 2026-05-05 | 11-50 (per Levels.fyi) | AI-native infrastructure and devtools | None found. Actively searched for layoffs / departures / controversy — found none. Round is ~4 months old at research time, well within fres… | [link](https://job-boards.greenhouse.io/radixark) |
+| 2026-09-05 | C | 46.0 | Ciridae | ciridae.com | San Francisco Bay Area | $20M | $20M seed led by Accel, with a16z, General Catalyst, Sunflower Capital, Backcountry Ventures, announced 2026-05-11 | unknown exact number — first hire February 2025, still early-stage per available sources | AI-first SaaS / B2B | None found. Actively searched for layoffs / shutdown / controversy — found none. | unknown |
+| 2026-09-05 | C | 41.0 | Surf AI | surf.ai | Israel / San Francisco Bay Area (dual presence — Israeli founding team, SF-based role found) | $57M | $57M led by Accel with Cyberstarts and Boldstart Ventures, publicly launched 2026-03-17 | unknown exact number — company describes itself as 'a small, senior team' | AI-first SaaS / B2B | None found. Actively searched for layoffs / shutdown / controversy — found none. | [link](https://job-boards.eu.greenhouse.io/surfai) |
+| 2026-09-05 | C | 40.0 | Atira | atira.ai | Munich (Gräfelfing), Germany | $17.5M ($15M seed + previously undisclosed $2.5M pre-seed) | $15M seed led by Accel, announced 2026-09-03 (pre-seed disclosed same day) | unknown exact number — described as 'one of the fastest growing teams in Munich'; new funding earmarked mostly for engineering plus first no… | AI-first SaaS / B2B | None found. Actively searched for layoffs / departures / down-round signals — found none. Round is 2 days old at research time, extremely fr… | [link](https://jobs.ashbyhq.com/atira) |
 
 ### Session: 2026-09-04
 
@@ -726,6 +745,7 @@ _Last updated 2026-09-05._
 | cannot support target comp (YC P26 batch, founded 2026, 3-person team; only funding found is the standard YC batch investment (~$500K) -- no… | 1 |
 | cannot support target comp (M seed, May 2026 — below the ~M threshold, no revenue evidence found) | 1 |
 | cannot support target comp (00K total funding, ~5 employees — tiny pre-seed with nothing else going for it per Gate 3; also US-based, no con… | 1 |
+| cannot support target comp | 1 |
 | biotech diagnostics — product is a physical/molecular diagnostic test (Ataraxis Breast cancer prognostic assay), fails Gate 1 hardware/devic… | 1 |
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
@@ -761,7 +781,7 @@ _Last updated 2026-09-05._
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-05 | 2 | 13 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-08-22 | 1 | 12 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
-| investor:accel-seed | Accel seed-stage AI cheques | 2026-08-20 | 1 | 11 |
+| investor:accel-seed | Accel seed-stage AI cheques | 2026-09-05 | 2 | 17 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-08-21 | 1 | 10 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-08-23 | 1 | 9 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-08-23 | 1 | 11 |
