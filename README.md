@@ -1,8 +1,8 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-04._
+_Last updated 2026-09-05._
 
-**419** companies seen total — **174** enriched, **242** rejected, **3** still queued.
+**425** companies seen total — **174** enriched, **251** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -527,12 +527,16 @@ _Last updated 2026-09-04._
 | pure security/infosec product (autonomous AI pentesting agents) — hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
 | not an AI-native software product (kids audio storytelling/podcasting platform); funding is grant/impact-fund backed (Allia Impact Fund, Inn… | 1 |
+| not an AI-native software company: satellite/spacecraft hardware, avionics-as-a-service and ISR satellite constellation manufacturer, Gate 1… | 1 |
+| not an AI-native software company: robotics-first physical AI for industrial robot arms (computer vision + force feedback hardware integrati… | 1 |
 | not an AI-native software company: reusable launch vehicle / rocket engine manufacturer | 1 |
 | not an AI-native software company: quick-commerce/dark-store delivery platform for building materials (plywood, paint, electricals) to contr… | 1 |
+| not an AI-native software company: quick-commerce logistics/delivery marketplace for building materials, AI is a routing/inventory feature b… | 1 |
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
 | not an AI-native software company: product is a physical thermal-sensing screening device (Thermalytix), not software — Gate 1 hardware/devi… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
 | not an AI-native software company: it is a licensed, practicing law firm selling attorney-delivered legal services (flat-fee contract review… | 1 |
+| not an AI-native software company: human-assisted concierge/task-fulfillment service (WhatsApp+app booking laundry, paperwork, errands via t… | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
 | not an AI-native software company: custom satellite manufacturer (hardware, LEO satellites for SAR/EO/SATCOM) | 1 |
 | not an AI-native software company: core product is physical dermatologist-formulated skincare (via SkinQ acquisition), a beauty/personal-car… | 1 |
@@ -540,7 +544,9 @@ _Last updated 2026-09-04._
 | not an AI-native software company: core paid product is human geriatric-care-manager service; AI caregiving monitoring is a Jan 2026 pilot f… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: core business is a skincare/derma e-pharmacy marketplace + teleconsultation; AI treatment-plan feature is… | 1 |
+| not an AI-native software company: consumer brain-monitoring wearable hardware device (Deepinder Goyal's Temple), Gate 1 permanent | 1 |
 | not an AI-native software company: builds spacecraft/satellites and in-orbit servicing hardware, core engineering is aerospace/hardware not … | 1 |
+| not an AI-native software company: builds physical inertial sensors and navigation controller hardware for drones/robots, Gate 1 permanent | 1 |
 | not an AI-native software company: builds and sells satellite hardware/orbital data-center infrastructure | 1 |
 | not an AI-native software company: builds and launches its own satellites (data centers in space), core product is hardware infrastructure n… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
@@ -670,6 +676,9 @@ _Last updated 2026-09-04._
 | cannot verify company identity or product — no discoverable company website, product description, or funding info despite multiple searches;… | 1 |
 | cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
+| cannot support target comp: total disclosed funding ~$500K (Rs 4.2cr pre-seed, Sept 2026), 6-month-old company, no verifiable revenue eviden… | 1 |
+| cannot support target comp: total disclosed funding ~$432K (Rs 4.1cr seed, Sept 2026), no verifiable revenue evidence found | 1 |
+| cannot support target comp: total disclosed funding ~$300K (Rs 3cr pre-seed, Aug 2026), single pre-seed round only, no verifiable revenue ev… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
 | cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
@@ -749,7 +758,7 @@ _Last updated 2026-09-04._
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-08-22 | 1 | 10 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
-| geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-08-19 | 1 | 7 |
+| geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-05 | 2 | 13 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-08-22 | 1 | 12 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-08-20 | 1 | 11 |
