@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-06._
 
-**436** companies seen total — **182** enriched, **254** rejected, **0** still queued.
+**444** companies seen total — **184** enriched, **260** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -13,6 +13,8 @@ _Last updated 2026-09-06._
 | 2026-09-06 | 84.0 | Runable (runable.com) | Umesh Kumar, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/umesh-k-iitr (also active on X as @itsumeshk); no verified email found,… | 1. Open with the $21M Series A (2026-08-26, Susquehanna/Nexus co-led) and the just-launched Runable Grow product. 2. Ask about engineering/M… |
 | 2026-09-06 | 82.0 | Drizz (drizz.dev) | Asad Abrar, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/asadab/ (no verified email found; find_contacts.py unavailable in this … | 1. Open with their $2.7M Stellaris-led seed (announced 2025-07-28) and their active Backend Engineer req for 'AI, LLMs, and Vision Models' w… |
 | 2026-09-06 | 68.0 | Atomicwork (atomicwork.com) | unknown named individual - no founder/eng-lead LinkedIn verified this run; best path is the official Backend Engineer application at atomicw… | 1. Open with the $25M Khosla Ventures/Z47 Series A (2025-01-28) and their live, hybrid Bengaluru Backend Engineer req. 2. Ask specifically a… |
+| 2026-09-06 | 68.0 | Murf AI (murf.ai) | Ankur Edkie, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/ankuredkie. No verified email found: find_contacts.py (public GitHub c… | 1. Open with Murf's Nov 2025 Falcon TTS API launch and the Play.ht-shutdown tailwind - concrete recent signal, not just the 2022 raise. 2. A… |
+| 2026-09-06 | 61.0 | Kenko AI (gokenko.com) | Rajat Hans, Co-founder & CTO, Bengaluru-based - LinkedIn: https://in.linkedin.com/in/rajathans. No verified email found: find_contacts.py (p… | 1. Open with Kenko's AI-agent repositioning (ex-Bookee) and the Bengaluru hiring signal - a genuinely India-connected team despite the SF HQ… |
 
 ### Session: 2026-09-05
 
@@ -263,6 +265,8 @@ _Last updated 2026-09-06._
 | 2026-09-06 | A | 84.0 | Runable | runable.com | Bengaluru, India | $21M Series A (valuing the company at $65M post-money) | Series A, $21M, announced 2026-08-26, co-led by Susquehanna Venture Capital and Nexus Venture Partners, with Together Fund and Array VC part… | ~15 people at the time of the Series A raise (Aug 2026); company says it will now hire across engineering, ML, product, growth and support | AI-native infrastructure and devtools | One independent review site (future-stack-reviews.com) states Runable's publicly claimed numbers (e.g. $2M ARR within three weeks of launch)… | [link](https://runable.com/careers (page exists per site structure but could not be fetched - blocked by network egress proxy)) |
 | 2026-09-06 | A | 82.0 | Drizz | drizz.dev | Bengaluru, India | $2.7M | Seed, $2.7M, announced 2025-07-28 (led by Stellaris Venture Partners and Shastra VC) | 23 employees (Tracxn, as of 2026-05-31); one directory lists 1-10 which appears stale relative to Tracxn | AI-first SaaS / B2B | none found - actively searched for layoffs/down-round/shutdown/founder-departure news as of 2026-09-06 and found none | [link](https://wellfound.com/company/drizz/jobs (drizz.dev careers page could not be fetched directly - blocked by network egress proxy)) |
 | 2026-09-06 | B | 68.0 | Atomicwork | atomicwork.com | Palo Alto, US (legal HQ) with a Bengaluru, India engineering office - the open Backend Engineer role is explicitly 'hybrid, based out of the… | $38M+ total ($11M seed Sept 2023 + $3.3M note ~Sept 2024 + $25M Series A Jan 2025) | Series A, $25M, announced 2025-01-28, led by Khosla Ventures and Z47 (formerly Matrix Partners India), with Battery Ventures, Blume Ventures… | 145 employees (as of 2026-06-30 per Tracxn) | AI-first SaaS / B2B | none found - searched explicitly for layoffs/down-round/shutdown/founder-departure as of 2026-09-06 and found none; funding round is ~20 mon… | [link](https://www.atomicwork.com/company/careers) |
+| 2026-09-06 | B | 68.0 | Murf AI | murf.ai | Bangalore, India (job postings are Bangalore-based); Ankur Edkie's LinkedIn also lists SF Bay Area | $11.5M total ($1.5M seed May 2021 + $10M Series A Sept 2022) | $10M Series A, September 2022, led by Matrix Partners India (source: murf.ai/blog/series-a-announcement; Crunchbase also lists Elevation Cap… | unknown exact - sources conflict: ~62 (GetLatka, 2026) vs ~112 (Tracxn, Jun 2026) | AI-first SaaS/B2B | Stale-funding risk: last disclosed round is the $10M Series A from Sept 2022 (~4 years old as of Sept 2026), no newer round found despite ex… | [link](https://murf.ai (roles also listed via Instahyre and Wellfound)) |
+| 2026-09-06 | C | 61.0 | Kenko AI | gokenko.com | San Francisco, US (company HQ); Rajat Hans (CTO) is based in Bengaluru, India | $3.2M total across 2 rounds (per Crunchbase); specific investor names and exact round dates not surfaced despite searching | unknown exact date - Crunchbase lists 2 seed rounds totaling $3.2M but a dated press release was not found | unknown exact - sources conflict: ~51 (GetLatka) to ~69 (Tracxn, Jun 2026) | AI-first SaaS/B2B | Funding date could not be verified despite searching - total $3.2M raised is known but not when, so staleness cannot be assessed with confid… | [link](https://jobs.lever.co/kenko) |
 
 ### Session: 2026-09-05
 
@@ -550,6 +554,7 @@ _Last updated 2026-09-06._
 | web3/crypto — European crypto neobank/debit card, hard exclusion | 1 |
 | web3-only | 1 |
 | too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
+| too large for target profile: 326 employees as of Jul 2026, well above Series-B/200-person cap; last raise (Series B, Mar 2024) also aging t… | 1 |
 | too large for target company profile: ~700-930 employees, unicorn scale ($1.15B valuation) and $150M+ raised despite still being labeled 'Se… | 1 |
 | stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
 | stale funding / questionable runway - total $2.84M raised, last round only $1.1M and closed Sep 2023 (~3yr old), no newer round found despit… | 1 |
@@ -614,6 +619,10 @@ _Last updated 2026-09-06._
 | not AI-native — grab-bag of small SaaS utilities (AI calculators, SEO tools, email deliverability tools, business calculators) using LLM API… | 1 |
 | not AI-native — content/audience-engagement analytics platform (behavioral data, publishing tech); AI/GPU-inference mentioned only as a mino… | 1 |
 | not AI-native — Southeast Asian insurance comparison marketplace/insurtech; AI agent is a bolted-on feature on a non-AI insurance platform | 1 |
+| not AI-native software: proptech home-resale marketplace, no AI/ML core to the product | 1 |
+| not AI-native software: iron-air battery hardware/materials deep-tech, not a software product | 1 |
+| not AI-native software: in-orbit satellite servicing hardware/robotics company, not a software product | 1 |
+| not AI-native software: autonomous amphibious cargo aircraft manufacturer (Aspera Industries) - hardware/aerospace, permanent Gate 1 exclusi… | 1 |
 | not AI-native software product per Gate 1 - core business is human-curated RLHF/SFT data labeling via a 1M+ contributor workforce (a service… | 1 |
 | not AI-native per Gate 1 - core product is asset-backed credit/banking infrastructure (secured credit cards, lending rails); AI is an automa… | 1 |
 | no remote evidence: solo-founder US email client, no funding; the AI Engineer role on Wellfound is explicitly on-site in New York, NY | 1 |
@@ -720,6 +729,7 @@ _Last updated 2026-09-06._
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
 | cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
 | cannot support target comp: only ~$380K (EUR 350K) seed raised (Jan 2025), no revenue evidence found | 1 |
+| cannot support target comp: only 25K disclosed seed funding (2021), no verifiable M+ raise or revenue evidence | 1 |
 | cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
 | cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
@@ -800,7 +810,7 @@ _Last updated 2026-09-06._
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-08-22 | 1 | 12 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-05 | 2 | 17 |
-| investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-08-21 | 1 | 10 |
+| investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-08-23 | 1 | 9 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-08-23 | 1 | 11 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-08-24 | 1 | 7 |
