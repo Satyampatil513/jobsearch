@@ -1,10 +1,18 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-05._
+_Last updated 2026-09-06._
 
-**431** companies seen total — **179** enriched, **252** rejected, **0** still queued.
+**436** companies seen total — **182** enriched, **254** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-06
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-06 | 84.0 | Runable (runable.com) | Umesh Kumar, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/umesh-k-iitr (also active on X as @itsumeshk); no verified email found,… | 1. Open with the $21M Series A (2026-08-26, Susquehanna/Nexus co-led) and the just-launched Runable Grow product. 2. Ask about engineering/M… |
+| 2026-09-06 | 82.0 | Drizz (drizz.dev) | Asad Abrar, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/asadab/ (no verified email found; find_contacts.py unavailable in this … | 1. Open with their $2.7M Stellaris-led seed (announced 2025-07-28) and their active Backend Engineer req for 'AI, LLMs, and Vision Models' w… |
+| 2026-09-06 | 68.0 | Atomicwork (atomicwork.com) | unknown named individual - no founder/eng-lead LinkedIn verified this run; best path is the official Backend Engineer application at atomicw… | 1. Open with the $25M Khosla Ventures/Z47 Series A (2025-01-28) and their live, hybrid Bengaluru Backend Engineer req. 2. Ask specifically a… |
 
 ### Session: 2026-09-05
 
@@ -247,6 +255,14 @@ _Last updated 2026-09-05._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-06
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-06 | A | 84.0 | Runable | runable.com | Bengaluru, India | $21M Series A (valuing the company at $65M post-money) | Series A, $21M, announced 2026-08-26, co-led by Susquehanna Venture Capital and Nexus Venture Partners, with Together Fund and Array VC part… | ~15 people at the time of the Series A raise (Aug 2026); company says it will now hire across engineering, ML, product, growth and support | AI-native infrastructure and devtools | One independent review site (future-stack-reviews.com) states Runable's publicly claimed numbers (e.g. $2M ARR within three weeks of launch)… | [link](https://runable.com/careers (page exists per site structure but could not be fetched - blocked by network egress proxy)) |
+| 2026-09-06 | A | 82.0 | Drizz | drizz.dev | Bengaluru, India | $2.7M | Seed, $2.7M, announced 2025-07-28 (led by Stellaris Venture Partners and Shastra VC) | 23 employees (Tracxn, as of 2026-05-31); one directory lists 1-10 which appears stale relative to Tracxn | AI-first SaaS / B2B | none found - actively searched for layoffs/down-round/shutdown/founder-departure news as of 2026-09-06 and found none | [link](https://wellfound.com/company/drizz/jobs (drizz.dev careers page could not be fetched directly - blocked by network egress proxy)) |
+| 2026-09-06 | B | 68.0 | Atomicwork | atomicwork.com | Palo Alto, US (legal HQ) with a Bengaluru, India engineering office - the open Backend Engineer role is explicitly 'hybrid, based out of the… | $38M+ total ($11M seed Sept 2023 + $3.3M note ~Sept 2024 + $25M Series A Jan 2025) | Series A, $25M, announced 2025-01-28, led by Khosla Ventures and Z47 (formerly Matrix Partners India), with Battery Ventures, Blume Ventures… | 145 employees (as of 2026-06-30 per Tracxn) | AI-first SaaS / B2B | none found - searched explicitly for layoffs/down-round/shutdown/founder-departure as of 2026-09-06 and found none; funding round is ~20 mon… | [link](https://www.atomicwork.com/company/careers) |
 
 ### Session: 2026-09-05
 
@@ -534,6 +550,7 @@ _Last updated 2026-09-05._
 | web3/crypto — European crypto neobank/debit card, hard exclusion | 1 |
 | web3-only | 1 |
 | too late stage — Series D, $156M raised, ~300-590 headcount, exceeds Series B/200-headcount cap | 1 |
+| too large for target company profile: ~700-930 employees, unicorn scale ($1.15B valuation) and $150M+ raised despite still being labeled 'Se… | 1 |
 | stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
 | stale funding / questionable runway - total $2.84M raised, last round only $1.1M and closed Sep 2023 (~3yr old), no newer round found despit… | 1 |
 | stage/size — Series C (25M total, 00M valuation), 190-235 employees; exceeds target stage/size criteria (Series B only if under 200, sweet s… | 1 |
@@ -686,6 +703,7 @@ _Last updated 2026-09-05._
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead: confirmed company shutdown -- Ragie's RAG-as-a-service platform ended July 19 2026, customers directed to export data by Jul 3 deadlin… | 1 |
+| dead: company announced it is shutting down in 2026, customers told to migrate off platform before service termination (per buildbetter.ai a… | 1 |
 | dead: acquired and absorbed by Privateer (May 2024) after near-bankruptcy and layoffs | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
@@ -774,7 +792,7 @@ _Last updated 2026-09-05._
 | board:remoteok-ai | Remote OK — AI startups | 2026-09-03 | 2 | 36 |
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-03 | 2 | 46 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-04 | 2 | 20 |
-| geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-08-21 | 1 | 11 |
+| geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-06 | 2 | 16 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-08-22 | 1 | 10 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
