@@ -1,10 +1,18 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-06._
+_Last updated 2026-09-07._
 
-**444** companies seen total — **184** enriched, **260** rejected, **0** still queued.
+**453** companies seen total — **187** enriched, **266** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-07
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-07 | 81.0 | Ringg AI (ringg.ai) | Siddharth Shankar Tripathi, co-founder - LinkedIn https://in.linkedin.com/in/sidsst or X @sid_sst (no public email found via GitHub commit s… | 1) Open with Ringg AI's $10M Series A extension (Aug 2026, Peak XV Partners) and their active push to hire engineers for enterprise deployme… |
+| 2026-09-07 | 78.0 | Lucio (lucioai.com) | Darsan Guruvayurappan, co-founder - LinkedIn https://www.linkedin.com/in/darsang/ (no public email found via GitHub commit search - gh CLI u… | 1) Open with Lucio's new Bengaluru (Indiranagar) office and their live Sr. Backend Engineer req calling for Python/Django/Flask + generative… |
+| 2026-09-07 | 74.0 | Revspot (revspot.ai) | Chirag Wadhera, Co-founder & CTO - LinkedIn https://www.linkedin.com/in/chiragw15/ (no public email found via GitHub commit search - gh CLI … | 1) Open with Revspot's $4.8M Series A (July 2026, Inflexor + Info Edge Ventures) and the fact that they're actively hiring across engineerin… |
 
 ### Session: 2026-09-06
 
@@ -257,6 +265,14 @@ _Last updated 2026-09-06._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-07
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-07 | A | 81.0 | Ringg AI | ringg.ai | Bengaluru, India | $15.5M (Series A $5.5M Jan 2026 + $10M extension Aug 2026) | $10M Series A extension led by Peak XV Partners with Arkam Ventures and Capital 2B, announced 25-26 August 2026 (techcrunch.com, yourstory.c… | 42 employees as of Jul 2026 (Tracxn), with 15+ hires in the prior 3 months | AI-native infrastructure and devtools | None found - searched for layoffs/founder departure/controversy, no negative signals surfaced; note the company pivoted from an earlier prod… | [link](https://www.ringg.ai/careers and https://wellfound.com/company/ringg-ai/jobs) |
+| 2026-09-07 | B | 78.0 | Lucio | lucioai.com | New York City HQ (Tracxn) with a Bengaluru office in Indiranagar opened 2025/2026 (barandbench.com) | $5M | $5M seed/Series A, led by DeVC with Ashish Kacholia and Lashit Sanghvi, announced October 2025 (businesswire.com, barandbench.com) | 12 employees as of Aug 2025 (Tracxn) | Applied AI vertical | None found - searched for layoffs/down-round/shutdown/founder departure, no negative signals surfaced (checked Aug-Sep 2026 sources) | [link](https://workwithus.lucioai.com and https://wellfound.com/company/lucioai) |
+| 2026-09-07 | B | 74.0 | Revspot | revspot.ai | Bengaluru, India | $6.2M total ($4.8M Series A + earlier round) | $4.8M Series A, co-led by Inflexor Ventures and Info Edge Ventures, announced July 2026 (entrackr.com, yourstory.com) - less than 2 months o… | 22 employees as of Aug 2025 (Tracxn), 11-50 company-size band | AI-first SaaS / B2B | None found - searched for layoffs/shutdown/founder departure/down-round, no negative signals surfaced | [link](https://revspot.ai/careers.html and https://wellfound.com/company/revspot-ai) |
 
 ### Session: 2026-09-06
 
@@ -581,15 +597,19 @@ _Last updated 2026-09-06._
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
 | not an AI-native software company: custom satellite manufacturer (hardware, LEO satellites for SAR/EO/SATCOM) | 1 |
 | not an AI-native software company: core product is physical dermatologist-formulated skincare (via SkinQ acquisition), a beauty/personal-car… | 1 |
+| not an AI-native software company: core product is physical GPU/data-center infrastructure (neocloud), engineering hiring is data-center/GPU… | 1 |
 | not an AI-native software company: core product is human-led chronic-care service (doctors, nutritionists, coaches) with an app as enablemen… | 1 |
 | not an AI-native software company: core paid product is human geriatric-care-manager service; AI caregiving monitoring is a Jan 2026 pilot f… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: core business is a skincare/derma e-pharmacy marketplace + teleconsultation; AI treatment-plan feature is… | 1 |
 | not an AI-native software company: consumer brain-monitoring wearable hardware device (Deepinder Goyal's Temple), Gate 1 permanent | 1 |
+| not an AI-native software company: chip-design AI tooling, engineering hiring is RTL/VLSI/ASIC design, not Python/backend; real domain is ta… | 1 |
 | not an AI-native software company: builds spacecraft/satellites and in-orbit servicing hardware, core engineering is aerospace/hardware not … | 1 |
+| not an AI-native software company: builds physical quantum computer hardware (QpiAI-Indus 25-qubit machine), quantum/hardware engineering co… | 1 |
 | not an AI-native software company: builds physical inertial sensors and navigation controller hardware for drones/robots, Gate 1 permanent | 1 |
 | not an AI-native software company: builds and sells satellite hardware/orbital data-center infrastructure | 1 |
 | not an AI-native software company: builds and launches its own satellites (data centers in space), core product is hardware infrastructure n… | 1 |
+| not an AI-native software company: builds AI layer for custom chip design (EDA-adjacent), core engineering hiring is RTL/VLSI/chip-design, n… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
 | not an AI-native software company: AI100 is an integrated hardware+robotics slide-scanner medical device (FDA 510(k) cleared), robotics-firs… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
@@ -697,6 +717,8 @@ _Last updated 2026-09-06._
 | hard exclusion Gate 1: canine diagnostics device/biotech hardware (user feedback) | 1 |
 | hard exclusion Gate 1: avionics/aerospace component manufacturing, not an AI-native software company (user feedback) | 1 |
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
+| fails stage/size fit: founded 2014, ~434-613 employees, ~$37M revenue (getlatka/Inc42/LeadIQ) -- already a large-scale CX/CRM company, not a… | 1 |
+| fails Gate 3: raised only ~Rs 5 crore (~$530-600K) pre-seed, well under $2M threshold; 17,000 signups but zero revenue (paywall not launched… | 1 |
 | fails Gate 1 permanently - this is The Guild (formerly EtherealX), a Bengaluru spacetech company building a fully reusable launch vehicle (R… | 1 |
 | fails Gate 1 permanently - AI-native HARDWARE company (physical keypad/interface devices like Dune); engineering hiring is hardware-focused,… | 1 |
 | excluded sector: pure security/infosec (LLM security tooling) — hard exclusion regardless of funding/team quality | 1 |
@@ -803,7 +825,7 @@ _Last updated 2026-09-06._
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-03 | 2 | 46 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-04 | 2 | 20 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-06 | 2 | 16 |
-| geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-08-22 | 1 | 10 |
+| geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-07 | 2 | 19 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-05 | 2 | 13 |
