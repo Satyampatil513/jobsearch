@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-07._
 
-**453** companies seen total — **187** enriched, **266** rejected, **0** still queued.
+**471** companies seen total — **190** enriched, **278** rejected, **3** still queued.
 
 ## Outreach queue — email these
 
@@ -13,6 +13,8 @@ _Last updated 2026-09-07._
 | 2026-09-07 | 81.0 | Ringg AI (ringg.ai) | Siddharth Shankar Tripathi, co-founder - LinkedIn https://in.linkedin.com/in/sidsst or X @sid_sst (no public email found via GitHub commit s… | 1) Open with Ringg AI's $10M Series A extension (Aug 2026, Peak XV Partners) and their active push to hire engineers for enterprise deployme… |
 | 2026-09-07 | 78.0 | Lucio (lucioai.com) | Darsan Guruvayurappan, co-founder - LinkedIn https://www.linkedin.com/in/darsang/ (no public email found via GitHub commit search - gh CLI u… | 1) Open with Lucio's new Bengaluru (Indiranagar) office and their live Sr. Backend Engineer req calling for Python/Django/Flask + generative… |
 | 2026-09-07 | 74.0 | Revspot (revspot.ai) | Chirag Wadhera, Co-founder & CTO - LinkedIn https://www.linkedin.com/in/chiragw15/ (no public email found via GitHub commit search - gh CLI … | 1) Open with Revspot's $4.8M Series A (July 2026, Inflexor + Info Edge Ventures) and the fact that they're actively hiring across engineerin… |
+| 2026-09-07 | 58.0 | Raven (raven.ai) | Priyansh Srivastava, co-founder - LinkedIn: https://www.linkedin.com/in/priyanshs/ (no public email found; GitHub commit-mining unavailable … | 1) Open with Raven's YC S22 background and the live Indorama plant deployment (1,000+ users) - a concrete signal he did his homework. 2) Ask… |
+| 2026-09-07 | 40.0 | TartanHQ (tartanhq.com) | Pramey Jain, Co-founder & CEO - LinkedIn: https://in.linkedin.com/in/prameyjain (no public email found; GitHub commit-mining unavailable thi… | 1) Open with the May 2025 $2.34M raise and Tartan's move from pure HRMS/payroll unified-API into 'AI Agentic Apps' for enterprise automation… |
 
 ### Session: 2026-09-06
 
@@ -273,6 +275,9 @@ _Last updated 2026-09-07._
 | 2026-09-07 | A | 81.0 | Ringg AI | ringg.ai | Bengaluru, India | $15.5M (Series A $5.5M Jan 2026 + $10M extension Aug 2026) | $10M Series A extension led by Peak XV Partners with Arkam Ventures and Capital 2B, announced 25-26 August 2026 (techcrunch.com, yourstory.c… | 42 employees as of Jul 2026 (Tracxn), with 15+ hires in the prior 3 months | AI-native infrastructure and devtools | None found - searched for layoffs/founder departure/controversy, no negative signals surfaced; note the company pivoted from an earlier prod… | [link](https://www.ringg.ai/careers and https://wellfound.com/company/ringg-ai/jobs) |
 | 2026-09-07 | B | 78.0 | Lucio | lucioai.com | New York City HQ (Tracxn) with a Bengaluru office in Indiranagar opened 2025/2026 (barandbench.com) | $5M | $5M seed/Series A, led by DeVC with Ashish Kacholia and Lashit Sanghvi, announced October 2025 (businesswire.com, barandbench.com) | 12 employees as of Aug 2025 (Tracxn) | Applied AI vertical | None found - searched for layoffs/down-round/shutdown/founder departure, no negative signals surfaced (checked Aug-Sep 2026 sources) | [link](https://workwithus.lucioai.com and https://wellfound.com/company/lucioai) |
 | 2026-09-07 | B | 74.0 | Revspot | revspot.ai | Bengaluru, India | $6.2M total ($4.8M Series A + earlier round) | $4.8M Series A, co-led by Inflexor Ventures and Info Edge Ventures, announced July 2026 (entrackr.com, yourstory.com) - less than 2 months o… | 22 employees as of Aug 2025 (Tracxn), 11-50 company-size band | AI-first SaaS / B2B | None found - searched for layoffs/shutdown/founder departure/down-round, no negative signals surfaced | [link](https://revspot.ai/careers.html and https://wellfound.com/company/revspot-ai) |
+| 2026-09-07 | C | 58.0 | Raven | raven.ai | Bengaluru, India | $4.1M total across 3 rounds (Crunchbase/Tracxn) | $3.0M seed, May 2024 (~28 months old as of Sep 2026 - stale funding risk) | 4 employees (YC company page), Bengaluru | AI-native infrastructure and devtools | Stale-funding risk - most recent disclosed round ($3.0M seed) is from May 2024, ~28 months old with no newer raise found as of this search (… | [link](https://www.ycombinator.com/companies/raven/jobs) |
+| 2026-09-07 | C | 40.0 | TartanHQ | tartanhq.com | Gurugram, Haryana, India | $8.39M total across 3 rounds from 33 investors (Tracxn); one source shows $6.05M - figures conflict slightly across trackers. | $2.34M, May 28 2025 (~16 months old as of Sep 2026 - not stale) | Conflicting reports: 48 employees (one Aug-2026-dated source), 62 (Tracxn), and a 51-200 band (Wellfound) - treat as approximately 50-60, un… | AI-native infrastructure and devtools | None found - actively searched for layoffs/down-round/founder-departure news specific to TartanHQ, found nothing negative. Headcount and tot… | [link](https://www.tartanhq.com/career-page) |
+| 2026-09-07 | C | 17.0 | Jidoka | jidoka-tech.ai | Chennai, Tamil Nadu, India | Conflicting figures: $2.48M total over 4 rounds from 49 investors (Tracxn) vs. $732K as of a June-2024 snapshot from another source - likely… | $1.28M, Dec 26 2024 (~21 months old as of Sep 2026), led by Arali Ventures | Conflicting reports: 37 employees vs. 62 employees across different queries/sources - exact current headcount unverified, treat as mid-size … | Applied AI in a vertical | None found - actively searched for layoffs/shutdown/founder-departure news, found nothing negative. Funding and headcount figures conflict a… | [link](https://www.jidoka-tech.ai/careers) |
 
 ### Session: 2026-09-06
 
@@ -583,6 +588,7 @@ _Last updated 2026-09-07._
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
 | pure security/infosec product (autonomous AI pentesting agents) — hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
+| pure security/infosec - AI-augmented cybersecurity control plane (risk quantification, cyber agents); hard exclusion per criteria.md regardl… | 1 |
 | not an AI-native software product (kids audio storytelling/podcasting platform); funding is grant/impact-fund backed (Allia Impact Fund, Inn… | 1 |
 | not an AI-native software company: satellite/spacecraft hardware, avionics-as-a-service and ISR satellite constellation manufacturer, Gate 1… | 1 |
 | not an AI-native software company: robotics-first physical AI for industrial robot arms (computer vision + force feedback hardware integrati… | 1 |
@@ -623,8 +629,13 @@ _Last updated 2026-09-07._
 | not an AI-native software company -- builds/operates AI-native law firms; product is legal services (replacing the billable hour), not softw… | 1 |
 | not an AI-native software company -- IP enforcement legal services business (per-campaign pricing, NDA audits, counsel-supervised filings), … | 1 |
 | not an AI-native software company -- AI-native immigration law firm; product sold is legal services, not software (Gate 1) | 1 |
+| not an AI-native software company - domain-specific SLMs for hardware/firmware/embedded C/C++ code (AUTOSAR/MISRA/DO-178C), targets automoti… | 1 |
+| not an AI-native software company - decarbonization-as-a-service combines carbon-measurement dashboards with real-world consulting/green ser… | 1 |
+| not an AI-native software company - core product is physical IoT environmental sensor hardware ('Sensing as a Service', custom sensor device… | 1 |
+| not an AI-native software company - core product is human-delivered physiotherapy/yoga coaching (live sessions with coaches); AI is a bolted… | 1 |
 | not an AI-native software company - core product is GST/invoicing/bookkeeping SaaS; the 'AI Intelligence Layer' is explicitly a future roadm… | 1 |
 | not an AI-native software company - core business is wealth management / multi-family-office advisory services for UHNIs; 'Nex AI' is a bolt… | 1 |
+| not an AI-native software company - GenAI/agentic platform (CraftifAI Orbit) automates embedded firmware/driver generation for IoT/EdgeAI ha… | 1 |
 | not an AI-native software company - AI (question-generation, AI Engine) is a bolted-on feature added to an established 2009 assessment/e-lea… | 1 |
 | not an AI-native software company (solar design/CAD SaaS, not AI-core product) | 1 |
 | not an AI-native software company (physical pharmacy retail/delivery operator; AI is an inventory feature, not the product customers pay for… | 1 |
@@ -780,15 +791,21 @@ _Last updated 2026-09-07._
 | cannot support target comp -- no funding amount disclosed beyond YC backing, no revenue evidence | 1 |
 | cannot support target comp -- YC F26 batch, 2 employees, no funding beyond standard YC deal found, no revenue evidence | 1 |
 | cannot support target comp -- .3M pre-seed (most consistent figure across sources), below the M threshold, no revenue evidence | 1 |
+| cannot support target comp - total funding ~$556K over 5 rounds (Venture Catalysts-led seed, Oct 2024 ~$174K tranche), well below the ~$2M b… | 1 |
+| cannot support target comp - total funding ~$500K (YC S22 seed + Khosla/Page One Ventures), no verified revenue figure despite named custome… | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
 | cannot support target comp - only standard YC W26 investment (~00K) confirmed, no additional seed/revenue evidence found | 1 |
 | cannot support target comp - only funding on record is a non-equity NUMA assistance program, no VC funding or verifiable revenue evidence fo… | 1 |
 | cannot support target comp - only 0K total raised (InsurTech NY, BrokerTech Ventures), far below the ~M bar and no revenue evidence found (G… | 1 |
 | cannot support target comp - only .1M raised across 6 small rounds since 2018, no confirmed recent round found despite 8 years of operation,… | 1 |
 | cannot support target comp - only $1.25M raised (Feb 2024, ~2.5yr old); Series A reportedly in talks since mid-2025 but no confirmed close f… | 1 |
+| cannot support target comp - nonprofit legal-tech; total funding ~$525K ($25K Fast Forward grant + YC F26 $500K SAFE), well below the $2M+ b… | 1 |
+| cannot support target comp - funding unverifiable; multiple unrelated companies also named Valent confound public records, no reliable finan… | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
 | cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |
 | cannot support target comp - 00K total raised (YC + angels), below M threshold, no revenue evidence | 1 |
+| cannot support target comp - $1.5M total raised (Feb/Jun 2024 seed, 20 investors), below the ~$2M bar and no verified revenue figure despite… | 1 |
+| cannot support target comp - $1.2M pre-seed (Kalaari Capital's CXXO), below the ~$2M bar | 1 |
 | cannot support target comp (pre-seed ~M combined with GPU credits/perks, not verifiable cash funding near M; Mumbai/SF, not Bangalore) | 1 |
 | cannot support target comp (funding amount unverifiable — named backers AICONIC Ventures and Pruven Capital but no confirmed dollar figure; … | 1 |
 | cannot support target comp (funding amount undisclosed/unverifiable — only known investor is Upsparks Capital, no dollar figure found; ~5-pe… | 1 |
@@ -829,7 +846,7 @@ _Last updated 2026-09-07._
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-05 | 2 | 13 |
-| geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-08-22 | 1 | 12 |
+| geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-07 | 2 | 30 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-05 | 2 | 17 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
