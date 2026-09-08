@@ -1,10 +1,17 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-07._
+_Last updated 2026-09-08._
 
-**471** companies seen total — **190** enriched, **278** rejected, **3** still queued.
+**479** companies seen total — **192** enriched, **287** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-08
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-08 | 81.0 | Pipeshift (pipeshift.com) | Arko Chattopadhyay, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/arkoc/ (no email found; find_contacts.py unavailable in this env… | 1. Open with their May 2026 sovereign inference infrastructure launch with Neysa, and the fact they're a YC S24 company building exactly the… |
+| 2026-09-08 | 74.0 | Mysa (mysa.io) | Arpita Kapoor, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/arpitakapoor/ (no email found; find_contacts.py unavailable in this e… | 1. Open with their Jan 2026 $3.4M pre-Series A (Blume Ventures + Piper Serica), taking total funding to $6.2M, earmarked to 'strengthen AI c… |
 
 ### Session: 2026-09-07
 
@@ -267,6 +274,13 @@ _Last updated 2026-09-07._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-08
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-08 | A | 81.0 | Pipeshift | pipeshift.com | Dual HQ: Bengaluru, India and San Francisco, USA - founders based in Bengaluru | $3.19M-3.5M total across 4 rounds (sources vary slightly: Crunchbase $3.19M, other coverage $3.5M) | $2.5M seed led by Y Combinator and SenseAI Ventures, announced January 2025 (Forbes, GlobeNewswire) | 17 employees as of June 2026 (Tracxn) | AI-native infrastructure and devtools | none found - searched specifically for layoffs/shutdown/funding-problems, found none; confirmed not to be confused with unrelated fintech 'P… | [link](https://pipeshift.com/ ; https://www.ycombinator.com/companies/pipeshift/jobs (no listings found at time of research)) |
+| 2026-09-08 | B | 74.0 | Mysa | mysa.io | Bengaluru, India | $6.2M total (per company's own Jan 2026 announcement; Tracxn separately lists $9.18M across 5 rounds - discrepancy not resolved, using the p… | $3.4M pre-Series A, co-led by Blume Ventures and Piper Serica, announced January 2026 (source: mysa.io blog + Entrackr) | 37 employees as of May 2026 (Tracxn), up ~76% YoY | AI-first fintech | none found - searched specifically for layoffs/down-round/shutdown/founder-departure signals, found none. Funding is recent (Jan 2026), not … | [link](https://www.mysa.io/) |
 
 ### Session: 2026-09-07
 
@@ -590,6 +604,8 @@ _Last updated 2026-09-07._
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
 | pure security/infosec - AI-augmented cybersecurity control plane (risk quantification, cyber agents); hard exclusion per criteria.md regardl… | 1 |
 | not an AI-native software product (kids audio storytelling/podcasting platform); funding is grant/impact-fund backed (Allia Impact Fund, Inn… | 1 |
+| not an AI-native software company: wearable hardware (smart rings), physical product core, Gate 1 permanent | 1 |
+| not an AI-native software company: spiritual-tech marketplace (puja booking, prasad delivery, live darshan) — no AI/ML core to the product, … | 1 |
 | not an AI-native software company: satellite/spacecraft hardware, avionics-as-a-service and ISR satellite constellation manufacturer, Gate 1… | 1 |
 | not an AI-native software company: robotics-first physical AI for industrial robot arms (computer vision + force feedback hardware integrati… | 1 |
 | not an AI-native software company: reusable launch vehicle / rocket engine manufacturer | 1 |
@@ -598,6 +614,7 @@ _Last updated 2026-09-07._
 | not an AI-native software company: product is physical semiconductor/materials discovered via internal AI R&D tooling, not an AI software pr… | 1 |
 | not an AI-native software company: product is a physical thermal-sensing screening device (Thermalytix), not software — Gate 1 hardware/devi… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
+| not an AI-native software company: payments infrastructure / Merchant-of-Record platform; AI/ML used only for fraud detection as a feature, … | 1 |
 | not an AI-native software company: it is a licensed, practicing law firm selling attorney-delivered legal services (flat-fee contract review… | 1 |
 | not an AI-native software company: human-assisted concierge/task-fulfillment service (WhatsApp+app booking laundry, paperwork, errands via t… | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
@@ -616,7 +633,10 @@ _Last updated 2026-09-07._
 | not an AI-native software company: builds and sells satellite hardware/orbital data-center infrastructure | 1 |
 | not an AI-native software company: builds and launches its own satellites (data centers in space), core product is hardware infrastructure n… | 1 |
 | not an AI-native software company: builds AI layer for custom chip design (EDA-adjacent), core engineering hiring is RTL/VLSI/chip-design, n… | 1 |
+| not an AI-native software company: D2C kitchen appliances/kitchenware brand (mixer grinders, blenders), physical product, Gate 1 permanent | 1 |
+| not an AI-native software company: D2C fresh-staples grocery brand with physical micro-factories and retail stores, no AI/ML core, Gate 1 pe… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
+| not an AI-native software company: B2B contract manufacturer of physical toys (kick scooters, tricycles, ride-on cars), Gate 1 permanent | 1 |
 | not an AI-native software company: AI100 is an integrated hardware+robotics slide-scanner medical device (FDA 510(k) cleared), robotics-firs… | 1 |
 | not an AI-native software company: AI-powered imaging/surveillance hardware for space and defence sectors, manufacturing/deeptech hardware c… | 1 |
 | not an AI-native software company: AI-native venture studio that builds and operates its own D2C consumer nutrition/wellness brands (physica… | 1 |
@@ -720,6 +740,7 @@ _Last updated 2026-09-07._
 | hard exclusion: recruiting/consulting agency, not a product company | 1 |
 | hard exclusion: digital production consultancy/agency, not a product company (distinct from FutureSight Ventures) | 1 |
 | hard exclusion: dead - domain unreachable (ENOTFOUND), no product, likely miscategorized board listing | 1 |
+| hard exclusion: Web3/crypto-only — DePIN decentralized-compute orchestration network secured by $NODE token economics, Gate 1 permanent | 1 |
 | hard exclusion Gate 1: space launch vehicles, hardware not software (user feedback) | 1 |
 | hard exclusion Gate 1: satellite telecom hardware, no software product fit (user feedback) | 1 |
 | hard exclusion Gate 1: non-AI fintech, no meaningful AI core (user feedback) | 1 |
@@ -755,9 +776,11 @@ _Last updated 2026-09-07._
 | cannot verify company identity or product — no discoverable company website, product description, or funding info despite multiple searches;… | 1 |
 | cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
+| cannot support target comp: total disclosed funding ~$520K (pre-seed $270K Dec 2022 plus small follow-on), below the ~$2M threshold, no veri… | 1 |
 | cannot support target comp: total disclosed funding ~$500K (Rs 4.2cr pre-seed, Sept 2026), 6-month-old company, no verifiable revenue eviden… | 1 |
 | cannot support target comp: total disclosed funding ~$432K (Rs 4.1cr seed, Sept 2026), no verifiable revenue evidence found | 1 |
 | cannot support target comp: total disclosed funding ~$300K (Rs 3cr pre-seed, Aug 2026), single pre-seed round only, no verifiable revenue ev… | 1 |
+| cannot support target comp: total disclosed funding ~$1.2M pre-seed (Sept 2024, as Zivy before pivoting to Zoven), below the ~$2M threshold,… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
 | cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
@@ -850,7 +873,7 @@ _Last updated 2026-09-07._
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-05 | 2 | 17 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
-| investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-08-23 | 1 | 9 |
+| investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-08-23 | 1 | 11 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-08-24 | 1 | 7 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-08-24 | 1 | 11 |
