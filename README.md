@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-08._
 
-**479** companies seen total — **192** enriched, **287** rejected, **0** still queued.
+**487** companies seen total — **196** enriched, **291** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -12,6 +12,10 @@ _Last updated 2026-09-08._
 |---|---|---|---|---|
 | 2026-09-08 | 81.0 | Pipeshift (pipeshift.com) | Arko Chattopadhyay, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/arkoc/ (no email found; find_contacts.py unavailable in this env… | 1. Open with their May 2026 sovereign inference infrastructure launch with Neysa, and the fact they're a YC S24 company building exactly the… |
 | 2026-09-08 | 74.0 | Mysa (mysa.io) | Arpita Kapoor, Co-Founder & CEO - LinkedIn https://www.linkedin.com/in/arpitakapoor/ (no email found; find_contacts.py unavailable in this e… | 1. Open with their Jan 2026 $3.4M pre-Series A (Blume Ventures + Piper Serica), taking total funding to $6.2M, earmarked to 'strengthen AI c… |
+| 2026-09-08 | 68.0 | JustAI (justwords.ai) | Neha Mittal, CEO & co-founder — LinkedIn https://www.linkedin.com/in/neha01mittal/ (no public email found; do not guess one) | 1) Open with the $17M Base10-led Series A (~June 2026, YC + Peak XV participating) and the stated plan to expand engineering and explore Ind… |
+| 2026-09-08 | 66.0 | Brainfish (brainfishai.com) | Daniel Kimber, CEO & co-founder — LinkedIn https://www.linkedin.com/in/daniel-kimber/ (no public email found; do not guess one) | 1) Open with the $6.4M Prosus-led Pre-Series A (July 2025) and the 400% YoY growth number, and ask directly whether the India office (if it … |
+| 2026-09-08 | 61.0 | Palo (palo.ai) | Jay Neo, Founder — LinkedIn https://www.linkedin.com/in/jayneoo/ (no public email found; do not guess one — note the technical hire conversa… | 1) Open with the $3.8M stealth-exit raise (Nov 2025, YC + Peak XV) and the multi-model (OpenAI+Gemini) content-analysis pipeline they've bui… |
+| 2026-09-08 | 58.0 | Supanote (supanote.ai) | Samyukktha Thirumeni, Founder/CEO — LinkedIn https://www.linkedin.com/in/samyukktha-t/ (no public email found; do not guess one) | 1) Open with the Peak XV Surge 11 selection (Sept 2025) and her Bain background building AI-driven solutions across healthcare and devtools.… |
 
 ### Session: 2026-09-07
 
@@ -281,6 +285,10 @@ _Last updated 2026-09-08._
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-08 | A | 81.0 | Pipeshift | pipeshift.com | Dual HQ: Bengaluru, India and San Francisco, USA - founders based in Bengaluru | $3.19M-3.5M total across 4 rounds (sources vary slightly: Crunchbase $3.19M, other coverage $3.5M) | $2.5M seed led by Y Combinator and SenseAI Ventures, announced January 2025 (Forbes, GlobeNewswire) | 17 employees as of June 2026 (Tracxn) | AI-native infrastructure and devtools | none found - searched specifically for layoffs/shutdown/funding-problems, found none; confirmed not to be confused with unrelated fintech 'P… | [link](https://pipeshift.com/ ; https://www.ycombinator.com/companies/pipeshift/jobs (no listings found at time of research)) |
 | 2026-09-08 | B | 74.0 | Mysa | mysa.io | Bengaluru, India | $6.2M total (per company's own Jan 2026 announcement; Tracxn separately lists $9.18M across 5 rounds - discrepancy not resolved, using the p… | $3.4M pre-Series A, co-led by Blume Ventures and Piper Serica, announced January 2026 (source: mysa.io blog + Entrackr) | 37 employees as of May 2026 (Tracxn), up ~76% YoY | AI-first fintech | none found - searched specifically for layoffs/down-round/shutdown/founder-departure signals, found none. Funding is recent (Jan 2026), not … | [link](https://www.mysa.io/) |
+| 2026-09-08 | B | 68.0 | JustAI | justwords.ai | San Francisco, CA | ~$18.7M ($1.7M seed 2024 + $17M Series A ~June 2026) | $17M Series A led by Base10 Partners, with Y Combinator and Peak XV Partners participating; announced ~June 23, 2026 (PR Newswire/Morningsta… | 4 (per Y Combinator company profile) | AI-first SaaS / B2B | None found — searched specifically for layoffs/shutdown/controversy in 2026, no negative signals surfaced. Funding is fresh (~3 months old a… | [link](https://www.justwords.ai/careers) |
+| 2026-09-08 | B | 66.0 | Brainfish | brainfishai.com | Sydney/North Sydney, Australia, with a stated US HQ opening (per July 2025 funding announcement) | ~$10M ($3.85M seed + $6.4M Pre-Series A) | $6.4M Pre-Series A led by Prosus Ventures, announced July 8, 2025 (BusinessWire) | 24 employees (as of ~May 2026) | Applied AI in a vertical | None found — searched specifically for layoffs/shutdown/founder-departure in 2026, no negative signals surfaced. Funding is ~14 months old a… | [link](https://consider.com/boards/co/brainfish (brainfishai.com/company itself is blocked from this session's network access)) |
+| 2026-09-08 | C | 61.0 | Palo | palo.ai | Palo Alto, CA | $3.8M | $3.8M raised, disclosed at stealth-exit launch, ~November 24, 2025 (TechCrunch) | very small — 3 named founders, no additional engineers confirmed in public sources | AI-first SaaS / B2B (consumer/prosumer edge case — creator tooling, not enterprise) | None found — searched specifically for layoffs/shutdown/controversy in 2026 (search results returned unrelated 'Palo Alto Networks' news, no… | unknown — not found |
+| 2026-09-08 | C | 58.0 | Supanote | supanote.ai | San Francisco, CA | $3M (Peak XV Surge 11 standard seed check; no larger total found) | Peak XV Surge seed investment, announced as part of Surge 11 cohort, ~September 2025 | unknown — could not verify a specific number; job signals suggest a small team | Applied AI in a vertical | None found — searched specifically for layoffs/shutdown/HIPAA controversy in 2026, no negative signals surfaced. Funding round is ~1 year ol… | unknown — not found |
 
 ### Session: 2026-09-07
 
@@ -615,6 +623,7 @@ _Last updated 2026-09-08._
 | not an AI-native software company: product is a physical thermal-sensing screening device (Thermalytix), not software — Gate 1 hardware/devi… | 1 |
 | not an AI-native software company: physical neurotech wearable headset (tDCS device), hardware core product | 1 |
 | not an AI-native software company: payments infrastructure / Merchant-of-Record platform; AI/ML used only for fraud detection as a feature, … | 1 |
+| not an AI-native software company: multi-dimensional indexing/query optimization for data lakehouses (Delta Lake/Iceberg/Hudi) — a database/… | 1 |
 | not an AI-native software company: it is a licensed, practicing law firm selling attorney-delivered legal services (flat-fee contract review… | 1 |
 | not an AI-native software company: human-assisted concierge/task-fulfillment service (WhatsApp+app booking laundry, paperwork, errands via t… | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
@@ -633,6 +642,9 @@ _Last updated 2026-09-08._
 | not an AI-native software company: builds and sells satellite hardware/orbital data-center infrastructure | 1 |
 | not an AI-native software company: builds and launches its own satellites (data centers in space), core product is hardware infrastructure n… | 1 |
 | not an AI-native software company: builds AI layer for custom chip design (EDA-adjacent), core engineering hiring is RTL/VLSI/chip-design, n… | 1 |
+| not an AI-native software company: UAE digital wealth advisory platform with human financial advisors, portfolio management via Interactive … | 1 |
+| not an AI-native software company: Kubernetes policy/security governance platform founded 2013 (Kyverno donated to CNCF 2020); 'AI Platform … | 1 |
+| not an AI-native software company: Grapevine's core/original product is an anonymous professional social-discussion app (salaries, layoffs, … | 1 |
 | not an AI-native software company: D2C kitchen appliances/kitchenware brand (mixer grinders, blenders), physical product, Gate 1 permanent | 1 |
 | not an AI-native software company: D2C fresh-staples grocery brand with physical micro-factories and retail stores, no AI/ML core, Gate 1 pe… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
@@ -874,7 +886,7 @@ _Last updated 2026-09-08._
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-05 | 2 | 17 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
-| investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-08-23 | 1 | 11 |
+| investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-08-24 | 1 | 7 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-08-24 | 1 | 11 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-08-25 | 1 | 5 |
