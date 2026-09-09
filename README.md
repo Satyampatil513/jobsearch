@@ -1,10 +1,16 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-08._
+_Last updated 2026-09-09._
 
-**487** companies seen total — **196** enriched, **291** rejected, **0** still queued.
+**491** companies seen total — **198** enriched, **293** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-09
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-09 | 85.0 | Mitigata (mitigata.com) | Akshit Kaushik, Co-founder & Principal Officer (IIT Mandi alumnus) - no public email found (GitHub-commit contact lookup unavailable in this… | 1) Open with the $15M Series B (Bessemer, announced June 23 2026) and the stated plan to double the team - concrete, current, and ties to wh… |
 
 ### Session: 2026-09-08
 
@@ -278,6 +284,13 @@ _Last updated 2026-09-08._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-09
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-09 | A | 85.0 | Mitigata | mitigata.com | Bengaluru, India (Bellandur) | $22.1M total across 4 rounds (per Tracxn, Jun 2026) | $15M Series B led by Bessemer Venture Partners, announced June 23, 2026 (https://fintech.global/2026/06/24/mitigata-raises-15m-series-b-for-… | 148 employees as of Jun 26, 2026 (Tracxn); founders have stated plans to add ~100 more | AI-first SaaS / B2B | None found. Searched explicitly for layoffs/down-round/shutdown/failed-raise/founder-exit signals; found only positive growth news (Series B… | [link](https://wellfound.com/company/mitigata/jobs) |
+| 2026-09-09 | C | 23.0 | Deep Algorithms Solutions | deepalgorithms.in | Hyderabad, India (head office); R&D office at IIT Mandi (Kamand campus); partner office in the USA | $3.01M total over 2 rounds (per search aggregation of Crunchbase/Dealroom data) | ~$1.26M (Rs 10.8 Cr) seed round led by Unicorn India Ventures, closed July 2025 (https://unlistedzone.com/deep-algorithm-solutions-secures-1… | 43 employees (per Tracxn/Crunchbase aggregation) | AI-first SaaS / B2B | None found. Searched explicitly for layoffs/shutdown/failed-raise signals; found none. Seed round is ~14 months old as of this run (Sep 2026… | unknown - could not locate a careers page |
 
 ### Session: 2026-09-08
 
@@ -802,7 +815,9 @@ _Last updated 2026-09-08._
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
 | cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
+| cannot support target comp: no verifiable funding found (Crunchbase lists an unspecified 'Angel round', Tracxn and other searches say unfund… | 1 |
 | cannot support target comp: no funding found (Tracxn/Invstt confirm unfunded), no verifiable revenue evidence despite '1025+ Shopify brands'… | 1 |
+| cannot support target comp: bootstrapped/unfunded as of research (10 employees per Tracxn); founder Siddharth Panwar reported seeking a $10M… | 1 |
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
@@ -887,7 +902,7 @@ _Last updated 2026-09-08._
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
-| network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-08-24 | 1 | 7 |
+| network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-08-24 | 1 | 11 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-08-25 | 1 | 5 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-08-25 | 1 | 22 |
