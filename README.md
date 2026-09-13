@@ -1,10 +1,16 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-09._
+_Last updated 2026-09-13._
 
-**491** companies seen total — **198** enriched, **293** rejected, **0** still queued.
+**497** companies seen total — **199** enriched, **298** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-13
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-13 | 76.0 | Companion Labs (Mello) (companionlabs.in) | Ajit Pol, Co-founder — LinkedIn: https://www.linkedin.com/in/ajitppol/ . No verified public email found: scripts/find_contacts.py could not … | 1) Open with their Feb 2026 $2.5M seed from Peak XV's Surge to build vernacular AI-native entertainment (Mello) for tier II-IV India — a cle… |
 
 ### Session: 2026-09-09
 
@@ -284,6 +290,12 @@ _Last updated 2026-09-09._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-13
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-13 | B | 76.0 | Companion Labs (Mello) | companionlabs.in | Bangalore, India (company's own careers page: 'Careers — Companion Labs \| Join Us in Bangalore', cmpntech.com/careers). Note: Tracxn lists … | $2.5M | $2.5M seed led by Peak XV's Surge, announced 2026-02-26 (inc42.com, entrackr via bwdisrupt.com) — recent, no stale-funding risk | ~7 total employees (Tracxn company profile, 2026) | Applied AI — consumer entertainment / vernacular AI | None found. Searched explicitly for layoffs, shutdown, down round, founder departure, dormant socials — no negative signals surfaced (checke… | [link](https://cmpntech.com/careers) |
 
 ### Session: 2026-09-09
 
@@ -774,6 +786,11 @@ _Last updated 2026-09-09._
 | hard exclusion Gate 1: canine diagnostics device/biotech hardware (user feedback) | 1 |
 | hard exclusion Gate 1: avionics/aerospace component manufacturing, not an AI-native software company (user feedback) | 1 |
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
+| gate1: not AI-native software — robotics/hardware product (RAKSHAK tractor-mounted laser weeding robot with camera + laser actuators); perma… | 1 |
+| gate1: not AI-native software — physical hardware product (AI-powered smart crib with integrated baby monitor, own manufacturing facility in… | 1 |
+| gate1: not AI-native software — core product is a no-code rule-based/factor quant-investing backtesting and execution platform (momentum/val… | 1 |
+| gate1: not AI-native software — core product is a freight/load-board marketplace connecting truckers and shippers (subscription load board, … | 1 |
+| gate1: not AI-native software core — Bengaluru mobile puzzle-game studio (Tap Hexa, Hexa Dreams); 'AI-driven personalization/procedural cont… | 1 |
 | fails stage/size fit: founded 2014, ~434-613 employees, ~$37M revenue (getlatka/Inc42/LeadIQ) -- already a large-scale CX/CRM company, not a… | 1 |
 | fails Gate 3: raised only ~Rs 5 crore (~$530-600K) pre-seed, well under $2M threshold; 17,000 signups but zero revenue (paywall not launched… | 1 |
 | fails Gate 1 permanently - this is The Guild (formerly EtherealX), a Bengaluru spacetech company building a fully reusable launch vehicle (R… | 1 |
@@ -903,7 +920,7 @@ _Last updated 2026-09-09._
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
-| recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-08-24 | 1 | 11 |
+| recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-13 | 2 | 17 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-08-25 | 1 | 5 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-08-25 | 1 | 22 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-08-26 | 1 | 5 |
