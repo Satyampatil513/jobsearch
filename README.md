@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-13._
 
-**497** companies seen total — **199** enriched, **298** rejected, **0** still queued.
+**504** companies seen total — **204** enriched, **300** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,6 +11,10 @@ _Last updated 2026-09-13._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-13 | 76.0 | Companion Labs (Mello) (companionlabs.in) | Ajit Pol, Co-founder — LinkedIn: https://www.linkedin.com/in/ajitppol/ . No verified public email found: scripts/find_contacts.py could not … | 1) Open with their Feb 2026 $2.5M seed from Peak XV's Surge to build vernacular AI-native entertainment (Mello) for tier II-IV India — a cle… |
+| 2026-09-13 | 69.0 | Rivvun AI (rivvun.ai) | Niranjan Umarane, Co-Founder & CPO (Pune-based) — LinkedIn: https://www.linkedin.com/in/niranjanumarane/ ; fallback generic email info@rivvu… | 1. Open with the June 11 2026 $7.55M seed announcement and the fact that CPO Niranjan Umarane is Pune-based — genuine (if imperfect) India n… |
+| 2026-09-13 | 59.0 | Zeit AI (zeit-ai.com) | Leopold von Waldthausen or Marvin Bornstein, co-founders — LinkedIn: https://www.linkedin.com/in/v-waldthausen/ and https://www.linkedin.com… | 1. Open with the €5M seed news (Sept 3 2026) and that they are actively hiring Forward Deployed Engineers right now — his exact target role … |
+| 2026-09-13 | 48.0 | Arrakis Technologies (arrakistechnologies.ai) | Rafael Quintanilla, CEO & Co-founder — LinkedIn: https://www.linkedin.com/in/rafaelfql/ ; X: @RafaelFQL. No email found (GitHub commit-minin… | 1. Open with the July 22 2026 stealth-exit/Series A news and the plan to triple headcount into new offices — a real hiring-signal moment eve… |
+| 2026-09-13 | 45.0 | Twin1 AI (twin1.ai) | Dr. Lewis Z. Liu, Co-founder & CEO — LinkedIn: https://www.linkedin.com/in/lewis-z-liu-a2325bb. No email found (GitHub commit-mining unavail… | 1. Open with the August 20 2026 stealth-exit/$20M seed news and the fact Twin1 is already working with major law firms (Linklaters, Orrick, … |
 
 ### Session: 2026-09-09
 
@@ -296,6 +300,11 @@ _Last updated 2026-09-13._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-13 | B | 76.0 | Companion Labs (Mello) | companionlabs.in | Bangalore, India (company's own careers page: 'Careers — Companion Labs \| Join Us in Bangalore', cmpntech.com/careers). Note: Tracxn lists … | $2.5M | $2.5M seed led by Peak XV's Surge, announced 2026-02-26 (inc42.com, entrackr via bwdisrupt.com) — recent, no stale-funding risk | ~7 total employees (Tracxn company profile, 2026) | Applied AI — consumer entertainment / vernacular AI | None found. Searched explicitly for layoffs, shutdown, down round, founder departure, dormant socials — no negative signals surfaced (checke… | [link](https://cmpntech.com/careers) |
+| 2026-09-13 | B | 69.0 | Rivvun AI | rivvun.ai | Seattle, WA (US) | $7.55M | $7.55M seed, announced June 11 2026, led by Sitara Capital and 3one4 Capital | 15, with plans to double within the year (GeekWire, June 2026) | AI-first SaaS / B2B | None found. Actively searched for layoffs, down round, shutdown, founder departure, stalled hiring, dormant socials — found none; company is… | unknown |
+| 2026-09-13 | C | 59.0 | Zeit AI | zeit-ai.com | Munich, Germany | €5M (~$5.4M) total incl. this round | €5M seed, announced ~September 3 2026, investors Y Combinator, Oxford Seed Fund, Sequoia Capital Scout Fund, ACE Ventures, Hasso Plattner VC | 12 (Munich-based) | AI-native infrastructure and devtools | None found. Actively searched for layoffs, down round, shutdown, founder departure, dormant socials — found none; company just closed a fres… | [link](https://www.zeit-ai.com/careers) |
+| 2026-09-13 | C | 48.0 | Arrakis Technologies | arrakistechnologies.ai | London and Paris | $38M total ($7.5M seed + $30M Series A) | $30M Series A led by Blossom Capital, announced ~July 22 2026; earlier $7.5M seed led by Accel closed ~March 2026 | ~15 as of July 2026, plans to triple (to ~45) and open NY and Middle East offices | AI-native infrastructure and devtools | None found. Actively searched for layoffs, down round, shutdown, founder departure, dormant socials — found none; company just closed a Seri… | unknown |
+| 2026-09-13 | C | 45.0 | Twin1 AI | twin1.ai | San Mateo, CA (US), with a team in London | $20M | $20M seed, announced August 20 2026, co-led by Bessemer Venture Partners, Tribeca Venture Partners, and Aramco Ventures | unknown — not disclosed in sources found; company just emerged from stealth | AI-first SaaS / B2B | None found. Actively searched for layoffs, down round, shutdown, founder departure, dormant socials — found none; company just closed a larg… | unknown |
+| 2026-09-13 | C | 40.0 | Ollie | ollie.ai | San Diego, CA (US) | $7.5M | $7.5M seed, announced ~September 8 2026, led by Khosla Ventures with AI House participating | 10 (as of ~May 2026) | AI-first consumer software (not in the priority sector list, but AI-native) | None found. Actively searched for layoffs, down round, shutdown, founder departure, dormant socials — found none; company just closed a fres… | unknown |
 
 ### Session: 2026-09-09
 
@@ -825,6 +834,7 @@ _Last updated 2026-09-13._
 | cannot support target comp: total disclosed funding ~$1.2M pre-seed (Sept 2024, as Zivy before pivoting to Zoven), below the ~$2M threshold,… | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
+| cannot support target comp: pre-seed $793K (Rs 7.5 Cr, June 23 2026) is below the $2M bar; company also claims via an unverified LinkedIn po… | 1 |
 | cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
 | cannot support target comp: only ~$380K (EUR 350K) seed raised (Jan 2025), no revenue evidence found | 1 |
 | cannot support target comp: only 25K disclosed seed funding (2021), no verifiable M+ raise or revenue evidence | 1 |
@@ -838,6 +848,7 @@ _Last updated 2026-09-13._
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
+| cannot support target comp: $500K pre-seed (July 2026, Venture Catalysts angel network), no revenue evidence found | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
 | cannot support target comp — unfunded per Tracxn, Bengaluru-based, no revenue evidence found | 1 |
 | cannot support target comp — total funding $583K across 3 rounds since 2016, no revenue evidence found | 1 |
@@ -921,7 +932,7 @@ _Last updated 2026-09-13._
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-13 | 2 | 17 |
-| recency:seed-90d | Seed rounds announced in the last 90 days | 2026-08-25 | 1 | 5 |
+| recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-13 | 2 | 12 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-08-25 | 1 | 22 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-08-26 | 1 | 5 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-08-26 | 1 | 5 |
