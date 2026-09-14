@@ -1,10 +1,24 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-13._
+_Last updated 2026-09-14._
 
-**504** companies seen total — **204** enriched, **300** rejected, **0** still queued.
+**520** companies seen total — **216** enriched, **303** rejected, **1** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-14
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-14 | 91.0 | Orkes (orkes.io) | Viren Baraiya, Co-Founder & CTO - LinkedIn https://www.linkedin.com/in/virenb/ (no public email found; apply via Bangalore Greenhouse postin… | 1. Open with the $60M Series B (April 2026) and Orkes's Bangalore engineering office - this is a Bangalore-based, well-funded, entry-level-f… |
+| 2026-09-14 | 79.0 | Respan (respan.ai) | Andy Li, CEO - LinkedIn https://www.linkedin.com/in/hanheli/ (no confirmed public email; unverified careers@respan.ai found in a search snip… | 1. Open with Respan's $5M Gradient Ventures-led seed (March 2026) and its rebrand from Keywords AI, plus the explicit India-remote job posti… |
+| 2026-09-14 | 58.0 | Helmet Security (helmet.sh) | Fred Kneip, CEO/co-founder - LinkedIn https://www.linkedin.com/in/fred-kneip-411a8322/ (no public email found; a RocketReach-listed address … | 1. Open with the $9M seed (Dec 2025) and Fred Kneip's prior CyberGRX exit ($100M raised, acquired) - a credible repeat founder. 2. Ask direc… |
+| 2026-09-14 | 51.0 | AgentMail (agentmail.to) | Haakam Aujla, Founder/CEO - LinkedIn https://www.linkedin.com/in/haaaujla/ (an unverified founders@agentmail.cc address surfaced in a direct… | 1. Open with the $6M General Catalyst-led seed (March 2026) and the fact AgentMail already has 500+ B2B customers - real traction for a youn… |
+| 2026-09-14 | 50.0 | The General Intelligence Company (generalintelligencecompany.com) | Andrew Pignanelli, CEO - LinkedIn https://www.linkedin.com/in/andrewpignanelli/ (an unverified personal email surfaced in search but could n… | 1. Open with the $8.7M seed (Dec 2025) and the fact the company runs itself 95% on its own agents - a strong proof point for the product. 2.… |
+| 2026-09-14 | 35.0 | Runlayer (runlayer.com) | Andrew Berman, Founder/CEO - LinkedIn https://www.linkedin.com/in/aberman/ (no public email found) | 1. Open with the $30M Series A (June 2026) and the 8 unicorn customers signed within 4 months of launch. 2. Ask about a backend/platform eng… |
+| 2026-09-14 | 35.0 | Tenet Security (tenetsecurity.ai) | Barak Sternberg, Co-founder/CEO - LinkedIn https://www.linkedin.com/in/barakolo/ (no public email found; a partial ZoomInfo listing for Nevo… | 1. Open with the $6M seed (June 2026) and the founders' notable exit path from Wild Pointer to Cisco. 2. Ask directly whether they're hiring… |
+| 2026-09-14 | 31.0 | Orthogonal (orthogonal.com) | Christian Pickett, CEO - LinkedIn https://www.linkedin.com/in/christian-pickett/ ; Bera Sogut, CTO - LinkedIn https://www.linkedin.com/in/be… | 1. Open with the $4.3M seed (June 2026) and the fact they're already live in production with 35+ API integrations. 2. Ask directly whether t… |
+| 2026-09-14 | 29.0 | Trace (trace.so) | Tim Cherkasov, CEO - LinkedIn https://www.linkedin.com/in/timcherkasov/ (no public email found, do not guess) | 1. Open with Trace's $3M seed (Feb 2026) and its #1 spot on the YC S25 Launchpad leaderboard. 2. Ask about the Founding Product Engineer rol… |
 
 ### Session: 2026-09-13
 
@@ -294,6 +308,23 @@ _Last updated 2026-09-13._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-14
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-14 | A | 91.0 | Orkes | orkes.io | Cupertino/San Francisco, CA (US HQ) with a confirmed Bangalore, India engineering office | $80M+ ($20M Series A Feb 2024 + $60M Series B) | $60M Series B, announced 2026-04-23 (AVP lead; Prosperity7, Nexus Venture Partners, Battery Ventures, Vertex Ventures US participating) | ~73-77, up 45% YoY (under the 200-person Series-B threshold and actively hiring) | AI-native infrastructure and devtools | None found. Searched explicitly for layoffs/shutdown/founder departure - no results; company shows strong headcount growth instead. | [link](https://orkes.io/careers) |
+| 2026-09-14 | B | 79.0 | Respan | respan.ai | Alameda, CA | $5M | $5M seed, announced 2026-03-18 (Gradient Ventures, Y Combinator, Hat-Trick Capital, Xiaoxiao Fund, Antigravity Capital, Alpen Capital, angel… | ~20-23 (aggregator estimate) | AI-native infrastructure and devtools | None found. Searched explicitly for layoffs/shutdown/founder departure - only generic industry-wide AI layoff trend pieces surfaced, nothing… | [link](https://www.ycombinator.com/companies/respan/jobs) |
+| 2026-09-14 | C | 58.0 | Helmet Security | helmet.sh | Washington, DC | $9M | $9M seed, announced 2025-12-04 (SYN Ventures, WhiteRabbit Ventures) | 3 at raise (Dec 2025), targeting ~10 within 6 months | AI-native infrastructure and devtools | None found for layoffs/shutdown/departure. Soft note: company describes staying 'lean' and building its product in 'a couple of months' with… | [link](https://www.helmet.sh/) |
+| 2026-09-14 | C | 51.0 | AgentMail | agentmail.to | San Francisco, CA (580 Howard St) | $6M | $6M seed, announced 2026-03-10 (General Catalyst lead; Y Combinator, Phosphor Capital, angels incl. Paul Graham, Dharmesh Shah, Paul Copples… | ~9-10 (YC/PitchBook estimates) | AI-native infrastructure and devtools | None found. Searched explicitly for layoffs/shutdown/founder departure - no results. | [link](https://www.agentmail.to/careers) |
+| 2026-09-14 | C | 50.0 | The General Intelligence Company | generalintelligencecompany.com | New York, NY (169 Madison Avenue) | $10.7M ($2M pre-seed + $8.7M seed) | $8.7M seed, announced ~2025-12-08/12 (Union Square Ventures lead; Acrew Capital, Compound, Untapped VC, Agent Fund, The House Fund participa… | 5 (per Simplify Jobs) | AI-native infrastructure and devtools | None found. Searched explicitly for layoffs/shutdown/founder departure - no results. | [link](https://www.generalintelligencecompany.com/careers) |
+| 2026-09-14 | C | 37.0 | Sycamore | sycamore.so | Palo Alto, CA | $65M | $65M seed, announced 2026-03-30 (Coatue, Lightspeed, Abstract Ventures, Dell Technologies Capital, 8VC, Fellows Fund, E14 Fund, angels incl.… | unknown - described qualitatively as including researchers from Stanford/Cornell and engineers from Meta/Google/Atlassian, no numeric figure… | AI-native infrastructure and devtools | None found. Searched explicitly for layoffs/shutdown/controversy - no results; company appears newly active and in growth mode. | [link](https://sycamore.so/careers/) |
+| 2026-09-14 | C | 36.0 | Wordware | wordware.ai | San Francisco, CA (Presidio) | $30M | $30M seed, announced Nov 2024 (Spark Capital, Felicis, Y Combinator, Day One Ventures, angels incl. Paul Graham, Vlad Magdalin) - one of the… | ~20-22 (Getlatka 2024 estimate; LinkedIn range shows 2-10, likely stale) | AI-native infrastructure and devtools | Seed round is ~22 months old (Nov 2024) with no follow-on round found - approaching the 24-month stale-funding threshold; runway should be t… | [link](https://jobs.ashbyhq.com/wordware.ai) |
+| 2026-09-14 | C | 35.0 | Runlayer | runlayer.com | San Francisco, CA | $41M ($11M seed + $30M Series A) | $30M Series A, announced 2026-06-24/25 (Felicis lead, Khosla Ventures participating) | ~30 (aggregator estimate) | AI-native infrastructure and devtools | None found. Searched explicitly - no layoffs/shutdown/departure/criticism coverage located. | [link](https://www.runlayer.com/about) |
+| 2026-09-14 | C | 35.0 | Tenet Security | tenetsecurity.ai | Originated in Tel Aviv-Yafo, Israel (founders' Unit 8200 roots); one summary claims a US HQ (possibly New York City) but this was not corrob… | $6M | $6M seed, announced 2026-06-17 (The Westly Group and MizMaa Ventures lead; angels incl. Tomer Schwartz of Dazz, Lior Tal former CEO of Coral… | ~15 (unconfirmed aggregator estimate) | AI-native infrastructure and devtools | None found for layoffs/shutdown/departure. HQ location itself is unconfirmed (Tel Aviv origin vs. a claimed but unsupported US HQ) - flagged… | [link](https://tenetsecurity.ai/careers) |
+| 2026-09-14 | C | 31.0 | Orthogonal | orthogonal.com | San Francisco, CA | $4.3M | $4.3M seed, announced 2026-06-25 (Pantera Capital lead; YC, Pioneer Fund, Decasonic, Blast, Outbound, Surreal participating) | 2 (per YC profile) | AI-native infrastructure and devtools | Industry-skepticism coverage on the x402 payment protocol Orthogonal is built on: 'Coinbase-backed AI payments protocol wants to fix micropa… | unknown |
+| 2026-09-14 | C | 29.0 | Trace | trace.so | San Francisco, CA | $3M | $3M seed, announced 2026-02-26 (YC, Zeno Ventures, Goodwater Capital, Transpose Platform Management, Formosa Capital, Wefunder, angels) | unknown (described as a 'tight-knit' early team; no public count found) | AI-native infrastructure and devtools | None found. Searched explicitly for layoffs/shutdown/founder departure - no results. | [link](https://www.ycombinator.com/companies/trace-so) |
+| 2026-09-14 | C | 28.0 | AIR Security | air.security | Israel (Tel Aviv area; CEO based in Ramat Gan) | $50M ($10M + $40M, two seed rounds) | $40M seed (second round), announced 2026-09-01, led by Greenoaks Capital Partners; first $10M round led by Sequoia Capital | 40, all in Israel | AI-native infrastructure and devtools | None found for layoffs/shutdown/departure. Soft note: scaling to 40 staff and $50M within ~7 months of founding is an unusually fast ramp - … | [link](https://www.air.security/) |
 
 ### Session: 2026-09-13
 
@@ -871,6 +902,7 @@ _Last updated 2026-09-13._
 | cannot support target comp -- .3M pre-seed (most consistent figure across sources), below the M threshold, no revenue evidence | 1 |
 | cannot support target comp - total funding ~$556K over 5 rounds (Venture Catalysts-led seed, Oct 2024 ~$174K tranche), well below the ~$2M b… | 1 |
 | cannot support target comp - total funding ~$500K (YC S22 seed + Khosla/Page One Ventures), no verified revenue figure despite named custome… | 1 |
+| cannot support target comp - solo founder, no funding beyond YC standard deal found, no revenue evidence (3.8k GitHub stars is traction, not… | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
 | cannot support target comp - only standard YC W26 investment (~00K) confirmed, no additional seed/revenue evidence found | 1 |
 | cannot support target comp - only funding on record is a non-equity NUMA assistance program, no VC funding or verifiable revenue evidence fo… | 1 |
@@ -878,6 +910,8 @@ _Last updated 2026-09-13._
 | cannot support target comp - only .1M raised across 6 small rounds since 2018, no confirmed recent round found despite 8 years of operation,… | 1 |
 | cannot support target comp - only $1.25M raised (Feb 2024, ~2.5yr old); Series A reportedly in talks since mid-2025 but no confirmed close f… | 1 |
 | cannot support target comp - nonprofit legal-tech; total funding ~$525K ($25K Fast Forward grant + YC F26 $500K SAFE), well below the $2M+ b… | 1 |
+| cannot support target comp - no seed round found beyond YC standard deal, 2-person founding team, no revenue evidence | 1 |
+| cannot support target comp - no funding beyond YC standard deal found, no revenue evidence (2-person team, YC S26) | 1 |
 | cannot support target comp - funding unverifiable; multiple unrelated companies also named Valent confound public records, no reliable finan… | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
 | cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |
@@ -933,7 +967,7 @@ _Last updated 2026-09-13._
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-13 | 2 | 17 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-13 | 2 | 12 |
-| theme:agent-infra | Agent infrastructure and orchestration | 2026-08-25 | 1 | 22 |
+| theme:agent-infra | Agent infrastructure and orchestration | 2026-09-14 | 2 | 38 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-08-26 | 1 | 5 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-08-26 | 1 | 5 |
 | theme:llm-eval | LLM eval and observability | 2026-08-27 | 1 | 18 |
