@@ -1,10 +1,16 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-14._
+_Last updated 2026-09-15._
 
-**527** companies seen total — **223** enriched, **304** rejected, **0** still queued.
+**536** companies seen total — **224** enriched, **312** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-15
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-15 | 90.0 | Cartesia (cartesia.ai) | Karan Goel, Co-Founder & CEO (IIT Delhi, B.Tech EE 2016) - LinkedIn https://www.linkedin.com/in/krandiash/. No public email found: scripts/f… | 1. Open with Cartesia's brand-new Bangalore office (first India office, 2026) and the live 'Software Engineer, India' / 'Forward Deployed En… |
 
 ### Session: 2026-09-14
 
@@ -314,6 +320,12 @@ _Last updated 2026-09-14._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-15
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-15 | A | 90.0 | Cartesia | cartesia.ai | San Francisco, USA. Opened its first India office in Bangalore in 2026 (source: jobfound.org/job/cartesia-is-hiring-for-software-engineer-pl… | ~$191M total disclosed | $100M round, October 2025, led by Kleiner Perkins, Index Ventures, Lightspeed and NVIDIA (source: aibusinessweekly.net/p/ai-startup-funding-… | ~146 as of Jul 2026 per Tracxn; other public estimates range 40-50 (getlatka), so treat as approximate. Offices in San Francisco, London and… | AI-native infrastructure | None found. Explicitly searched for layoffs, down rounds, founder departures, stalled hiring — found none. All four founders remain listed a… | [link](https://www.cartesia.ai/careers) |
 
 ### Session: 2026-09-14
 
@@ -862,6 +874,7 @@ _Last updated 2026-09-14._
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead: confirmed company shutdown -- Ragie's RAG-as-a-service platform ended July 19 2026, customers directed to export data by Jul 3 deadlin… | 1 |
 | dead: company announced it is shutting down in 2026, customers told to migrate off platform before service termination (per buildbetter.ai a… | 1 |
+| dead: acquired by Adobe Sept 2026, team absorbed, product shut down (techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-sta… | 1 |
 | dead: acquired and absorbed by Privateer (May 2024) after near-bankruptcy and layoffs | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
@@ -881,6 +894,11 @@ _Last updated 2026-09-14._
 | cannot support target comp: pre-seed $793K (Rs 7.5 Cr, June 23 2026) is below the $2M bar; company also claims via an unverified LinkedIn po… | 1 |
 | cannot support target comp: only ~25-235K raised (pre-seed), well under $2M threshold. Latka's cited $1.2M revenue is an unverified 'estimat… | 1 |
 | cannot support target comp: only ~$380K (EUR 350K) seed raised (Jan 2025), no revenue evidence found | 1 |
+| cannot support target comp: only disclosed funding is standard YC S26 deal; no seed/revenue found. Note: distinct from unrelated older compa… | 1 |
+| cannot support target comp: only disclosed funding is standard YC S26 deal; no seed/revenue found. Note: distinct from unrelated 'Almanac He… | 1 |
+| cannot support target comp: only disclosed funding is standard YC S26 deal; no additional seed round or revenue evidence found despite searc… | 1 |
+| cannot support target comp: only disclosed funding is standard YC S26 deal; 45k GitHub stars on GitNexus is open-source traction, not revenu… | 1 |
+| cannot support target comp: only disclosed funding is standard YC S26 deal (~$500K); no seed round found beyond that; $500M+ 'in production'… | 1 |
 | cannot support target comp: only 25K disclosed seed funding (2021), no verifiable M+ raise or revenue evidence | 1 |
 | cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
@@ -888,6 +906,8 @@ _Last updated 2026-09-14._
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
 | cannot support target comp: no verifiable funding found (Crunchbase lists an unspecified 'Angel round', Tracxn and other searches say unfund… | 1 |
 | cannot support target comp: no funding found (Tracxn/Invstt confirm unfunded), no verifiable revenue evidence despite '1025+ Shopify brands'… | 1 |
+| cannot support target comp: explicitly reported as unfunded/no funding raised as of Sep 2026 despite repeat founders and 8-person team | 1 |
+| cannot support target comp: confirmed $250K pre-seed from Entrepreneurs First (LinkedIn post by co-founder Shubham Palriwala), well under th… | 1 |
 | cannot support target comp: bootstrapped/unfunded as of research (10 employees per Tracxn); founder Siddharth Panwar reported seeking a $10M… | 1 |
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
@@ -983,7 +1003,7 @@ _Last updated 2026-09-14._
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-13 | 2 | 12 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-09-14 | 2 | 38 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-14 | 2 | 12 |
-| theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-08-26 | 1 | 5 |
+| theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
 | theme:llm-eval | LLM eval and observability | 2026-08-27 | 1 | 18 |
 | theme:memory-context | Memory and context systems | 2026-08-27 | 1 | 11 |
 | theme:rag-docs | Document and RAG products | 2026-08-28 | 1 | 12 |
