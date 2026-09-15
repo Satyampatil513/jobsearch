@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-15._
 
-**536** companies seen total — **224** enriched, **312** rejected, **0** still queued.
+**549** companies seen total — **235** enriched, **314** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,6 +11,17 @@ _Last updated 2026-09-15._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-15 | 90.0 | Cartesia (cartesia.ai) | Karan Goel, Co-Founder & CEO (IIT Delhi, B.Tech EE 2016) - LinkedIn https://www.linkedin.com/in/krandiash/. No public email found: scripts/f… | 1. Open with Cartesia's brand-new Bangalore office (first India office, 2026) and the live 'Software Engineer, India' / 'Forward Deployed En… |
+| 2026-09-15 | 68.0 | Itoflow (itoflow.ai) | Aditya Jha, CEO/co-founder -- LinkedIn uk.linkedin.com/in/adityajha36 (no public email found) | Open with the $2.5M Balderton pre-seed (25 Aug 2026) and the shared IIT connection -- Itoflow's co-founders Abinash Meher and Dibya Jyoti Ro… |
+| 2026-09-15 | 62.0 | kausable (kausable.ai) | Johannes Haux, CEO/co-founder -- LinkedIn linkedin.com/in/jhaux (no public email found; no GitHub org located) | Open with kausable's EUR12M seed (2026-07-23, UVC Partners/Entourage) building reasoning-first AI that adapts without retraining. Ask about … |
+| 2026-09-15 | 60.0 | Redpine (redpine.ai) | Anders Hammarback, CEO/co-founder -- LinkedIn www.linkedin.com/in/andershammarback/ (no public email found) | Open with the EUR6.8M seed (28 April 2026, NordicNinja) and Redpine's pitch of grounding AI agents with licensed data via API/MCP/CLI. Ask a… |
+| 2026-09-15 | 56.0 | Cortea (cortea.ai) | Valentin Neumann, co-founder -- LinkedIn linkedin.com/in/valentinneumann/ (no public email found) | Open with the EUR12M seed (16 June 2026, Dawn Capital) and Cortea's push into UK/Germany/US audit firms. Open roles skew senior, so pitch as… |
+| 2026-09-15 | 55.0 | Reson8 (reson8.dev) | Thomas Kluiters, co-founder/Head of AI -- LinkedIn linkedin.com/in/thomas-kluiters-1002a7105/ (no public email found) | Open with the EUR5M Balderton-led pre-seed (19 March 2026) and Reson8's second-time-founder story (Kluiters' prior exit, Juvoly). Ask about … |
+| 2026-09-15 | 54.0 | AI Score (aiscore.ai) | Benita Tibb, co-founder/COO -- LinkedIn linkedin.com/in/benita-tibb-20056169/ (no public email found) | Open with the $5.4M seed (3 Sept 2026, Fuel Ventures) and AI Score's traction with law firms/FTSE 250 clients. Ask about backend/agent-infra… |
+| 2026-09-15 | 53.0 | Davis (meetdavis.com) | Amine Chraibi, co-founder/CTO -- LinkedIn linkedin.com/in/chraibi-amine/ (no public email found) | Open with the $5.5M pre-seed (6 May 2026) and the launch of Gaudi-1, their proprietary generative model for architectural design. Ask about … |
+| 2026-09-15 | 52.0 | Backbone (usebackbone.ai) | unknown -- no confidently-matched named contact found this pass; recommend approaching via usebackbone.ai or re-searching for Louis Opsomer … | Open with the EUR4M pre-seed (3 Sept 2026, Pitchdrive) and Backbone's second-time-founder story (Opsomer's Henchman exit to LexisNexis). Ask… |
+| 2026-09-15 | 51.0 | Aloi (aloi.law) | Johan Hager, CEO/co-founder -- LinkedIn www.linkedin.com/in/johan-h%C3%A4ger-b4880158/ (no public email found; no technical co-founder ident… | Open with the EUR6.1M round (Aug 2026) and Aloi's expansion across the UK, Germany, the Netherlands and Nordics. Ask specifically whether th… |
+| 2026-09-15 | 50.0 | Cato (get-cato.com) | Andrea Zorzetto, co-founder/CEO -- LinkedIn it.linkedin.com/in/andreazorzetto (no public email found) | Open with the EUR6M seed (7 Sept 2026, Keen Venture Partners) and Cato's rapid customer growth (30 to 150+ in 5 months). Ask about backend/A… |
+| 2026-09-15 | 44.0 | Plato (platoapp.ai) | Benedikt Nolte, CEO/co-founder -- LinkedIn www.linkedin.com/in/benediktnolte/ (no public email found) | Open with the $14.5M Atomico-led seed (19 Feb 2026) and Plato's traction in wholesale distribution. Be upfront that the team's explicit pref… |
 
 ### Session: 2026-09-14
 
@@ -326,6 +337,17 @@ _Last updated 2026-09-15._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-15 | A | 90.0 | Cartesia | cartesia.ai | San Francisco, USA. Opened its first India office in Bangalore in 2026 (source: jobfound.org/job/cartesia-is-hiring-for-software-engineer-pl… | ~$191M total disclosed | $100M round, October 2025, led by Kleiner Perkins, Index Ventures, Lightspeed and NVIDIA (source: aibusinessweekly.net/p/ai-startup-funding-… | ~146 as of Jul 2026 per Tracxn; other public estimates range 40-50 (getlatka), so treat as approximate. Offices in San Francisco, London and… | AI-native infrastructure | None found. Explicitly searched for layoffs, down rounds, founder departures, stalled hiring — found none. All four founders remain listed a… | [link](https://www.cartesia.ai/careers) |
+| 2026-09-15 | B | 68.0 | Itoflow | itoflow.ai | London, UK | $2.5M pre-seed | $2.5M pre-seed, announced 2026-08-25, led by Balderton Capital | unknown, small early team ('early hires... own the work from first decisions') | AI-first fintech | none found | [link](https://itoflow.ai/careers) |
+| 2026-09-15 | C | 62.0 | kausable | kausable.ai | Heidelberg, Germany | ~EUR13.5M (EUR1.5M pre-seed 2025 + EUR12M seed 2026) | EUR12M seed, announced 2026-07-23 | unknown | AI-native infrastructure and devtools | none found -- searched for layoffs/shutdown/founder departure, nothing found; round is ~2 months old, not stale | unknown |
+| 2026-09-15 | C | 60.0 | Redpine | redpine.ai | Stockholm, Sweden | ~EUR7.9M (EUR1.1M pre-seed 2025 + EUR6.8M seed 2026) | EUR6.8M seed, announced 2026-04-28, led by NordicNinja | small -- 5 open engineering roles listed plus a 12-week internship; office-first team in central Stockholm | AI-native infrastructure and devtools | none found | [link](https://www.redpine.ai/careers) |
+| 2026-09-15 | C | 56.0 | Cortea | cortea.ai | Berlin, Germany | ~EUR12M+ (June 2026 seed; earlier pre-seed amount undisclosed) | EUR12M seed, announced 2026-06-16, led by Dawn Capital | 21 employees | AI-first SaaS / B2B | none found | [link](https://jobs.ashbyhq.com/cortea) |
+| 2026-09-15 | C | 55.0 | Reson8 | reson8.dev | Amsterdam, Netherlands | EUR5M pre-seed | EUR5M pre-seed, announced 2026-03-19, led by Balderton Capital | unknown -- company states it is 'selectively growing the team, prioritising talent density over headcount' | Applied AI vertical -- Voice AI | none found | unknown |
+| 2026-09-15 | C | 54.0 | AI Score | aiscore.ai | London, UK | ~$6.4M ($1M pre-seed Nov 2025 + $5.4M/EUR4.6M seed Sept 2026) | $5.4M / EUR4.6M seed, announced 2026-09-03/04, led by Fuel Ventures | 12 employees (as of Jun 2026) | AI-native infrastructure and devtools | none found | unknown |
+| 2026-09-15 | C | 53.0 | Davis | meetdavis.com | Paris, France | $5.5M pre-seed | $5.5M pre-seed, announced 2026-05-06/07, led by Heartcore Capital and Balderton Capital | unknown | AI-first SaaS / B2B | none found | unknown |
+| 2026-09-15 | C | 52.0 | Backbone | usebackbone.ai | Brussels, Belgium (team has Ghent/Henchman roots) | EUR4M pre-seed | EUR4M pre-seed, announced 2026-09-03, led by Pitchdrive | unknown | AI-first SaaS / B2B | none found. Note: a same-named 'Backbone Systems' hiring a Founding Engineer in San Francisco for healthcare-payments software is a DIFFEREN… | unknown |
+| 2026-09-15 | C | 51.0 | Aloi | aloi.law | Stockholm, Sweden | ~EUR9.1M (EUR3M ~2025 round + EUR6.1M 2026 round) | EUR6.1M, reported August 2026, from an undisclosed European VC fund plus existing investors | unknown | Applied AI vertical -- legal and compliance | none found | unknown |
+| 2026-09-15 | C | 50.0 | Cato | get-cato.com | Milan, Italy | EUR7.6M total (EUR1.6M pre-seed Dec 2025 + EUR6M seed Sept 2026) | EUR6M seed, announced 2026-09-07, led by Keen Venture Partners | unknown (sales team 'tripled' since April 2026; overall headcount not disclosed) | AI-first SaaS / B2B | none found | unknown |
+| 2026-09-15 | C | 44.0 | Plato | platoapp.ai | Berlin, Germany | $14.5M / EUR12.2M seed | $14.5M seed, announced 2026-02-19, led by Atomico | 42 employees (as of Apr 2026) -- above the 5-25 sweet spot, near the top of the 5-40 acceptable range | AI-first SaaS / B2B | none found | [link](https://www.platoapp.ai/en/about) |
 
 ### Session: 2026-09-14
 
@@ -716,6 +738,7 @@ _Last updated 2026-09-15._
 | not an AI-native software company: multi-dimensional indexing/query optimization for data lakehouses (Delta Lake/Iceberg/Hudi) — a database/… | 1 |
 | not an AI-native software company: it is a licensed, practicing law firm selling attorney-delivered legal services (flat-fee contract review… | 1 |
 | not an AI-native software company: human-assisted concierge/task-fulfillment service (WhatsApp+app booking laundry, paperwork, errands via t… | 1 |
+| not an AI-native software company: embedded/on-device voice AI for defence hardware systems, engineering hiring is embedded systems not back… | 1 |
 | not an AI-native software company: designs/manufactures lithium-ion battery packs and BMS hardware for OEMs (robotics, defence, drones, EVs)… | 1 |
 | not an AI-native software company: custom satellite manufacturer (hardware, LEO satellites for SAR/EO/SATCOM) | 1 |
 | not an AI-native software company: core product is physical dermatologist-formulated skincare (via SkinQ acquisition), a beauty/personal-car… | 1 |
@@ -911,6 +934,7 @@ _Last updated 2026-09-15._
 | cannot support target comp: bootstrapped/unfunded as of research (10 employees per Tracxn); founder Siddharth Panwar reported seeking a $10M… | 1 |
 | cannot support target comp: SF-based, no funding rounds found beyond possible standard YC deal, well under $2M gate | 1 |
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
+| cannot support target comp: EUR1.5M pre-seed (~$1.6M), sub-$2M threshold, no revenue evidence found | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
 | cannot support target comp: $500K pre-seed (July 2026, Venture Catalysts angel network), no revenue evidence found | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
@@ -989,7 +1013,7 @@ _Last updated 2026-09-15._
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-04 | 2 | 20 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-06 | 2 | 16 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-07 | 2 | 19 |
-| geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 4 |
+| geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-15 | 2 | 17 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-05 | 2 | 13 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-07 | 2 | 30 |
