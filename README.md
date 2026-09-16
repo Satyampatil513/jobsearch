@@ -1,10 +1,19 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-15._
+_Last updated 2026-09-16._
 
-**549** companies seen total — **235** enriched, **314** rejected, **0** still queued.
+**555** companies seen total — **241** enriched, **314** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-16
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-16 | 66.0 | Namespace Labs (namespace.so) | Hugo Santos, Founder & CEO. No verified email found - scripts/find_contacts.py returned no results against the namespacelabs GitHub org beca… | 1) Open with Namespace's March 2026 $23M NEA-led round and its pivot toward 'agents need computers' - compute infra for autonomous coding ag… |
+| 2026-09-16 | 65.0 | MAI Agents (mai.co) | Yuchen Wu, co-founder & CEO. No verified email found (GitHub-commit enrichment unavailable this run - GitHub API access in this session is s… | 1) Open with MAI's $25M Kleiner Perkins seed (Sept 30 2025) and the fact they're hiring a New Grad Software Engineer - a rare explicit early… |
+| 2026-09-16 | 38.0 | June AI (june.ai) | Efrat Rapoport, CEO - LinkedIn: https://www.linkedin.com/in/efrat-rapoport-49341251/. No verified email found (GitHub-commit enrichment unav… | 1) Open with June's $20M Benioff/Dell/Levie/Kurtz-backed pre-seed launch (Aug 2026) and the specific thesis of AI agents replacing manual en… |
+| 2026-09-16 | 31.0 | Probably AI (probably.dev) | Peter Elias, Founder - LinkedIn: https://www.linkedin.com/in/petermelias/. No verified email found (GitHub-commit enrichment unavailable thi… | 1) Open with the a16z-led $9M seed (June 2026) and the specific thesis of pushing LLM reliability toward deterministic-software levels of ac… |
 
 ### Session: 2026-09-15
 
@@ -331,6 +340,17 @@ _Last updated 2026-09-15._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-16
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-16 | B | 66.0 | Namespace Labs | namespace.so | San Francisco, CA | $23.8M | $23M combined Seed+Series A led by NEA (Susa Ventures, burst.vc participating), announced 2026-03-23 - source: https://namespace.so/blog/ser… | 19 employees - source: search aggregation of Namespace Labs company profiles | AI-native infrastructure and devtools | none found - searched explicitly, nothing negative surfaced. | [link](https://namespace.so/careers) |
+| 2026-09-16 | B | 65.0 | MAI Agents | mai.co | San Francisco, CA | $25M | $25M Seed led by Kleiner Perkins, announced 2025-09-30 (participation from Gaorong Ventures, UpHonest Capital) - source: https://www.prnewsw… | unknown (company describes itself as 'a small, intense team'; no verified employee count found) | AI-first SaaS / B2B | none found - searched explicitly for layoffs/down round/shutdown/founder departure, nothing found. Funding round is ~11.5 months old as of 2… | [link](https://www.mai.co/career) |
+| 2026-09-16 | C | 44.0 | Crosby | crosby.ai | New York, NY | ~$85.8M (seed $5.8M + Series A $20M + Series B $60M) | $60M Series B co-led by Lux Capital and Index Ventures (Sequoia, 01 Advisors, Bain Capital Ventures, Elad Gil also participated), announced … | 30 total, 15 in product/tech - source: Built In NYC company profile (https://www.builtinnyc.com/company/crosby) | Applied AI in a vertical | none found for layoffs/down round/shutdown/founder exit. Only flag is the Gate 1 services-vs-software judgment call noted in score_rationale… | [link](https://crosby.ai/careers) |
+| 2026-09-16 | C | 38.0 | June AI | june.ai | New York, NY | $20M | $20M Pre-Seed led by Marc Benioff's Time Ventures (Michael Dell, Diane Greene, Aaron Levie, George Kurtz also participated), announced 2026-… | unknown - likely still very small (4 founders + early hires), only ~6 weeks out of stealth as of this run (2026-09-16); no employee count fo… | AI-first SaaS / B2B | none found for layoffs/down round/shutdown/founder exit. Domain-reuse note above is not a risk to the company itself, just a research trap w… | unknown - not found on june.ai |
+| 2026-09-16 | C | 31.0 | Probably AI | probably.dev | San Francisco, CA (per founder's stated location) | $9M | $9M Seed from Andreessen Horowitz (a16z), announced 2026-06-16 - source: https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-mor… | unknown - no employee count found anywhere; likely very small given the seed closed only ~3 months before this run (2026-09-16) and the comp… | AI-native infrastructure and devtools | none found for layoffs/down round/shutdown/founder exit. | unknown - not found |
+| 2026-09-16 | C | 30.0 | Compuvi | compuvi.com | San Francisco, CA | $2.5M pre-seed (Jul 2025, disclosed) + an undisclosed seed amount (Jun 2026) that brought post-money valuation to $40M | Seed round at $40M post-money valuation, announced 2026-06-11/12 - amount raised not disclosed in any source found. Investors named: Turkish… | 11-50 employees (range reported by ZoomInfo/Tracxn aggregation, exact count unknown) | AI-first SaaS / B2B | none found for layoffs/down round/shutdown/founder exit. Flag: actual seed dollar amount raised is undisclosed (only post-money valuation is… | [link](https://compuvi.com/careers) |
 
 ### Session: 2026-09-15
 
@@ -1017,7 +1037,7 @@ _Last updated 2026-09-15._
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-05 | 2 | 13 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-07 | 2 | 30 |
-| geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-08-27 | 1 | 2 |
+| geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-16 | 2 | 8 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-05 | 2 | 17 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
