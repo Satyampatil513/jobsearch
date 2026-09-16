@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-16._
 
-**555** companies seen total — **241** enriched, **314** rejected, **0** still queued.
+**564** companies seen total — **246** enriched, **318** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -12,7 +12,11 @@ _Last updated 2026-09-16._
 |---|---|---|---|---|
 | 2026-09-16 | 66.0 | Namespace Labs (namespace.so) | Hugo Santos, Founder & CEO. No verified email found - scripts/find_contacts.py returned no results against the namespacelabs GitHub org beca… | 1) Open with Namespace's March 2026 $23M NEA-led round and its pivot toward 'agents need computers' - compute infra for autonomous coding ag… |
 | 2026-09-16 | 65.0 | MAI Agents (mai.co) | Yuchen Wu, co-founder & CEO. No verified email found (GitHub-commit enrichment unavailable this run - GitHub API access in this session is s… | 1) Open with MAI's $25M Kleiner Perkins seed (Sept 30 2025) and the fact they're hiring a New Grad Software Engineer - a rare explicit early… |
+| 2026-09-16 | 54.0 | Patronus AI (patronus.ai) | Apply via patronus.ai/join (Forward Deployed Software Engineer, Remote) — no personal founder email or verified LinkedIn URL found this sess… | 1) Open with the June 2026 $50M Series B and the new 'digital world' agent-simulation product launch — a specific, recent signal to referenc… |
+| 2026-09-16 | 53.0 | Lemma (uselemma.ai) | Jerry Zhang or Cole Gawin (co-founders) via LinkedIn — no public email found; apply directly via careers page/YC job board given open Foundi… | 1) Open with the Aug 2026 $2.3M pre-seed and the 1M-agent-traces/day traction — shows real production usage this early. 2) Ask specifically … |
+| 2026-09-16 | 39.0 | Laminar (lmnr.ai) | Robert Kim (CEO) or Dinmukhamed Mailibay (CTO) via LinkedIn — no public email found; GitHub org (lmnr-ai) commit metadata was not accessible… | 1) Open with the March 2026 $3M Atlantic.vc-led seed and the fact an OpenTelemetry co-creator (Ben Sigelman) is an angel — shows real techni… |
 | 2026-09-16 | 38.0 | June AI (june.ai) | Efrat Rapoport, CEO - LinkedIn: https://www.linkedin.com/in/efrat-rapoport-49341251/. No verified email found (GitHub-commit enrichment unav… | 1) Open with June's $20M Benioff/Dell/Levie/Kurtz-backed pre-seed launch (Aug 2026) and the specific thesis of AI agents replacing manual en… |
+| 2026-09-16 | 35.0 | Arato (arato.ai) | Shahar Erez (co-founder) via LinkedIn — no public email found | 1) Open with the June 2026 $10M TLV Partners seed and the repeat-founder story (sold their last company to Fiverr) — shows this is a credibl… |
 | 2026-09-16 | 31.0 | Probably AI (probably.dev) | Peter Elias, Founder - LinkedIn: https://www.linkedin.com/in/petermelias/. No verified email found (GitHub-commit enrichment unavailable thi… | 1) Open with the a16z-led $9M seed (June 2026) and the specific thesis of pushing LLM reliability toward deterministic-software levels of ac… |
 
 ### Session: 2026-09-15
@@ -347,10 +351,15 @@ _Last updated 2026-09-16._
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-16 | B | 66.0 | Namespace Labs | namespace.so | San Francisco, CA | $23.8M | $23M combined Seed+Series A led by NEA (Susa Ventures, burst.vc participating), announced 2026-03-23 - source: https://namespace.so/blog/ser… | 19 employees - source: search aggregation of Namespace Labs company profiles | AI-native infrastructure and devtools | none found - searched explicitly, nothing negative surfaced. | [link](https://namespace.so/careers) |
 | 2026-09-16 | B | 65.0 | MAI Agents | mai.co | San Francisco, CA | $25M | $25M Seed led by Kleiner Perkins, announced 2025-09-30 (participation from Gaorong Ventures, UpHonest Capital) - source: https://www.prnewsw… | unknown (company describes itself as 'a small, intense team'; no verified employee count found) | AI-first SaaS / B2B | none found - searched explicitly for layoffs/down round/shutdown/founder departure, nothing found. Funding round is ~11.5 months old as of 2… | [link](https://www.mai.co/career) |
+| 2026-09-16 | C | 54.0 | Patronus AI | patronus.ai | San Francisco, US | $70M (per TechCrunch: $50M Series B brings total to $70M; earlier $17M Series A per Patronus's own blog) | $50M Series B led by Greenfield Partners, announced 2026-06-25, to build 'digital world' simulation environments for AI agent training/stres… | ~28-34 (source estimates vary: Latka ~34, another ~28) — well under the 200-person Series-B stage cap | AI-native infrastructure and devtools | none found — actively searched for layoffs/down-round/founder-departure news, found none (search results only surfaced an unrelated company,… | [link](https://www.patronus.ai/join) |
+| 2026-09-16 | C | 53.0 | Lemma | uselemma.ai | San Francisco, US | $2.3M | $2.3M pre-seed announced 2026-08-13/14, backed by Matrix, Y Combinator, Liquid 2 Ventures, Vermilion Cliffs Ventures, Irregular Expressions,… | 2 (founders only, per BuiltIn 'two-person YC F25 team'), actively hiring more | AI-native infrastructure and devtools | none found — actively searched for layoffs/down-round/founder-departure news, found none. (One AI-generated search summary claimed an unrela… | [link](https://www.uselemma.ai/careers) |
 | 2026-09-16 | C | 44.0 | Crosby | crosby.ai | New York, NY | ~$85.8M (seed $5.8M + Series A $20M + Series B $60M) | $60M Series B co-led by Lux Capital and Index Ventures (Sequoia, 01 Advisors, Bain Capital Ventures, Elad Gil also participated), announced … | 30 total, 15 in product/tech - source: Built In NYC company profile (https://www.builtinnyc.com/company/crosby) | Applied AI in a vertical | none found for layoffs/down round/shutdown/founder exit. Only flag is the Gate 1 services-vs-software judgment call noted in score_rationale… | [link](https://crosby.ai/careers) |
+| 2026-09-16 | C | 39.0 | Laminar | lmnr.ai | San Francisco, US (Crunchbase/Tracxn; one secondary source listed 'London' — inconsistent, SF treated as primary given YC S24 cohort and fou… | $3M | $3M seed led by Atlantic.vc, announced 2026-03-17 (participants: Y Combinator, AAL.vc, angels Ben Sigelman and Ant Wilson) — source: tech.eu… | ~6 (YC company profile, as of ~Mar 2026) | AI-native infrastructure and devtools | none found — actively searched for layoffs/down-round/founder-departure news, found none | [link](https://www.ycombinator.com/companies/laminar/jobs) |
 | 2026-09-16 | C | 38.0 | June AI | june.ai | New York, NY | $20M | $20M Pre-Seed led by Marc Benioff's Time Ventures (Michael Dell, Diane Greene, Aaron Levie, George Kurtz also participated), announced 2026-… | unknown - likely still very small (4 founders + early hires), only ~6 weeks out of stealth as of this run (2026-09-16); no employee count fo… | AI-first SaaS / B2B | none found for layoffs/down round/shutdown/founder exit. Domain-reuse note above is not a risk to the company itself, just a research trap w… | unknown - not found on june.ai |
+| 2026-09-16 | C | 35.0 | Arato | arato.ai | Tel Aviv, Israel | $10M | $10M seed led by TLV Partners with Jibe Ventures, closed ~2026-06-29 (announced late June/early July 2026). Source: siliconangle.com/2026/06… | 23, all Israel-based | AI-native infrastructure and devtools | none found — actively searched for layoffs/down-round/founder-departure news, found none | [link](https://arato.ai/careers/) |
 | 2026-09-16 | C | 31.0 | Probably AI | probably.dev | San Francisco, CA (per founder's stated location) | $9M | $9M Seed from Andreessen Horowitz (a16z), announced 2026-06-16 - source: https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-mor… | unknown - no employee count found anywhere; likely very small given the seed closed only ~3 months before this run (2026-09-16) and the comp… | AI-native infrastructure and devtools | none found for layoffs/down round/shutdown/founder exit. | unknown - not found |
 | 2026-09-16 | C | 30.0 | Compuvi | compuvi.com | San Francisco, CA | $2.5M pre-seed (Jul 2025, disclosed) + an undisclosed seed amount (Jun 2026) that brought post-money valuation to $40M | Seed round at $40M post-money valuation, announced 2026-06-11/12 - amount raised not disclosed in any source found. Investors named: Turkish… | 11-50 employees (range reported by ZoomInfo/Tracxn aggregation, exact count unknown) | AI-first SaaS / B2B | none found for layoffs/down round/shutdown/founder exit. Flag: actual seed dollar amount raised is undisclosed (only post-money valuation is… | [link](https://compuvi.com/careers) |
+| 2026-09-16 | C | 28.0 | Arena | arena.ai | San Francisco, US (also has an NYC office per Built In NYC listing) | $150M+ (Series A, Jan 2026); one source additionally references a ~$250M 2025 raise when Arena Intelligence Inc. was formed — figures were i… | $150M Series A at a $1.7B post-money valuation, led by Felicis and UC Investments, announced 2026-01-06. Source: techcrunch.com/2026/06/29/a… | 51-100 (Crunchbase) | AI-native infrastructure and devtools | Leaderboard integrity has been publicly criticized: in the 2025 Llama 4 launch, Meta submitted a different, unreleased model variant to LMAr… | [link](https://jobs.ashbyhq.com/arena) |
 
 ### Session: 2026-09-15
 
@@ -1015,6 +1024,10 @@ _Last updated 2026-09-16._
 | acquired and absorbed by Coralogix, Dec 2024 - no longer an independent company | 1 |
 | acquired and absorbed (Palo Alto Networks completed acquisition May 29, 2026, integrated into Prisma AIRS; no longer an independent startup) | 1 |
 | Series C, 75M raised, 634 employees — far past Series B / 200-person cap, large slow-growing devtools company at this stage | 1 |
+| Gate3/Gate4 fail: no funding beyond generic YC backing found (no $2M+ raise, no revenue evidence) AND stalled/dormant signal — founders Seba… | 1 |
+| Gate3 fail: cannot support target comp. Raised only $500K pre-seed (Jun 2025, YC S25) per Crunchbase — investors CrunchFund/Galaxy Digital/H… | 1 |
+| Gate3 fail: cannot support target comp. Raised only $500K over 1 round (YC S26 standard pre-seed) per Crunchbase, founded 2026. No additiona… | 1 |
+| Gate1 fail: not an AI-native software product company — custom AI development/consulting agency (services/consulting/agency hard exclusion).… | 1 |
 | Gate 4 negative signals: round is ~2yrs old not 2026, reportedly failed to raise Series A, recent layoffs (user feedback - pipeline data was… | 1 |
 | Gate 4 negative signals - co-founder Venkat Mani has departed (now listed as 'Former Co-Founder'); combined with stale funding (last Series … | 1 |
 | Gate 3 — no verifiable funding found despite multiple searches (very early team, 1-10 people, founding-engineer roles being posted); funding… | 1 |
@@ -1048,7 +1061,7 @@ _Last updated 2026-09-16._
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-09-14 | 2 | 38 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-14 | 2 | 12 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
-| theme:llm-eval | LLM eval and observability | 2026-08-27 | 1 | 18 |
+| theme:llm-eval | LLM eval and observability | 2026-09-16 | 2 | 27 |
 | theme:memory-context | Memory and context systems | 2026-08-27 | 1 | 11 |
 | theme:rag-docs | Document and RAG products | 2026-08-28 | 1 | 12 |
 | theme:voice-ai | Voice AI | 2026-08-28 | 1 | 14 |
