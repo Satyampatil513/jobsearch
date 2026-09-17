@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-17._
 
-**576** companies seen total — **252** enriched, **324** rejected, **0** still queued.
+**587** companies seen total — **258** enriched, **329** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,8 +11,14 @@ _Last updated 2026-09-17._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-17 | 85.0 | Maximem (maximem.ai) | Gaurav Dadhich, Founder & CEO — LinkedIn: https://www.linkedin.com/in/gauravdadhich/; public booking page at https://cal.com/gaurav-dadhich-… | 1. Open with Maximem Synap's benchmark story (92% LongMemEval / 93.2% LOCOMO) and its native LangChain/CrewAI/AutoGen integrations. 2. Ask a… |
+| 2026-09-17 | 54.0 | Reducto (reducto.ai) | Adit Abraham (Co-founder & CEO) — LinkedIn: https://www.linkedin.com/in/aditabraham/. No email found (GitHub commit-mining unavailable this … | 1) Open with the Oct 2025 $75M Series B (a16z) and Reducto's framing of document parsing as the 'prerequisite layer' for RAG/agent pipelines… |
 | 2026-09-17 | 53.0 | Engram (Architecting Cognition) (engram.org) | Dan Biderman, CEO/co-founder — LinkedIn: https://www.linkedin.com/in/dan-biderman-066039202/ (no email found; company is high-profile so exp… | 1. Open with the $98M stealth launch (June 23 2026, General Catalyst/Sequoia/Kleiner Perkins) and the Cartridges/token-cost story. 2. Ask ab… |
+| 2026-09-17 | 50.0 | Lexful (lexful.ai) | Pinar Ormeci (CEO) — LinkedIn: https://www.linkedin.com/in/pinarormeci/. No email found (GitHub commit-mining unavailable this run: gh CLI n… | 1) Open with the $7M seed (Top Down Ventures / York IE, Jun 2026) and the Feb 2026 GA launch. 2) Ask about the Senior Full-Stack Engineer (A… |
+| 2026-09-17 | 47.0 | ZeroEntropy (zeroentropy.dev) | Ghita Houir Alami (Co-founder & CEO) — LinkedIn: https://www.linkedin.com/in/ghita-houir-alami/. No email found (GitHub commit-mining unavai… | 1) Open with the Mem0-moved-production-reranking-to-ZeroEntropy news and the TechCrunch feature on the $4.2M Initialized-led seed. 2) Ask sp… |
 | 2026-09-17 | 41.0 | Modus (getmodus.com) | Daniel Shimoni, CEO/co-founder — LinkedIn: https://www.linkedin.com/in/danielshimoni/ (no email found) | 1. Open with the fresh $10M Insight Partners seed (July 2026) and the Context Warehouse concept. 2. Ask about an early backend/infra enginee… |
+| 2026-09-17 | 41.0 | Corvic AI (corvic.ai) | Farshid Sabet (Co-founder & CEO) — LinkedIn: https://www.linkedin.com/in/farshid-sabet-298526/. No email found (GitHub commit-mining unavail… | 1) Open with the NTT DATA alliance and Google Cloud Marketplace launch as evidence of real enterprise traction for their unified vector/grap… |
+| 2026-09-17 | 36.0 | Extend (extend.ai) | Kushal Byatnal (Co-founder & CEO) — LinkedIn: https://www.linkedin.com/in/kushal-byatnal-92a33085/. No email found (GitHub commit-mining una… | 1) Open with the $17M Series A (Innovation Endeavors, Jun 2025) and Extend's document-processing-cloud pitch for insurance/fintech forms. 2)… |
+| 2026-09-17 | 34.0 | Onyx (onyx.app) | Yuhong Sun or Chris Weaver (Co-founders) — LinkedIn: https://www.linkedin.com/in/yuhongsun/ and https://www.linkedin.com/in/chris-weaver101/… | 1) Open with the $10M Khosla/First Round seed (Mar 2025) and Onyx's open-source enterprise-search traction. 2) Ask about the Machine Learnin… |
 
 ### Session: 2026-09-16
 
@@ -358,9 +364,15 @@ _Last updated 2026-09-17._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-17 | A | 85.0 | Maximem | maximem.ai | San Francisco (HQ) / Bangalore (engineering team) | $0 (bootstrapped, no institutional funding found) | N/A — bootstrapped | 5 | AI-native infra/devtools | Bootstrapped with modest revenue ($550K ARR) relative to team size — no institutional funding as a backstop if revenue growth stalls. No lay… | unknown |
+| 2026-09-17 | C | 54.0 | Reducto | reducto.ai | San Francisco, CA | $108M total (seed + $24M Series A + $75M Series B) | $75M Series B, Oct 2025 (PR Newswire / Reducto blog) | 79 (Tracxn, as of 2026-06-30) | AI-native infrastructure and devtools | None found. Note: a third-party revenue estimator (getlatka) shows a conflicting '$440K ARR, bootstrapped, 4 employees' figure that contradi… | [link](https://reducto.ai/careers) |
 | 2026-09-17 | C | 53.0 | Engram (Architecting Cognition) | engram.org | San Francisco, CA | $98M | June 23, 2026 — co-led by General Catalyst, Kleiner Perkins, Sequoia Capital; also Factory, Modern, Amplify Partners, Neo, plus angels Andre… | 13 (as of launch, June/July 2026) | AI-native infra | None found — freshly funded (June 2026), prominent backers, active enterprise partnerships, no layoffs/negative signals in available sources… | [link](https://www.engram.org/careers) |
+| 2026-09-17 | C | 50.0 | Lexful | lexful.ai | Hallandale Beach, FL (per ChannelPro/press) - one source also lists Salt Lake City; treated HQ as Hallandale Beach FL per the majority of pr… | $7M | $7M seed, announced June 8 2026 (multiple independent outlets: Refresh Miami, FinSMES, TheSaaSNews) | ~17 | AI-first SaaS / B2B | HQ location discrepancy between sources (Hallandale Beach, FL vs. Salt Lake City, UT) - noted but not a health/negative signal, just inconsi… | [link](https://lexful.ai/about-us/) |
+| 2026-09-17 | C | 47.0 | ZeroEntropy | zeroentropy.dev | San Francisco, CA | $4.2M | $4.2M seed, reported July 2025 (TechCrunch) | 6-10 (YC listing: team size 1-10; Tracxn: 10 as of 2026-06-30) | AI-native infrastructure and devtools | None found. | [link](https://www.ycombinator.com/companies/zeroentropy/jobs) |
 | 2026-09-17 | C | 41.0 | Modus | getmodus.com | Tel Aviv, Israel | $10M | Seed, $10M, led by Insight Partners, announced July 2026 (with Soma Capital, Bullet Ventures, and angels incl. Cyera co-founders and Epsagon… | unknown — very early/stealth-stage, launched July 2026 | AI-native infra | None found — very recent round (~2 months old), strong founder pedigree, active enterprise deployments, no negative signals. | unknown |
+| 2026-09-17 | C | 41.0 | Corvic AI | corvic.ai | Mountain View, CA | $12M confirmed seed; one aggregator (PitchBook-derived) states $17.5M total, unconfirmed by press release | $12M seed, led by M Ventures and Bosch Ventures (Pulse2, Channel Insider, NTT DATA press materials) | 23 (per CB Insights/Startup Intros aggregation), global team across North America and Europe | AI-native infrastructure and devtools | None found. | [link](https://www.corvic.ai/careers/work-at-corvic) |
+| 2026-09-17 | C | 36.0 | Extend | extend.ai | New York, NY | $17M confirmed (Series A); secondary aggregators (ZoomInfo) claim $128.5M across 8 rounds but this is unconfirmed by any primary source and … | $17M Series A, June 17 2025 (BusinessWire, FinSMEs — cross-checked) | 20 (multiple sources agree on ~20 as of 2025-2026) | Applied AI in a vertical | One low-quality aggregator (ZoomInfo) cites an unverified $128.5M/8-round total funding figure that could not be corroborated by any press r… | [link](https://www.extend.ai/careers) |
 | 2026-09-17 | C | 34.0 | ContextQA | contextqa.com | San Francisco / Austin, TX (with an India engineering presence) | $6.2M | Seed, $6.2M — exact date not confirmed in available sources (Crunchbase lists a Pre-Seed and a Seed round); treat funding recency as unverif… | 51-56 (San Francisco, Austin TX, and India; grew from ~12 in 2023 to ~51-56 by mid-2026) | AI-first SaaS/B2B | Funding round date could not be verified from available sources — treat as a data-freshness risk per Gate 4 even though no explicit negative… | unknown |
+| 2026-09-17 | C | 34.0 | Onyx | onyx.app | San Francisco, CA | $10M | $10M seed, March 13 2025 (multiple sources agree) | 20-35 (YC: 20; Tracxn: 35 as of 2026-04-26) | AI-native infrastructure and devtools | None found — searched specifically for onyx.app layoffs/departures/down-round and found nothing; most search noise was unrelated same-named … | [link](https://www.ycombinator.com/companies/onyx/jobs) |
 | 2026-09-17 | C | 33.0 | Qontext | qontext.ai | Berlin, Germany | $2.7M | pre-seed, ~Jan 2026, led by HV Capital with Zero Prime Ventures (tech.eu, Feb 5 2026) | 9 (as of mid-2026, up from 7 earlier in the year) | AI-native infra/devtools | None found. Round is recent (~7 months old) and team grew from 7 to 9 — no negative signals in available sources. | unknown (no dedicated careers page found; role posted via jobs.startup-insider.com) |
 | 2026-09-17 | C | 25.0 | Lovelace AI | lovelace.ai | Pittsburgh, PA | $16.2M | Seed, $16.2M, led by RRE Ventures, announced April 28 2026 (also NSIN Propel Hawaii Accelerator, Magarac Venture Partners, xTech Accelerator… | unknown — not disclosed in available sources | AI-native infra | No financial/health red flags found. Practical risk (not a rejection criterion, but material): national-security/defense customer concentrat… | [link](https://lovelace.ai/careers/) |
 
@@ -1058,9 +1070,14 @@ _Last updated 2026-09-17._
 | Gate 3 — no verifiable funding found despite multiple searches (very early team, 1-10 people, founding-engineer roles being posted); funding… | 1 |
 | Gate 3 — no verifiable funding amount found; only backing mentioned is University of Chicago (incubator-level), not a confirmed M+ VC raise;… | 1 |
 | Gate 3 — funding amount undisclosed despite strong team pedigree (Stanford/Harvard/IIT Delhi/Penn) and named angel backers; no confirmed dol… | 1 |
+| Gate 3 — cannot support target comp. Founded 2021/YC S22, still only 4 employees per Crunchbase/PitchBook; no confirmed funding round beyond… | 1 |
+| Gate 3 fail: cannot support target comp. Recall (Amsterdam, founded 2022 by Paul Richards) has raised only ~$1.62M total (a $1.5M Calacanis-… | 1 |
+| Gate 3 fail: cannot support target comp. Raised only $500K (YC-standard pre-seed, Jun 2025) per Crunchbase/PitchBook/aVenture — well under t… | 1 |
+| Gate 3 fail per criteria.md's explicit rule: funding amount genuinely could not be found. Unstract (Zipstack Inc.) raised one Lightspeed-led… | 1 |
 | Gate 3 comp: unfunded 13-person team, cannot plausibly pay 25-30 LPA; founder quality concerns (user feedback) | 1 |
 | Gate 3 comp: bootstrapped with no revenue evidence; team quality concerns (user feedback) | 1 |
 | Gate 2 location: Noida-onsite, the city he is leaving (user feedback); also comp doubts | 1 |
+| Dead: acquired and absorbed. Mintlify acquired Trieve (announced Jul 24, 2025); Trieve is being sunset Nov 1 with its license changed to MIT… | 1 |
 
 ## Sources scanned
 
@@ -1088,8 +1105,8 @@ _Last updated 2026-09-17._
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
 | theme:llm-eval | LLM eval and observability | 2026-09-16 | 2 | 27 |
 | theme:memory-context | Memory and context systems | 2026-09-17 | 2 | 23 |
-| theme:rag-docs | Document and RAG products | 2026-08-28 | 1 | 12 |
-| theme:voice-ai | Voice AI | 2026-08-28 | 1 | 14 |
+| theme:rag-docs | Document and RAG products | 2026-09-17 | 2 | 23 |
+| theme:voice-ai | Voice AI | 2026-09-17 | 2 | 14 |
 | vertical:edtech-ai | Applied AI — edtech | 2026-08-30 | 1 | 18 |
 | vertical:fintech-ai | AI-first fintech | 2026-08-31 | 1 | 10 |
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
