@@ -1,10 +1,18 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-16._
+_Last updated 2026-09-17._
 
-**564** companies seen total — **246** enriched, **318** rejected, **0** still queued.
+**576** companies seen total — **252** enriched, **324** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-17
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-17 | 85.0 | Maximem (maximem.ai) | Gaurav Dadhich, Founder & CEO — LinkedIn: https://www.linkedin.com/in/gauravdadhich/; public booking page at https://cal.com/gaurav-dadhich-… | 1. Open with Maximem Synap's benchmark story (92% LongMemEval / 93.2% LOCOMO) and its native LangChain/CrewAI/AutoGen integrations. 2. Ask a… |
+| 2026-09-17 | 53.0 | Engram (Architecting Cognition) (engram.org) | Dan Biderman, CEO/co-founder — LinkedIn: https://www.linkedin.com/in/dan-biderman-066039202/ (no email found; company is high-profile so exp… | 1. Open with the $98M stealth launch (June 23 2026, General Catalyst/Sequoia/Kleiner Perkins) and the Cartridges/token-cost story. 2. Ask ab… |
+| 2026-09-17 | 41.0 | Modus (getmodus.com) | Daniel Shimoni, CEO/co-founder — LinkedIn: https://www.linkedin.com/in/danielshimoni/ (no email found) | 1. Open with the fresh $10M Insight Partners seed (July 2026) and the Context Warehouse concept. 2. Ask about an early backend/infra enginee… |
 
 ### Session: 2026-09-16
 
@@ -344,6 +352,17 @@ _Last updated 2026-09-16._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-17
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-17 | A | 85.0 | Maximem | maximem.ai | San Francisco (HQ) / Bangalore (engineering team) | $0 (bootstrapped, no institutional funding found) | N/A — bootstrapped | 5 | AI-native infra/devtools | Bootstrapped with modest revenue ($550K ARR) relative to team size — no institutional funding as a backstop if revenue growth stalls. No lay… | unknown |
+| 2026-09-17 | C | 53.0 | Engram (Architecting Cognition) | engram.org | San Francisco, CA | $98M | June 23, 2026 — co-led by General Catalyst, Kleiner Perkins, Sequoia Capital; also Factory, Modern, Amplify Partners, Neo, plus angels Andre… | 13 (as of launch, June/July 2026) | AI-native infra | None found — freshly funded (June 2026), prominent backers, active enterprise partnerships, no layoffs/negative signals in available sources… | [link](https://www.engram.org/careers) |
+| 2026-09-17 | C | 41.0 | Modus | getmodus.com | Tel Aviv, Israel | $10M | Seed, $10M, led by Insight Partners, announced July 2026 (with Soma Capital, Bullet Ventures, and angels incl. Cyera co-founders and Epsagon… | unknown — very early/stealth-stage, launched July 2026 | AI-native infra | None found — very recent round (~2 months old), strong founder pedigree, active enterprise deployments, no negative signals. | unknown |
+| 2026-09-17 | C | 34.0 | ContextQA | contextqa.com | San Francisco / Austin, TX (with an India engineering presence) | $6.2M | Seed, $6.2M — exact date not confirmed in available sources (Crunchbase lists a Pre-Seed and a Seed round); treat funding recency as unverif… | 51-56 (San Francisco, Austin TX, and India; grew from ~12 in 2023 to ~51-56 by mid-2026) | AI-first SaaS/B2B | Funding round date could not be verified from available sources — treat as a data-freshness risk per Gate 4 even though no explicit negative… | unknown |
+| 2026-09-17 | C | 33.0 | Qontext | qontext.ai | Berlin, Germany | $2.7M | pre-seed, ~Jan 2026, led by HV Capital with Zero Prime Ventures (tech.eu, Feb 5 2026) | 9 (as of mid-2026, up from 7 earlier in the year) | AI-native infra/devtools | None found. Round is recent (~7 months old) and team grew from 7 to 9 — no negative signals in available sources. | unknown (no dedicated careers page found; role posted via jobs.startup-insider.com) |
+| 2026-09-17 | C | 25.0 | Lovelace AI | lovelace.ai | Pittsburgh, PA | $16.2M | Seed, $16.2M, led by RRE Ventures, announced April 28 2026 (also NSIN Propel Hawaii Accelerator, Magarac Venture Partners, xTech Accelerator… | unknown — not disclosed in available sources | AI-native infra | No financial/health red flags found. Practical risk (not a rejection criterion, but material): national-security/defense customer concentrat… | [link](https://lovelace.ai/careers/) |
 
 ### Session: 2026-09-16
 
@@ -975,8 +994,12 @@ _Last updated 2026-09-16._
 | cannot support target comp — only $500K YC seed confirmed (Jan 2026), below the $2M bar, no revenue evidence found | 1 |
 | cannot support target comp — only $500K YC W26 seed round (standard YC deal), no additional funding or revenue evidence found | 1 |
 | cannot support target comp — only $500K YC W25 standard check found, no follow-on round; no revenue evidence (pricing found, no ARR). | 1 |
+| cannot support target comp — no verified funding amount for TrustHouse itself; parent company Arhasi received an unspecified 'strategic inve… | 1 |
 | cannot support target comp — no funding, founders, or headcount info verifiable anywhere; funding unknown and no revenue evidence | 1 |
+| cannot support target comp — no credible funding announcement found (Tracxn lists it as unfunded/founded 2025); claims of Hillhouse/Lightspe… | 1 |
 | cannot support target comp — disclosed funding only $1.5M seed (Mar 2026, Lumikai) plus an undisclosed earlier pre-seed amount that cannot b… | 1 |
+| cannot support target comp — YC standard $500K deal only (no additional disclosed funding), no verified revenue figure despite 400+ paying c… | 1 |
+| cannot support target comp — Show HN launch with no funding or revenue evidence found; appears to be a solo/indie project at this stage | 1 |
 | cannot support target comp — Lytmus AI raised only ₹5cr (~$550K) pre-seed (Jun 2026, Boundless Ventures), no revenue evidence (17K users, mo… | 1 |
 | cannot support target comp — Bloomy is YC S26 batch, founded 2026, only the standard YC check (~$125-500K) found, no other disclosed round; … | 1 |
 | cannot support target comp — 17+ named angel/fund investors but no disclosed funding amount found anywhere, and no revenue evidence; undiscl… | 1 |
@@ -1015,10 +1038,12 @@ _Last updated 2026-09-16._
 | biotech diagnostics — product is a physical/molecular diagnostic test (Ataraxis Breast cancer prognostic assay), fails Gate 1 hardware/devic… | 1 |
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
+| already in pipeline — duplicate domain for the same company as engram.org (Dan Biderman / Sabri Eyuboglu's Engram, $98M raise); recorded und… | 1 |
 | acquired by Invoca (May 28, 2025) — acquisition-and-absorbed | 1 |
 | acquired by Apple Jan 2025, company discontinuing operations | 1 |
 | acquired and absorbed: Aurionpro Solutions acquired 67% of Arya.ai in April 2024, no longer an independent company with a founder to cold-em… | 1 |
 | acquired and absorbed — acquired by Foundry (VFX/creative software), deal completed Feb 18, 2026; no longer an independent hiring startup | 1 |
+| acquired and absorbed — Salesforce completed its acquisition of Convergence.ai (Proxy) on June 11, 2025; dead as an independent company | 1 |
 | acquired and absorbed by Nurix AI (announced July 2026) - dead as independent company | 1 |
 | acquired and absorbed by Energy Aspects (May 2026) - dead as independent company | 1 |
 | acquired and absorbed by Coralogix, Dec 2024 - no longer an independent company | 1 |
@@ -1062,7 +1087,7 @@ _Last updated 2026-09-16._
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-14 | 2 | 12 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
 | theme:llm-eval | LLM eval and observability | 2026-09-16 | 2 | 27 |
-| theme:memory-context | Memory and context systems | 2026-08-27 | 1 | 11 |
+| theme:memory-context | Memory and context systems | 2026-09-17 | 2 | 23 |
 | theme:rag-docs | Document and RAG products | 2026-08-28 | 1 | 12 |
 | theme:voice-ai | Voice AI | 2026-08-28 | 1 | 14 |
 | vertical:edtech-ai | Applied AI — edtech | 2026-08-30 | 1 | 18 |
