@@ -1,10 +1,19 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-17._
+_Last updated 2026-09-18._
 
-**587** companies seen total — **258** enriched, **329** rejected, **0** still queued.
+**594** companies seen total — **263** enriched, **331** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-18
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-18 | 83.0 | ProLearn (prolearn.app) | Ravneet Singh (Founder & CEO) - LinkedIn: https://in.linkedin.com/in/ravneetsk. RocketReach lists a masked address (r******@prolearn.app) bu… | 1) Open with the Rs 30 Cr BEENEXT/Antler/Eximius pre-seed (announced ~June 2026) and Ravneet's move from Vedantu to found an AI-native tutor… |
+| 2026-09-18 | 82.0 | SigIQ.ai (sigiq.ai) | No verified email found - GitHub-commit lookup (scripts/find_contacts.py) unavailable in this environment (gh CLI not installed). Best route… | 1) Open with PadhAI's record UPSC prelims score (175/200, highest ever, beating 1.3M candidates) and the live Bangalore/Gurgaon/Pune backend… |
+| 2026-09-18 | 49.0 | Vimi (heyvimi.com) | No verified email found - GitHub-commit lookup unavailable in this environment (gh CLI not installed). Best route: Roy Bick via LinkedIn (ht… | 1) Open with the $12M Viola/BRM seed (Jan 2026) and the founders' Moovit exit (~$1B, acquired by Mobileye/Intel) - an exceptional team to wa… |
+| 2026-09-18 | 47.0 | Wild Zebra (wildzebra.com) | No verified email found - GitHub-commit lookup unavailable in this environment (gh CLI not installed). Best route: Erik Selberg (CTO, techni… | 1) Open with the $6M oversubscribed seed (Aug 2026, Trilogy Equity Partners) and the stated plan to hire engineers. 2) Ask directly about an… |
 
 ### Session: 2026-09-17
 
@@ -358,6 +367,16 @@ _Last updated 2026-09-17._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-18
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-18 | A | 83.0 | ProLearn | prolearn.app | Bengaluru (Bangalore), India | ~Rs 30 crore (~$3.3-3.5M) | Rs 30 crore pre-seed led by BEENEXT, with Eximius Ventures, Antler, and angel investors; announced ~June 2026 | unknown - company founded April 2026, too new for a reliable headcount read. Note: a LinkedIn company page for 'ProLearn Global' (Atlanta, G… | Applied AI - edtech / exam prep | None found. Actively searched for layoffs/negative signals given how new the company is; found none. Round is very recent (~3 months old at … | unknown - not found in this pass |
+| 2026-09-18 | A | 82.0 | SigIQ.ai | sigiq.ai | Berkeley, CA (HQ); India offices/hiring in Gurgaon, Bangalore, and Pune | $9.5M (seed) | $9.5M seed, co-led by The House Fund and GSV Ventures, announced 2025-04-07 (participants incl. Peak XV/Sequoia India, Duolingo, Calibrate V… | 38 employees (Tracxn, as of Jun 2026); founding team drawn from IIT Bombay, IIT Kanpur, UC Berkeley, Stanford, UMass Amherst | Applied AI - edtech / exam prep | None found. Actively searched for layoffs/down-round/founder-exit news; found none. Funding round is ~17 months old (Apr 2025) - under the 2… | [link](https://www.instahyre.com/jobs-at-sigiq/) |
+| 2026-09-18 | C | 49.0 | Vimi | heyvimi.com | Israel (inferred from Viola Ventures/BRM Group being Israeli VCs and the founders' Moovit roots - not independently confirmed) | $12M seed | $12M seed co-led by Viola Ventures and BRM Group, announced January 2026 | unknown - company was 'currently building the team' per press coverage as of the Jan 2026 seed announcement; actively hiring backend/mobile … | Applied AI - edtech (K-12 math tutoring) | None found. Searched specifically for layoffs/shutdown/negative news; found none. Company is very new (seed closed Jan 2026, ~8 months old a… | unknown - not found in this pass |
+| 2026-09-18 | C | 47.0 | Wild Zebra | wildzebra.com | Seattle, WA, USA | $8M total ($2M in 2025 + $6M seed in Aug 2026) | $6M oversubscribed seed led by Trilogy Equity Partners, with Tetherpoint Capital and angel investors (incl. Shrikesh Majithia); announced 20… | ~10 (per GeekWire, Aug 2026); hiring primarily engineers plus sales/marketing with new funding - inside the 5-25 sweet spot | Applied AI - edtech (K-12) | None found. Searched specifically for layoffs/shutdown; found none (only unrelated hits for 'Zebra Technologies', a different hardware compa… | unknown - not found in this pass |
+| 2026-09-18 | C | 20.0 | SchoolAI | schoolai.com | Lehi, UT, USA | $32M total (incl. $25M Series A) | $25M Series A led by Insight Partners, with NextView Ventures, The General Partnership, and Peterson Ventures; announced 2025-04-02 | Conflicting data: LinkedIn self-reports 11-50; third-party aggregators (Tracxn, StartupIntros, GetLatka) report 1,000+ employees - likely a … | Applied AI - edtech (K-12 classroom AI assistant platform) | None found. Searched specifically for layoffs/founder departure/controversy; found none. Funding round is ~17 months old (Apr 2025) - under … | [link](https://builtin.com/company/schoolai/jobs) |
 
 ### Session: 2026-09-17
 
@@ -858,6 +877,7 @@ _Last updated 2026-09-17._
 | not AI-native software: proptech home-resale marketplace, no AI/ML core to the product | 1 |
 | not AI-native software: iron-air battery hardware/materials deep-tech, not a software product | 1 |
 | not AI-native software: in-orbit satellite servicing hardware/robotics company, not a software product | 1 |
+| not AI-native software: hybrid home-tutor marketplace/logistics platform (O2O tutoring), majority-acquired by Navneet Education Sept 2021 (5… | 1 |
 | not AI-native software: autonomous amphibious cargo aircraft manufacturer (Aspera Industries) - hardware/aerospace, permanent Gate 1 exclusi… | 1 |
 | not AI-native software product per Gate 1 - core business is human-curated RLHF/SFT data labeling via a 1M+ contributor workforce (a service… | 1 |
 | not AI-native per Gate 1 - core product is asset-backed credit/banking infrastructure (secured credit cards, lending rails); AI is an automa… | 1 |
@@ -983,6 +1003,7 @@ _Last updated 2026-09-17._
 | cannot support target comp: only disclosed funding is standard YC S26 deal; 45k GitHub stars on GitNexus is open-source traction, not revenu… | 1 |
 | cannot support target comp: only disclosed funding is standard YC S26 deal (~$500K); no seed round found beyond that; $500M+ 'in production'… | 1 |
 | cannot support target comp: only 25K disclosed seed funding (2021), no verifiable M+ raise or revenue evidence | 1 |
+| cannot support target comp: only 00K pre-seed (YC S25, Sept 2025) plus reported ~40K revenue on a 4-person team; core product is free-foreve… | 1 |
 | cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
 | cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
@@ -1107,7 +1128,7 @@ _Last updated 2026-09-17._
 | theme:memory-context | Memory and context systems | 2026-09-17 | 2 | 23 |
 | theme:rag-docs | Document and RAG products | 2026-09-17 | 2 | 23 |
 | theme:voice-ai | Voice AI | 2026-09-17 | 2 | 14 |
-| vertical:edtech-ai | Applied AI — edtech | 2026-08-30 | 1 | 18 |
+| vertical:edtech-ai | Applied AI — edtech | 2026-09-18 | 2 | 25 |
 | vertical:fintech-ai | AI-first fintech | 2026-08-31 | 1 | 10 |
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
 | vertical:legal-ai | Applied AI — legal and compliance | 2026-09-01 | 1 | 21 |
