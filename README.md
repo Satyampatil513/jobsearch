@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-20._
 
-**602** companies seen total — **267** enriched, **335** rejected, **0** still queued.
+**614** companies seen total — **274** enriched, **340** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -10,8 +10,10 @@ _Last updated 2026-09-20._
 
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
+| 2026-09-20 | 81.0 | Arintra (arintra.com) | No individual Bangalore hiring manager named in listings. Best identified human: Preeti Bhargava, PhD, co-founder & CTO — LinkedIn: https://… | 1) Open with Arintra's $21M Series A (Peak XV, Aug 2025) and the fact that they're actively building out a real Bangalore engineering team (… |
 | 2026-09-20 | 76.0 | Spense (spensetech.com) | Pawan Kumar, CEO & Co-founder - LinkedIn: https://in.linkedin.com/in/pawankumara (no verified email found; find_contacts.py unavailable in t… | 1) Open with Spense's July 2026 $2.8M Arkam Ventures seed and the 'agentic AI for asset-backed credit' framing, seen on Inc42. 2) Ask about … |
 | 2026-09-20 | 72.0 | DPDzero (dpdzero.com) | Ananth Shroff, CEO & Co-founder - LinkedIn: https://www.linkedin.com/in/ananth-shroff-71631a61/ (no verified email found; find_contacts.py u… | 1) Open referencing the live Senior Software Engineer - Backend & AI posting (LLM + real-time Voice AI blended with backend) and their Aug 2… |
+| 2026-09-20 | 63.0 | a2z Radiology AI (a2zradiology.ai) | Samir Rajpurkar, CEO & co-founder — LinkedIn: https://www.linkedin.com/in/samir-rajpurkar-79291396/. Pranav Rajpurkar (co-founder, Harvard) … | 1) Open with the Dec 2025 $4.5M seed (Khosla Ventures/SeaX) and the FDA clearance for a2z-Unified-Triage — a genuinely novel multi-condition… |
 | 2026-09-20 | 43.0 | Knight FinTech (knightfintech.com) | Kushal Rastogi, Founder & CEO - LinkedIn: https://www.linkedin.com/in/krastogi/ (no verified email found; find_contacts.py unavailable in th… | 1) Open with the Jan 2026 $23.6M Accel-led Series A and Astor AI's 5-agent architecture for loan lifecycle decisions, seen on Fintech Global… |
 | 2026-09-20 | 43.0 | OpenCFO (opencfo.ai) | Prudhvi Rao Shedimbi, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/prudhvi-rao-shedimbi-10649b42/ (no verified email found; find… | 1) Open with the Mar 2026 $2M Endiya-led seed and the specific plan (per GeekWire) to build out engineering in India. 2) Ask directly whethe… |
 
@@ -381,10 +383,17 @@ _Last updated 2026-09-20._
 
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-20 | A | 81.0 | Arintra | arintra.com | Austin, TX (global HQ, expanding Bay Area presence per Series A announcement) + active Bangalore, India engineering office | $21M+ (Series A amount; earlier seed/pre-seed amount not separately disclosed in sources found) | $21M Series A led by Peak XV Partners, announced Aug 13, 2025 (Business Standard, YourStory, Gunderson Dettmer, MobiHealthNews) — ~13 months… | ~50 (Y Combinator company page) | Applied AI — healthtech | None found. Explicitly searched for layoffs/down-round/founder-departure/negative signals across multiple sources — none surfaced. Round is … | [link](https://www.arintra.com/careers) |
 | 2026-09-20 | B | 76.0 | Spense | spensetech.com | Bengaluru, India | $4.65M ($1.85M pre-seed Jun 2025 led by GrowthCap Ventures + $2.8M seed Jul 2026 led by Arkam Ventures, w/ Razorpay Ventures, Atrium Venture… | $2.8M seed, led by Arkam Ventures, closed ~Jul 1 2026 (https://www.finsmes.com/2026/07/spense-raises-2-8m-in-seed-funding.html) | ~19 (Tracxn, 2026) | AI-first fintech | none found - searched for layoffs/shutdown/down-round news, none surfaced; funding is recent (Jul 2026) so not stale | unknown - no dedicated careers page found |
 | 2026-09-20 | B | 72.0 | DPDzero | dpdzero.com | Bengaluru, India | ~$10.25-10.8M (seed $3.25M from Blume Ventures/India Quotient + Series A $7M Aug 2025; Tracxn lists cumulative $10.8M) | $7M Series A, led by GMO Venture Partners and SMBC Asia Rising Fund, w/ Blume Ventures, India Quotient, Sinarmas Group - closed ~Aug 6 2025 … | 51-200 per Tracxn; one secondary data point listed 960 for a data-collection date, which looks like a data-quality artifact - treating headc… | AI-first fintech | none found - searched specifically for layoffs/down-round/shutdown news, nothing surfaced. Series A is ~13 months old (Aug 2025), under the … | [link](https://dpdzero.com/careers/ (job descriptions at https://jds.dpdzero.com/)) |
+| 2026-09-20 | C | 63.0 | a2z Radiology AI | a2zradiology.ai | Boston, MA | $4.5M (per PR Newswire/press release; one aggregator, radiologybusiness.com, rounds this to '$5M' in its headline — treating the $4.5M press… | $4.5M seed, Khosla Ventures + SeaX Ventures, announced Dec 2025 — ~9 months old as of Sep 2026, well within 24mo | unknown — not found in sources searched; small early-stage team implied by founding date and funding size | Applied AI — healthtech | None found — explicitly searched for layoffs, shutdown, or founder-departure signals; none surfaced. Round is ~9 months old as of Sep 2026, … | [link](https://a2zradiology.ai/careers/ (also listed on https://jobs.ashbyhq.com/a2zradiology)) |
+| 2026-09-20 | C | 50.0 | Jimini Health | jiminihealth.com | New York, NY | $17M (seed; one source cites a $13M sub-tranche from a subset of investors, but the $17M total is corroborated by the majority of sources) | $17M seed led by M13, announced ~Mar 31-Apr 1, 2026 (BHBusiness, MedCity News, HLTH, MobiHealthNews, TechFundingNews) — fresh, well within 2… | 23 (PitchBook) | Applied AI — healthtech | None found — searched explicitly for layoffs, down-round, or founder-departure signals; none surfaced. Round is ~6 months old as of Sep 2026… | [link](https://job-boards.greenhouse.io/jiminihealth) |
+| 2026-09-20 | C | 48.0 | Beacon Health | beaconhealth.ai | San Francisco Bay Area (San Carlos, CA office, per a Recruiting Coordinator listing) | $5.4M pre-YC + standard YC investment — described as 'the largest healthcare raise in the [W26] batch by a wide margin' (Extruct AI) | $5.4M seed (Accel, Sequoia scout) prior to joining YC W26 (batch runs roughly Jan-Mar 2026) — fresh | 2 (Y Combinator company page) | Applied AI — healthtech | None found — company is very new (founded 2025, YC W26 batch), too early for negative signals to plausibly have surfaced. | unknown — not directly located; primary sources are the company LinkedIn page and YC company page |
+| 2026-09-20 | C | 44.0 | LunaBill | lunabill.com | San Francisco, CA | $100K (YC F25 + Pioneer Fund) | $100K seed, Y Combinator Fall 2025 batch + Pioneer Fund, disclosed Nov 18, 2025 (Crunchbase, Seedtable) — fresh, well within 24mo | 5 (Glassdoor, PitchBook) | Applied AI — healthtech | None found — company is very early (founded 2024, product launched July 2026), too young for negative signals to have surfaced. Worth flaggi… | [link](https://www.ycombinator.com/companies/lunabill (no separate dedicated careers domain found)) |
 | 2026-09-20 | C | 43.0 | Knight FinTech | knightfintech.com | Mumbai, India (also Singapore) | $30M+ total (per Accel/press coverage); Series A tranche $23.6M | $23.6M Series A led by Accel, w/ IIFL, Rocket Capital, Prime Venture Partners, 3one4 Capital, Commerce VC, Trifecta Capital - announced Jan … | unknown exact count; scale signals (10 offices across 4 states, 85-110 FI clients, Mumbai+Singapore HQ) point to well above the 5-40 target … | AI-first fintech | none found - searched specifically for layoffs/down-round/controversy/departures, nothing surfaced. Series A closed Jan 2026 (~8 months ago)… | [link](https://www.knightfintech.com/home/apply-now) |
 | 2026-09-20 | C | 43.0 | OpenCFO | opencfo.ai | Seattle, US (also has presence in Telangana, India) | $2M (only round to date) | $2M seed led by Endiya Partners, w/ US and India angels, closed Mar 11 2026 (https://raising.fi/news/opencfo-seed-march-2026) | 3 employees as of Apr 30 2026 (Tracxn) - likely grown modestly since, no newer figure found | AI-first fintech | none found - searched specifically for layoffs/down-round/shutdown, nothing surfaced. $2M seed is only 6 months old (Mar 2026), not stale. | [link](https://wellfound.com/company/opencfo-ai (no dedicated company careers page found)) |
+| 2026-09-20 | C | 33.0 | Blank Bio | blank.bio | San Francisco, CA (per Tracxn) | $7.2M | $7.2M seed, announced ~May 13, 2026, alongside a strategic collaboration with Pacific Biosciences (PacBio) (BusinessWire, GenomeWeb, Pulse2,… | unknown — not found in sources searched | Applied AI — healthtech | None found in searches for layoffs/negative signals, but flagging that this is a very new company (founded 2025) with minimal public operati… | unknown — not located |
+| 2026-09-20 | C | 27.0 | The Path | thepath.ai | unknown precise city — described only as a 'global AI therapy platform'; founders' Calm background (SF-based) suggests US, not confirmed | $14.3M | $14.3M seed led by Prime Movers Lab, announced ~May 21, 2026 (TechCrunch, HITConsultant, MobiHealthNews, PR Newswire) — fresh | 23 (search aggregators) | Applied AI — healthtech | None found in searches for layoffs/negative signals, but flagging general uncertainty: no operational/hiring data could be verified at all, … | unknown (not located; not the same site as pathai.com) |
 
 ### Session: 2026-09-18
 
@@ -840,11 +849,13 @@ _Last updated 2026-09-20._
 | not an AI-native software company: custom satellite manufacturer (hardware, LEO satellites for SAR/EO/SATCOM) | 1 |
 | not an AI-native software company: core product is physical dermatologist-formulated skincare (via SkinQ acquisition), a beauty/personal-car… | 1 |
 | not an AI-native software company: core product is physical GPU/data-center infrastructure (neocloud), engineering hiring is data-center/GPU… | 1 |
+| not an AI-native software company: core product is parent-led ABA therapy delivered as a service (parents trained/certified as RBTs, paid vi… | 1 |
 | not an AI-native software company: core product is human-led chronic-care service (doctors, nutritionists, coaches) with an app as enablemen… | 1 |
 | not an AI-native software company: core paid product is human geriatric-care-manager service; AI caregiving monitoring is a Jan 2026 pilot f… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: core business is a skincare/derma e-pharmacy marketplace + teleconsultation; AI treatment-plan feature is… | 1 |
 | not an AI-native software company: consumer brain-monitoring wearable hardware device (Deepinder Goyal's Temple), Gate 1 permanent | 1 |
+| not an AI-native software company: company's own framing is 'rather than selling software, Radley is the radiology group that reads for you'… | 1 |
 | not an AI-native software company: chip-design AI tooling, engineering hiring is RTL/VLSI/ASIC design, not Python/backend; real domain is ta… | 1 |
 | not an AI-native software company: builds spacecraft/satellites and in-orbit servicing hardware, core engineering is aerospace/hardware not … | 1 |
 | not an AI-native software company: builds physical quantum computer hardware (QpiAI-Indus 25-qubit machine), quantum/hardware engineering co… | 1 |
@@ -1006,7 +1017,9 @@ _Last updated 2026-09-20._
 | dead — acquired and absorbed by Automattic (Dec 2024), same company as codewp.ai (WPAI Inc) | 1 |
 | cannot verify company identity or product — no discoverable company website, product description, or funding info despite multiple searches;… | 1 |
 | cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
+| cannot support target comp: total funding only 13K (Crunchbase); FY25 revenue ~Rs 1.81 Cr / ~$218K per Tracxn official filings on a ~41-50 p… | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
+| cannot support target comp: total funding 00K (YC W24 + Pioneer Fund, Apr 2024 per Tracxn/Crunchbase), no revenue evidence found | 1 |
 | cannot support target comp: total disclosed funding ~$520K (pre-seed $270K Dec 2022 plus small follow-on), below the ~$2M threshold, no veri… | 1 |
 | cannot support target comp: total disclosed funding ~$500K (Rs 4.2cr pre-seed, Sept 2026), 6-month-old company, no verifiable revenue eviden… | 1 |
 | cannot support target comp: total disclosed funding ~$432K (Rs 4.1cr seed, Sept 2026), no verifiable revenue evidence found | 1 |
@@ -1032,6 +1045,7 @@ _Last updated 2026-09-20._
 | cannot support target comp: no verifiable funding found (Crunchbase lists an unspecified 'Angel round', Tracxn and other searches say unfund… | 1 |
 | cannot support target comp: no funding found (Tracxn/Invstt confirm unfunded), no verifiable revenue evidence despite '1025+ Shopify brands'… | 1 |
 | cannot support target comp: funding undisclosed (Tracxn shows 1 institutional investor but no amount found), no revenue evidence found despi… | 1 |
+| cannot support target comp: funding amount unverifiable across Crunchbase/PitchBook/Zoominfo/OpenPR — only investor names (WTIA Startup Prog… | 1 |
 | cannot support target comp: explicitly reported as unfunded/no funding raised as of Sep 2026 despite repeat founders and 8-person team | 1 |
 | cannot support target comp: confirmed $250K pre-seed from Entrepreneurs First (LinkedIn post by co-founder Shubham Palriwala), well under th… | 1 |
 | cannot support target comp: bootstrapped/unfunded as of research (10 employees per Tracxn); founder Siddharth Panwar reported seeking a $10M… | 1 |
@@ -1152,7 +1166,7 @@ _Last updated 2026-09-20._
 | theme:voice-ai | Voice AI | 2026-09-17 | 2 | 14 |
 | vertical:edtech-ai | Applied AI — edtech | 2026-09-18 | 2 | 25 |
 | vertical:fintech-ai | AI-first fintech | 2026-09-20 | 2 | 18 |
-| vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
+| vertical:healthtech-ai | Applied AI — healthtech | 2026-09-20 | 2 | 30 |
 | vertical:legal-ai | Applied AI — legal and compliance | 2026-09-01 | 1 | 21 |
 | vertical:sales-support-ai | Applied AI — sales and support | 2026-09-02 | 1 | 10 |
 | vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | 2026-09-02 | 1 | 23 |
