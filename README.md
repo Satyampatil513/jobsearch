@@ -1,10 +1,19 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-18._
+_Last updated 2026-09-20._
 
-**594** companies seen total — **263** enriched, **331** rejected, **0** still queued.
+**602** companies seen total — **267** enriched, **335** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-20
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-20 | 76.0 | Spense (spensetech.com) | Pawan Kumar, CEO & Co-founder - LinkedIn: https://in.linkedin.com/in/pawankumara (no verified email found; find_contacts.py unavailable in t… | 1) Open with Spense's July 2026 $2.8M Arkam Ventures seed and the 'agentic AI for asset-backed credit' framing, seen on Inc42. 2) Ask about … |
+| 2026-09-20 | 72.0 | DPDzero (dpdzero.com) | Ananth Shroff, CEO & Co-founder - LinkedIn: https://www.linkedin.com/in/ananth-shroff-71631a61/ (no verified email found; find_contacts.py u… | 1) Open referencing the live Senior Software Engineer - Backend & AI posting (LLM + real-time Voice AI blended with backend) and their Aug 2… |
+| 2026-09-20 | 43.0 | Knight FinTech (knightfintech.com) | Kushal Rastogi, Founder & CEO - LinkedIn: https://www.linkedin.com/in/krastogi/ (no verified email found; find_contacts.py unavailable in th… | 1) Open with the Jan 2026 $23.6M Accel-led Series A and Astor AI's 5-agent architecture for loan lifecycle decisions, seen on Fintech Global… |
+| 2026-09-20 | 43.0 | OpenCFO (opencfo.ai) | Prudhvi Rao Shedimbi, Co-founder & CEO - LinkedIn: https://www.linkedin.com/in/prudhvi-rao-shedimbi-10649b42/ (no verified email found; find… | 1) Open with the Mar 2026 $2M Endiya-led seed and the specific plan (per GeekWire) to build out engineering in India. 2) Ask directly whethe… |
 
 ### Session: 2026-09-18
 
@@ -367,6 +376,15 @@ _Last updated 2026-09-18._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-20
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-20 | B | 76.0 | Spense | spensetech.com | Bengaluru, India | $4.65M ($1.85M pre-seed Jun 2025 led by GrowthCap Ventures + $2.8M seed Jul 2026 led by Arkam Ventures, w/ Razorpay Ventures, Atrium Venture… | $2.8M seed, led by Arkam Ventures, closed ~Jul 1 2026 (https://www.finsmes.com/2026/07/spense-raises-2-8m-in-seed-funding.html) | ~19 (Tracxn, 2026) | AI-first fintech | none found - searched for layoffs/shutdown/down-round news, none surfaced; funding is recent (Jul 2026) so not stale | unknown - no dedicated careers page found |
+| 2026-09-20 | B | 72.0 | DPDzero | dpdzero.com | Bengaluru, India | ~$10.25-10.8M (seed $3.25M from Blume Ventures/India Quotient + Series A $7M Aug 2025; Tracxn lists cumulative $10.8M) | $7M Series A, led by GMO Venture Partners and SMBC Asia Rising Fund, w/ Blume Ventures, India Quotient, Sinarmas Group - closed ~Aug 6 2025 … | 51-200 per Tracxn; one secondary data point listed 960 for a data-collection date, which looks like a data-quality artifact - treating headc… | AI-first fintech | none found - searched specifically for layoffs/down-round/shutdown news, nothing surfaced. Series A is ~13 months old (Aug 2025), under the … | [link](https://dpdzero.com/careers/ (job descriptions at https://jds.dpdzero.com/)) |
+| 2026-09-20 | C | 43.0 | Knight FinTech | knightfintech.com | Mumbai, India (also Singapore) | $30M+ total (per Accel/press coverage); Series A tranche $23.6M | $23.6M Series A led by Accel, w/ IIFL, Rocket Capital, Prime Venture Partners, 3one4 Capital, Commerce VC, Trifecta Capital - announced Jan … | unknown exact count; scale signals (10 offices across 4 states, 85-110 FI clients, Mumbai+Singapore HQ) point to well above the 5-40 target … | AI-first fintech | none found - searched specifically for layoffs/down-round/controversy/departures, nothing surfaced. Series A closed Jan 2026 (~8 months ago)… | [link](https://www.knightfintech.com/home/apply-now) |
+| 2026-09-20 | C | 43.0 | OpenCFO | opencfo.ai | Seattle, US (also has presence in Telangana, India) | $2M (only round to date) | $2M seed led by Endiya Partners, w/ US and India angels, closed Mar 11 2026 (https://raising.fi/news/opencfo-seed-march-2026) | 3 employees as of Apr 30 2026 (Tracxn) - likely grown modestly since, no newer figure found | AI-first fintech | none found - searched specifically for layoffs/down-round/shutdown, nothing surfaced. $2M seed is only 6 months old (Mar 2026), not stale. | [link](https://wellfound.com/company/opencfo-ai (no dedicated company careers page found)) |
 
 ### Session: 2026-09-18
 
@@ -837,6 +855,7 @@ _Last updated 2026-09-18._
 | not an AI-native software company: UAE digital wealth advisory platform with human financial advisors, portfolio management via Interactive … | 1 |
 | not an AI-native software company: Kubernetes policy/security governance platform founded 2013 (Kyverno donated to CNCF 2020); 'AI Platform … | 1 |
 | not an AI-native software company: Grapevine's core/original product is an anonymous professional social-discussion app (salaries, layoffs, … | 1 |
+| not an AI-native software company: Frex is a stablecoin/blockchain-based cross-border remittance platform (US-India money transfer); no AI/M… | 1 |
 | not an AI-native software company: D2C kitchen appliances/kitchenware brand (mixer grinders, blenders), physical product, Gate 1 permanent | 1 |
 | not an AI-native software company: D2C fresh-staples grocery brand with physical micro-factories and retail stores, no AI/ML core, Gate 1 pe… | 1 |
 | not an AI-native software company: Certa is a third-party risk management/compliance SaaS platform with AI features (NLP contract review, au… | 1 |
@@ -980,6 +999,7 @@ _Last updated 2026-09-18._
 | dead: acquired by Adobe Sept 2026, team absorbed, product shut down (techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-sta… | 1 |
 | dead: acquired and absorbed by Privateer (May 2024) after near-bankruptcy and layoffs | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
+| dead/acquired: acquired and absorbed into CAMS (Computer Age Management Services) Mar 5 2023, now operates as a subsidiary; also operates as… | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
 | dead — acquired by Pinewood Technologies Group (March 1, 2025); no longer an independent company | 1 |
 | dead — acquired and absorbed by Automattic (Dec 2024); CodeWP/AgentWP discontinued in current form, founding team joined Automattic | 1 |
@@ -992,6 +1012,7 @@ _Last updated 2026-09-18._
 | cannot support target comp: total disclosed funding ~$432K (Rs 4.1cr seed, Sept 2026), no verifiable revenue evidence found | 1 |
 | cannot support target comp: total disclosed funding ~$300K (Rs 3cr pre-seed, Aug 2026), single pre-seed round only, no verifiable revenue ev… | 1 |
 | cannot support target comp: total disclosed funding ~$1.2M pre-seed (Sept 2024, as Zivy before pivoting to Zoven), below the ~$2M threshold,… | 1 |
+| cannot support target comp: tiny pre-seed only, Rs 1.1 Cr (~$124K) led by PedalStart, no revenue evidence | 1 |
 | cannot support target comp: seed round only Rs 2.35 Cr (~$243-273K) led by Inflection Point Ventures, closed July 23 2026 (per entrackr.com/… | 1 |
 | cannot support target comp: pre-seed only, Rs 2.5 Cr (~$290K) raised July 2026 led by AJVC (per entrackr.com/snippets/alchemic-raises-rs-25-… | 1 |
 | cannot support target comp: pre-seed $793K (Rs 7.5 Cr, June 23 2026) is below the $2M bar; company also claims via an unverified LinkedIn po… | 1 |
@@ -1010,6 +1031,7 @@ _Last updated 2026-09-18._
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
 | cannot support target comp: no verifiable funding found (Crunchbase lists an unspecified 'Angel round', Tracxn and other searches say unfund… | 1 |
 | cannot support target comp: no funding found (Tracxn/Invstt confirm unfunded), no verifiable revenue evidence despite '1025+ Shopify brands'… | 1 |
+| cannot support target comp: funding undisclosed (Tracxn shows 1 institutional investor but no amount found), no revenue evidence found despi… | 1 |
 | cannot support target comp: explicitly reported as unfunded/no funding raised as of Sep 2026 despite repeat founders and 8-person team | 1 |
 | cannot support target comp: confirmed $250K pre-seed from Entrepreneurs First (LinkedIn post by co-founder Shubham Palriwala), well under th… | 1 |
 | cannot support target comp: bootstrapped/unfunded as of research (10 employees per Tracxn); founder Siddharth Panwar reported seeking a $10M… | 1 |
@@ -1129,7 +1151,7 @@ _Last updated 2026-09-18._
 | theme:rag-docs | Document and RAG products | 2026-09-17 | 2 | 23 |
 | theme:voice-ai | Voice AI | 2026-09-17 | 2 | 14 |
 | vertical:edtech-ai | Applied AI — edtech | 2026-09-18 | 2 | 25 |
-| vertical:fintech-ai | AI-first fintech | 2026-08-31 | 1 | 10 |
+| vertical:fintech-ai | AI-first fintech | 2026-09-20 | 2 | 18 |
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-01 | 1 | 18 |
 | vertical:legal-ai | Applied AI — legal and compliance | 2026-09-01 | 1 | 21 |
 | vertical:sales-support-ai | Applied AI — sales and support | 2026-09-02 | 1 | 10 |
