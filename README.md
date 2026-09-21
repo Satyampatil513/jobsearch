@@ -1,10 +1,23 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-20._
+_Last updated 2026-09-21._
 
-**614** companies seen total — **274** enriched, **340** rejected, **0** still queued.
+**636** companies seen total — **284** enriched, **345** rejected, **7** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-21
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-21 | 74.0 | Diligent (Diligent AI) (godiligent.ai) | Ahmed Gaber, Co-Founder & CTO - LinkedIn: https://uk.linkedin.com/in/ahmedsamygaber (no verified email found via public GitHub commits; comp… | Open with their $2.5M seed (Mar 2026, Speedinvest/Shapers/YC) and the open Founding AI Engineer role explicitly welcoming 1+ YOE builders. A… |
+| 2026-09-21 | 68.0 | Adclear (adclear.ai) | Cameron Ward, Co-Founder & CTO - LinkedIn: https://uk.linkedin.com/in/cameronward28 (no verified email found via public GitHub commits or fi… | Open with their Nov 2025 £2.1M seed and 8 H1-2026 hires as a sign the eng team is actively scaling. Ask about the Senior AI Engineer / Senio… |
+| 2026-09-21 | 60.0 | SecurePII (securepii.cloud) | Haydn Faltyn, Co-Founder & CEO - LinkedIn: https://www.linkedin.com/in/haydn-faltyn-a0666518/ (no verified email found via public GitHub com… | Open with their Oct/Nov 2025 US$3.5M seed led by Tidal Ventures and the 'global push' framing, since there are no open roles posted (cold, p… |
+| 2026-09-21 | 51.0 | Ankar (ankar.ai) | Wiem Gharbi, Co-founder & technical lead (ex-Palantir engineer). No public email found (no public GitHub org found for ankar.ai via find_con… | 1) Open with the $20M Series A (Dec 2025, Atomico-led) and the stated plan to double the ~20-person team and expand to the US -- a clear act… |
+| 2026-09-21 | 46.0 | Comp AI (trycomp.ai) | Mariano Fuentes, Co-founder & CTO. A low-confidence lead sal@trycomp.ai was found via a single trivial public GitHub commit ('Update README.… | 1) Open with the Sept 17, 2026 $34M Series A (days-old news) and the new Aventura HQ hiring push -- extremely fresh, specific hiring signal.… |
+| 2026-09-21 | 39.0 | Vikk AI (vikk.ai) | Walid Romaya, Co-founder & CEO. No public email found (no public GitHub presence; find_contacts.py --domain vikk.ai returned no results). Be… | 1) Open with the July 2026 $4.2M raise and the new Lawyer Ad Center / Vikk Data Hub launch -- both need backend + AI-agent work to power mat… |
+| 2026-09-21 | 39.0 | DeepIP (deepip.ai) | Edouard d'Archimbaud, CTO & Co-founder. No public email found (no public GitHub org found for deepip.ai via find_contacts.py). Best reach: L… | 1) Open with the March 2026 $25M Series B (total $40M) and the reported 10x ARR growth in 18 months -- a strong, specific hiring/growth sign… |
+| 2026-09-21 | 38.0 | iPNOTE (ipnote.io) | Alex Levkin, Founder & CEO. No public email found (no public GitHub commit history to mine via find_contacts.py; find_contacts.py --domain i… | 1) Open with the Oct 2025 $1M AltaIR Capital seed round and the stated plan to 'accelerate development of its AI agent' -- ask specifically … |
 
 ### Session: 2026-09-20
 
@@ -378,6 +391,21 @@ _Last updated 2026-09-20._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-21
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-21 | B | 74.0 | Diligent (Diligent AI) | godiligent.ai | London, UK (also has presence in Berlin per some listings) | $2.5M (as reported; note some aggregators erroneously show $25M, which appears to conflate this startup with the unrelated NYSE-listed Dilig… | Seed, $2.5M / €2.1M, announced March 2026, led by Speedinvest and Shapers, with Y Combinator and fintech angel investors (founders/CEOs of N… | 10 (per YC/LinkedIn listings, 2026) | Fintech / RegTech | None found. Actively searched for layoffs/down-round/shutdown/departures/stalled hiring - found none as of Sep 2026 (company appears healthy… | [link](https://www.ycombinator.com/companies/diligent/jobs) |
+| 2026-09-21 | B | 68.0 | Adclear | adclear.ai | London, UK (also references a New York presence) | $3.51M total | Seed, £2.1M / $2.75M (oversubscribed), announced November 2025, led by Outward VC with AFG Partners and Tenity | ~13-18 (5-person eng team as of mid-2025 job posts, plus 8 hires reported in H1 2026) | Fintech / RegTech | None found. Actively searched for layoffs/down-round/shutdown/departures - found none as of Sep 2026; company reports a 'record quarter' and… | [link](https://www.adclear.ai/about) |
+| 2026-09-21 | C | 60.0 | SecurePII | securepii.cloud | Docklands, Melbourne, Australia | $3.5M (also reported as A$5M) | Seed, US$3.5M / A$5M, announced Oct-Nov 2025, led by Tidal Ventures | 12 (as of ~mid-2026, per Tracxn/LinkedIn-derived estimate) | Voice/Telecom Compliance & Data Privacy | None found. Actively searched for layoffs/down-round/shutdown/departures - found none as of Sep 2026. Note: company is a very recent spin-ou… | [link](https://www.securepii.cloud/about/) |
+| 2026-09-21 | C | 51.0 | Ankar | ankar.ai | London, United Kingdom (Hoxton Square office) | ~$24M total raised across 2 rounds | $20M Series A, announced December 17, 2025, led by Atomico, with Index Ventures doubling down and Norrsken VC and Daphni participating. Prec… | ~20 employees as of Dec 2025 (company statement: raise will 'double the current team of 20'); third-party estimates show 11-50 range in mid-… | Legal Tech / IP Management | [] | [link](https://ankar.ai/careers) |
+| 2026-09-21 | C | 46.0 | Comp AI | trycomp.ai | Aventura, Miami, FL, USA, with a team also in New York, NY | ~$36.6M total raised ($2.6M pre-seed + $34M Series A) | $34M Series A, announced ~September 17, 2026, led by Roo Capital and Grand Ventures. | 11-50 employees (Pitchbook/press range); opened a new Aventura, FL HQ in July 2026 with a 7-person local team and plans for ~20 more in-pers… | Compliance / Security Tech | [] | [link](https://www.trycomp.ai/careers) |
+| 2026-09-21 | C | 39.0 | Vikk AI | vikk.ai | California, USA (specific city not verified) | $4.2M total ($700K pre-seed + $3.5M seed) | $3.5M seed (part of a combined $4.2M pre-seed+seed announcement), announced July 21, 2026, with angel investors incl. tax attorney Ronson Sh… | ~13 employees (GetLatka, 2026) | Legal Tech | [] | [link](https://www.vikk.ai/ (careers page could not be directly fetched in this session; egress-blocked)) |
+| 2026-09-21 | C | 39.0 | DeepIP | deepip.ai | Dual HQ: New York, NY and Paris, France | $40M total raised | $25M Series B, announced ~March 3, 2026, co-led by Korelya Capital and Serena (Dataiku), with participation from Headline (Mistral AI) and B… | 45-71 employees depending on source (Tracxn: 71 as of May 2026; PitchBook: 45); dual HQ New York and Paris, plus smaller presences in Reston… | Legal Tech / IP Management | [] | [link](https://careers.deepip.ai/) |
+| 2026-09-21 | C | 38.0 | iPNOTE | ipnote.io | Madrid, Spain | $1M disclosed (Oct 2025 seed); amounts before 2025 undisclosed/unknown | $1M seed, closed ~Oct 28 2025, led by AltaIR Capital, with Hi2 Venture Fund and angel investors (incl. Erdem Kaya Patent, and angels from Su… | ~20 employees (LinkedIn, as of 2026) | Legal Tech / IP Management | [] | [link](https://ipnote.io/ (site could not be directly fetched in this session; DNS/network restriction). Jobs aggregator: https://builtin.com/company/ipnote/jobs) |
+| 2026-09-21 | C | 33.0 | Theo AI | theo.ai | San Francisco Bay Area, USA | ~$9.8M reported publicly as 'more than $10M' total | $3.4M seed extension led by Run Ventures, announced Nov 12, 2025 (following $4.2M seed in May 2025 and $2.2M pre-seed in Nov 2024) | reported inconsistently: Pitchbook ~15, Tracxn ~30 (as of Jun 2026), Fast AI Jobs lists 11-50 band | Legal Tech | none found — actively searched for layoffs, shutdown, failed raise, founder departures, and stalled hiring as of Sept 2026; found only posit… | [link](https://consider.com/boards/co/theo-ai) |
+| 2026-09-21 | C | 32.0 | Ivo | ivo.ai | San Francisco, USA (expanding to New York and London) | $77.2M total across pre-seed/seed, $16M Series A, and $55M Series B | $55M Series B led by Blackbird (existing investor), announced Jan 20, 2026, at a ~$355M valuation; joined by Costanoa Ventures, Uncork Capit… | ~158 as of Jul 2026, with a stated plan to triple toward ~180 as it opens London and New York offices (announced Mar 2026) | Legal Tech | none found — actively searched for layoffs, shutdown, founder departures, stalled hiring as of Sept 2026; only signal found is strong growth… | [link](https://www.ivo.ai/careers) |
 
 ### Session: 2026-09-20
 
@@ -984,11 +1012,15 @@ _Last updated 2026-09-20._
 | hard exclusion Gate 1: canine diagnostics device/biotech hardware (user feedback) | 1 |
 | hard exclusion Gate 1: avionics/aerospace component manufacturing, not an AI-native software company (user feedback) | 1 |
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
+| gate3 cannot support target comp: only $500K pre-seed (Alchemist Accelerator, Harper James, IT Park Ventures, Grow London, StartupBase UZ), … | 1 |
+| gate3 cannot support target comp: WilsonAI (Cursor for Contracts, London) has raised only $1.7M/€1.6M pre-seed (Nomad Ventures et al., annou… | 1 |
 | gate1: not AI-native software — robotics/hardware product (RAKSHAK tractor-mounted laser weeding robot with camera + laser actuators); perma… | 1 |
 | gate1: not AI-native software — physical hardware product (AI-powered smart crib with integrated baby monitor, own manufacturing facility in… | 1 |
 | gate1: not AI-native software — core product is a no-code rule-based/factor quant-investing backtesting and execution platform (momentum/val… | 1 |
 | gate1: not AI-native software — core product is a freight/load-board marketplace connecting truckers and shippers (subscription load board, … | 1 |
 | gate1: not AI-native software core — Bengaluru mobile puzzle-game studio (Tap Hexa, Hexa Dreams); 'AI-driven personalization/procedural cont… | 1 |
+| gate1 services/law-firm-not-software-vendor: Superlegal operates as an AI-powered law firm licensed under Utah's Legal Services Innovation S… | 1 |
+| gate1 services/law-firm-not-software-vendor: General Legal (general.legal, YC W2026) is explicitly an 'AI-native law firm' where US-barred a… | 1 |
 | fails stage/size fit: founded 2014, ~434-613 employees, ~$37M revenue (getlatka/Inc42/LeadIQ) -- already a large-scale CX/CRM company, not a… | 1 |
 | fails Gate 3: raised only ~Rs 5 crore (~$530-600K) pre-seed, well under $2M threshold; 17,000 signups but zero revenue (paywall not launched… | 1 |
 | fails Gate 1 permanently - this is The Guild (formerly EtherealX), a Bengaluru spacetech company building a fully reusable launch vehicle (R… | 1 |
@@ -1108,6 +1140,7 @@ _Last updated 2026-09-20._
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
 | already in pipeline — duplicate domain for the same company as engram.org (Dan Biderman / Sabri Eyuboglu's Engram, $98M raise); recorded und… | 1 |
+| acquisition-absorption: Kovr.AI acquired by Fortreum (PE/Gryphon-backed) on 2026-04-13, no longer an independent 5-40p AI-native startup - a… | 1 |
 | acquired by Invoca (May 28, 2025) — acquisition-and-absorbed | 1 |
 | acquired by Apple Jan 2025, company discontinuing operations | 1 |
 | acquired and absorbed: Aurionpro Solutions acquired 67% of Arya.ai in April 2024, no longer an independent company with a founder to cold-em… | 1 |
@@ -1167,6 +1200,6 @@ _Last updated 2026-09-20._
 | vertical:edtech-ai | Applied AI — edtech | 2026-09-18 | 2 | 25 |
 | vertical:fintech-ai | AI-first fintech | 2026-09-20 | 2 | 18 |
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-20 | 2 | 30 |
-| vertical:legal-ai | Applied AI — legal and compliance | 2026-09-01 | 1 | 21 |
+| vertical:legal-ai | Applied AI — legal and compliance | 2026-09-21 | 2 | 43 |
 | vertical:sales-support-ai | Applied AI — sales and support | 2026-09-02 | 1 | 10 |
 | vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | 2026-09-02 | 1 | 23 |
