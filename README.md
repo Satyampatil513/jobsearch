@@ -1,10 +1,20 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-21._
+_Last updated 2026-09-22._
 
-**653** companies seen total — **293** enriched, **351** rejected, **9** still queued.
+**672** companies seen total — **300** enriched, **359** rejected, **13** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-22
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-22 | 88.0 | Rox (rox.com) | No verified email found (find_contacts.py could not run -- gh CLI unavailable in this environment). Best route: apply directly via the Banga… | 1. Open with the Bengaluru office launch and the live Backend Platform Engineer (Python/Flask, 1-5 YOE) listing -- exactly his level and sta… |
+| 2026-09-22 | 74.0 | Netomi (netomi.com) | No verified email found (find_contacts.py unavailable -- gh CLI missing). Best route: Puneet Mehta on LinkedIn/X (@puneetmehtanyc), or apply… | 1. Open with the fresh $110M Series C (Apr 2026, led by Accenture Ventures) and Netomi's explicit Remote-India hiring track (SDE I/II roles)… |
+| 2026-09-22 | 59.0 | Bland AI (bland.ai) | No verified email found (find_contacts.py unavailable -- gh CLI missing). Best route: apply via jobs.ashbyhq.com/bland, or reach Isaiah Gran… | 1. Open with the fresh $50M Series C (June 2026, Dell Technologies Capital) and Bland's YC pedigree. 2. Ask about the AI Deployment Engineer… |
+| 2026-09-22 | 37.0 | Unify (unifygtm.com) | No verified email found (find_contacts.py unavailable -- gh CLI missing). Best route: Austin Hughes or Connor Heggie via LinkedIn/X, or appl… | 1. Open with the Series B backing from OpenAI Startup Fund and the Cursor/Perplexity customer signal. 2. Ask about backend/AI engineering ro… |
+| 2026-09-22 | 34.0 | Encore AI (gainencore.ai) | No verified email found (find_contacts.py unavailable -- gh CLI missing, and no GitHub org identified for this Israeli fintech-AI company). … | 1. Open with the fresh $30M Series A (July 2026) and the notable signal that existing enterprise customers converted into investors. 2. Ask … |
 
 ### Session: 2026-09-21
 
@@ -399,6 +409,18 @@ _Last updated 2026-09-21._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-22
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-22 | A | 88.0 | Rox | rox.com | San Francisco, CA, USA -- with a confirmed engineering office in Bengaluru, India | $50M disclosed (seed + Series A, Nov 2024) plus an undisclosed newer round that pushed valuation to $1.2B | $1.2B valuation round led by General Catalyst, announced/reported March 2026 (amount undisclosed; ARR was ~$8M at the time) | 134 total employees (Tracxn, 2026); India/Bengaluru office headcount not separately disclosed | AI-native infrastructure and devtools | None found. Checked for layoffs/down-round/founder departures -- no negative signals surfaced (searched Sept 2026). | [link](https://jobs.ashbyhq.com/Rox-Data-Corp) |
+| 2026-09-22 | B | 74.0 | Netomi | netomi.com | San Francisco/San Mateo, CA, USA, with a major engineering office in Gurugram, India and additional offices in Toronto and New York | $160M+ total (per Crunchbase/PitchBook) | $110M Series C, announced April 30 2026, led by Accenture Ventures with Adobe Ventures, WndrCo, Silver Lake Waterman, NAVER Ventures, Fin Ca… | Reported as 140-220 employees depending on source (Tracxn vs PitchBook, 2026) -- exact figure unclear | Applied AI - sales and support | None found. Searched specifically for layoffs/down-round signals in 2025-2026 -- found none; funding round is fresh and represents growth, n… | [link](https://jobs.lever.co/netomi) |
+| 2026-09-22 | C | 59.0 | Bland AI | bland.ai | San Francisco, CA, USA | $115M+ total (per Pulse2/PRNewswire, June 2026) | $50M Series C, announced June 16 2026, led by Dell Technologies Capital with HubSpot Ventures, Archerman Capital, Tribeca Venture Partners p… | Reported as 65 (Emergence Capital job board) to 112-115 (PitchBook/Tracxn) -- sources disagree | AI-native infrastructure and devtools | None found. Checked for lawsuits/controversy/layoffs specific to Bland AI (searches returned no company-specific negative signals as of Sept… | [link](https://www.bland.ai/careers) |
+| 2026-09-22 | C | 47.0 | PolyAI | polyai.com | London, UK (with a San Francisco presence for leadership) | >$200M total (>$223M per some sources) | $86M Series D, December 2025, co-led by Georgian, Hedosophia and Khosla Ventures with NVentures (NVIDIA) participating, at a $750M valuation | Reported between 248 (Getlatka) and 375 (Tracxn) employees -- sources disagree | Applied AI - sales and support | None found. Searched specifically for layoffs/negative news in 2025-2026 -- none surfaced; company shows positive momentum (rankings, produc… | [link](https://poly.ai/careers) |
+| 2026-09-22 | C | 37.0 | Unify | unifygtm.com | San Francisco, CA, USA (360 Pine Street), with a New York City presence | $58.6M total across three rounds | Series B (~$40M reported), May 8 2025 -- about 16 months old as of Sept 2026, not stale | 151 employees as of ~June 2026 (Revelio Labs); an earlier July 2025 source reported 50 -- fast headcount growth | Applied AI - sales and support | IMPORTANT DATA-QUALITY NOTE: initial searches for 'Unify layoffs' surfaced results for an unrelated company, 'Unify Consulting' (an IT/manag… | [link](https://www.unifygtm.com/careers) |
+| 2026-09-22 | C | 34.0 | Encore AI | gainencore.ai | Tel Aviv, Israel | $30M (Series A, per TechCrunch) | $30M Series A, announced July 29 2026, co-led by Team8 Capital, Planven and The Garage, with Yasmin Lukatz Ventures and several enterprise c… | unknown -- not found in available sources | AI-first fintech | None found. Searched specifically for layoffs/founder departures/negative signals -- none surfaced as of Sept 2026. | [link](https://www.gainencore.ai/company) |
+| 2026-09-22 | C | 29.0 | Wonderful | wonderful.ai | Amsterdam, Netherlands | ~$800M+ across Seed/Series A/B/C (Series A $100M Nov 2025, Series B $150M Mar 2026, Series C $550M Sept 2026) | $550M Series C, announced September 2 2026, led by Insight Partners with Salesforce participating, at a $5B valuation | 650 employees worldwide (company statement, per TechCrunch Sept 2026) | AI-first SaaS / B2B | None company-specific found. Broader 2026 industry context: many large tech companies cited 'AI' when announcing layoffs this year, but no r… | [link](https://careers.wonderful.com) |
 
 ### Session: 2026-09-21
 
@@ -870,7 +892,9 @@ _Last updated 2026-09-21._
 | stage too late — Series B+ (~$88.5-113M raised), ~350 employees, exceeds the 200-headcount cap for Series B-stage companies | 1 |
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
 | services/agency — digital product design and development studio, hard exclusion | 1 |
+| services/agency (dev/design studio-for-hire, not a product company) — Sanctuary Computer builds custom digital products for clients (Stripe,… | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
+| recruiting/staffing marketplace connecting freelance developers to companies, not an AI-native software product; also functions as a recruit… | 1 |
 | recruiting-as-a-service agency, not a product company; services/agency hard exclusion | 1 |
 | pure security/infosec product (autonomous AI pentesting agents) — hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
@@ -957,6 +981,7 @@ _Last updated 2026-09-21._
 | not AI-native software: autonomous amphibious cargo aircraft manufacturer (Aspera Industries) - hardware/aerospace, permanent Gate 1 exclusi… | 1 |
 | not AI-native software product per Gate 1 - core business is human-curated RLHF/SFT data labeling via a 1M+ contributor workforce (a service… | 1 |
 | not AI-native per Gate 1 - core product is asset-backed credit/banking infrastructure (secured credit cards, lending rails); AI is an automa… | 1 |
+| non-AI software — Kubernetes/OpenStack cloud infrastructure platform; AI is a customer workload it hosts, not the core AI/ML product; also a… | 1 |
 | no remote evidence: solo-founder US email client, no funding; the AI Engineer role on Wellfound is explicitly on-site in New York, NY | 1 |
 | no remote evidence: YC/SF-based, careers page suggests general remote flexibility but no worldwide/global/India-specific statement found | 1 |
 | no remote evidence: US-based (Arlington VA) product/govtech company, 17 employees, job posts say 'Remote' but none name India/APAC/worldwide… | 1 |
@@ -1054,6 +1079,8 @@ _Last updated 2026-09-21._
 | declining / negative signals: funding stale (Series B $50M was March 2022, ~4.5yr old, no round since), confirmed layoffs per co-founder blo… | 1 |
 | declining / negative signals: RagaAI headcount down 14% YoY to 29 employees (May 2025), FY2024 revenue down 36.46% and profit down over 1300… | 1 |
 | declining / negative signals: FY25 revenue of INR69.2L, down 71.3% YoY from INR2.4Cr in FY24 (per Tracxn/Inc42 filings) - a clear business-h… | 1 |
+| declining / negative signals — sued by both Eli Lilly (Apr 2025) and Novo Nordisk (Aug 2025) in federal court over unlicensed practice of me… | 1 |
+| declining / negative signals — founder/CEO Alan Cowen and ~7 senior engineers departed to Google DeepMind in a talent-plus-license deal (Jan… | 1 |
 | declining / negative signals — co-founder Ahmed Khan departed the company (reported by GeekWire, left 'last year' to start a new stealth sta… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
@@ -1121,7 +1148,9 @@ _Last updated 2026-09-21._
 | cannot support target comp — no verified funding amount for TrustHouse itself; parent company Arhasi received an unspecified 'strategic inve… | 1 |
 | cannot support target comp — no funding, founders, or headcount info verifiable anywhere; funding unknown and no revenue evidence | 1 |
 | cannot support target comp — no credible funding announcement found (Tracxn lists it as unfunded/founded 2025); claims of Hillhouse/Lightspe… | 1 |
+| cannot support target comp — last funding round was a $27.5M Series B in Dec 2020 (~5.5 years stale, no runway evidence), no newer round fou… | 1 |
 | cannot support target comp — disclosed funding only $1.5M seed (Mar 2026, Lumikai) plus an undisclosed earlier pre-seed amount that cannot b… | 1 |
+| cannot support target comp — bootstrapped, no funding raised, 9 employees, no revenue evidence found | 1 |
 | cannot support target comp — YC standard $500K deal only (no additional disclosed funding), no verified revenue figure despite 400+ paying c… | 1 |
 | cannot support target comp — Show HN launch with no funding or revenue evidence found; appears to be a solo/indie project at this stage | 1 |
 | cannot support target comp — Lytmus AI raised only ₹5cr (~$550K) pre-seed (Jun 2026, Boundless Ventures), no revenue evidence (17K users, mo… | 1 |
@@ -1191,12 +1220,13 @@ _Last updated 2026-09-21._
 | Gate 3 comp: bootstrapped with no revenue evidence; team quality concerns (user feedback) | 1 |
 | Gate 2 location: Noida-onsite, the city he is leaving (user feedback); also comp doubts | 1 |
 | Dead: acquired and absorbed. Mintlify acquired Trieve (announced Jul 24, 2025); Trieve is being sunset Nov 1 with its license changed to MIT… | 1 |
+| AI features (Magic Fields, Recap Assistant, follow-up detection) are assistive additions to a core CRM/contact-management SaaS product, not … | 1 |
 
 ## Sources scanned
 
 | Source | Label | Last scanned | Runs | New found |
 |---|---|---|---|---|
-| board:remoteok-ai | Remote OK — AI startups | 2026-09-03 | 2 | 36 |
+| board:remoteok-ai | Remote OK — AI startups | 2026-09-03 | 2 | 55 |
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-03 | 2 | 46 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-04 | 2 | 20 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-06 | 2 | 16 |
@@ -1225,4 +1255,4 @@ _Last updated 2026-09-21._
 | vertical:healthtech-ai | Applied AI — healthtech | 2026-09-20 | 2 | 30 |
 | vertical:legal-ai | Applied AI — legal and compliance | 2026-09-21 | 2 | 43 |
 | vertical:sales-support-ai | Applied AI — sales and support | 2026-09-21 | 2 | 27 |
-| vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | 2026-09-02 | 1 | 23 |
+| vertical:space-deeptech | Space and deep tech with software/AI core (CanSat + ISRO hook) | 2026-09-22 | 2 | 23 |
