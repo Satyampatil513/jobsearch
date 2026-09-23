@@ -2,9 +2,20 @@
 
 _Last updated 2026-09-23._
 
-**695** companies seen total — **304** enriched, **385** rejected, **6** still queued.
+**705** companies seen total — **314** enriched, **390** rejected, **1** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-23
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-23 | 88.0 | Fibr AI (fibr.ai) | Pritam Roy (co-founder, IIT Bombay, product/engineering), LinkedIn https://www.linkedin.com/in/pritamroy1/. Alternative: Ankur Goyal (CEO), … | 1) Open with the Accel-led seed ($7.5M per PRNewswire/company blog, Feb 2026) building 'the agentic web' where every URL becomes an intellig… |
+| 2026-09-23 | 86.0 | Runable (runable.ai) | Umesh Kumar (CEO), LinkedIn https://in.linkedin.com/in/umesh-k-iitr, X @itsumeshk. find_contacts.py found no public GitHub presence for runa… | 1) Open with the $21M Series A (Susquehanna/Nexus, Aug 26 2026, TechCrunch) and the eye-popping $2M ARR in 3 weeks on a 15-person team. 2) A… |
+| 2026-09-23 | 85.0 | Sol Foundry (Sol) (solfoundry.co) | Prateek Srivastava (co-founder, ex-Cred engineering lead), LinkedIn https://www.linkedin.com/in/srtvprateek/. Alternative: Anish Karan (co-f… | 1) Open with the $4M seed announced literally the same day as this research (Sep 23 2026, YourStory/Inc42) from General Catalyst and Kunal S… |
+| 2026-09-23 | 85.0 | Atlas (theatlas.ai) | Arpit Maheshwari (CEO, IIT Delhi), LinkedIn https://in.linkedin.com/in/arpit-maheshwari. find_contacts.py found no public GitHub presence fo… | 1) Open with the $6M seed co-led by Accel and Stellaris (April 2026, YourStory) and Atlas's 'AI as junior accountant' positioning with human… |
+| 2026-09-23 | 70.0 | LevelPlane (levelplane.com) | Vineeth Rajagopal (CEO), LinkedIn https://www.linkedin.com/in/vineethrajagopal/. find_contacts.py found no public GitHub presence for levelp… | 1) Open with LevelPlane's selection into Accel/Google AI Futures Fund's Atoms AI Cohort 2026 (announced March 2026) and their explicit state… |
+| 2026-09-23 | 42.0 | Rocket (rocket.new) (rocket.new) | Vishal Virani (CEO), LinkedIn https://in.linkedin.com/in/vishalvirani. Alternative: Deepak Dhanak (COO), https://www.linkedin.com/in/ddhanak… | 1) Open with the $15M seed (Salesforce Ventures + Accel, Sep 2025) and the startling $4.5M ARR reached within ~4 months of beta. 2) Ask spec… |
 
 ### Session: 2026-09-22
 
@@ -414,9 +425,19 @@ _Last updated 2026-09-23._
 
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-23 | A | 88.0 | Fibr AI | fibr.ai | San Francisco, with a Bengaluru, India engineering office | $7.5M seed (PRNewswire/company site) + $1.8M pre-seed (2024) -- note YourStory/Inc42-affiliate outlets separately report $5.7M for the same … | Seed, Accel-led (with WillowTree Ventures, MVP Ventures), announced Feb 2026 -- reported as $7.5M (PRNewswire, company blog) or $5.7M (YourS… | ~38 (2026, Latka/Tracxn), split SF/Bengaluru | AI-native infrastructure and devtools | none found -- funding-amount discrepancy ($5.7M vs $7.5M) across outlets is a reporting inconsistency, not a health signal | unknown |
+| 2026-09-23 | A | 86.0 | Runable | runable.ai | Bengaluru, India | $21M (Series A) | $21M Series A, co-led by Susquehanna Venture Capital and Nexus Venture Partners, announced Aug 26, 2026 (TechCrunch) | ~15 | AI-native infrastructure and devtools | none found -- searched for layoffs/down-round/controversy, nothing negative surfaced | [link](https://runable.com/careers) |
+| 2026-09-23 | A | 85.0 | Sol Foundry (Sol) | solfoundry.co | Bengaluru, India | $4M seed (one aggregator cites $3.9M -- treated as rounding noise) | $4M seed, announced Sep 23, 2026, from General Catalyst, Nexus Venture Partners, DeVC, Peercheque, and angel Kunal Shah | ~16 (Tracxn estimate, July 2026 -- pre-dates this week's stealth exit, treat with caution) | AI-native infrastructure and devtools | none found -- company just left stealth with a fresh raise, no negative signals | unknown |
+| 2026-09-23 | A | 85.0 | Atlas | theatlas.ai | Singapore (legal incorporation: Atlas AI Technologies Pte Ltd, registered Dec 2025) with operating team based in Bengaluru, India per Rocket… | $6M seed | $6M seed, co-led by Accel and Stellaris Venture Partners, announced April 2026 | unknown -- likely small (post-$6M-seed, founded H2 2025); RocketReach lists '12 active jobs' but no total headcount figure confirmed | Applied AI in a vertical | none found for health/negative-signal purposes. Data-quality note (not a risk signal): legal HQ is Singapore-registered while an unrelated, … | unknown |
+| 2026-09-23 | B | 70.0 | LevelPlane | levelplane.com | San Francisco, with a genuinely distributed team across San Francisco, Berlin, Guadalajara, London, Singapore, and Cochin (Kerala, India) | up to $2M (exact per-company amount not independently disclosed) | Selected for Accel/Google AI Futures Fund's 'Atoms AI Cohort 2026' (5 startups from ~4,000 applicants), announced ~March 11, 2026 -- cohort … | ~19 | Applied AI in a vertical | none found -- very early stage (cohort just started 2026), so absence of negative news is expected rather than a strong positive signal. Not… | unknown |
 | 2026-09-23 | C | 57.0 | Laive.ai | laive.ai | Paris, France | $0 (self-funded) | none — bootstrapped, no VC or outside funding raised (source: getlatka.com/companies/laive.ai) | ~8 (source: getlatka.com/companies/laive.ai) | AI-first SaaS / B2B | None found, but also no recent (last ~12mo) funding, hiring or news signal beyond the 2025 revenue figure — worth rechecking for renewed act… | unknown |
+| 2026-09-23 | C | 49.0 | Perceptic | perceptic.com | London, UK, with a second office in Basel, Switzerland (SIP-Novartis Campus / Switzerland Innovation Park Basel Area) | $12M seed | $12M seed, led by Accel, with Air Street Capital and an angel investor (likely Elad Gil -- name garbled across some sources), announced May … | ~20 (as of May 2026, likely grown given active hiring) | Applied AI in a vertical | none found -- company is very new (out of stealth ~4 months ago) with strong pedigree investors and named enterprise deployments already in … | unknown |
+| 2026-09-23 | C | 44.0 | Sapiom | sapiom.ai | San Francisco, USA | $50M total ($15M seed + $35M Series A) | $35M Series A led by Dragonfly (with Accel, Gradient, Coinbase Ventures, Operator Collective, Formus Capital, VanEck Ventures, plus continui… | ~18 (likely pre-Series-A figure, probably grown since Aug 2026) | AI-native infrastructure and devtools | none found -- rapid, well-covered fundraising with strong-name investors is a positive trajectory signal, no layoffs/departures/controversy … | sapiom.ai/careers |
 | 2026-09-23 | C | 42.0 | Radical Numerics | radicalnumerics.ai | San Francisco, CA | $50M | $50M seed, announced June 15, 2026, led by Emergence Capital with Obvious Ventures, Triatomic Capital, Factory, First Spark Ventures (source… | ~25 (source: builtinsf.com/company/radical-numerics) | AI-native infrastructure | None found — company just launched from stealth in June 2026 with fresh, well-documented funding; no layoffs, down-round, or founder-departu… | [link](https://jobs.ashbyhq.com/radical-numerics) |
+| 2026-09-23 | C | 42.0 | Rocket (rocket.new) | rocket.new | Surat, India (plus a newer Palo Alto, CA office funded by the seed) | $15M seed | $15M seed, co-led by Salesforce Ventures and Accel (with Together Fund), announced Sep 22, 2025 | conflicting figures: ~57 at seed announcement (Sept 2025, Tracxn/press) vs 145 (RocketReach, likely more current) | AI-native infrastructure and devtools | none found -- predecessor entity DhiWise has sparse but positive Glassdoor reviews; no layoff/controversy signal | unknown |
 | 2026-09-23 | C | 38.0 | Valthos | valthos.com | New York, NY | $30M | $30M seed, announced October 29, 2025, led by OpenAI Startup Fund, Lux Capital, Founders Fund (source: prnewswire.com/news-releases/valthos-… | ~10 (source: builtinnyc.com/company/valthos) | AI-native infrastructure | None found — round is under 12 months old, no layoffs, down-round, or founder-departure signals surfaced in search. | [link](https://jobs.ashbyhq.com/valthos) |
+| 2026-09-23 | C | 36.0 | Quanta | usequanta.com | San Francisco, USA | ~$19.7M total ($4.7M seed + $15M Series A) | $15M Series A, led by Accel (with Operator Collective, Naval Ravikant, Designer Fund, basecase), announced Dec 5, 2025, alongside the launch… | ~50-56 (estimates vary) | AI-first fintech | Data-quality flag, not a confirmed negative event: co-founder Theodora Chu appears on LinkedIn/The Org with a current title of 'Product Mana… | usequanta.com/careers |
+| 2026-09-23 | C | 34.0 | Oak | oak.id | Dual HQ -- Tel Aviv, Israel and San Francisco, USA (majority of staff reportedly moving to the US) | $60M seed | $60M seed, co-led by Accel, Greylock Partners and CRV (with Hetz Ventures, AlphaDrive Ventures, Startpoint Capital, and angels), announced/o… | ~50-57 (estimates vary) | AI-native infrastructure and devtools | none found -- company is brand new (out of stealth ~2 months ago) with a large, well-regarded seed round from top-tier VCs and a GA product | oak.id/careers (unverified) |
 
 ### Session: 2026-09-22
 
@@ -1072,6 +1093,8 @@ _Last updated 2026-09-23._
 | hard exclusion Gate 1: air purifier hardware, hiring firmware/embedded not backend AI (user feedback) | 1 |
 | hard exclusion - services/agency model, not a software product: TechCrunch's own reporting on the $3M seed explicitly frames 14.ai as buildi… | 1 |
 | gate4 negative signals: Glassdoor reviews (Apr-May 2026) report mass layoffs since 2025 and toxic/high-attrition culture despite $30M fundin… | 1 |
+| gate3 cannot-support-comp: ~$750K total raised ($250K pre-seed + $500K YC W26 seed check, figures unreconciled across trackers), no revenue … | 1 |
+| gate3 cannot-support-comp: M pre-seed (Aug 10 2026) is below the ~$2M threshold; ~$330K estimated ARR is nowhere near enough verifiable reve… | 1 |
 | gate3 cannot support target comp: own Wellfound posting offers INR 4-6L for the founding-engineer role, far below the 25-30+ LPA target; no … | 1 |
 | gate3 cannot support target comp: only $500K pre-seed (Alchemist Accelerator, Harper James, IT Park Ventures, Grow London, StartupBase UZ), … | 1 |
 | gate3 cannot support target comp: bootstrapped, $770K revenue (GetLatka), sub-$1M with 7-person team and no VC funding | 1 |
@@ -1084,11 +1107,14 @@ _Last updated 2026-09-23._
 | gate1: not AI-native software core — Bengaluru mobile puzzle-game studio (Tap Hexa, Hexa Dreams); 'AI-driven personalization/procedural cont… | 1 |
 | gate1 services/law-firm-not-software-vendor: Superlegal operates as an AI-powered law firm licensed under Utah's Legal Services Innovation S… | 1 |
 | gate1 services/law-firm-not-software-vendor: General Legal (general.legal, YC W2026) is explicitly an 'AI-native law firm' where US-barred a… | 1 |
+| gate1 not-ai-native: crowdfunding-campaign growth-marketing/consulting service (BiggerCake BI tooling used internally, not sold as AI/LLM so… | 1 |
+| gate1 not-ai-native: SEBI-registered mutual-fund advisory app; company's own site states funds are rated by a quant scoring system then manu… | 1 |
 | gate1 not-AI-native: publicly traded BNPL fintech, no AI-core product | 1 |
 | gate1 not-AI-native: institutional crypto custody platform (fintech), no AI-core product | 1 |
 | gate1 not-AI-native: financial media/news company, not an AI-native software product | 1 |
 | gate1 not-AI-native: Singapore business-spend-management/corporate-card fintech, no AI-core product | 1 |
 | gate1 not-AI-native-software: physics R&D lab building simulation/design tooling for physical systems (data-center and orbital-mission engin… | 1 |
+| gate1 hardware: edge-AI ARAS hardware platform for two-wheeler safety (custom processor board + camera + radar perception stack on Ambarella… | 1 |
 | fails stage/size fit: founded 2014, ~434-613 employees, ~$37M revenue (getlatka/Inc42/LeadIQ) -- already a large-scale CX/CRM company, not a… | 1 |
 | fails Gate 3: raised only ~Rs 5 crore (~$530-600K) pre-seed, well under $2M threshold; 17,000 signups but zero revenue (paywall not launched… | 1 |
 | fails Gate 1 permanently - this is The Guild (formerly EtherealX), a Bengaluru spacetech company building a fully reusable launch vehicle (R… | 1 |
@@ -1267,11 +1293,11 @@ _Last updated 2026-09-23._
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-06 | 2 | 16 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-07 | 2 | 19 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-15 | 2 | 17 |
-| geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-04 | 2 | 20 |
-| geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-05 | 2 | 13 |
+| geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-23 | 3 | 20 |
+| geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-23 | 3 | 13 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-07 | 2 | 30 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-16 | 2 | 8 |
-| investor:accel-seed | Accel seed-stage AI cheques | 2026-09-05 | 2 | 17 |
+| investor:accel-seed | Accel seed-stage AI cheques | 2026-09-23 | 3 | 27 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
