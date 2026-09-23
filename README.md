@@ -1,8 +1,8 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-22._
+_Last updated 2026-09-23._
 
-**687** companies seen total — **301** enriched, **373** rejected, **13** still queued.
+**695** companies seen total — **304** enriched, **385** rejected, **6** still queued.
 
 ## Outreach queue — email these
 
@@ -409,6 +409,14 @@ _Last updated 2026-09-22._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-23
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-23 | C | 57.0 | Laive.ai | laive.ai | Paris, France | $0 (self-funded) | none — bootstrapped, no VC or outside funding raised (source: getlatka.com/companies/laive.ai) | ~8 (source: getlatka.com/companies/laive.ai) | AI-first SaaS / B2B | None found, but also no recent (last ~12mo) funding, hiring or news signal beyond the 2025 revenue figure — worth rechecking for renewed act… | unknown |
+| 2026-09-23 | C | 42.0 | Radical Numerics | radicalnumerics.ai | San Francisco, CA | $50M | $50M seed, announced June 15, 2026, led by Emergence Capital with Obvious Ventures, Triatomic Capital, Factory, First Spark Ventures (source… | ~25 (source: builtinsf.com/company/radical-numerics) | AI-native infrastructure | None found — company just launched from stealth in June 2026 with fresh, well-documented funding; no layoffs, down-round, or founder-departu… | [link](https://jobs.ashbyhq.com/radical-numerics) |
+| 2026-09-23 | C | 38.0 | Valthos | valthos.com | New York, NY | $30M | $30M seed, announced October 29, 2025, led by OpenAI Startup Fund, Lux Capital, Founders Fund (source: prnewswire.com/news-releases/valthos-… | ~10 (source: builtinnyc.com/company/valthos) | AI-native infrastructure | None found — round is under 12 months old, no layoffs, down-round, or founder-departure signals surfaced in search. | [link](https://jobs.ashbyhq.com/valthos) |
 
 ### Session: 2026-09-22
 
@@ -949,6 +957,7 @@ _Last updated 2026-09-22._
 | not an AI-native software company — physical neurotech wearable headphone device (hardware), AI is a feature not the product | 1 |
 | not an AI-native software company — e-signature/eStamp/document infrastructure platform, no meaningful AI/ML core | 1 |
 | not an AI-native software company — core product is an online dispute resolution (mediation/arbitration/negotiation) workflow platform; AI-n… | 1 |
+| not an AI-native software company — core product is a purpose-built AI-networking switching ASIC (semiconductor/networking hardware); founde… | 1 |
 | not an AI-native software company — core product is a debt collection/recovery SaaS platform (predictive dialing, litigation workflows); AI/… | 1 |
 | not an AI-native software company — core product is AI-powered security camera hardware + NVR appliances (Intelligent Video Recorder w/ NVID… | 1 |
 | not an AI-native software company — Wealth OS/API platform for AMCs and distributors; product descriptions across multiple sources show fint… | 1 |
@@ -984,6 +993,7 @@ _Last updated 2026-09-22._
 | not AI-native software product per Gate 1 - core business is human-curated RLHF/SFT data labeling via a 1M+ contributor workforce (a service… | 1 |
 | not AI-native per Gate 1 - core product is asset-backed credit/banking infrastructure (secured credit cards, lending rails); AI is an automa… | 1 |
 | non-AI software — Kubernetes/OpenStack cloud infrastructure platform; AI is a customer workload it hosts, not the core AI/ML product; also a… | 1 |
+| no verifiable product, funding, founder, or company information found via web/Crunchbase/LinkedIn search | 1 |
 | no remote evidence: solo-founder US email client, no funding; the AI Engineer role on Wellfound is explicitly on-site in New York, NY | 1 |
 | no remote evidence: YC/SF-based, careers page suggests general remote flexibility but no worldwide/global/India-specific statement found | 1 |
 | no remote evidence: US-based (Arlington VA) product/govtech company, 17 employees, job posts say 'Remote' but none name India/APAC/worldwide… | 1 |
@@ -1096,6 +1106,7 @@ _Last updated 2026-09-22._
 | declining / negative signals — sued by both Eli Lilly (Apr 2025) and Novo Nordisk (Aug 2025) in federal court over unlicensed practice of me… | 1 |
 | declining / negative signals — founder/CEO Alan Cowen and ~7 senior engineers departed to Google DeepMind in a talent-plus-license deal (Jan… | 1 |
 | declining / negative signals — co-founder Ahmed Khan departed the company (reported by GeekWire, left 'last year' to start a new stealth sta… | 1 |
+| declining / negative signals — GitHub repo (gpt-pilot) confirmed no longer maintained, and a supply-chain credential-stealer was hidden in t… | 1 |
 | declining / negative signals (Glassdoor reviews report recent layoffs attributed to poor management, low morale and high turnover; also 434-… | 1 |
 | dead: shut down / no longer active (deadpooled) | 1 |
 | dead: confirmed company shutdown -- Ragie's RAG-as-a-service platform ended July 19 2026, customers directed to export data by Jul 3 deadlin… | 1 |
@@ -1152,16 +1163,23 @@ _Last updated 2026-09-22._
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
 | cannot support target comp: $500K pre-seed (July 2026, Venture Catalysts angel network), no revenue evidence found | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
+| cannot support target comp — ~£1.2M is Innovate UK/university grants rather than VC funding or revenue, company founded 2019 with no funding… | 1 |
+| cannot support target comp — unfunded per Tracxn, no revenue evidence found | 1 |
+| cannot support target comp — unfunded per Tracxn, NYC-based, no revenue evidence found | 1 |
 | cannot support target comp — unfunded per Tracxn, Bengaluru-based, no revenue evidence found | 1 |
+| cannot support target comp — unfunded (per Tracxn), no revenue evidence found | 1 |
 | cannot support target comp — total funding $583K across 3 rounds since 2016, no revenue evidence found | 1 |
 | cannot support target comp — total funding $292K across 3 rounds (last round Nov 2020), 29 employees, no revenue evidence | 1 |
+| cannot support target comp — stealth, no disclosed funding round found; claims 'paying enterprise customers' but no verifiable revenue figur… | 1 |
 | cannot support target comp — only ~$500-600K seed (YC W25, Dec 2024) confirmed via Crunchbase/Tracxn/PitchBook; a $6.5M figure from EduGrowt… | 1 |
 | cannot support target comp — only $500K pre-seed (May 2024, YC), no follow-on round despite 27 months elapsed (also a stale-funding risk und… | 1 |
 | cannot support target comp — only $500K YC seed confirmed (Jan 2026), below the $2M bar, no revenue evidence found | 1 |
+| cannot support target comp — only $500K YC seed check, no disclosed revenue figure despite user traction claims | 1 |
 | cannot support target comp — only $500K YC W26 seed round (standard YC deal), no additional funding or revenue evidence found | 1 |
 | cannot support target comp — only $500K YC W25 standard check found, no follow-on round; no revenue evidence (pricing found, no ARR). | 1 |
 | cannot support target comp — no verified funding amount for TrustHouse itself; parent company Arhasi received an unspecified 'strategic inve… | 1 |
 | cannot support target comp — no funding, founders, or headcount info verifiable anywhere; funding unknown and no revenue evidence | 1 |
+| cannot support target comp — no funding round or revenue figure found despite hiring 'Hire #1'; only an unquantified pilot customer | 1 |
 | cannot support target comp — no credible funding announcement found (Tracxn lists it as unfunded/founded 2025); claims of Hillhouse/Lightspe… | 1 |
 | cannot support target comp — last funding round was a $27.5M Series B in Dec 2020 (~5.5 years stale, no runway evidence), no newer round fou… | 1 |
 | cannot support target comp — disclosed funding only $1.5M seed (Mar 2026, Lumikai) plus an undisclosed earlier pre-seed amount that cannot b… | 1 |
@@ -1171,6 +1189,8 @@ _Last updated 2026-09-22._
 | cannot support target comp — Lytmus AI raised only ₹5cr (~$550K) pre-seed (Jun 2026, Boundless Ventures), no revenue evidence (17K users, mo… | 1 |
 | cannot support target comp — Bloomy is YC S26 batch, founded 2026, only the standard YC check (~$125-500K) found, no other disclosed round; … | 1 |
 | cannot support target comp — 17+ named angel/fund investors but no disclosed funding amount found anywhere, and no revenue evidence; undiscl… | 1 |
+| cannot support target comp — $1.6M total raised over 5 rounds, well under $2M bar, no revenue evidence | 1 |
+| cannot support target comp — $1.3M pre-seed (May 2025) and ~$330K est. ARR, both well under the $2M/revenue bar | 1 |
 | cannot support target comp -- only 00K YC funding (Sep 2025), no revenue evidence | 1 |
 | cannot support target comp -- only 00K YC accelerator funding disclosed (Jan 2026), no revenue evidence | 1 |
 | cannot support target comp -- no funding beyond standard YC F25 deal found; revenue figure (~684K) only from an unverified third-party estim… | 1 |
@@ -1243,7 +1263,7 @@ _Last updated 2026-09-22._
 |---|---|---|---|---|
 | board:remoteok-ai | Remote OK — AI startups | 2026-09-22 | 3 | 55 |
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-22 | 3 | 61 |
-| geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-04 | 2 | 20 |
+| geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-23 | 3 | 28 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-06 | 2 | 16 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-07 | 2 | 19 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-15 | 2 | 17 |
