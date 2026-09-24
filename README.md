@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-24._
 
-**710** companies seen total — **317** enriched, **393** rejected, **0** still queued.
+**714** companies seen total — **318** enriched, **396** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,6 +11,7 @@ _Last updated 2026-09-24._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-24 | 70.0 | Ema (ema.ai) | Souvik Sen, Co-Founder & CTO/Head of Engineering - LinkedIn https://www.linkedin.com/in/sen-souvik/ (no public email found; GitHub-commit co… | 1) Open with the $77M Series B announced Sept 23, 2026 (one day before this outreach) and the open Bengaluru backend role - genuine, time-se… |
+| 2026-09-24 | 53.0 | Jurisphere (jurisphere.ai) | Sumit Ghosh, Co-Founder & CTO - LinkedIn https://in.linkedin.com/in/summitkg (no verified email found; find_contacts.py could not run in thi… | 1. Open with the May 2026 $2.2M seed led by InfoEdge Ventures and Antler backing - a real, recent signal (source: entrackr/barandbench). 2. … |
 
 ### Session: 2026-09-23
 
@@ -432,6 +433,7 @@ _Last updated 2026-09-24._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-24 | B | 70.0 | Ema | ema.ai | Mountain View, CA (HQ); offices in Bengaluru, London and Vancouver | $140M total (per TechCrunch, Sept 23 2026) | $77M Series B led by Creaegis (Bengaluru-based VC), announced Sept 23, 2026; existing investors Accel, Section 32 and Prosus increased stake… | ~200-246 employees (sources conflict: TechCrunch says 'nearly 200'; an aggregator headcount tracker reports 246, +56.7% YoY) - likely just o… | AI-native infrastructure / agents | None found specific to Ema. Broader context noted but not company-specific: 2026 has seen 165,000+ roles cut industry-wide due to AI-driven … | unknown - not directly verified in this pass |
+| 2026-09-24 | C | 53.0 | Jurisphere | jurisphere.ai | Greater Noida, Uttar Pradesh, India (registered office per jurisphere.ai/contact-us) | $2.2M (1 round, 4 investors) | $2.2M seed led by InfoEdge Ventures, with Flourish Ventures, Antler, 8i Ventures, announced ~May 3-5, 2026 (https://entrackr.com/snippets/ju… | 32 employees as of May 31, 2026 (getlatka.com) | AI-first SaaS / B2B | none found - searched specifically for layoffs/shutdown/down-round/departures, nothing negative surfaced; round is ~5 months old, not stale | [link](https://jurisphere.ai/us/careers/) |
 | 2026-09-24 | C | 47.0 | NeuralGarage (VisualDub) | visualdub.ai | Bangalore, India | ~$2.45M across 3 disclosed rounds (incl. $1.45M seed led by Exfinity Ventures) | Most recent disclosed round reported ~Sept 2024 per aggregator profile (Crunchbase-style); no newer round confirmed as of Sept 2026 - treat … | ~43-46 (per Crustdata/aggregator company profiles, Mar-Aug 2026) | Applied AI - media/creative tech | Stale-funding risk: last disclosed round reported ~Sept 2024 (~24 months old as of this review), no newer raise found (source: aggregator co… | unknown |
 | 2026-09-24 | C | 37.0 | Vahan.ai | vahan.co | Bengaluru, India | $23.7M across 11 rounds (per Tracxn-aggregated data) | $10M Series B led by Khosla Ventures, ~August 2024 (Staffingindustry.com / BW Disrupt coverage) - ~25 months old as of Sept 2026 | ~264 employees (per getlatka.com revenue/headcount profile, 2026) | Applied AI - HR / recruiting tech | Stale-funding risk: last raise ~Aug 2024 (~25 months old), no newer round found - partially mitigated by reported strong revenue ($29.7M). N… | unknown |
 
@@ -1007,7 +1009,9 @@ _Last updated 2026-09-24._
 | not an AI-native software company - core business is wealth management / multi-family-office advisory services for UHNIs; 'Nex AI' is a bolt… | 1 |
 | not an AI-native software company - GenAI/agentic platform (CraftifAI Orbit) automates embedded firmware/driver generation for IoT/EdgeAI ha… | 1 |
 | not an AI-native software company - AI (question-generation, AI Engine) is a bolted-on feature added to an established 2009 assessment/e-lea… | 1 |
+| not an AI-native software company (wealthtech/RSU tax platform, rule-based lot-selection and tax computation, no AI/ML core found) | 1 |
 | not an AI-native software company (solar design/CAD SaaS, not AI-core product) | 1 |
+| not an AI-native software company (ready-to-cook packaged food product, no software/AI core) | 1 |
 | not an AI-native software company (physical pharmacy retail/delivery operator; AI is an inventory feature, not the product customers pay for… | 1 |
 | not an AI-native software company (physical hardware product — screen-free AI companion device/toy for kids, manufacturing-based, not a soft… | 1 |
 | not an AI-native software company (non-invasive blood glucose monitoring device, hardware) | 1 |
@@ -1015,6 +1019,7 @@ _Last updated 2026-09-24._
 | not an AI-native software company (fabless semiconductor / AI chip hardware, HrdWyr builds AISoC edge chips — engineering hires are chip/sem… | 1 |
 | not an AI-native software company (core product is bank-native asset-backed credit/card infrastructure for banks; agentic AI is an internal … | 1 |
 | not an AI-native software company (core product is a SEBI-registered stock broking/trading platform -- Series B, ex-Swiggy-CTO-founded; AI i… | 1 |
+| not an AI-native software company (biotech: gene-editing enzyme design with wet-lab validation, product is enzymes not software) | 1 |
 | not an AI-native software company (bedside hardware sleep device) | 1 |
 | not AI-native — reference/citation management SaaS tool for researchers, no meaningful AI/ML core | 1 |
 | not AI-native — grab-bag of small SaaS utilities (AI calculators, SEO tools, email deliverability tools, business calculators) using LLM API… | 1 |
@@ -1315,7 +1320,7 @@ _Last updated 2026-09-24._
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-07 | 2 | 30 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-16 | 2 | 8 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-23 | 3 | 27 |
-| investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-06 | 2 | 18 |
+| investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-24 | 3 | 22 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
