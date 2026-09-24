@@ -1,10 +1,16 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-23._
+_Last updated 2026-09-24._
 
-**705** companies seen total — **314** enriched, **390** rejected, **1** still queued.
+**710** companies seen total — **317** enriched, **393** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-24
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-24 | 70.0 | Ema (ema.ai) | Souvik Sen, Co-Founder & CTO/Head of Engineering - LinkedIn https://www.linkedin.com/in/sen-souvik/ (no public email found; GitHub-commit co… | 1) Open with the $77M Series B announced Sept 23, 2026 (one day before this outreach) and the open Bengaluru backend role - genuine, time-se… |
 
 ### Session: 2026-09-23
 
@@ -420,6 +426,14 @@ _Last updated 2026-09-23._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-24
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-24 | B | 70.0 | Ema | ema.ai | Mountain View, CA (HQ); offices in Bengaluru, London and Vancouver | $140M total (per TechCrunch, Sept 23 2026) | $77M Series B led by Creaegis (Bengaluru-based VC), announced Sept 23, 2026; existing investors Accel, Section 32 and Prosus increased stake… | ~200-246 employees (sources conflict: TechCrunch says 'nearly 200'; an aggregator headcount tracker reports 246, +56.7% YoY) - likely just o… | AI-native infrastructure / agents | None found specific to Ema. Broader context noted but not company-specific: 2026 has seen 165,000+ roles cut industry-wide due to AI-driven … | unknown - not directly verified in this pass |
+| 2026-09-24 | C | 47.0 | NeuralGarage (VisualDub) | visualdub.ai | Bangalore, India | ~$2.45M across 3 disclosed rounds (incl. $1.45M seed led by Exfinity Ventures) | Most recent disclosed round reported ~Sept 2024 per aggregator profile (Crunchbase-style); no newer round confirmed as of Sept 2026 - treat … | ~43-46 (per Crustdata/aggregator company profiles, Mar-Aug 2026) | Applied AI - media/creative tech | Stale-funding risk: last disclosed round reported ~Sept 2024 (~24 months old as of this review), no newer raise found (source: aggregator co… | unknown |
+| 2026-09-24 | C | 37.0 | Vahan.ai | vahan.co | Bengaluru, India | $23.7M across 11 rounds (per Tracxn-aggregated data) | $10M Series B led by Khosla Ventures, ~August 2024 (Staffingindustry.com / BW Disrupt coverage) - ~25 months old as of Sept 2026 | ~264 employees (per getlatka.com revenue/headcount profile, 2026) | Applied AI - HR / recruiting tech | Stale-funding risk: last raise ~Aug 2024 (~25 months old), no newer round found - partially mitigated by reported strong revenue ($29.7M). N… | unknown |
 
 ### Session: 2026-09-23
 
@@ -1094,6 +1108,7 @@ _Last updated 2026-09-23._
 | hard exclusion - services/agency model, not a software product: TechCrunch's own reporting on the $3M seed explicitly frames 14.ai as buildi… | 1 |
 | gate4 negative signals: Glassdoor reviews (Apr-May 2026) report mass layoffs since 2025 and toxic/high-attrition culture despite $30M fundin… | 1 |
 | gate3 cannot-support-comp: ~$750K total raised ($250K pre-seed + $500K YC W26 seed check, figures unreconciled across trackers), no revenue … | 1 |
+| gate3 cannot-support-comp: total disclosed funding only ~$1.23M ($230K pre-seed 2023 + $1M pre-seed June 2025), below the ~$2M threshold, an… | 1 |
 | gate3 cannot-support-comp: M pre-seed (Aug 10 2026) is below the ~$2M threshold; ~$330K estimated ARR is nowhere near enough verifiable reve… | 1 |
 | gate3 cannot support target comp: own Wellfound posting offers INR 4-6L for the founding-engineer role, far below the 25-30+ LPA target; no … | 1 |
 | gate3 cannot support target comp: only $500K pre-seed (Alchemist Accelerator, Harper James, IT Park Ventures, Grow London, StartupBase UZ), … | 1 |
@@ -1108,7 +1123,9 @@ _Last updated 2026-09-23._
 | gate1 services/law-firm-not-software-vendor: Superlegal operates as an AI-powered law firm licensed under Utah's Legal Services Innovation S… | 1 |
 | gate1 services/law-firm-not-software-vendor: General Legal (general.legal, YC W2026) is explicitly an 'AI-native law firm' where US-barred a… | 1 |
 | gate1 not-ai-native: crowdfunding-campaign growth-marketing/consulting service (BiggerCake BI tooling used internally, not sold as AI/LLM so… | 1 |
+| gate1 not-ai-native: core product is GPU/data-center compute hosting ('AI Supercloud' selling raw GPU capacity), i.e. a cloud/hosting infras… | 1 |
 | gate1 not-ai-native: SEBI-registered mutual-fund advisory app; company's own site states funds are rated by a quant scoring system then manu… | 1 |
+| gate1 not-ai-native: AI-scientist company building autonomous physical-science labs with robots conducting real experiments (materials scien… | 1 |
 | gate1 not-AI-native: publicly traded BNPL fintech, no AI-core product | 1 |
 | gate1 not-AI-native: institutional crypto custody platform (fintech), no AI-core product | 1 |
 | gate1 not-AI-native: financial media/news company, not an AI-native software product | 1 |
@@ -1290,7 +1307,7 @@ _Last updated 2026-09-23._
 | board:remoteok-ai | Remote OK — AI startups | 2026-09-22 | 3 | 55 |
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-22 | 3 | 61 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-23 | 3 | 28 |
-| geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-06 | 2 | 16 |
+| geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-24 | 3 | 21 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-07 | 2 | 19 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-15 | 2 | 17 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-23 | 3 | 20 |
