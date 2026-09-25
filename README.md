@@ -1,10 +1,16 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-24._
+_Last updated 2026-09-25._
 
-**714** companies seen total — **318** enriched, **396** rejected, **0** still queued.
+**717** companies seen total — **319** enriched, **398** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-25
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-25 | 76.0 | Kris@Work (krisatwork.ai) |  | 1) Open with the Feb 24 2026 $3M Info Edge Ventures-led seed and the fast first-enterprise-contract story -- a real, specific, recent signal… |
 
 ### Session: 2026-09-24
 
@@ -427,6 +433,12 @@ _Last updated 2026-09-24._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-25
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-25 | B | 76.0 | Kris@Work | krisatwork.ai | Bengaluru, India (engineering team, open roles, and company LinkedIn page all India/Bengaluru-based) -- but CEO Arun Singh is Singapore-base… | $3M | $3M seed led by Info Edge Ventures, with JN Capital & Growth Advisory (Singapore) and angel investors, announced Feb 24, 2026 (PRNewswire/In… | unknown -- not disclosed on Tracxn or LinkedIn in this pass | AI-native infrastructure and devtools | none found -- explicitly searched for layoffs/shutdown/down-round/founder-departure signals, nothing negative surfaced; round is ~7 months o… | [link](https://www.krisatwork.ai/about (apply via kris@krisatwork.com per Cutshort listing); also listed on Naukri/Cutshort) |
 
 ### Session: 2026-09-24
 
@@ -1192,9 +1204,11 @@ _Last updated 2026-09-24._
 | cannot support target comp: only disclosed funding is standard YC S26 deal (~$500K); no seed round found beyond that; $500M+ 'in production'… | 1 |
 | cannot support target comp: only 25K disclosed seed funding (2021), no verifiable M+ raise or revenue evidence | 1 |
 | cannot support target comp: only 00K pre-seed (YC S25, Sept 2025) plus reported ~40K revenue on a 4-person team; core product is free-foreve… | 1 |
+| cannot support target comp: only $600K pre-seed (Aug 2024, Powerhouse Ventures/Kunal Shah/Deepak Anchala et al), now stale (>24mo), no reven… | 1 |
 | cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
 | cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
+| cannot support target comp: only $1M pre-seed (Sep 2026, YC F26 + Entrepreneur First), below $2M gate-3 threshold, company 3 months old with… | 1 |
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
 | cannot support target comp: no verifiable funding found (Crunchbase lists an unspecified 'Angel round', Tracxn and other searches say unfund… | 1 |
 | cannot support target comp: no funding found (Tracxn/Invstt confirm unfunded), no verifiable revenue evidence despite '1025+ Shopify brands'… | 1 |
@@ -1313,7 +1327,7 @@ _Last updated 2026-09-24._
 | board:wellfound-remote-ai | Wellfound — remote AI startups | 2026-09-22 | 3 | 61 |
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-23 | 3 | 28 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-24 | 3 | 21 |
-| geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-07 | 2 | 19 |
+| geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-25 | 3 | 22 |
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-15 | 2 | 17 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-23 | 3 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-23 | 3 | 13 |
