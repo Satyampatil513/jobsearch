@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-25._
 
-**717** companies seen total — **319** enriched, **398** rejected, **0** still queued.
+**724** companies seen total — **321** enriched, **403** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,6 +11,7 @@ _Last updated 2026-09-25._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-25 | 76.0 | Kris@Work (krisatwork.ai) |  | 1) Open with the Feb 24 2026 $3M Info Edge Ventures-led seed and the fast first-enterprise-contract story -- a real, specific, recent signal… |
+| 2026-09-25 | 68.0 | Arivihan (arivihan.com) | Rushabh Kothari, Co-founder - LinkedIn: linkedin.com/in/rushabh-kothari-5b4249188 (no verified email found; GitHub commit search via find_co… | 1) Open with their Pre-Series A raise (~$4.17M, Prosus Ventures + Accel, mid-2025) and India Tier-2+ vernacular-education mission. 2) Ask ab… |
 
 ### Session: 2026-09-24
 
@@ -439,6 +440,8 @@ _Last updated 2026-09-25._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-25 | B | 76.0 | Kris@Work | krisatwork.ai | Bengaluru, India (engineering team, open roles, and company LinkedIn page all India/Bengaluru-based) -- but CEO Arun Singh is Singapore-base… | $3M | $3M seed led by Info Edge Ventures, with JN Capital & Growth Advisory (Singapore) and angel investors, announced Feb 24, 2026 (PRNewswire/In… | unknown -- not disclosed on Tracxn or LinkedIn in this pass | AI-native infrastructure and devtools | none found -- explicitly searched for layoffs/shutdown/down-round/founder-departure signals, nothing negative surfaced; round is ~7 months o… | [link](https://www.krisatwork.ai/about (apply via kris@krisatwork.com per Cutshort listing); also listed on Naukri/Cutshort) |
+| 2026-09-25 | B | 68.0 | Arivihan | arivihan.com | Indore, Madhya Pradesh (HQ); also has an engineering presence in Bangalore per a Senior Backend Engineer listing | $4.17M-$4.7M across 2 rounds (Inc42/Tracxn) | Pre-Series A, ~$4.17M (INR 36.54 Cr), co-led by Prosus Ventures and Accel, with GSF Investors; closed around 31 Jul 2025 per Inc42 | 201-500 (per Wellfound company page) - large relative to funding raised, likely includes vernacular content/tutoring ops staff, not all engi… | Applied AI vertical | None found for layoffs/shutdown/founder departure after explicit search. Note (not a reject trigger): headcount (201-500) is unusually large… | [link](https://wellfound.com/company/arivihan-technologies/jobs) |
+| 2026-09-25 | C | 47.0 | Fireflies.ai | fireflies.ai | US-headquartered, but actively hiring a Senior Backend Engineer (Deep Learner) role remote in Bengaluru, India - Bangalore/remote-within-Ind… | $19M raised across 4 rounds (3 Seed + 1 Series A) per Tracxn/Crunchbase | Series A, $14M, closed May 2021 (~5 years old as of Sept 2026 - stale). A separate 2025 claim of $1B valuation came from a secondary tender … | 126 employees (2026, per search results) | AI-native infrastructure and devtools | (1) Nov 2025 public admission by co-founder/CTO that the product's early 'AI' transcription was actually done by humans - a real integrity/t… | [link](https://wellfound.com/company/fireflies/jobs) |
 
 ### Session: 2026-09-24
 
@@ -958,6 +961,7 @@ _Last updated 2026-09-25._
 | pure security/infosec product (autonomous AI pentesting agents) — hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
 | pure security/infosec - AI-augmented cybersecurity control plane (risk quantification, cyber agents); hard exclusion per criteria.md regardl… | 1 |
+| not an AI-native software product company - positions itself as an IT services/consulting shop (RPA, computer vision, workflow automation co… | 1 |
 | not an AI-native software product (kids audio storytelling/podcasting platform); funding is grant/impact-fund backed (Allia Impact Fund, Inn… | 1 |
 | not an AI-native software company: wearable hardware (smart rings), physical product core, Gate 1 permanent | 1 |
 | not an AI-native software company: spiritual-tech marketplace (puja booking, prasad delivery, live darshan) — no AI/ML core to the product, … | 1 |
@@ -1262,6 +1266,7 @@ _Last updated 2026-09-25._
 | cannot support target comp - total funding ~$556K over 5 rounds (Venture Catalysts-led seed, Oct 2024 ~$174K tranche), well below the ~$2M b… | 1 |
 | cannot support target comp - total funding ~$500K (YC S22 seed + Khosla/Page One Ventures), no verified revenue figure despite named custome… | 1 |
 | cannot support target comp - solo founder, no funding beyond YC standard deal found, no revenue evidence (3.8k GitHub stars is traction, not… | 1 |
+| cannot support target comp - raising a M pre-seed round (below $2M threshold), no closed round confirmed; revenue limited to private-beta wi… | 1 |
 | cannot support target comp - only ~$500K YC funding disclosed, no revenue evidence | 1 |
 | cannot support target comp - only standard YC W26 investment (~00K) confirmed, no additional seed/revenue evidence found | 1 |
 | cannot support target comp - only funding on record is a non-equity NUMA assistance program, no VC funding or verifiable revenue evidence fo… | 1 |
@@ -1270,6 +1275,9 @@ _Last updated 2026-09-25._
 | cannot support target comp - only $1.25M raised (Feb 2024, ~2.5yr old); Series A reportedly in talks since mid-2025 but no confirmed close f… | 1 |
 | cannot support target comp - nonprofit legal-tech; total funding ~$525K ($25K Fast Forward grant + YC F26 $500K SAFE), well below the $2M+ b… | 1 |
 | cannot support target comp - no seed round found beyond YC standard deal, 2-person founding team, no revenue evidence | 1 |
+| cannot support target comp - no funding or revenue evidence found (early pilot stage, no investors/team info surfaced) | 1 |
+| cannot support target comp - no funding evidence found; hiring for CTO role suggests pre-funding/idea stage | 1 |
+| cannot support target comp - no funding evidence found across multiple searches; appears to be a very small early-stage team (Vapi, Gujarat … | 1 |
 | cannot support target comp - no funding beyond YC standard deal found, no revenue evidence (2-person team, YC S26) | 1 |
 | cannot support target comp - funding unverifiable; multiple unrelated companies also named Valent confound public records, no reliable finan… | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
@@ -1331,7 +1339,7 @@ _Last updated 2026-09-25._
 | geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-15 | 2 | 17 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-23 | 3 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-23 | 3 | 13 |
-| geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-07 | 2 | 30 |
+| geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-25 | 3 | 37 |
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-16 | 2 | 8 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-23 | 3 | 27 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-24 | 3 | 22 |
