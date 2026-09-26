@@ -1,8 +1,8 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-25._
+_Last updated 2026-09-26._
 
-**724** companies seen total — **321** enriched, **403** rejected, **0** still queued.
+**728** companies seen total — **321** enriched, **407** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -1027,11 +1027,13 @@ _Last updated 2026-09-25._
 | not an AI-native software company - AI (question-generation, AI Engine) is a bolted-on feature added to an established 2009 assessment/e-lea… | 1 |
 | not an AI-native software company (wealthtech/RSU tax platform, rule-based lot-selection and tax computation, no AI/ML core found) | 1 |
 | not an AI-native software company (solar design/CAD SaaS, not AI-core product) | 1 |
+| not an AI-native software company (skin-health service/clinical program with AI feature bolted on, not an AI-native software product) | 1 |
 | not an AI-native software company (ready-to-cook packaged food product, no software/AI core) | 1 |
 | not an AI-native software company (physical pharmacy retail/delivery operator; AI is an inventory feature, not the product customers pay for… | 1 |
 | not an AI-native software company (physical hardware product — screen-free AI companion device/toy for kids, manufacturing-based, not a soft… | 1 |
 | not an AI-native software company (non-invasive blood glucose monitoring device, hardware) | 1 |
 | not an AI-native software company (landslide monitoring hardware/IoT sensors) | 1 |
+| not an AI-native software company (fintech spend-investment app, no genuine AI/ML core found) | 1 |
 | not an AI-native software company (fabless semiconductor / AI chip hardware, HrdWyr builds AISoC edge chips — engineering hires are chip/sem… | 1 |
 | not an AI-native software company (core product is bank-native asset-backed credit/card infrastructure for banks; agentic AI is an internal … | 1 |
 | not an AI-native software company (core product is a SEBI-registered stock broking/trading platform -- Series B, ex-Swiggy-CTO-founded; AI i… | 1 |
@@ -1285,6 +1287,7 @@ _Last updated 2026-09-25._
 | cannot support target comp - 00K total raised (YC + angels), below M threshold, no revenue evidence | 1 |
 | cannot support target comp - $1.5M total raised (Feb/Jun 2024 seed, 20 investors), below the ~$2M bar and no verified revenue figure despite… | 1 |
 | cannot support target comp - $1.2M pre-seed (Kalaari Capital's CXXO), below the ~$2M bar | 1 |
+| cannot support target comp (total funding ~$950K-$1.4M seed, Aug 2024, below $2M threshold; no revenue evidence found; round also >24mo old) | 1 |
 | cannot support target comp (pre-seed ~M combined with GPU credits/perks, not verifiable cash funding near M; Mumbai/SF, not Bangalore) | 1 |
 | cannot support target comp (funding/revenue unverifiable — no funding round, investor, or revenue evidence found in any source despite multi… | 1 |
 | cannot support target comp (funding amount unverifiable — named backers AICONIC Ventures and Pruven Capital but no confirmed dollar figure; … | 1 |
@@ -1297,6 +1300,7 @@ _Last updated 2026-09-25._
 | beyond target stage/size (Series C, $270M+ raised, $1.32B unicorn valuation, ~250-300 employees) | 1 |
 | beyond target stage/size (8,500+ employees, $10B valuation, in-person emphasis) | 1 |
 | already in pipeline — duplicate domain for the same company as engram.org (Dan Biderman / Sabri Eyuboglu's Engram, $98M raise); recorded und… | 1 |
+| already in pipeline (already-contacted exclusion list) | 1 |
 | acquisition-absorption: Kovr.AI acquired by Fortreum (PE/Gryphon-backed) on 2026-04-13, no longer an independent 5-40p AI-native startup - a… | 1 |
 | acquired by Invoca (May 28, 2025) — acquisition-and-absorbed | 1 |
 | acquired by Apple Jan 2025, company discontinuing operations | 1 |
@@ -1343,7 +1347,7 @@ _Last updated 2026-09-25._
 | geo:us-non-yc-early | US AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-16 | 2 | 8 |
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-23 | 3 | 27 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-24 | 3 | 22 |
-| investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-08 | 2 | 17 |
+| investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-26 | 3 | 21 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-13 | 2 | 17 |
