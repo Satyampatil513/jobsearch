@@ -2,9 +2,15 @@
 
 _Last updated 2026-09-26._
 
-**728** companies seen total — **321** enriched, **407** rejected, **0** still queued.
+**733** companies seen total — **324** enriched, **409** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-26
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-26 | 72.0 | Tailcall (ForgeCode) (tailcall.run) | Tushar Mathur, Founder & CEO. Email: tusharmath@gmail.com -- found via public commit metadata in github.com/tailcallhq/forgecode (git log), … | 1. Open with ForgeCode's pivot from the Tailcall GraphQL runtime to an AI coding agent, and Tushar's own 2026 LinkedIn claim that 'ForgeCode… |
 
 ### Session: 2026-09-25
 
@@ -434,6 +440,14 @@ _Last updated 2026-09-26._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-26
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-26 | B | 72.0 | Tailcall (ForgeCode) | tailcall.run | Bengaluru (Bangalore), India | $3M total (single seed round) | $3M seed, 2024-10-22, led via Peak XV's Surge (Surge 10 cohort) with Tenacity Ventures | ~5 (PitchBook/Tracxn company profile) | AI-native infrastructure and devtools | Single $3M seed round dated 2024-10-22 is ~23-24 months old as of 2026-09-26 with no disclosed follow-on financing found across PitchBook, I… | unknown |
+| 2026-09-26 | C | 39.0 | JustAI | getjust.ai | San Francisco, USA | $17M+ (seed $1.7M from Peak XV + YC, plus $17M Series A) | $17M Series A, announced June 2026, led by Base10 Partners with Y Combinator and Peak XV Partners | 9 total employees | AI-native infrastructure and devtools | None found -- funding is recent (June 2026, well within the 24-month freshness window) and news is uniformly positive (ARR growth, marquee c… | [link](https://www.getjust.ai/careers) |
+| 2026-09-26 | C | 18.0 | Dubbing AI | dubbing.ai | Singapore | $3M total (single seed round) | $3M seed, 2024-10-22, via Peak XV's Surge (Surge 10 cohort), Source Code Capital, MiraclePlus | ~4 (per contact-network data; no precise public headcount found) | AI-native infrastructure and devtools | Seed round is 2024-10-22, ~23-24 months old as of 2026-09-26 with no follow-on financing found -- stale-funding risk per Gate 4 (-20 modifie… | unknown |
 
 ### Session: 2026-09-25
 
@@ -1039,6 +1053,7 @@ _Last updated 2026-09-26._
 | not an AI-native software company (core product is a SEBI-registered stock broking/trading platform -- Series B, ex-Swiggy-CTO-founded; AI i… | 1 |
 | not an AI-native software company (biotech: gene-editing enzyme design with wet-lab validation, product is enzymes not software) | 1 |
 | not an AI-native software company (bedside hardware sleep device) | 1 |
+| not an AI-native software company (Kubernetes policy/governance platform; AI copilot is a bolted-on feature, not the core product) | 1 |
 | not AI-native — reference/citation management SaaS tool for researchers, no meaningful AI/ML core | 1 |
 | not AI-native — grab-bag of small SaaS utilities (AI calculators, SEO tools, email deliverability tools, business calculators) using LLM API… | 1 |
 | not AI-native — content/audience-engagement analytics platform (behavioral data, publishing tech); AI/GPU-inference mentioned only as a mino… | 1 |
@@ -1284,6 +1299,7 @@ _Last updated 2026-09-26._
 | cannot support target comp - funding unverifiable; multiple unrelated companies also named Valent confound public records, no reliable finan… | 1 |
 | cannot support target comp - funding unknown beyond standard YC F25 deal, no revenue evidence | 1 |
 | cannot support target comp - company only days old (YC W26), funding unknown, no revenue evidence | 1 |
+| cannot support target comp - Series A confirmed (Crunchbase) with 8 institutional investors incl. Peak XV, Makers Fund, HF0, Soma Capital, b… | 1 |
 | cannot support target comp - 00K total raised (YC + angels), below M threshold, no revenue evidence | 1 |
 | cannot support target comp - $1.5M total raised (Feb/Jun 2024 seed, 20 investors), below the ~$2M bar and no verified revenue figure despite… | 1 |
 | cannot support target comp - $1.2M pre-seed (Kalaari Capital's CXXO), below the ~$2M bar | 1 |
@@ -1348,7 +1364,7 @@ _Last updated 2026-09-26._
 | investor:accel-seed | Accel seed-stage AI cheques | 2026-09-23 | 3 | 27 |
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-24 | 3 | 22 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-26 | 3 | 21 |
-| investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-08 | 2 | 19 |
+| investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-26 | 3 | 24 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-13 | 2 | 17 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-13 | 2 | 12 |
