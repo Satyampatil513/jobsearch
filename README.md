@@ -1,8 +1,8 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-26._
+_Last updated 2026-09-27._
 
-**733** companies seen total — **324** enriched, **409** rejected, **0** still queued.
+**735** companies seen total — **324** enriched, **411** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -998,6 +998,7 @@ _Last updated 2026-09-26._
 | not an AI-native software company: core product is physical GPU/data-center infrastructure (neocloud), engineering hiring is data-center/GPU… | 1 |
 | not an AI-native software company: core product is parent-led ABA therapy delivered as a service (parents trained/certified as RBTs, paid vi… | 1 |
 | not an AI-native software company: core product is human-led chronic-care service (doctors, nutritionists, coaches) with an app as enablemen… | 1 |
+| not an AI-native software company: core product is an EEG headset/brain-scan hardware device for cognitive assessment, not a software produc… | 1 |
 | not an AI-native software company: core paid product is human geriatric-care-manager service; AI caregiving monitoring is a Jan 2026 pilot f… | 1 |
 | not an AI-native software company: core offering is an AI-augmented offshore workforce/BPO marketplace (services/outsourcing), not a softwar… | 1 |
 | not an AI-native software company: core business is a skincare/derma e-pharmacy marketplace + teleconsultation; AI treatment-plan feature is… | 1 |
@@ -1243,6 +1244,7 @@ _Last updated 2026-09-26._
 | cannot support target comp: Raven (YC S22, Bengaluru, AI assistants for manufacturing) has raised only $1.4M total, last round Sept 2022 (~4… | 1 |
 | cannot support target comp: EUR1M pre-seed (~$1.08M), under the $2M funding bar, and no verifiable revenue found beyond marketing copy ('pay… | 1 |
 | cannot support target comp: EUR1.5M pre-seed (~$1.6M), sub-$2M threshold, no revenue evidence found | 1 |
+| cannot support target comp: 31K seed round (Tracxn, round dated 2026-05-06) led by B2V Ventures/MGA Ventures/Mbrd Investment, 3 employees, n… | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
 | cannot support target comp: $500K pre-seed (July 2026, Venture Catalysts angel network), no revenue evidence found | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
@@ -1365,7 +1367,7 @@ _Last updated 2026-09-26._
 | investor:antler-elevation | Antler / Elevation recent AI cheques | 2026-09-24 | 3 | 22 |
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-26 | 3 | 21 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-26 | 3 | 24 |
-| network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-09 | 2 | 11 |
+| network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-27 | 3 | 13 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-13 | 2 | 17 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-13 | 2 | 12 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-09-14 | 2 | 38 |
