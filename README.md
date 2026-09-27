@@ -2,9 +2,16 @@
 
 _Last updated 2026-09-27._
 
-**735** companies seen total — **324** enriched, **411** rejected, **0** still queued.
+**738** companies seen total — **326** enriched, **412** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-27
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-27 | 78.0 | Flam (flamapp.ai) | Shourya Agarwal, Founder/CEO - LinkedIn: https://www.linkedin.com/in/shourya-agarwal-015947b5/ . ZoomInfo lists a redacted email 's***@flama… | 1. Open with the fresh $40M Series B (QED Investors, Shah Rukh Khan participating, announced mid-Sept 2026) and Flam's Bangalore engineering… |
+| 2026-09-27 | 64.0 | VerifAIX (verifaix.com) | Madhulima Tewari, CEO/co-founder - LinkedIn: https://www.linkedin.com/in/maddietewari/ . No verifiable email found (find_contacts.py could n… | 1. Open with the $5M seed (Endiya Partners + Bluehill VC, announced Sept 16 2026) and the company's plan to expand its engineering team incl… |
 
 ### Session: 2026-09-26
 
@@ -440,6 +447,13 @@ _Last updated 2026-09-27._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-27
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-27 | B | 78.0 | Flam | flamapp.ai | Officially San Francisco-headquartered, but has a substantial Bangalore office that is the apparent India engineering hub (Glassdoor: 4.5/5 … | $63.1M across 7 rounds per Tracxn (figure may or may not fully reflect the Sept 2026 round below) | $40M Series B led by QED Investors, with participation from Shah Rukh Khan, announced ~Sept 14-15 2026 (https://www.businesswire.com/news/ho… | 164 employees as of ~May 2026 per Tracxn/wellfound aggregation (one older source cites 77, reflecting growth over time) - well above the 5-2… | AI-first SaaS / B2B | One third-party tracker (parsers.vc) flagged Flam as 'Probably Closed' with a stated last-activity date of 13.01.2026 and declining web traf… | [link](https://flamapp.ai/en-US/careers) |
+| 2026-09-27 | C | 64.0 | VerifAIX | verifaix.com | San Francisco Bay Area (CEO Madhulima Tewari's stated location on LinkedIn); exact India office city not disclosed anywhere found | $5M seed (first institutional round) | $5M seed, co-led by Endiya Partners and Bluehill VC, announced Sept 16 2026 (https://www.endiya.com/blog/why-we-invested-in-verifaix-buildin… | ~2-3 employees as of pre-raise data (RocketReach/ZoomInfo, mid-2026); company states seed funds will 'expand engineering teams across the US… | AI-native infrastructure and devtools | None found. Actively searched for layoffs/down-round/shutdown/founder-departure signals - found none; this is a brand new company on its fir… | unknown - not found |
 
 ### Session: 2026-09-26
 
@@ -1245,6 +1259,7 @@ _Last updated 2026-09-27._
 | cannot support target comp: EUR1M pre-seed (~$1.08M), under the $2M funding bar, and no verifiable revenue found beyond marketing copy ('pay… | 1 |
 | cannot support target comp: EUR1.5M pre-seed (~$1.6M), sub-$2M threshold, no revenue evidence found | 1 |
 | cannot support target comp: 31K seed round (Tracxn, round dated 2026-05-06) led by B2V Ventures/MGA Ventures/Mbrd Investment, 3 employees, n… | 1 |
+| cannot support target comp: 00K pre-seed (Lumikai-led, Sept 2026), sub-$1M threshold per Gate 3, pre-launch with no revenue evidence | 1 |
 | cannot support target comp: .4M seed (Mar 2026), below the ~M funding threshold, no verifiable revenue evidence (30k app downloads is tracti… | 1 |
 | cannot support target comp: $500K pre-seed (July 2026, Venture Catalysts angel network), no revenue evidence found | 1 |
 | cannot support target comp — ~€1M total funding (mostly grants: Invitalia, GCM Group, Padda Health, 28Digital), no verifiable revenue figure… | 1 |
@@ -1368,7 +1383,7 @@ _Last updated 2026-09-27._
 | investor:blume-india-quotient | Blume / India Quotient / Kae recent AI cheques | 2026-09-26 | 3 | 21 |
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-26 | 3 | 24 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-27 | 3 | 13 |
-| recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-13 | 2 | 17 |
+| recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-27 | 3 | 20 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-13 | 2 | 12 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-09-14 | 2 | 38 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-14 | 2 | 12 |
