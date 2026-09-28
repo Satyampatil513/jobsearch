@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-28._
 
-**744** companies seen total — **332** enriched, **412** rejected, **0** still queued.
+**749** companies seen total — **334** enriched, **415** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -10,6 +10,7 @@ _Last updated 2026-09-28._
 
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
+| 2026-09-28 | 62.0 | Mastra (mastra.ai) | Sam Bhagwat, co-founder/CEO — LinkedIn: https://www.linkedin.com/in/sambhagwat/ (no verified email found; GitHub-commit email mining was not… | 1. Open with the recent $22M Series A (2026-04-09, led by Spark Capital) and Mastra's traction (27k GitHub stars, 1M+ weekly npm downloads).… |
 | 2026-09-28 | 60.0 | Seltz (seltz.ai) | Antonio Mallia, Founder/CEO - https://www.linkedin.com/in/antoniomallia/ (no public email found; find_contacts.py found no public GitHub org… | 1. Open with the $12.5M seed (Speedinvest/B Capital, announced June 24 2026) and Seltz's pitch of owning the full search stack for AI agents… |
 | 2026-09-28 | 38.0 | Spiich (spiich.ai) | Johan Torssell, Co-founder/CEO - company LinkedIn linkedin.com/company/spiich recommended over any individual profile, since the individual … | 1. Open with the EUR3M seed (announced Sept 2026) and Spiich's growth from 2 to 8 people in ten months. 2. Ask about backend/engineering rol… |
 
@@ -459,7 +460,9 @@ _Last updated 2026-09-28._
 
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-28 | C | 62.0 | Mastra | mastra.ai | San Francisco, CA | $35.5M total (per Tracxn/Crunchbase) | $22M Series A led by Spark Capital, announced 2026-04-09 (mastra.ai/blog/series-a) | unknown precise count; sources conflict (YC company page lists ~30, Tracxn ~49); Mastra's own careers copy describes itself as 'a small team… | AI-native infrastructure and devtools | none found — searched specifically for layoffs, down round, founder departure, stalled hiring; funding is recent (~5 months old as of this r… | [link](https://mastra.ai/careers) |
 | 2026-09-28 | C | 60.0 | Seltz | seltz.ai | San Francisco, USA, with team split across SF, Pisa (Italy), and Leipzig (Germany) | $12.5M | $12.5M seed led by Speedinvest and B Capital, with Italian Founders Fund, United Ventures, Future Back Ventures; announced 2026-06-24 (sourc… | ~15 | AI-native infrastructure and devtools | None found - searched explicitly for layoffs/shutdown/negative news, nothing surfaced. Note: raise is ~3 months old relative to this run, wi… | [link](https://seltz.ai/) |
+| 2026-09-28 | C | 43.0 | Modiqo | modiqo.ai | San Francisco Bay Area / Sunnyvale, CA (sources give both) | $3M | $3M pre-seed, announced 2026-05-28, co-led by Heavybit and Seligman Ventures, with Irregular Expressions and angels participating (prnewswir… | unknown — no team size disclosed in any source found | AI-native infrastructure and devtools | none found — searched specifically for layoffs, shutdown, failed raise; company is ~4 months old as of this run with no negative coverage lo… | unknown — no dedicated careers page located |
 | 2026-09-28 | C | 38.0 | Spiich | spiich.ai | Stockholm, Sweden | EUR3.6M (EUR600K pre-seed Nov 2025 + EUR3M seed Sept 2026) | EUR3M seed, announced 2026-09 (source: eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-t… | 8 (grew from 2 founders to 8 in ~10 months per company/press description) | AI-first SaaS/B2B | None found - searched explicitly for layoffs/shutdown/negative news, nothing surfaced. | [link](https://spiich.ai/careers) |
 | 2026-09-28 | C | 36.0 | TypeSafe AI | typesafe.ai | San Francisco, USA | $40M | $40M seed led by DCVC at ~$200M valuation, announced 2026-09-15 (source: forbes.com/sites/the-prompt/2026/09/15/this-200-million-startup-wan… | 28 | AI-native infrastructure and devtools | None found - searched explicitly for layoffs/controversy/shutdown, nothing surfaced. Company is 2 years old but only just left stealth, so t… | [link](https://typesafe.ai/team) |
 | 2026-09-28 | C | 33.0 | Dextr AI | dextr.ai | San Francisco Bay Area, USA (reported variously as San Francisco, Palo Alto, and Sunnyvale across Crunchbase/PitchBook/pr.ai) | $6.7M | $6.7M seed, led by Elevation Capital with Foundation Capital, announced 2026-09-24 (source: news.crunchbase.com/venture/dextr-ai-hospitality… | ~20 | AI-first SaaS/B2B | None found - actively searched for layoffs/down-round/controversy, nothing surfaced; company is fresh out of stealth so track record is shor… | [link](https://www.dextr.ai/) |
@@ -999,6 +1002,7 @@ _Last updated 2026-09-28._
 | stage/size exceeds criteria: Series C, 232 employees, no APAC/India remote signal (LA/NYC/Toronto only) | 1 |
 | stage too late — Series B+ (~$88.5-113M raised), ~350 employees, exceeds the 200-headcount cap for Series B-stage companies | 1 |
 | services/consulting agency (custom software & AI consulting), hard exclusion | 1 |
+| services/consulting agency (100+ AI professionals selling strategy consulting, custom dev and systems integration services, not a product co… | 1 |
 | services/agency — digital product design and development studio, hard exclusion | 1 |
 | services/agency (dev/design studio-for-hire, not a product company) — Sanctuary Computer builds custom digital products for clients (Stripe,… | 1 |
 | requires US work authorization, no remote path (founding engineer role explicitly US citizen/visa only, in-person NYC office) | 1 |
@@ -1262,11 +1266,13 @@ _Last updated 2026-09-28._
 | cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
 | cannot support target comp: only $500K raised (YC F24 + angels), 3-person team, no revenue evidence found -- strong founder pedigree (Oxford… | 1 |
 | cannot support target comp: only $500K pre-seed (Sep 29 2025), 2-person team, no revenue evidence found despite strong YC/Garry Tan backing | 1 |
+| cannot support target comp: only $500K YC standard deal disclosed as of Sept 2026, no additional raise found | 1 |
 | cannot support target comp: only $1M pre-seed (Sep 2026, YC F26 + Entrepreneur First), below $2M gate-3 threshold, company 3 months old with… | 1 |
 | cannot support target comp: only $1.6M total raised, last round in 2022 (stale, ~4yr old); reported revenue (~$1M) is not clearly enough to … | 1 |
 | cannot support target comp: no verifiable funding found (Crunchbase lists an unspecified 'Angel round', Tracxn and other searches say unfund… | 1 |
 | cannot support target comp: no funding found (Tracxn/Invstt confirm unfunded), no verifiable revenue evidence despite '1025+ Shopify brands'… | 1 |
 | cannot support target comp: no funding amount found anywhere (Crunchbase/Tracxn/press); Tracxn shows the legal entity Xcelro AI Technologies… | 1 |
+| cannot support target comp: no disclosed funding beyond YC W26 standard deal | 1 |
 | cannot support target comp: funding undisclosed (Tracxn shows 1 institutional investor but no amount found), no revenue evidence found despi… | 1 |
 | cannot support target comp: funding amount unverifiable across Crunchbase/PitchBook/Zoominfo/OpenPR — only investor names (WTIA Startup Prog… | 1 |
 | cannot support target comp: explicitly reported as unfunded/no funding raised as of Sep 2026 despite repeat founders and 8-person team | 1 |
@@ -1403,7 +1409,7 @@ _Last updated 2026-09-28._
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-27 | 3 | 13 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-27 | 3 | 20 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-28 | 3 | 18 |
-| theme:agent-infra | Agent infrastructure and orchestration | 2026-09-14 | 2 | 38 |
+| theme:agent-infra | Agent infrastructure and orchestration | 2026-09-28 | 3 | 43 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-14 | 2 | 12 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
 | theme:llm-eval | LLM eval and observability | 2026-09-16 | 2 | 27 |
