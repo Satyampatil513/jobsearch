@@ -1,10 +1,17 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-27._
+_Last updated 2026-09-28._
 
-**738** companies seen total — **326** enriched, **412** rejected, **0** still queued.
+**744** companies seen total — **332** enriched, **412** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-28
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-28 | 60.0 | Seltz (seltz.ai) | Antonio Mallia, Founder/CEO - https://www.linkedin.com/in/antoniomallia/ (no public email found; find_contacts.py found no public GitHub org… | 1. Open with the $12.5M seed (Speedinvest/B Capital, announced June 24 2026) and Seltz's pitch of owning the full search stack for AI agents… |
+| 2026-09-28 | 38.0 | Spiich (spiich.ai) | Johan Torssell, Co-founder/CEO - company LinkedIn linkedin.com/company/spiich recommended over any individual profile, since the individual … | 1. Open with the EUR3M seed (announced Sept 2026) and Spiich's growth from 2 to 8 people in ten months. 2. Ask about backend/engineering rol… |
 
 ### Session: 2026-09-27
 
@@ -447,6 +454,17 @@ _Last updated 2026-09-27._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-28
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-28 | C | 60.0 | Seltz | seltz.ai | San Francisco, USA, with team split across SF, Pisa (Italy), and Leipzig (Germany) | $12.5M | $12.5M seed led by Speedinvest and B Capital, with Italian Founders Fund, United Ventures, Future Back Ventures; announced 2026-06-24 (sourc… | ~15 | AI-native infrastructure and devtools | None found - searched explicitly for layoffs/shutdown/negative news, nothing surfaced. Note: raise is ~3 months old relative to this run, wi… | [link](https://seltz.ai/) |
+| 2026-09-28 | C | 38.0 | Spiich | spiich.ai | Stockholm, Sweden | EUR3.6M (EUR600K pre-seed Nov 2025 + EUR3M seed Sept 2026) | EUR3M seed, announced 2026-09 (source: eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-t… | 8 (grew from 2 founders to 8 in ~10 months per company/press description) | AI-first SaaS/B2B | None found - searched explicitly for layoffs/shutdown/negative news, nothing surfaced. | [link](https://spiich.ai/careers) |
+| 2026-09-28 | C | 36.0 | TypeSafe AI | typesafe.ai | San Francisco, USA | $40M | $40M seed led by DCVC at ~$200M valuation, announced 2026-09-15 (source: forbes.com/sites/the-prompt/2026/09/15/this-200-million-startup-wan… | 28 | AI-native infrastructure and devtools | None found - searched explicitly for layoffs/controversy/shutdown, nothing surfaced. Company is 2 years old but only just left stealth, so t… | [link](https://typesafe.ai/team) |
+| 2026-09-28 | C | 33.0 | Dextr AI | dextr.ai | San Francisco Bay Area, USA (reported variously as San Francisco, Palo Alto, and Sunnyvale across Crunchbase/PitchBook/pr.ai) | $6.7M | $6.7M seed, led by Elevation Capital with Foundation Capital, announced 2026-09-24 (source: news.crunchbase.com/venture/dextr-ai-hospitality… | ~20 | AI-first SaaS/B2B | None found - actively searched for layoffs/down-round/controversy, nothing surfaced; company is fresh out of stealth so track record is shor… | [link](https://www.dextr.ai/) |
+| 2026-09-28 | C | 24.0 | Keith | keith.com | United Kingdom (London area, exact city unknown) | ~£2M / €2.3M (~$2.5-2.7M) | £2M seed led by Backed VC with Breega and angels, announced 2026-03-26 (source: artificiallawyer.com/2026/03/26/ai-first-keith-bags-2m-for-p… | unknown - pre-launch, actively recruiting lawyers and engineering/other staff | AI-first SaaS/B2B | Business-model risk: sells conveyancing legal services (regulated), not software - borderline fit for Gate 1's 'AI-native software product' … | [link](https://keith.com/) |
+| 2026-09-28 | C | 22.0 | InTouchNow | intouchnow.ai | Borehamwood, Hertfordshire, United Kingdom | £2.3M | £2.3M seed led by Ada Ventures with Exceptional Ventures and Kadmos Capital, announced ~2026-09-21/23 (source: firstwordhealthtech.com/story… | unknown; a possibly-distinct same-named entity on Getlatka lists 18, not verified as this company | Applied AI - healthtech | Sector risk noted (not company-specific): competing NHS AI-receptionist product EMMA has drawn patient/staff complaints (Fakenham GP practic… | [link](https://intouchnow.ai/) |
 
 ### Session: 2026-09-27
 
@@ -1384,7 +1402,7 @@ _Last updated 2026-09-27._
 | investor:peak-xv-surge | Peak XV Surge AI cohort | 2026-09-26 | 3 | 24 |
 | network:iit-mandi-founders | IIT Mandi alumni-founded startups (warm intro — highest reply rate) | 2026-09-27 | 3 | 13 |
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-27 | 3 | 20 |
-| recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-13 | 2 | 12 |
+| recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-28 | 3 | 18 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-09-14 | 2 | 38 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-14 | 2 | 12 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
