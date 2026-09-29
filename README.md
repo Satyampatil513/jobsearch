@@ -1,10 +1,17 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-28._
+_Last updated 2026-09-29._
 
-**749** companies seen total — **334** enriched, **415** rejected, **0** still queued.
+**756** companies seen total — **337** enriched, **419** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-29
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-29 | 61.0 | Autoheal (autoheal.ai) |  | 1. Open with the $7.9M seed announced yesterday (2026-09-28, led by Innovation Endeavors) — genuinely fresh news, not stale. 2. Ask about a … |
+| 2026-09-29 | 47.0 | Runloop (runloop.ai) | Jonathan Wall, Founder/CEO — LinkedIn: https://www.linkedin.com/in/jonathantwall/ (no public email found; GitHub commit-mining unavailable i… | 1. Open with Runloop's $7M seed (Jul 2025, The General Partnership) and its Stripe Projects participation (Apr 2026) — shows active enterpri… |
 
 ### Session: 2026-09-28
 
@@ -455,6 +462,14 @@ _Last updated 2026-09-28._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-29
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-29 | C | 61.0 | Autoheal | autoheal.ai | San Francisco, CA, USA | $7.9M | $7.9M seed announced 2026-09-28, led by Innovation Endeavors with Emergent Ventures, U&I Ventures, Darkmode Ventures, Batch Ventures and Par… | 13 (San Francisco) | AI-native infrastructure and devtools | none found — company is one day old in the press as of this scan (announced 2026-09-28), so 'stale/negative signal' search mostly returned t… | unknown — no dedicated careers page found; autoheal.ai has product/blog/learn sections but no /careers URL surfaced |
+| 2026-09-29 | C | 47.0 | Runloop | runloop.ai | San Francisco, CA, USA | $7M | $7M seed, announced 2025-07-30, led by The General Partnership with Blank Ventures participating (source: PR Newswire / VentureBeat) | ~12-17 (San Francisco) | AI-native infrastructure and devtools | none found — actively searched for layoffs/down-round/founder-exit news, found none; funding round is ~14 months old (within the 24-month fr… | [link](https://runloop.ai/careers) |
+| 2026-09-29 | C | 40.0 | Baz | baz.ai | Tel Aviv, Israel | $17M total | $9M seed extension announced 2026-06-29, co-led by Battery Ventures and boldstart ventures with AFG Partners and Disruptive VC joining, brin… | 33 (as of ~mid-2026) | AI-native infrastructure and devtools | none found — actively searched for layoffs/shutdown/controversy news in 2026, found only positive coverage (funding extension, benchmark win… | [link](https://baz.ai/careers) |
 
 ### Session: 2026-09-28
 
@@ -988,6 +1003,7 @@ _Last updated 2026-09-28._
 | no remote evidence | 13 |
 | no verifiable company or product found for this domain | 2 |
 | wrong domain: this candidate's real site is marble-imaging.de (Bremen Earth-observation startup); re-enqueuing under the correct domain | 1 |
+| wrong domain - actual company (Niteshift, ex-Datadog founders) is already tracked correctly under niteshift.dev (status=enriched, Tier C, sc… | 1 |
 | web3/crypto-only (DeFi lending protocol on Ethereum), not an AI-native software company — hard exclusion | 1 |
 | web3/crypto — European crypto neobank/debit card, hard exclusion | 1 |
 | web3-only | 1 |
@@ -995,6 +1011,7 @@ _Last updated 2026-09-28._
 | too large for target profile: 326 employees as of Jul 2026, well above Series-B/200-person cap; last raise (Series B, Mar 2024) also aging t… | 1 |
 | too large for target company profile: ~700-930 employees, unicorn scale ($1.15B valuation) and $150M+ raised despite still being labeled 'Se… | 1 |
 | too large for stage/reachability fit: Series B, $73M total, ~130-150 employees scaling to 300 by end of 2026 (Milan-based, doubling headcoun… | 1 |
+| stale/alternate domain - company's current live domain and careers page is baz.ai; tracking under baz.ai instead to avoid duplicate record | 1 |
 | stale funding risk and unclear runway: last substantial equity round was 2020 ($1M grant), most recent activity is a Sep-2025 grant/prize no… | 1 |
 | stale funding / questionable runway - total $2.84M raised, last round only $1.1M and closed Sep 2023 (~3yr old), no newer round found despit… | 1 |
 | stage/size — Series C (25M total, 00M valuation), 190-235 employees; exceeds target stage/size criteria (Series B only if under 200, sweet s… | 1 |
@@ -1232,6 +1249,7 @@ _Last updated 2026-09-28._
 | dead: acquired by Adobe Sept 2026, team absorbed, product shut down (techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-sta… | 1 |
 | dead: acquired and absorbed by Privateer (May 2024) after near-bankruptcy and layoffs | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
+| dead: acquired and absorbed by Anaconda (July 2026), no longer an independent company to email | 1 |
 | dead/acquired: acquired and absorbed into CAMS (Computer Age Management Services) Mar 5 2023, now operates as a subsidiary; also operates as… | 1 |
 | dead/acquired: acquired and absorbed by CoreWeave for $1.7B, closed May 5 2025 — no longer an independent startup | 1 |
 | dead — shut down (NimbleBox/Tune AI shut down in 2025; GitHub org archived March 2026) | 1 |
@@ -1261,6 +1279,7 @@ _Last updated 2026-09-28._
 | cannot support target comp: only disclosed funding is standard YC S26 deal; 45k GitHub stars on GitNexus is open-source traction, not revenu… | 1 |
 | cannot support target comp: only disclosed funding is standard YC S26 deal (~$500K); no seed round found beyond that; $500M+ 'in production'… | 1 |
 | cannot support target comp: only 25K disclosed seed funding (2021), no verifiable M+ raise or revenue evidence | 1 |
+| cannot support target comp: only 00K total funding (Crunchbase) plus a founder-stated ~M ARR bootstrapped (Dec 2024, ~21mo stale) spread acr… | 1 |
 | cannot support target comp: only 00K pre-seed (YC S25, Sept 2025) plus reported ~40K revenue on a 4-person team; core product is free-foreve… | 1 |
 | cannot support target comp: only $600K pre-seed (Aug 2024, Powerhouse Ventures/Kunal Shah/Deepak Anchala et al), now stale (>24mo), no reven… | 1 |
 | cannot support target comp: only $500K seed raised (Jan 2024, YC W24), now ~31 months old with no follow-on round found and no verifiable re… | 1 |
@@ -1410,7 +1429,7 @@ _Last updated 2026-09-28._
 | recency:india-funding-90d | Indian AI startups that raised in the last 90 days | 2026-09-27 | 3 | 20 |
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-28 | 3 | 18 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-09-28 | 3 | 43 |
-| theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-14 | 2 | 12 |
+| theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-29 | 3 | 19 |
 | theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
 | theme:llm-eval | LLM eval and observability | 2026-09-16 | 2 | 27 |
 | theme:memory-context | Memory and context systems | 2026-09-17 | 2 | 23 |
