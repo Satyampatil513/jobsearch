@@ -2,7 +2,7 @@
 
 _Last updated 2026-09-29._
 
-**756** companies seen total — **337** enriched, **419** rejected, **0** still queued.
+**766** companies seen total — **344** enriched, **422** rejected, **0** still queued.
 
 ## Outreach queue — email these
 
@@ -11,7 +11,13 @@ _Last updated 2026-09-29._
 | Session | Score | Company | Who to contact | Angle |
 |---|---|---|---|---|
 | 2026-09-29 | 61.0 | Autoheal (autoheal.ai) |  | 1. Open with the $7.9M seed announced yesterday (2026-09-28, led by Innovation Endeavors) — genuinely fresh news, not stale. 2. Ask about a … |
+| 2026-09-29 | 54.0 | Octostar (octostar.com) | Giovanni Tummarello (Founder/CEO/CPO) via LinkedIn - https://www.linkedin.com/in/giovannitummarello/ - no verified email found (find_contact… | 1. Open with the recent EU law-enforcement/judicial deployment momentum and the April 2026 €6.1M seed extension - seen at eu-startups.com. 2… |
 | 2026-09-29 | 47.0 | Runloop (runloop.ai) | Jonathan Wall, Founder/CEO — LinkedIn: https://www.linkedin.com/in/jonathantwall/ (no public email found; GitHub commit-mining unavailable i… | 1. Open with Runloop's $7M seed (Jul 2025, The General Partnership) and its Stripe Projects participation (Apr 2026) — shows active enterpri… |
+| 2026-09-29 | 45.0 | Complaion (complaion.com) | Alessandro Vaccarino (CTO) via LinkedIn - https://www.linkedin.com/in/alessandro-vaccarino/ - technical co-founder with active GitHub, most … | 1. Open with the €13.5M seed announced yesterday (Sept 28 2026, Eurazeo/Italian Founders Fund) - seen at tech.eu. 2. Ask speculatively about… |
+| 2026-09-29 | 44.0 | CodeWords (Agemo) (codewords.ai) | Osman Ramadan (CTO) via LinkedIn - https://uk.linkedin.com/in/osmanio-ramadan - no verified email found (find_contacts.py returned no public… | 1. Open with the $9M seed (May 2026, led by Visionaries) and the caliber of angels backing it (ElevenLabs/Miro/Personio/Zalando CEOs) - seen… |
+| 2026-09-29 | 43.0 | Sparkli (sparkli.ai) | Lax Poojary (CEO) via LinkedIn - https://www.linkedin.com/in/laxpoojary/ - no verified email found (find_contacts.py returned no public GitH… | 1. Open with the $5M pre-seed (Jan 2026, Founderful-led) and the founding team's Google Area 120 pedigree (Shoploop, Touring Bird acquired b… |
+| 2026-09-29 | 40.0 | Agaton (agaton.ai) | Yi Fu (CTO) via LinkedIn - https://www.linkedin.com/in/yvesfu/ - explicitly named as the engineering-hire contact in third-party coverage; n… | 1. Open with the $10M seed (Feb 2026, Inception Fund/Alstin Capital) and reported sevenfold YoY revenue growth - seen at tech.eu. 2. Ask abo… |
+| 2026-09-29 | 40.0 | Elephant Company (elephantcompany.com) | Niklas Dehio (CTO) via LinkedIn - https://www.linkedin.com/in/niklas-dehio/ - best technical fit given NLP research background; no verified … | 1. Open with the >€5M raise (May 2026, EnBW New Ventures/Wepa) and CTO Niklas Dehio's NLP research background (ACL Anthology publication, ac… |
 
 ### Session: 2026-09-28
 
@@ -468,8 +474,15 @@ _Last updated 2026-09-29._
 | Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-09-29 | C | 61.0 | Autoheal | autoheal.ai | San Francisco, CA, USA | $7.9M | $7.9M seed announced 2026-09-28, led by Innovation Endeavors with Emergent Ventures, U&I Ventures, Darkmode Ventures, Batch Ventures and Par… | 13 (San Francisco) | AI-native infrastructure and devtools | none found — company is one day old in the press as of this scan (announced 2026-09-28), so 'stale/negative signal' search mostly returned t… | unknown — no dedicated careers page found; autoheal.ai has product/blog/learn sections but no /careers URL surfaced |
+| 2026-09-29 | C | 54.0 | Octostar | octostar.com | Galway, Ireland (HQ) with an R&D center in Bergamo, Italy and a sales office in London, UK | €6.1M total per company's own figure (one Tracxn-derived snippet instead states $9.19M over 2 rounds - unresolved discrepancy, flagging both… | €6.1M seed extension, closed/announced 2026-04-07, joined by The Techshop plus existing investors (source: eu-startups.com/2026/04/irelands-… | ~26-30 (Tracxn/Pitchbook-derived, cross-checked across 2 sources with roughly consistent figures); company described as 'hyper-growth,' scal… | ai-first-saas-b2b | None found - actively searched layoffs/down-round/failed-raise/founder-departure/acquisition, found nothing negative. Social-media-activity/… | [link](https://octostar.com/careers/) |
 | 2026-09-29 | C | 47.0 | Runloop | runloop.ai | San Francisco, CA, USA | $7M | $7M seed, announced 2025-07-30, led by The General Partnership with Blank Ventures participating (source: PR Newswire / VentureBeat) | ~12-17 (San Francisco) | AI-native infrastructure and devtools | none found — actively searched for layoffs/down-round/founder-exit news, found none; funding round is ~14 months old (within the 24-month fr… | [link](https://runloop.ai/careers) |
+| 2026-09-29 | C | 45.0 | Complaion | complaion.com | Milan, Italy | ~€16.9M (€3.4M early-stage round Jan 2025 + €13.5M seed Sept 2026) | €13.5M seed, announced 2026-09-28 (one day before this run), co-led by Eurazeo and Italian Founders Fund, confirmed as genuinely new (not re… | ~35-40 (Tracxn: 39 as of June 2026; PitchBook: 31; press: 'team of over 40 professionals' - cross-checked across 3 sources, converging low-t… | ai-first-saas-b2b | None found - explicitly searched layoffs/down-round/shutdown/founder-departure, found no company-specific negative coverage at all; this is … | [link](https://www.complaion.com/) |
+| 2026-09-29 | C | 44.0 | CodeWords (Agemo) | codewords.ai | London, UK | ~$13M total (est.: ~£3.2M/$4M pre-seed Nov 2024 + $9M/€7.6M seed May 2026) | $9M (€7.6M) seed, announced 2026-05-07, led by Visionaries with Firstminute Capital, Sequel, Illusian (source: tech.eu/2026/05/07/codewords-… | ~14 (London), as of May 2026 per one unfetched source (Sifted) - single-source, not independently cross-checked, treat as approximate | agent-infra-devtools | None found - actively searched CodeWords/Agemo against layoffs.fyi and general 2026 AI-layoffs trackers plus targeted news search; funding t… | [link](https://app.welcometothejungle.com/companies/CodeWords-1) |
+| 2026-09-29 | C | 43.0 | Sparkli | sparkli.ai | Zurich, Switzerland (legal entity Sparkli AG per Preqin) | $5M | $5M pre-seed, led by Founderful with Arc Investors, announced 2026-01-22 (source: startupticker.ch/en/news/edtech-start-up-sparkli-raises-5m… | unknown exact number - team page (sparkli.ai/team) describes a 'small but mighty' team of roughly 10-20 including named engineers/researcher… | applied-ai-vertical | None found - actively searched for layoffs, down round, failed raise, founder departure, stalled hiring, dormant socials, beta delay/cancell… | [link](https://join.com/companies/sparkliai) |
 | 2026-09-29 | C | 40.0 | Baz | baz.ai | Tel Aviv, Israel | $17M total | $9M seed extension announced 2026-06-29, co-led by Battery Ventures and boldstart ventures with AFG Partners and Disruptive VC joining, brin… | 33 (as of ~mid-2026) | AI-native infrastructure and devtools | none found — actively searched for layoffs/shutdown/controversy news in 2026, found only positive coverage (funding extension, benchmark win… | [link](https://baz.ai/careers) |
+| 2026-09-29 | C | 40.0 | Agaton | agaton.ai | Stockholm, Sweden | €8.4M ($10M) | €8.4M/$10M seed, announced 2026-02-19, co-led by Inception Fund and Alstin Capital, with seed+speed Ventures, Foundry Ventures (source: tech… | ~10 as of 2025 (getlatka.com, $1.1M revenue/10-person team), company stated plans to double team post-raise - single-source estimate, not in… | ai-first-saas-b2b | None found - actively searched layoffs/down-round/shutdown/failed-raise/founder-departure/acquisition, found nothing negative; signals are p… | [link](https://www.agaton.ai/) |
+| 2026-09-29 | C | 40.0 | Elephant Company | elephantcompany.com | Berlin, Germany (second office in Hamburg) | ~$5.89M across all rounds (grant/prize Jun 2022, seed Mar 2023 amount undisclosed, >€5M round May 2026) - total figure lower-confidence, nee… | >€5M, announced 2026-05-15, led by EnBW New Ventures and Wepa, with angels connected to Flix, home24 SE, Quentic, SB21, Ventic Ventures, top… | ~15-30, unconfirmed precisely (RocketReach org chart: 14; some job boards: 11-50 band; one unfetched source citing careers page: ~30) - conf… | applied-ai-vertical | None found on company health - actively searched layoffs/down-round/failed-raise/founder-departure/acquisition, found nothing negative. Mark… | [link](https://www.elephantcompany.com/en/careers) |
+| 2026-09-29 | C | 30.0 | VoiceLine | voiceline.ai | Munich, Germany | ~$16.5M (~€14.4M) across pre-seed (Jul 2021), seed (€2.4M, Aug 2024), Series A (€10M, Feb 2026) | €10M (~$11.77M) Series A, exact date 2026-02-24, led by Alstin Capital and Peak, with Scalehouse Capital, Venture Stars, NAP continuing (sou… | ~30-43 (EU-Startups: ~30 as of Feb 2026 announcement, company said would 'more than double' in 2026; Tracxn: 43 total) - within the 5-40 ban… | ai-first-saas-b2b | Historical layoff/pivot: per a Munich Startup podcast, founder Nicolas Hoflinger described 'a painful pivot, laying off much of his team' ar… | [link](https://voiceline.jobs.personio.de/) |
 
 ### Session: 2026-09-28
 
@@ -1028,6 +1041,7 @@ _Last updated 2026-09-29._
 | pure security/infosec product (autonomous AI pentesting agents) — hard exclusion | 1 |
 | pure security/infosec focus - now marketed as 'Exploit-Based Agentic Security Platform', hard exclusion | 1 |
 | pure security/infosec - AI-augmented cybersecurity control plane (risk quantification, cyber agents); hard exclusion per criteria.md regardl… | 1 |
+| not-AI-native: core product is confidential computing/privacy-enhancing tech (TEEs via AWS Nitro Enclaves + differential privacy, OBLV Deplo… | 1 |
 | not an AI-native software product company - positions itself as an IT services/consulting shop (RPA, computer vision, workflow automation co… | 1 |
 | not an AI-native software product (kids audio storytelling/podcasting platform); funding is grant/impact-fund backed (Allia Impact Fund, Inn… | 1 |
 | not an AI-native software company: wearable hardware (smart rings), physical product core, Gate 1 permanent | 1 |
@@ -1249,6 +1263,7 @@ _Last updated 2026-09-29._
 | dead: acquired by Adobe Sept 2026, team absorbed, product shut down (techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-sta… | 1 |
 | dead: acquired and absorbed by Privateer (May 2024) after near-bankruptcy and layoffs | 1 |
 | dead: acquired and absorbed by OpenAI (April 2025), product wound down, founder now PM at OpenAI | 1 |
+| dead: acquired and absorbed by MotherDuck, announced 2026-08-25, both founders and team moved to MotherDuck; company no longer operates inde… | 1 |
 | dead: acquired and absorbed by Anaconda (July 2026), no longer an independent company to email | 1 |
 | dead/acquired: acquired and absorbed into CAMS (Computer Age Management Services) Mar 5 2023, now operates as a subsidiary; also operates as… | 1 |
 | dead/acquired: acquired and absorbed by CoreWeave for $1.7B, closed May 5 2025 — no longer an independent startup | 1 |
@@ -1258,6 +1273,7 @@ _Last updated 2026-09-29._
 | dead — acquired and absorbed by Automattic (Dec 2024), same company as codewp.ai (WPAI Inc) | 1 |
 | dead - acquired and absorbed into HaystackID; total funding only $500K and the company no longer operates independently. | 1 |
 | cannot verify company identity or product — no discoverable company website, product description, or funding info despite multiple searches;… | 1 |
+| cannot support target comp: €1.3M seed (Apr 2026, 4Founders Capital), below $2M Gate 3 threshold; no disclosed current revenue/ARR, only a f… | 1 |
 | cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
 | cannot support target comp: total funding only 13K (Crunchbase); FY25 revenue ~Rs 1.81 Cr / ~$218K per Tracxn official filings on a ~41-50 p… | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
@@ -1416,7 +1432,7 @@ _Last updated 2026-09-29._
 | geo:bangalore-ai | Bangalore AI startups hiring engineers | 2026-09-23 | 3 | 28 |
 | geo:bangalore-ai-devtools | Bangalore AI devtools and infrastructure startups | 2026-09-24 | 3 | 21 |
 | geo:bangalore-ai-seed | Bangalore AI startups, seed to Series A, funded in last 12 months | 2026-09-25 | 3 | 22 |
-| geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-15 | 2 | 17 |
+| geo:europe-non-yc-early | Europe (esp. Luxembourg) AI startups, non-YC-backed, funded by other reputable VCs, early stage | 2026-09-29 | 3 | 27 |
 | geo:india-ai-devtools | India-based AI devtools and infrastructure startups | 2026-09-23 | 3 | 20 |
 | geo:india-ai-seed | India AI startups, pre-seed to Series A, funded in last 12 months | 2026-09-23 | 3 | 13 |
 | geo:remote-india-ai | AI startups hiring remote-within-India engineers | 2026-09-25 | 3 | 37 |
