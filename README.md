@@ -1,10 +1,17 @@
 # Job search pipeline — results
 
-_Last updated 2026-09-29._
+_Last updated 2026-09-30._
 
-**766** companies seen total — **344** enriched, **422** rejected, **0** still queued.
+**770** companies seen total — **346** enriched, **424** rejected, **0** still queued.
 
 ## Outreach queue — email these
+
+### Session: 2026-09-30
+
+| Session | Score | Company | Who to contact | Angle |
+|---|---|---|---|---|
+| 2026-09-30 | 83.0 | Coram AI (coram.ai) |  | 1) Open with the $35M Series B (June 2026, Ansa Capital/Battery Ventures) and the fact they're actively building out a real Bengaluru engine… |
+| 2026-09-30 | 74.0 | Frinks AI (frinks.ai) |  | 1) Open with Frinks' May 2025 pre-Series A ($5.4M, Prime Venture Partners) and its scale across 2,500+ production lines with marquee custome… |
 
 ### Session: 2026-09-29
 
@@ -468,6 +475,13 @@ _Last updated 2026-09-29._
 | 2026-08-17 | 47.0 | Steps AI (stepsai.co) | Reshmanth Jonnalagadda, Co-Founder. LinkedIn: https://ca.linkedin.com/in/reshmanth-jonnalagadda. No public email found - do not invent one. | 1. Open with: Steps AI ('AI Agents That Sell, Support, and Act') is a bootstrapped, 29-person agentic-AI product company with an open Softwa… |
 
 ## Ranked candidates
+
+### Session: 2026-09-30
+
+| Session | Tier | Score | Company | Domain | Location | Funding | Last round | Headcount | Sector | Risk flags | Careers |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-30 | A | 83.0 | Coram AI | coram.ai | Sunnyvale/Bay Area, California (HQ), with an active engineering + operations office in Bengaluru, India | $66M total | $35M Series B, announced June 10-18 2026, co-led by Ansa Capital and Battery Ventures with UP.Partners, 8VC, Mosaic Ventures (prior: $13.8M … | ~128-163 employees globally as of mid-2026 (grew from 22 in 2023), includes a dedicated Bengaluru, India office | AI-first SaaS / B2B | None found. Explicitly searched for layoffs, founder departures, controversy, down-round signals for Coram AI - none surfaced. Note: the one… | [link](https://ats.rippling.com/coram-ai/jobs (India roles), https://jobs.8vc.com/companies/coram-ai) |
+| 2026-09-30 | B | 74.0 | Frinks AI | frinks.ai | Bengaluru, India (also Chennai/founding roots per some sources, current HQ Bengaluru) | $6.25M total ($5.4M pre-Series A led by Prime Venture Partners + earlier round) | $5.4M pre-Series A, May 2025 (Prime Venture Partners, with Chiratae Ventures, Navam Capital, Ashok Atluri/Zen Technologies) | 50-62 (job boards list 11-50 band; one headcount tracker reported 62 as of Aug 2026) | Applied AI in a vertical | None found. Searched explicitly for layoffs, down round, founder departure, negative signals for Frinks AI - no adverse reports surfaced as … | [link](https://frinks.ai (careers section) / https://wellfound.com listings under Frinks AI) |
 
 ### Session: 2026-09-29
 
@@ -1275,9 +1289,11 @@ _Last updated 2026-09-29._
 | cannot verify company identity or product — no discoverable company website, product description, or funding info despite multiple searches;… | 1 |
 | cannot support target comp: €1.3M seed (Apr 2026, 4Founders Capital), below $2M Gate 3 threshold; no disclosed current revenue/ARR, only a f… | 1 |
 | cannot support target comp: total funding ~.33M across 5 rounds (Tracxn/PitchBook), below the M Gate 3 threshold; the .1M ARR figure is a La… | 1 |
+| cannot support target comp: total funding only ~00K (standard YC W26 deal), no seed round found despite investor list (General Catalyst/Nexu… | 1 |
 | cannot support target comp: total funding only 13K (Crunchbase); FY25 revenue ~Rs 1.81 Cr / ~$218K per Tracxn official filings on a ~41-50 p… | 1 |
 | cannot support target comp: total funding is only $500K (standard YC deal, Apr 2025), well under $2M threshold. Revenue claim of $5M ARR (La… | 1 |
 | cannot support target comp: total funding 00K (YC W24 + Pioneer Fund, Apr 2024 per Tracxn/Crunchbase), no revenue evidence found | 1 |
+| cannot support target comp: total funding .9M (00K YC pre-seed + .4M seed led by f7 Ventures, April 2024) is below the M threshold with no d… | 1 |
 | cannot support target comp: total disclosed funding ~$520K (pre-seed $270K Dec 2022 plus small follow-on), below the ~$2M threshold, no veri… | 1 |
 | cannot support target comp: total disclosed funding ~$500K (Rs 4.2cr pre-seed, Sept 2026), 6-month-old company, no verifiable revenue eviden… | 1 |
 | cannot support target comp: total disclosed funding ~$432K (Rs 4.1cr seed, Sept 2026), no verifiable revenue evidence found | 1 |
@@ -1446,7 +1462,7 @@ _Last updated 2026-09-29._
 | recency:seed-90d | Seed rounds announced in the last 90 days | 2026-09-28 | 3 | 18 |
 | theme:agent-infra | Agent infrastructure and orchestration | 2026-09-28 | 3 | 43 |
 | theme:devtools-cli | AI devtools, CLI and developer-workflow startups (maps to CLAI) | 2026-09-29 | 3 | 19 |
-| theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-15 | 2 | 14 |
+| theme:iit-founders-global | IIT-founder-led AI startups in US and Europe | 2026-09-30 | 3 | 18 |
 | theme:llm-eval | LLM eval and observability | 2026-09-16 | 2 | 27 |
 | theme:memory-context | Memory and context systems | 2026-09-17 | 2 | 23 |
 | theme:rag-docs | Document and RAG products | 2026-09-17 | 2 | 23 |
